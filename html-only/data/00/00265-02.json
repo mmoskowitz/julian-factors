@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Sigrid_Undset", "date": "1882-05-20", "factors": [5,53,61,149]},
+{"name": "Odilon_Redon", "date": "1840-04-20", "factors": [5,11,53,821]},
+{"name": "Martin_Rodbell", "date": "1925-12-01", "factors": [5,7,53,1307]},
+{"name": "Dolph_Lundgren", "date": "1957-11-03", "factors": [5,29,53,317]},
+{"name": "Antonio_Segni", "date": "1891-02-02", "factors": [5,19,53,479]},
+{"name": "Ambrose_Bierce", "date": "1842-06-24", "factors": [2,5,53,4517]},
+null ] };

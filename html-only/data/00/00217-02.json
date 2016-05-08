@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Umberto_Eco", "date": "1932-01-05", "factors": [7,31,53,211]},
+{"name": "Quincy_Jones", "date": "1933-03-14", "factors": [5,7,31,2237]},
+{"name": "Michael_Caine", "date": "1933-03-14", "factors": [5,7,31,2237]},
+{"name": "José_Gervasio_Artigas", "date": "1764-06-19", "factors": [7,11,31,991]},
+{"name": "Iris_Murdoch", "date": "1919-07-15", "factors": [2,7,31,5581]},
+{"name": "Bernie_Ecclestone", "date": "1930-10-28", "factors": [3,7,31,3727]},
+{"name": "Attila_József", "date": "1905-04-11", "factors": [2,7,31,5569]},
+null ] };

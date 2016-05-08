@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Sherwood_Anderson", "date": "1876-09-13", "factors": [2,3,3,3,3,5,2971]},
+{"name": "Reinhold_Messner", "date": "1944-09-17", "factors": [2,3,3,3,5,5,1801]},
+{"name": "Kate_Winslet", "date": "1975-10-05", "factors": [2,3,3,3,5,83,109]},
+{"name": "Joseph_de_Maistre", "date": "1753-04-01", "factors": [2,2,3,3,3,5,4373]},
+{"name": "Eduardo_da_Silva", "date": "1983-02-25", "factors": [2,3,3,3,3,5,3019]},
+{"name": "Billy_Zane", "date": "1966-02-24", "factors": [2,2,3,3,3,5,4517]},
+{"name": "Anna_Freud", "date": "1895-12-03", "factors": [2,3,3,3,5,7,1277]},
+null ] };

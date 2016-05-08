@@ -1,0 +1,18 @@
+{"births": [
+{"name": "Yann_Martel", "date": "1963-06-25", "factors": [3,5,7,11,2111]},
+{"name": "Ray_Ewry", "date": "1873-10-14", "factors": [3,5,7,31,739]},
+{"name": "Ralph_Nader", "date": "1934-02-27", "factors": [3,5,7,61,379]},
+{"name": "Pierre_Corneille", "date": "1606-06-06", "factors": [3,5,7,31,709]},
+{"name": "Paul_Langevin", "date": "1872-01-23", "factors": [3,5,7,37,619]},
+{"name": "Mel_Gibson", "date": "1956-01-03", "factors": [3,5,5,7,4639]},
+{"name": "Marco_Simoncelli", "date": "1987-01-20", "factors": [3,5,7,7,3329]},
+{"name": "Marcelo_Salas", "date": "1974-12-24", "factors": [3,5,7,7,3323]},
+{"name": "Jules_Rimet", "date": "1873-10-14", "factors": [3,5,7,31,739]},
+{"name": "Jonathan_Edwards_(triple_jumper)", "date": "1966-05-10", "factors": [3,5,7,13,1787]},
+{"name": "John_Wayne_Gacy", "date": "1942-03-17", "factors": [3,5,7,79,293]},
+{"name": "Heinrich_Louis_d\u0027Arrest", "date": "1822-08-13", "factors": [3,3,5,7,7577]},
+{"name": "Hans-Jörg_Butt", "date": "1974-05-28", "factors": [3,3,5,7,7753]},
+{"name": "George_Michael", "date": "1963-06-25", "factors": [3,5,7,11,2111]},
+{"name": "Carlos_Marchena", "date": "1979-07-31", "factors": [3,3,5,7,7759]},
+{"name": "Arnold_Böcklin", "date": "1827-10-16", "factors": [3,3,5,7,7583]},
+null ] };

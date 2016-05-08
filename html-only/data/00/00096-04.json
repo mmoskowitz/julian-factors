@@ -1,0 +1,15 @@
+{"births": [
+{"name": "Sally_Ride", "date": "1951-05-26", "factors": [2,2,2,2,2,2,2,2,3,3169]},
+{"name": "Rudolf_Bultmann", "date": "1884-08-20", "factors": [2,2,2,2,2,2,3,3,47,89]},
+{"name": "Otto_Wagner", "date": "1841-07-13", "factors": [2,2,2,2,2,2,3,7,13,137]},
+{"name": "Otto_Preminger", "date": "1905-12-05", "factors": [2,2,2,2,2,3,3,7,11,109]},
+{"name": "Nnamdi_Azikiwe", "date": "1904-11-16", "factors": [2,2,2,2,2,3,5,5,19,53]},
+{"name": "Neil_Gaiman", "date": "1960-11-10", "factors": [2,2,2,2,2,2,2,3,11,577]},
+{"name": "Mitt_Romney", "date": "1947-03-12", "factors": [2,2,2,2,2,2,2,2,3,3167]},
+{"name": "Michael_Greis", "date": "1976-08-18", "factors": [2,2,2,2,2,2,2,2,3,3181]},
+{"name": "Joey_Jordison", "date": "1975-04-26", "factors": [2,2,2,2,2,3,3,3,11,257]},
+{"name": "Iajuddin_Ahmed", "date": "1931-02-28", "factors": [2,2,2,2,2,3,3,5,5,337]},
+{"name": "Gaël_Clichy", "date": "1985-07-26", "factors": [2,2,2,2,2,2,3,3,31,137]},
+{"name": "Carlos_Gardel", "date": "1890-12-11", "factors": [2,2,2,2,2,2,3,3,53,79]},
+{"name": "Alan_Rickman", "date": "1946-02-21", "factors": [2,2,2,2,2,2,2,3,3,2111]},
+null ] };

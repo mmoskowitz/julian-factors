@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Théophile_Gautier", "date": "1811-08-30", "factors": [2,11,17,23,277]},
+{"name": "Pope_Innocent_XIII", "date": "1655-05-13", "factors": [2,2,17,23,1487]},
+{"name": "Marcel_Pagnol", "date": "1895-02-28", "factors": [2,2,17,23,1543]},
+{"name": "John_Garang", "date": "1945-06-23", "factors": [3,3,17,23,691]},
+{"name": "Itamar_Franco", "date": "1930-06-28", "factors": [5,17,17,23,73]},
+{"name": "David_Lloyd_George", "date": "1863-01-17", "factors": [2,17,23,37,83]},
+null ] };

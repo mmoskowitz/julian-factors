@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Tara_Strong", "date": "1973-02-12", "factors": [5,5,11,13,683]},
+{"name": "Hermann_Göring", "date": "1893-01-12", "factors": [5,5,13,13,571]},
+{"name": "Daniel_Brühl", "date": "1978-06-16", "factors": [5,5,13,73,103]},
+{"name": "Claude_Adrien_Helvétius", "date": "1715-01-26", "factors": [5,5,13,31,233]},
+{"name": "Alfred_Rosenberg", "date": "1893-01-12", "factors": [5,5,13,13,571]},
+{"name": "Albert_Kesselring", "date": "1885-11-30", "factors": [5,5,5,13,1483]},
+null ] };

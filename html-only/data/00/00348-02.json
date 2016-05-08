@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Steven_Spielberg", "date": "1946-12-18", "factors": [2,2,3,29,29,241]},
+{"name": "Steve_Biko", "date": "1946-12-18", "factors": [2,2,3,29,29,241]},
+{"name": "Stevan_Jovetić", "date": "1989-11-02", "factors": [2,2,2,3,29,3517]},
+{"name": "Riyo_Mori", "date": "1986-12-24", "factors": [2,2,3,29,79,89]},
+{"name": "Edward_Mills_Purcell", "date": "1912-08-30", "factors": [2,2,3,17,29,409]},
+{"name": "Dirk_Bogarde", "date": "1921-03-28", "factors": [2,2,2,3,29,3481]},
+{"name": "Diego_Rivera", "date": "1886-12-08", "factors": [2,2,2,3,29,3463]},
+{"name": "Camille_Flammarion", "date": "1842-02-26", "factors": [2,2,3,3,29,2293]},
+null ] };

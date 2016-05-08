@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Tara_Strong", "date": "1973-02-12", "factors": [5,5,11,13,683]},
+{"name": "John_Legend", "date": "1978-12-28", "factors": [2,5,11,13,1709]},
+{"name": "Jean_Anouilh", "date": "1910-06-23", "factors": [5,11,13,17,199]},
+{"name": "Frédéric_Passy", "date": "1822-05-20", "factors": [2,5,11,13,1669]},
+{"name": "Fernand_Braudel", "date": "1902-08-24", "factors": [5,11,13,31,109]},
+{"name": "Carlos_Saura", "date": "1932-01-04", "factors": [2,5,11,13,1697]},
+null ] };

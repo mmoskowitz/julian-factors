@@ -1,0 +1,18 @@
+{"births": [
+{"name": "Sonja_Henie", "date": "1912-04-08", "factors": [2,2,3,5,5,5,1613]},
+{"name": "Ryan_Phillippe", "date": "1974-09-10", "factors": [2,2,3,5,5,7,1163]},
+{"name": "Richard_Harris", "date": "1930-10-01", "factors": [2,3,5,5,5,5,647]},
+{"name": "Reinhold_Messner", "date": "1944-09-17", "factors": [2,3,3,3,5,5,1801]},
+{"name": "Pope_Alexander_VII", "date": "1599-02-13", "factors": [3,3,3,5,5,5,683]},
+{"name": "Philippe_Noiret", "date": "1930-10-01", "factors": [2,3,5,5,5,5,647]},
+{"name": "Michel_Teló", "date": "1981-01-21", "factors": [3,3,5,5,5,41,53]},
+{"name": "Marcus_Garvey", "date": "1887-08-17", "factors": [2,2,3,5,5,5,1607]},
+{"name": "James_Francis_Edward_Stuart", "date": "1688-06-10", "factors": [2,3,3,5,5,5,1039]},
+{"name": "Hans-Adam_II,_Prince_of_Liechtenstein", "date": "1945-02-14", "factors": [2,2,3,5,5,5,1621]},
+{"name": "George_Clooney", "date": "1961-05-06", "factors": [3,3,3,5,5,23,157]},
+{"name": "Fritz_Haber", "date": "1868-12-09", "factors": [3,3,3,3,5,5,1187]},
+{"name": "Clifford_Geertz", "date": "1926-08-23", "factors": [2,3,5,5,5,53,61]},
+{"name": "Charles_I_of_Austria", "date": "1887-08-17", "factors": [2,2,3,5,5,5,1607]},
+{"name": "Ben_Wallace", "date": "1974-09-10", "factors": [2,2,3,5,5,7,1163]},
+{"name": "Andriy_Shevchenko", "date": "1976-09-29", "factors": [2,3,3,5,5,61,89]},
+null ] };

@@ -1,0 +1,9 @@
+{"births": [
+{"name": "John_Newcombe", "date": "1944-05-23", "factors": [3,3,7,7,37,149]},
+{"name": "Imelda_Marcos", "date": "1929-07-02", "factors": [2,3,7,7,37,223]},
+{"name": "Haldan_Keffer_Hartline", "date": "1903-12-22", "factors": [2,3,5,7,37,311]},
+{"name": "Gary_Becker", "date": "1930-12-02", "factors": [2,2,2,7,37,1171]},
+{"name": "Bon_Scott", "date": "1946-07-09", "factors": [2,3,5,7,37,313]},
+{"name": "Blake_Lively", "date": "1987-08-25", "factors": [2,2,2,7,37,1181]},
+{"name": "Amy_Macdonald", "date": "1987-08-25", "factors": [2,2,2,7,37,1181]},
+null ] };

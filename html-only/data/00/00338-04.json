@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Yohan_Cabaye", "date": "1986-01-14", "factors": [2,2,7,11,13,13,47]},
+{"name": "Paul_Hogan", "date": "1939-10-08", "factors": [2,2,2,3,13,13,599]},
+{"name": "Jan_Garbarek", "date": "1947-03-04", "factors": [2,2,2,7,13,13,257]},
+{"name": "Giacinto_Facchetti", "date": "1942-07-18", "factors": [2,3,3,13,13,17,47]},
+{"name": "Charles_Fourier", "date": "1772-04-07", "factors": [2,7,7,11,13,169]},
+{"name": "Benny_Benassi", "date": "1967-07-13", "factors": [2,2,3,3,13,13,401]},
+null ] };

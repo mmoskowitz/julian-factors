@@ -1,0 +1,18 @@
+{"births": [
+{"name": "Václav_Klaus", "date": "1941-06-19", "factors": [2,2,11,11,5021]},
+{"name": "Simon_Wiesenthal", "date": "1908-12-31", "factors": [2,3,11,11,3331]},
+{"name": "Roberto_Rossellini", "date": "1906-05-08", "factors": [2,7,11,11,1427]},
+{"name": "Robert_Englund", "date": "1947-06-06", "factors": [2,11,11,19,529]},
+{"name": "Pete_Postlethwaite", "date": "1946-02-07", "factors": [2,11,11,13,773]},
+{"name": "Patrick_McGoohan", "date": "1928-03-19", "factors": [2,2,11,11,5011]},
+{"name": "Muhammad_Iqbal", "date": "1877-11-09", "factors": [2,2,11,11,4973]},
+{"name": "Kevin_James", "date": "1965-04-26", "factors": [2,2,11,11,5039]},
+{"name": "Jody_Scheckter", "date": "1950-01-29", "factors": [2,5,11,11,2011]},
+{"name": "James_Gosling", "date": "1955-05-19", "factors": [2,11,11,29,347]},
+{"name": "Harrison_Schmitt", "date": "1935-07-03", "factors": [2,11,11,79,127]},
+{"name": "Enrico_De_Nicola", "date": "1877-11-09", "factors": [2,2,11,11,4973]},
+{"name": "Egon_Schiele", "date": "1890-06-12", "factors": [2,5,11,11,1993]},
+{"name": "Dario_Fo", "date": "1926-03-24", "factors": [2,11,11,43,233]},
+{"name": "Claudette_Colbert", "date": "1903-09-13", "factors": [2,5,11,11,1997]},
+{"name": "Alexander_Herzen", "date": "1812-04-06", "factors": [2,11,11,43,229]},
+null ] };

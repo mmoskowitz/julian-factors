@@ -1,0 +1,13 @@
+{"births": [
+{"name": "Pope_John_Paul_I", "date": "1912-10-17", "factors": [2,2,3,11,23,797]},
+{"name": "Mika_(singer)", "date": "1983-08-18", "factors": [2,2,3,11,97,191]},
+{"name": "Madeleine_Albright", "date": "1937-05-15", "factors": [2,2,3,3,11,6133]},
+{"name": "Macky_Sall", "date": "1961-12-11", "factors": [2,2,3,11,59,313]},
+{"name": "John_Galsworthy", "date": "1867-08-14", "factors": [2,2,2,3,11,9103]},
+{"name": "Eugène_Ionesco", "date": "1909-11-26", "factors": [2,2,3,11,73,251]},
+{"name": "Douglas_Engelbart", "date": "1925-01-30", "factors": [2,2,3,5,11,3673]},
+{"name": "Cadel_Evans", "date": "1977-02-14", "factors": [2,2,3,11,83,223]},
+{"name": "Antony_Hewish", "date": "1924-05-11", "factors": [2,2,3,3,11,6121]},
+{"name": "Albert_Sabin", "date": "1906-08-26", "factors": [2,2,2,3,11,9157]},
+{"name": "Adolf_Hitler", "date": "1889-04-20", "factors": [2,2,2,3,11,9133]},
+null ] };

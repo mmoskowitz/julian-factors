@@ -1,0 +1,14 @@
+{"births": [
+{"name": "Vojislav_Šešelj", "date": "1954-10-11", "factors": [2,11,151,733]},
+{"name": "Satyendra_Nath_Bose", "date": "1894-01-01", "factors": [19,29,29,151]},
+{"name": "Lucas_Leiva", "date": "1987-01-09", "factors": [2,2,151,4051]},
+{"name": "Lester_B._Pearson", "date": "1897-04-23", "factors": [3,73,73,151]},
+{"name": "Kwame_Nkrumah", "date": "1909-09-18", "factors": [3,19,151,281]},
+{"name": "Karl_Lagerfeld", "date": "1933-09-10", "factors": [5,5,151,643]},
+{"name": "Josef_Albers", "date": "1888-03-19", "factors": [5,31,103,151]},
+{"name": "Jordan_Rudess", "date": "1956-11-04", "factors": [3,19,151,283]},
+{"name": "Javier_Pérez_de_Cuéllar", "date": "1920-01-19", "factors": [2,13,151,617]},
+{"name": "Hans_Krankl", "date": "1953-02-14", "factors": [2,3,151,2687]},
+{"name": "David_Cronenberg", "date": "1943-03-15", "factors": [2,3,151,2683]},
+{"name": "Björn_Borg", "date": "1956-06-06", "factors": [2,5,151,1613]},
+null ] };

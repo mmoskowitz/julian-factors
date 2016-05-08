@@ -1,0 +1,11 @@
+{"births": [
+{"name": "Rinko_Kikuchi", "date": "1981-01-06", "factors": [2,3,5,7,7,1663]},
+{"name": "Radovan_Karadžić", "date": "1945-06-19", "factors": [5,5,5,7,7,397]},
+{"name": "Kurt_Wüthrich", "date": "1938-10-04", "factors": [3,5,5,7,7,661]},
+{"name": "Joseph_Heller", "date": "1923-05-01", "factors": [2,2,5,7,7,2473]},
+{"name": "James_Chadwick", "date": "1891-10-20", "factors": [5,5,7,7,11,179]},
+{"name": "Ismail_Kadare", "date": "1936-01-28", "factors": [5,7,7,11,17,53]},
+{"name": "Aung_San_Suu_Kyi", "date": "1945-06-19", "factors": [5,5,5,7,7,397]},
+{"name": "Alan_Alda", "date": "1936-01-28", "factors": [5,7,7,11,17,53]},
+{"name": "Adrian_Sutil", "date": "1983-01-11", "factors": [3,3,5,7,7,1109]},
+null ] };

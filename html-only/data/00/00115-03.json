@@ -1,0 +1,15 @@
+{"births": [
+{"name": "Morgan_Freeman", "date": "1937-06-01", "factors": [5,7,7,23,431]},
+{"name": "Mickey_Rooney", "date": "1920-09-23", "factors": [2,3,5,23,3511]},
+{"name": "Max_Born", "date": "1882-12-11", "factors": [2,3,5,23,3491]},
+{"name": "Lise_Meitner", "date": "1878-11-07", "factors": [5,11,11,23,173]},
+{"name": "Libor_Sionko", "date": "1977-02-01", "factors": [5,5,7,23,607]},
+{"name": "Jamie_Lynn_Spears", "date": "1991-04-04", "factors": [2,5,5,23,2129]},
+{"name": "James_Randi", "date": "1928-08-07", "factors": [5,7,23,23,131]},
+{"name": "Itamar_Franco", "date": "1930-06-28", "factors": [5,17,17,23,73]},
+{"name": "Dražen_Petrović", "date": "1964-10-22", "factors": [2,5,23,23,461]},
+{"name": "Colleen_McCullough", "date": "1937-06-01", "factors": [5,7,7,23,431]},
+{"name": "Bette_Midler", "date": "1945-12-01", "factors": [2,5,23,97,109]},
+{"name": "Benito_Mussolini", "date": "1883-07-29", "factors": [2,2,5,23,5237]},
+{"name": "Beatrix_Potter", "date": "1866-07-28", "factors": [2,5,23,31,337]},
+null ] };

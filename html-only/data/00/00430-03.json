@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Roald_Amundsen", "date": "1872-07-16", "factors": [2,5,7,17,43,47]},
+{"name": "Raul_Meireles", "date": "1983-03-17", "factors": [2,5,11,11,43,47]},
+{"name": "Maximilian_I_of_Mexico", "date": "1832-07-06", "factors": [2,3,5,17,43,109]},
+{"name": "Judi_Dench", "date": "1934-12-09", "factors": [2,2,3,5,43,941]},
+{"name": "Donald_Tusk", "date": "1957-04-22", "factors": [2,5,5,11,43,103]},
+{"name": "Charles_Louis_Alphonse_Laveran", "date": "1845-06-18", "factors": [2,2,5,5,43,557]},
+null ] };

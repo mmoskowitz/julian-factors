@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Tomáš_Rosický", "date": "1980-10-04", "factors": [2,2,37,83,199]},
+{"name": "Samuel_Pepys", "date": "1633-02-23", "factors": [2,3,3,199,647]},
+{"name": "Pedro_I_of_Brazil", "date": "1798-10-12", "factors": [2,5,5,199,239]},
+{"name": "Missy_Elliott", "date": "1971-07-01", "factors": [3,3,29,47,199]},
+{"name": "Jean_Anouilh", "date": "1910-06-23", "factors": [5,11,13,17,199]},
+{"name": "Hermann_von_Helmholtz", "date": "1821-08-31", "factors": [2,2,2,199,1499]},
+{"name": "Edin_Džeko", "date": "1986-03-17", "factors": [2,3,3,199,683]},
+{"name": "Alexander_of_Greece", "date": "1893-08-01", "factors": [2,2,7,199,433]},
+null ] };

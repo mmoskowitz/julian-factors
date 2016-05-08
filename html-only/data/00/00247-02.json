@@ -1,0 +1,11 @@
+{"births": [
+{"name": "Tove_Jansson", "date": "1914-08-09", "factors": [13,19,41,239]},
+{"name": "Robert_Kubica", "date": "1984-12-07", "factors": [3,13,19,3301]},
+{"name": "Rauf_Denktaş", "date": "1924-01-27", "factors": [3,13,19,3271]},
+{"name": "Ofra_Haza", "date": "1957-11-19", "factors": [7,13,19,1409]},
+{"name": "Michio_Kaku", "date": "1947-01-24", "factors": [13,19,43,229]},
+{"name": "Laura_Chinchilla", "date": "1959-03-28", "factors": [5,13,19,1973]},
+{"name": "Kevin_Keegan", "date": "1951-02-14", "factors": [13,19,59,167]},
+{"name": "Hugo_Pratt", "date": "1927-06-15", "factors": [2,13,19,4909]},
+{"name": "Danica_Patrick", "date": "1982-03-25", "factors": [13,19,19,521]},
+null ] };

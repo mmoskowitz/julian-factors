@@ -1,0 +1,11 @@
+{"births": [
+{"name": "Tiger_Woods", "date": "1975-12-30", "factors": [2,2,2,7,181,241]},
+{"name": "Teófilo_Stevenson", "date": "1952-03-29", "factors": [2,2,5,5,101,241]},
+{"name": "Steven_Spielberg", "date": "1946-12-18", "factors": [2,2,3,29,29,241]},
+{"name": "Steve_Biko", "date": "1946-12-18", "factors": [2,2,3,29,29,241]},
+{"name": "Norbert_Elias", "date": "1897-06-22", "factors": [3,3,3,7,53,241]},
+{"name": "Keira_Knightley", "date": "1985-03-26", "factors": [2,5,5,7,29,241]},
+{"name": "Günter_Verheugen", "date": "1944-04-28", "factors": [2,2,2,13,97,241]},
+{"name": "Evander_Holyfield", "date": "1962-10-19", "factors": [2,2,3,3,241,281]},
+{"name": "Charles_Lindbergh", "date": "1902-02-04", "factors": [2,2,2,7,179,241]},
+null ] };

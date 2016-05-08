@@ -1,0 +1,15 @@
+{"births": [
+{"name": "Ville_Valo", "date": "1976-11-22", "factors": [2,2,2,2,2,3,3,17,499]},
+{"name": "Torsten_Frings", "date": "1976-11-22", "factors": [2,2,2,2,2,3,3,17,499]},
+{"name": "Timo_Hildebrand", "date": "1979-04-05", "factors": [2,2,2,2,2,2,3,3,4243]},
+{"name": "Stanisław_Lem", "date": "1921-09-12", "factors": [2,2,2,2,2,3,3,47,179]},
+{"name": "Roque_Santa_Cruz", "date": "1981-08-16", "factors": [2,2,2,2,2,3,3,13,653]},
+{"name": "Richard_Nixon", "date": "1913-01-09", "factors": [2,2,2,2,2,2,3,3,4201]},
+{"name": "Otto_von_Bismarck", "date": "1815-04-01", "factors": [2,2,2,2,2,2,3,3,4139]},
+{"name": "Nelson_Mandela", "date": "1918-07-18", "factors": [2,2,2,2,2,3,3,3,2803]},
+{"name": "Michael_Schumacher", "date": "1969-01-03", "factors": [2,2,2,2,2,3,3,37,229]},
+{"name": "Manmohan_Singh", "date": "1932-09-26", "factors": [2,2,2,2,2,3,3,3,2809]},
+{"name": "James_Callaghan", "date": "1912-03-27", "factors": [2,2,2,2,2,3,3,31,271]},
+{"name": "Garret_Hobart", "date": "1844-06-03", "factors": [2,2,2,2,2,3,3,5,1663]},
+{"name": "Erica_Durance", "date": "1978-06-21", "factors": [2,2,2,2,2,3,3,5,1697]},
+null ] };

@@ -1,0 +1,5 @@
+{"births": [
+{"name": "Franz_Brentano", "date": "1838-01-16", "factors": [2,5,7,11,13,239]},
+{"name": "Charles_Fourier", "date": "1772-04-07", "factors": [2,7,7,11,13,169]},
+{"name": "Bertrand_Delanoë", "date": "1950-05-30", "factors": [7,11,11,13,13,17]},
+null ] };

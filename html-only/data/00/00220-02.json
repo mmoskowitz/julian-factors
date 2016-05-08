@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Sophia_Loren", "date": "1934-09-20", "factors": [2,2,5,5,11,2207]},
+{"name": "Martin_Van_Buren", "date": "1782-12-05", "factors": [2,2,5,11,41,263]},
+{"name": "K\u0027naan", "date": "1978-02-01", "factors": [2,2,5,11,29,383]},
+{"name": "John_Kufuor", "date": "1938-12-08", "factors": [2,2,2,5,11,5521]},
+{"name": "James_Dean", "date": "1931-02-08", "factors": [2,2,5,11,41,269]},
+{"name": "Douglas_Engelbart", "date": "1925-01-30", "factors": [2,2,3,5,11,3673]},
+{"name": "Bahá\u0027u\u0027lláh", "date": "1817-11-12", "factors": [2,2,5,11,37,293]},
+{"name": "Aristides_Pereira", "date": "1923-11-17", "factors": [2,2,5,11,23,479]},
+null ] };

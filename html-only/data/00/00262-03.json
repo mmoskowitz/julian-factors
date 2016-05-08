@@ -1,0 +1,14 @@
+{"births": [
+{"name": "Valéry_Giscard_d\u0027Estaing", "date": "1926-02-02", "factors": [2,2,7,131,661]},
+{"name": "Philip_K._Dick", "date": "1928-12-16", "factors": [2,2,3,131,1543]},
+{"name": "Patrick_Swayze", "date": "1952-08-18", "factors": [2,3,19,131,163]},
+{"name": "Marcellin_Berthelot", "date": "1827-10-25", "factors": [2,3,3,131,1013]},
+{"name": "Larry_Bird", "date": "1956-12-07", "factors": [2,3,3,131,1033]},
+{"name": "Katherine_Mansfield", "date": "1888-10-14", "factors": [2,2,43,107,131]},
+{"name": "Jimmy_Page", "date": "1944-01-09", "factors": [2,3,3,131,1031]},
+{"name": "Jessica_Alba", "date": "1981-04-28", "factors": [2,7,31,43,131]},
+{"name": "Iveta_Radičová", "date": "1956-12-07", "factors": [2,3,3,131,1033]},
+{"name": "Emina_Jahović", "date": "1982-01-15", "factors": [2,2,2,131,2333]},
+{"name": "Bertolt_Brecht", "date": "1898-02-10", "factors": [2,5,19,97,131]},
+{"name": "Antonin_Artaud", "date": "1896-09-04", "factors": [2,3,37,83,131]},
+null ] };

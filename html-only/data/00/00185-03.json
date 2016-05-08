@@ -1,0 +1,18 @@
+{"births": [
+{"name": "William_Carlos_Williams", "date": "1883-09-17", "factors": [2,5,17,37,383]},
+{"name": "Paul_Langevin", "date": "1872-01-23", "factors": [3,5,7,37,619]},
+{"name": "Le_Corbusier", "date": "1887-10-06", "factors": [2,5,5,37,1303]},
+{"name": "Kevin_Carter", "date": "1960-09-13", "factors": [2,5,7,37,941]},
+{"name": "Kelly_Kelly", "date": "1987-01-15", "factors": [2,5,17,37,389]},
+{"name": "José_Sarney", "date": "1930-04-24", "factors": [2,5,37,79,83]},
+{"name": "Jonny_Greenwood", "date": "1971-11-05", "factors": [2,2,5,37,3299]},
+{"name": "Jeffrén_Suárez", "date": "1988-01-20", "factors": [2,2,5,37,3307]},
+{"name": "Jean-Baptiste_Biot", "date": "1774-04-21", "factors": [2,5,19,37,337]},
+{"name": "Ian_Somerhalder", "date": "1978-12-08", "factors": [2,5,5,37,1321]},
+{"name": "Erik_Erikson", "date": "1902-06-15", "factors": [3,3,5,37,1451]},
+{"name": "Dionne_Warwick", "date": "1940-12-12", "factors": [5,5,37,37,71]},
+{"name": "Diane_Keaton", "date": "1946-01-05", "factors": [5,5,11,37,239]},
+{"name": "Dennis_Gabor", "date": "1900-06-05", "factors": [5,5,7,37,373]},
+{"name": "Ashley_Judd", "date": "1968-04-19", "factors": [5,11,11,37,109]},
+{"name": "Annie_Besant", "date": "1847-10-01", "factors": [3,3,5,37,1439]},
+null ] };

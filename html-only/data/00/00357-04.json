@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Timothy_Dalton", "date": "1944-03-21", "factors": [2,3,3,5,7,17,227]},
+{"name": "Pat_Morita", "date": "1932-06-28", "factors": [2,3,3,7,11,17,103]},
+{"name": "Matthias_Sammer", "date": "1967-09-05", "factors": [2,3,3,7,17,17,67]},
+{"name": "Daniel_arap_Moi", "date": "1924-09-02", "factors": [2,3,5,7,7,17,97]},
+{"name": "Arne_Friedrich", "date": "1979-05-29", "factors": [2,3,3,7,7,17,163]},
+{"name": "Antonio_Nocerino", "date": "1985-04-09", "factors": [2,2,3,3,7,17,571]},
+null ] };

@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Sirimavo_Bandaranaike", "date": "1916-04-17", "factors": [2,3,5,17,47,101]},
+{"name": "Robert_Huber", "date": "1937-02-20", "factors": [2,2,2,3,47,2153]},
+{"name": "Richard_Cromwell", "date": "1626-10-04", "factors": [2,2,3,5,47,821]},
+{"name": "Mikhail_Tukhachevsky", "date": "1893-02-16", "factors": [2,3,5,29,47,59]},
+{"name": "Matt_Groening", "date": "1954-02-15", "factors": [2,2,3,3,47,1439]},
+{"name": "Emir_Kusturica", "date": "1954-11-24", "factors": [2,3,5,11,47,157]},
+{"name": "Daniel_Bernoulli", "date": "1700-02-08", "factors": [2,3,5,11,47,151]},
+{"name": "Austen_Chamberlain", "date": "1863-10-16", "factors": [2,3,3,17,47,167]},
+null ] };

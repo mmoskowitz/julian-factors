@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Poul_Nyrup_Rasmussen", "date": "1943-06-15", "factors": [2,5,7,7,11,11,41]},
+{"name": "Kevin_Costner", "date": "1955-01-18", "factors": [5,5,5,7,11,11,23]},
+{"name": "Kate_Ryan", "date": "1980-07-22", "factors": [2,3,7,11,11,13,37]},
+{"name": "Johnny_Hallyday", "date": "1943-06-15", "factors": [2,5,7,7,11,11,41]},
+{"name": "Henning_Mankell", "date": "1948-02-03", "factors": [2,2,2,7,11,11,359]},
+{"name": "Dirk_Kuyt", "date": "1980-07-22", "factors": [2,3,7,11,11,13,37]},
+{"name": "Carlos_Filipe_Ximenes_Belo", "date": "1948-02-03", "factors": [2,2,2,7,11,11,359]},
+null ] };

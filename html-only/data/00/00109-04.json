@@ -1,0 +1,11 @@
+{"births": [
+{"name": "Yanni", "date": "1954-11-14", "factors": [2,2,5,109,1117]},
+{"name": "Wilhelm_Ritter_von_Leeb", "date": "1876-09-05", "factors": [2,7,19,83,109]},
+{"name": "Taio_Cruz", "date": "1985-04-23", "factors": [2,7,7,109,229]},
+{"name": "Fernand_Braudel", "date": "1902-08-24", "factors": [5,11,13,31,109]},
+{"name": "Condoleezza_Rice", "date": "1954-11-14", "factors": [2,2,5,109,1117]},
+{"name": "Bette_Midler", "date": "1945-12-01", "factors": [2,5,23,97,109]},
+{"name": "Bernard_Hinault", "date": "1954-11-14", "factors": [2,2,5,109,1117]},
+{"name": "Ashley_Judd", "date": "1968-04-19", "factors": [5,11,11,37,109]},
+{"name": "Aki_Kaurismäki", "date": "1957-04-04", "factors": [2,2,37,109,151]},
+null ] };

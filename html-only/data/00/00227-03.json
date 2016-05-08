@@ -1,0 +1,16 @@
+{"births": [
+{"name": "Václav_Havel", "date": "1936-10-05", "factors": [2,3,227,1783]},
+{"name": "Virginia_Woolf", "date": "1882-01-25", "factors": [2,5,227,1061]},
+{"name": "Tyson_Chandler", "date": "1982-10-02", "factors": [2,2,227,2693]},
+{"name": "Tommy_Lee_Jones", "date": "1946-09-15", "factors": [2,11,227,487]},
+{"name": "Ron_Howard", "date": "1954-03-01", "factors": [2,31,173,227]},
+{"name": "Quentin_Bryce", "date": "1942-12-23", "factors": [2,2,227,2677]},
+{"name": "Paul_Breitner", "date": "1951-09-05", "factors": [2,3,227,1787]},
+{"name": "Oliver_Stone", "date": "1946-09-15", "factors": [2,11,227,487]},
+{"name": "Nikolai_Fyodorovich_Vatutin", "date": "1901-12-16", "factors": [2,17,227,313]},
+{"name": "Niko_Kranjčar", "date": "1984-08-13", "factors": [5,5,227,431]},
+{"name": "Michael_Keaton", "date": "1951-09-05", "factors": [2,3,227,1787]},
+{"name": "Margaret_Mead", "date": "1901-12-16", "factors": [2,17,227,313]},
+{"name": "Jeanne_Moreau", "date": "1928-01-23", "factors": [2,2,227,2671]},
+{"name": "Dmitriy_Ustinov", "date": "1908-10-17", "factors": [3,53,67,227]},
+null ] };

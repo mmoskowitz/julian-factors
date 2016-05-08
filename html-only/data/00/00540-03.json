@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Pope_Leo_XII", "date": "1760-08-22", "factors": [2,2,2,3,3,3,5,11,199]},
+{"name": "Keanu_Reeves", "date": "1964-09-02", "factors": [2,2,2,2,3,3,3,5,1129]},
+{"name": "John_Terry", "date": "1980-12-07", "factors": [2,2,3,3,3,3,3,5,503]},
+{"name": "James_Gandolfini", "date": "1961-09-18", "factors": [2,2,2,3,3,3,5,37,61]},
+{"name": "Clemens_Fritz", "date": "1980-12-07", "factors": [2,2,3,3,3,3,3,5,503]},
+{"name": "Bertha_von_Suttner", "date": "1843-06-09", "factors": [2,2,2,3,3,3,3,5,739]},
+{"name": "Bernard_Werber", "date": "1961-09-18", "factors": [2,2,2,3,3,3,5,37,61]},
+null ] };

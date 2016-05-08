@@ -1,0 +1,17 @@
+{"births": [
+{"name": "William_Styron", "date": "1925-06-11", "factors": [2,2,2,3,3,11,3061]},
+{"name": "Viktor_Zubkov", "date": "1941-09-15", "factors": [2,2,3,3,11,17,361]},
+{"name": "Slash_(musician)", "date": "1965-07-23", "factors": [2,2,3,3,3,11,2053]},
+{"name": "Robert_Johnson", "date": "1911-05-08", "factors": [2,2,3,3,11,41,149]},
+{"name": "Pat_Morita", "date": "1932-06-28", "factors": [2,3,3,7,11,17,103]},
+{"name": "Neil_Armstrong", "date": "1930-08-05", "factors": [3,3,3,3,7,11,389]},
+{"name": "Lady_Bird_Johnson", "date": "1912-12-22", "factors": [2,3,3,11,11,11,101]},
+{"name": "Kamui_Kobayashi", "date": "1986-09-13", "factors": [2,3,3,3,3,11,1373]},
+{"name": "Juanes", "date": "1972-08-09", "factors": [2,3,3,11,11,19,59]},
+{"name": "Georg_von_Békésy", "date": "1899-06-03", "factors": [2,2,2,3,3,11,3049]},
+{"name": "Flórián_Albert", "date": "1941-09-15", "factors": [2,2,3,3,11,17,361]},
+{"name": "Fats_Domino", "date": "1928-02-26", "factors": [2,3,3,3,3,11,1361]},
+{"name": "Dan_Brown", "date": "1964-06-22", "factors": [2,2,2,3,3,11,3079]},
+{"name": "Ariel_Sharon", "date": "1928-02-26", "factors": [2,3,3,3,3,11,1361]},
+{"name": "Akira_Toriyama", "date": "1955-04-05", "factors": [2,3,3,7,7,11,251]},
+null ] };

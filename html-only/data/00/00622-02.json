@@ -1,0 +1,8 @@
+{"births": [
+{"name": "William_Shatner", "date": "1931-03-22", "factors": [2,47,83,311]},
+{"name": "Thomas_Paine", "date": "1737-01-29", "factors": [2,7,311,541]},
+{"name": "Robert_Mitchum", "date": "1917-08-06", "factors": [2,17,229,311]},
+{"name": "Jorge_Batlle_Ibáñez", "date": "1927-10-25", "factors": [2,7,311,557]},
+{"name": "Corry_Brokken", "date": "1932-12-03", "factors": [2,2,311,1951]},
+{"name": "Burton_Richter", "date": "1931-03-22", "factors": [2,47,83,311]},
+null ] };

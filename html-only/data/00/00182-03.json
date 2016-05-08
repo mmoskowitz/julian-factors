@@ -1,0 +1,11 @@
+{"births": [
+{"name": "Renzo_Piano", "date": "1937-09-14", "factors": [2,5,7,13,17,157]},
+{"name": "Leymah_Gbowee", "date": "1972-02-01", "factors": [2,2,7,13,19,353]},
+{"name": "Kim_Cattrall", "date": "1956-08-21", "factors": [2,3,3,7,13,1487]},
+{"name": "James_Mill", "date": "1773-04-06", "factors": [2,5,7,13,19,137]},
+{"name": "Georgia_O\u0027Keeffe", "date": "1887-11-15", "factors": [2,3,5,7,13,883]},
+{"name": "Franz_Brentano", "date": "1838-01-16", "factors": [2,5,7,11,13,239]},
+{"name": "Coenraad_Jacob_Temminck", "date": "1778-03-31", "factors": [2,5,5,7,13,521]},
+{"name": "Christian_Ziege", "date": "1972-02-01", "factors": [2,2,7,13,19,353]},
+{"name": "Charles_Fourier", "date": "1772-04-07", "factors": [2,7,7,11,13,169]},
+null ] };

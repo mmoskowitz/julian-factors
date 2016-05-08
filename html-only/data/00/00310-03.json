@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Patrick_White", "date": "1912-05-28", "factors": [2,5,5,7,31,223]},
+{"name": "Lucie_Šafářová", "date": "1987-02-04", "factors": [2,3,3,5,31,877]},
+{"name": "Francis_II,_Holy_Roman_Emperor", "date": "1768-02-12", "factors": [2,3,5,5,31,509]},
+{"name": "Ernst_Boris_Chain", "date": "1906-06-19", "factors": [2,2,5,7,31,557]},
+{"name": "David_Nalbandian", "date": "1982-01-01", "factors": [2,3,5,11,31,239]},
+{"name": "D._W._Griffith", "date": "1875-01-22", "factors": [2,3,5,13,31,199]},
+null ] };

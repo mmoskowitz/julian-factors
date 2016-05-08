@@ -1,0 +1,15 @@
+{"births": [
+{"name": "Walter_Samuel", "date": "1978-03-23", "factors": [2,3,3,5,19,1429]},
+{"name": "Tristan_Tzara", "date": "1896-04-16", "factors": [3,3,3,5,19,941]},
+{"name": "Rómulo_Gallegos", "date": "1884-08-02", "factors": [2,3,3,5,19,1409]},
+{"name": "Raúl_Alfonsín", "date": "1927-03-12", "factors": [3,3,3,19,29,163]},
+{"name": "Paul_Keating", "date": "1944-01-18", "factors": [3,3,3,7,19,677]},
+{"name": "Paramahansa_Yogananda", "date": "1893-01-05", "factors": [2,2,3,3,19,3527]},
+{"name": "Martine_Aubry", "date": "1950-08-08", "factors": [3,3,7,19,19,107]},
+{"name": "John_Hughes_(filmmaker)", "date": "1950-02-18", "factors": [2,3,3,5,19,1423]},
+{"name": "Johannes_Stark", "date": "1874-04-15", "factors": [2,2,3,3,19,3517]},
+{"name": "George_Best", "date": "1946-05-22", "factors": [2,3,3,13,19,547]},
+{"name": "Enrique_Iglesias", "date": "1976-05-08", "factors": [2,3,3,3,19,2381]},
+{"name": "Cybill_Shepherd", "date": "1950-02-18", "factors": [2,3,3,5,19,1423]},
+{"name": "Bill_Goldberg", "date": "1966-12-27", "factors": [2,3,3,7,19,1019]},
+null ] };

@@ -1,0 +1,12 @@
+{"births": [
+{"name": "Tom_Kenny", "date": "1962-07-13", "factors": [2,337,3617]},
+{"name": "Steve_Jobs", "date": "1955-02-24", "factors": [2,337,3613]},
+{"name": "Mariana_of_Austria", "date": "1634-12-24", "factors": [3,337,2293]},
+{"name": "Jerome_Isaac_Friedman", "date": "1930-03-28", "factors": [23,313,337]},
+{"name": "Helen_Hunt", "date": "1963-06-15", "factors": [5,337,1447]},
+{"name": "Carlo_Collodi", "date": "1826-11-24", "factors": [19,337,373]},
+{"name": "Bruno_Alves", "date": "1981-11-27", "factors": [5,337,1451]},
+{"name": "Bert_van_Marwijk", "date": "1952-05-19", "factors": [31,233,337]},
+{"name": "Arthur_Schopenhauer", "date": "1788-02-22", "factors": [5,337,1409]},
+{"name": "Alain_Prost", "date": "1955-02-24", "factors": [2,337,3613]},
+null ] };

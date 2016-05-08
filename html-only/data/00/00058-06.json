@@ -1,0 +1,12 @@
+{"births": [
+{"name": "William_Faulkner", "date": "1897-09-25", "factors": [2,2,2,2,11,11,29,43]},
+{"name": "Sándor_Márai", "date": "1900-04-11", "factors": [2,2,2,2,3,5,29,347]},
+{"name": "Sarah_Palin", "date": "1964-02-11", "factors": [2,2,3,7,7,11,13,29]},
+{"name": "Mohammed_VI_of_Morocco", "date": "1963-08-21", "factors": [2,3,3,3,3,3,29,173]},
+{"name": "Makarios_III", "date": "1913-08-13", "factors": [2,2,2,3,3,19,29,61]},
+{"name": "Jóhanna_Guðrún_Jónsdóttir", "date": "1990-10-16", "factors": [2,2,3,3,5,7,29,67]},
+{"name": "Frederick_V,_Elector_Palatine", "date": "1596-08-26", "factors": [2,2,2,2,2,13,29,191]},
+{"name": "Ernst_Kummer", "date": "1810-01-29", "factors": [2,2,2,2,2,17,29,151]},
+{"name": "Ennio_Morricone", "date": "1928-11-10", "factors": [2,2,2,3,5,17,29,41]},
+{"name": "Eddie_Murphy", "date": "1961-04-03", "factors": [2,2,2,2,3,17,29,103]},
+null ] };

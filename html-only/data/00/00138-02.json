@@ -1,0 +1,14 @@
+{"births": [
+{"name": "Van_Morrison", "date": "1945-08-31", "factors": [2,3,23,67,263]},
+{"name": "Steve_McManaman", "date": "1972-02-11", "factors": [2,3,3,23,5897]},
+{"name": "Park_Geun-hye", "date": "1952-02-02", "factors": [2,2,3,23,8819]},
+{"name": "Mickey_Rooney", "date": "1920-09-23", "factors": [2,3,5,23,3511]},
+{"name": "Max_Born", "date": "1882-12-11", "factors": [2,3,5,23,3491]},
+{"name": "John_Leguizamo", "date": "1964-07-22", "factors": [2,3,23,41,431]},
+{"name": "Itzhak_Perlman", "date": "1945-08-31", "factors": [2,3,23,67,263]},
+{"name": "Gael_García_Bernal", "date": "1978-11-30", "factors": [2,3,3,23,5903]},
+{"name": "Davide_Santon", "date": "1991-01-02", "factors": [2,3,23,113,157]},
+{"name": "David_Spade", "date": "1964-07-22", "factors": [2,3,23,41,431]},
+{"name": "Bette_Davis", "date": "1908-04-05", "factors": [2,2,3,23,8761]},
+{"name": "Andy_Richter", "date": "1966-10-28", "factors": [2,3,11,23,1607]},
+null ] };

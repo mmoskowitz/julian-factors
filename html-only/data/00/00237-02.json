@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Tony_Hibbert", "date": "1981-02-20", "factors": [3,5,79,2063]},
+{"name": "Tom_DeLonge", "date": "1975-12-13", "factors": [3,11,79,937]},
+{"name": "Sinclair_Lewis", "date": "1885-02-07", "factors": [3,3,79,3389]},
+{"name": "Ricardo_Quaresma", "date": "1983-09-26", "factors": [3,17,79,607]},
+{"name": "Hermann_Ebbinghaus", "date": "1850-01-24", "factors": [3,3,79,3371]},
+{"name": "Francisco_Goya", "date": "1746-03-30", "factors": [3,37,79,269]},
+{"name": "Boris_Trajkovski", "date": "1956-06-25", "factors": [3,43,79,239]},
+{"name": "Atifete_Jahjaga", "date": "1975-04-20", "factors": [2,3,79,5153]},
+null ] };

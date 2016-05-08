@@ -1,0 +1,11 @@
+{"births": [
+{"name": "Vladimir_Zhirinovsky", "date": "1946-04-25", "factors": [3,3,5,11,17,289]},
+{"name": "Talia_Shire", "date": "1946-04-25", "factors": [3,3,5,11,17,289]},
+{"name": "Simo_Häyhä", "date": "1905-12-17", "factors": [2,2,3,17,17,17,41]},
+{"name": "Miep_Gies", "date": "1909-02-15", "factors": [2,2,2,2,17,17,523]},
+{"name": "Matthias_Sammer", "date": "1967-09-05", "factors": [2,3,3,7,17,17,67]},
+{"name": "Kangxi_Emperor", "date": "1654-05-04", "factors": [2,3,3,3,17,17,149]},
+{"name": "Gerald_Asamoah", "date": "1978-10-03", "factors": [2,2,2,7,17,17,151]},
+{"name": "Claudio_Pizarro", "date": "1978-10-03", "factors": [2,2,2,7,17,17,151]},
+{"name": "Alessandro_Petacchi", "date": "1974-01-03", "factors": [2,5,5,13,13,289]},
+null ] };

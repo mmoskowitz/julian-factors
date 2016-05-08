@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Martin_Van_Buren", "date": "1782-12-05", "factors": [2,2,5,11,41,263]},
+{"name": "Lyndon_B._Johnson", "date": "1908-08-27", "factors": [2,2,3,5,41,983]},
+{"name": "Kenichi_Fukui", "date": "1918-10-04", "factors": [2,3,5,11,41,179]},
+{"name": "James_Dean", "date": "1931-02-08", "factors": [2,2,5,11,41,269]},
+{"name": "Glenn_Miller", "date": "1904-03-01", "factors": [2,2,5,7,41,421]},
+{"name": "Franz_Werfel", "date": "1890-09-10", "factors": [2,2,5,17,41,173]},
+null ] };

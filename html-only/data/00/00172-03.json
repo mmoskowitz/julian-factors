@@ -1,0 +1,16 @@
+{"births": [
+{"name": "Walter_Ulbricht", "date": "1893-06-30", "factors": [2,2,13,13,43,83]},
+{"name": "Renée_Zellweger", "date": "1969-04-25", "factors": [2,2,2,2,43,3547]},
+{"name": "Rebecca_Soni", "date": "1987-03-18", "factors": [2,2,2,3,43,2371]},
+{"name": "Peter_Naur", "date": "1928-10-25", "factors": [2,2,2,11,43,641]},
+{"name": "Paulo_Mendes_da_Rocha", "date": "1928-10-25", "factors": [2,2,2,11,43,641]},
+{"name": "Mohammed_bin_Rashid_Al_Maktoum", "date": "1949-07-15", "factors": [2,2,2,11,43,643]},
+{"name": "Max_Schmeling", "date": "1905-09-28", "factors": [2,2,13,23,43,47]},
+{"name": "Martin_Sheen", "date": "1940-08-03", "factors": [2,2,3,17,43,277]},
+{"name": "Judi_Dench", "date": "1934-12-09", "factors": [2,2,3,5,43,941]},
+{"name": "John_Cusack", "date": "1966-06-28", "factors": [2,2,2,7,43,1013]},
+{"name": "Hamilton_O._Smith", "date": "1931-08-23", "factors": [2,2,2,2,43,3527]},
+{"name": "Charles_Louis_Alphonse_Laveran", "date": "1845-06-18", "factors": [2,2,5,5,43,557]},
+{"name": "Carl_Bildt", "date": "1949-07-15", "factors": [2,2,2,11,43,643]},
+{"name": "Aleksey_Konstantinovich_Tolstoy", "date": "1817-09-05", "factors": [2,2,2,3,43,2311]},
+null ] };

@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Álvaro_Obregón", "date": "1880-02-19", "factors": [2,2,3,283,709]},
+{"name": "Varg_Vikernes", "date": "1973-02-11", "factors": [2,2,3,283,719]},
+{"name": "Norman_Borlaug", "date": "1914-03-25", "factors": [2,2,2,283,1069]},
+{"name": "Michael_Bloomberg", "date": "1942-02-14", "factors": [2,2,19,113,283]},
+{"name": "Frank_Abagnale", "date": "1948-04-27", "factors": [2,2,7,283,307]},
+{"name": "Clara_Schumann", "date": "1819-09-13", "factors": [2,3,5,281,283]},
+null ] };

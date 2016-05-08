@@ -1,0 +1,14 @@
+{"births": [
+{"name": "Willis_Lamb", "date": "1913-07-12", "factors": [2,2,2,5,101,599]},
+{"name": "Teófilo_Stevenson", "date": "1952-03-29", "factors": [2,2,5,5,101,241]},
+{"name": "Sirimavo_Bandaranaike", "date": "1916-04-17", "factors": [2,3,5,17,47,101]},
+{"name": "Michael_Curtiz", "date": "1886-12-24", "factors": [2,2,2,19,101,157]},
+{"name": "Marin_Čilić", "date": "1988-09-28", "factors": [2,2,2,13,101,233]},
+{"name": "Maria_Montessori", "date": "1870-08-31", "factors": [3,3,5,23,23,101]},
+{"name": "Lukas_Podolski", "date": "1985-06-04", "factors": [2,2,5,7,101,173]},
+{"name": "Konrad_Lorenz", "date": "1903-11-07", "factors": [3,5,5,11,29,101]},
+{"name": "James_Madison", "date": "1751-03-16", "factors": [3,3,7,7,53,101]},
+{"name": "Gerhard_Domagk", "date": "1895-10-30", "factors": [2,2,2,29,101,103]},
+{"name": "Edward_Hopper", "date": "1882-07-22", "factors": [2,2,2,11,101,271]},
+{"name": "Bar_Refaeli", "date": "1985-06-04", "factors": [2,2,5,7,101,173]},
+null ] };

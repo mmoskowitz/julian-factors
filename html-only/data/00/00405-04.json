@@ -1,0 +1,14 @@
+{"births": [
+{"name": "Samuel_Morse", "date": "1791-04-27", "factors": [3,3,3,3,3,5,5,17,23]},
+{"name": "Michael_Shanks", "date": "1970-12-15", "factors": [3,3,3,3,3,5,7,7,41]},
+{"name": "Marshall_Allman", "date": "1984-04-05", "factors": [3,3,3,3,3,3,5,11,61]},
+{"name": "Magnus_Carlsen", "date": "1990-11-30", "factors": [3,3,3,3,3,5,5,13,31]},
+{"name": "John_Terry", "date": "1980-12-07", "factors": [2,2,3,3,3,3,3,5,503]},
+{"name": "John_Rhys-Davies", "date": "1944-05-05", "factors": [3,3,3,3,3,3,5,23,29]},
+{"name": "Jean-Michel_Basquiat", "date": "1960-12-22", "factors": [2,3,3,3,3,3,5,17,59]},
+{"name": "Crispin_Glover", "date": "1964-04-20", "factors": [3,3,3,3,3,3,3,5,223]},
+{"name": "Clemens_Fritz", "date": "1980-12-07", "factors": [2,2,3,3,3,3,3,5,503]},
+{"name": "Bertha_von_Suttner", "date": "1843-06-09", "factors": [2,2,2,3,3,3,3,5,739]},
+{"name": "Andy_Serkis", "date": "1964-04-20", "factors": [3,3,3,3,3,3,3,5,223]},
+{"name": "Alexander_R._Todd,_Baron_Todd", "date": "1907-10-02", "factors": [2,3,3,3,3,3,5,5,199]},
+null ] };

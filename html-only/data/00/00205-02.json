@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Thorstein_Veblen", "date": "1857-07-30", "factors": [5,5,41,2341]},
+{"name": "Mathieu_Kassovitz", "date": "1967-08-03", "factors": [3,5,41,3967]},
+{"name": "Jesse_Jackson", "date": "1941-10-08", "factors": [5,5,41,2371]},
+{"name": "Gordon_Cooper", "date": "1927-03-06", "factors": [3,5,41,3943]},
+{"name": "Gabriel_García_Márquez", "date": "1927-03-06", "factors": [3,5,41,3943]},
+{"name": "Brendan_Gleeson", "date": "1955-03-29", "factors": [5,7,41,1697]},
+{"name": "Al_Oerter", "date": "1936-09-19", "factors": [2,5,41,5923]},
+null ] };

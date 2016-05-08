@@ -1,0 +1,13 @@
+{"births": [
+{"name": "Sauli_Niinistö", "date": "1948-08-24", "factors": [3,7,31,37,101]},
+{"name": "Ricardo_Martinelli", "date": "1952-03-11", "factors": [2,7,37,37,127]},
+{"name": "Paul_Langevin", "date": "1872-01-23", "factors": [3,5,7,37,619]},
+{"name": "Kevin_Carter", "date": "1960-09-13", "factors": [2,5,7,37,941]},
+{"name": "Jimmy_Greaves", "date": "1940-02-20", "factors": [3,7,37,53,59]},
+{"name": "Jean_Michel_Jarre", "date": "1948-08-24", "factors": [3,7,31,37,101]},
+{"name": "Imran_Khan", "date": "1952-11-25", "factors": [3,7,13,37,241]},
+{"name": "Eva_Mendes", "date": "1974-03-05", "factors": [3,7,7,37,449]},
+{"name": "Douglas_Adams", "date": "1952-03-11", "factors": [2,7,37,37,127]},
+{"name": "Dennis_Gabor", "date": "1900-06-05", "factors": [5,5,7,37,373]},
+{"name": "Bob_Marley", "date": "1945-02-06", "factors": [2,2,7,37,2347]},
+null ] };

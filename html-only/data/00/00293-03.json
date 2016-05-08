@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Yang_Liwei", "date": "1965-06-21", "factors": [2,2,293,2081]},
+{"name": "William_Shockley", "date": "1910-02-13", "factors": [5,13,127,293]},
+{"name": "John_Searle", "date": "1932-07-31", "factors": [3,11,251,293]},
+{"name": "Isaac_Newton", "date": "1642-12-25", "factors": [2,17,233,293]},
+{"name": "Edwin_McMillan", "date": "1907-09-18", "factors": [2,2,293,2063]},
+{"name": "César_Milstein", "date": "1927-10-08", "factors": [3,31,89,293]},
+{"name": "Charles_W._Fairbanks", "date": "1852-05-11", "factors": [7,7,167,293]},
+null ] };

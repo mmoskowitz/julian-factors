@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Tite_Kubo", "date": "1977-06-26", "factors": [2,2,2,3,3,5,11,617]},
+{"name": "Ramzan_Kadyrov", "date": "1976-10-05", "factors": [2,2,2,2,3,7,11,661]},
+{"name": "Priyanka_Chopra", "date": "1982-07-18", "factors": [2,2,2,2,3,11,11,421]},
+{"name": "Luis_Buñuel", "date": "1900-02-22", "factors": [2,2,2,2,2,3,11,2287]},
+{"name": "Friedrich_Gottlieb_Klopstock", "date": "1724-07-02", "factors": [2,2,2,3,5,11,13,137]},
+{"name": "Bill_Russell", "date": "1934-02-12", "factors": [2,2,2,3,3,5,11,613]},
+{"name": "Ayman_al-Zawahiri", "date": "1951-06-19", "factors": [2,2,2,3,3,7,11,439]},
+{"name": "Abraham_de_Moivre", "date": "1667-05-26", "factors": [2,2,2,2,3,3,11,1471]},
+null ] };

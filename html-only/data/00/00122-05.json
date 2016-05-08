@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Yannick_Noah", "date": "1960-05-18", "factors": [2,2,2,2,11,61,227]},
+{"name": "Mirek_Topolánek", "date": "1956-05-15", "factors": [2,2,2,7,23,31,61]},
+{"name": "Kostas_Karamanlis", "date": "1956-09-14", "factors": [2,3,5,11,11,11,61]},
+{"name": "Jules_Verne", "date": "1828-02-08", "factors": [2,2,2,5,11,61,89]},
+{"name": "Gene_Roddenberry", "date": "1921-08-19", "factors": [2,2,2,3,5,61,331]},
+{"name": "Clifford_Geertz", "date": "1926-08-23", "factors": [2,3,5,5,5,53,61]},
+{"name": "Andriy_Shevchenko", "date": "1976-09-29", "factors": [2,3,3,5,5,61,89]},
+null ] };

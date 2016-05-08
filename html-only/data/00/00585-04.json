@@ -1,0 +1,6 @@
+{"births": [
+{"name": "Wilhelm_Frick", "date": "1877-03-12", "factors": [2,3,3,5,11,11,13,17]},
+{"name": "Warwick_Davis", "date": "1970-02-03", "factors": [2,2,3,3,5,7,13,149]},
+{"name": "Ingvar_Carlsson", "date": "1934-11-09", "factors": [2,3,3,5,5,5,13,83]},
+{"name": "Carl_Sagan", "date": "1934-11-09", "factors": [2,3,3,5,5,5,13,83]},
+null ] };

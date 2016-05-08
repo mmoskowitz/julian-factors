@@ -1,0 +1,6 @@
+{"births": [
+{"name": "Robert_Bosch", "date": "1861-09-23", "factors": [3,37,97,223]},
+{"name": "Pier_Paolo_Pasolini", "date": "1922-03-05", "factors": [2,3,223,1811]},
+{"name": "Criss_Angel", "date": "1967-12-19", "factors": [3,7,223,521]},
+{"name": "Aphex_Twin", "date": "1971-08-18", "factors": [3,41,89,223]},
+null ] };

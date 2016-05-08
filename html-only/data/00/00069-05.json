@@ -1,0 +1,12 @@
+{"births": [
+{"name": "Ruud_Gullit", "date": "1962-09-01", "factors": [2,2,3,11,11,23,73]},
+{"name": "Philip_Pullman", "date": "1946-10-19", "factors": [2,2,2,2,3,23,2203]},
+{"name": "Nikos_Kazantzakis", "date": "1883-02-18", "factors": [3,3,3,3,3,23,431]},
+{"name": "Michael_Wittmann", "date": "1914-04-22", "factors": [2,2,3,3,23,37,79]},
+{"name": "John_Belushi", "date": "1949-01-24", "factors": [2,2,3,5,23,41,43]},
+{"name": "Jarkko_Nieminen", "date": "1981-07-23", "factors": [2,2,2,3,23,43,103]},
+{"name": "George_Clooney", "date": "1961-05-06", "factors": [3,3,3,5,5,23,157]},
+{"name": "Bode_Miller", "date": "1977-10-12", "factors": [2,2,3,3,13,23,227]},
+{"name": "Andreu_Fontàs", "date": "1989-11-14", "factors": [2,2,3,7,7,23,181]},
+{"name": "Anastacia", "date": "1968-09-17", "factors": [2,2,3,3,7,23,421]},
+null ] };

@@ -1,0 +1,10 @@
+{"births": [
+{"name": "William_Henry_Harrison", "date": "1773-02-09", "factors": [2,3,3,7,11,1709]},
+{"name": "Stefanía_Fernández", "date": "1990-09-04", "factors": [2,3,7,7,11,757]},
+{"name": "Larry_Sanger", "date": "1968-07-16", "factors": [3,3,7,7,11,503]},
+{"name": "Johann_Gottfried_Herder", "date": "1744-08-25", "factors": [3,3,7,11,41,83]},
+{"name": "Georges_Lemaître", "date": "1894-07-17", "factors": [2,3,3,7,11,1741]},
+{"name": "George_Smoot", "date": "1945-02-20", "factors": [2,3,7,11,19,277]},
+{"name": "George_Emil_Palade", "date": "1912-11-19", "factors": [3,5,5,7,11,419]},
+{"name": "Elvis_Presley", "date": "1935-01-08", "factors": [2,3,5,7,11,1051]},
+null ] };

@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Sophia_Loren", "date": "1934-09-20", "factors": [2,2,5,5,11,2207]},
+{"name": "Philip_Roth", "date": "1933-03-19", "factors": [2,3,5,5,11,1471]},
+{"name": "Ginnifer_Goodwin", "date": "1978-05-22", "factors": [2,3,5,5,11,1481]},
+{"name": "E._M._Forster", "date": "1879-01-01", "factors": [2,3,5,5,11,1459]},
+{"name": "Donald_Tusk", "date": "1957-04-22", "factors": [2,5,5,11,43,103]},
+{"name": "Annie_Jump_Cannon", "date": "1863-12-11", "factors": [2,5,5,11,11,397]},
+null ] };

@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Sandro_Pertini", "date": "1896-09-25", "factors": [3,3,3,13,13,529]},
+{"name": "Robert_F._Kennedy", "date": "1925-11-20", "factors": [2,3,3,13,13,797]},
+{"name": "Michel_Ney", "date": "1769-01-10", "factors": [3,7,13,13,23,29]},
+{"name": "Maya_Plisetskaya", "date": "1925-11-20", "factors": [2,3,3,13,13,797]},
+{"name": "Joséphine_de_Beauharnais", "date": "1763-06-23", "factors": [3,3,5,13,13,311]},
+{"name": "John_Dryden", "date": "1631-08-09", "factors": [2,3,5,13,13,457]},
+{"name": "Adolf_Erik_Nordenskiöld", "date": "1832-11-18", "factors": [3,5,13,13,23,41]},
+null ] };

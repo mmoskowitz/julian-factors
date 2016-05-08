@@ -1,0 +1,13 @@
+{"births": [
+{"name": "Shania_Twain", "date": "1965-08-28", "factors": [2,2,2,3,3,5,5,5,271]},
+{"name": "Satoshi_Tajiri", "date": "1965-08-28", "factors": [2,2,2,3,3,5,5,5,271]},
+{"name": "Pope_Leo_XII", "date": "1760-08-22", "factors": [2,2,2,3,3,3,5,11,199]},
+{"name": "Keanu_Reeves", "date": "1964-09-02", "factors": [2,2,2,2,3,3,3,5,1129]},
+{"name": "Karl_Pearson", "date": "1857-03-27", "factors": [2,2,2,3,3,5,5,31,43]},
+{"name": "James_Gandolfini", "date": "1961-09-18", "factors": [2,2,2,3,3,3,5,37,61]},
+{"name": "Garret_Hobart", "date": "1844-06-03", "factors": [2,2,2,2,2,3,3,5,1663]},
+{"name": "Erica_Durance", "date": "1978-06-21", "factors": [2,2,2,2,2,3,3,5,1697]},
+{"name": "Bertha_von_Suttner", "date": "1843-06-09", "factors": [2,2,2,3,3,3,3,5,739]},
+{"name": "Bernard_Werber", "date": "1961-09-18", "factors": [2,2,2,3,3,3,5,37,61]},
+{"name": "Amanda_Tapping", "date": "1965-08-28", "factors": [2,2,2,3,3,5,5,5,271]},
+null ] };

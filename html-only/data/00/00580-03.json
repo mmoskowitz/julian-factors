@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Sarah_Brightman", "date": "1960-08-14", "factors": [2,2,2,5,11,29,191]},
+{"name": "Pauleta", "date": "1973-04-28", "factors": [2,2,2,5,5,29,421]},
+{"name": "Marcel_Duchamp", "date": "1887-07-28", "factors": [2,2,2,2,5,29,1039]},
+{"name": "Kiefer_Sutherland", "date": "1966-12-21", "factors": [2,2,2,3,5,29,701]},
+{"name": "Jorge_Garcia", "date": "1973-04-28", "factors": [2,2,2,5,5,29,421]},
+{"name": "George_Harrison", "date": "1943-02-25", "factors": [2,2,3,5,11,29,127]},
+{"name": "Blaise_Compaoré", "date": "1951-02-03", "factors": [2,2,2,2,5,29,1049]},
+null ] };

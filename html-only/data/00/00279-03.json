@@ -1,0 +1,12 @@
+{"births": [
+{"name": "Woody_Allen", "date": "1935-12-01", "factors": [3,3,3,3,31,967]},
+{"name": "Ursula_K._Le_Guin", "date": "1929-10-21", "factors": [3,3,5,31,37,47]},
+{"name": "Tariq_Ramadan", "date": "1962-08-26", "factors": [2,3,3,17,31,257]},
+{"name": "Rudolf_Nureyev", "date": "1938-03-17", "factors": [2,3,3,3,31,1451]},
+{"name": "Nicolas_Steno", "date": "1638-01-01", "factors": [3,3,3,17,31,163]},
+{"name": "Manuel_Zelaya", "date": "1952-09-20", "factors": [3,3,5,5,31,349]},
+{"name": "Ludwig_Wittgenstein", "date": "1889-04-26", "factors": [2,3,3,29,31,149]},
+{"name": "Lucie_Šafářová", "date": "1987-02-04", "factors": [2,3,3,5,31,877]},
+{"name": "Chad_Kroeger", "date": "1974-11-15", "factors": [2,3,3,3,31,1459]},
+{"name": "Cesare_Lombroso", "date": "1835-11-06", "factors": [2,2,3,3,31,2143]},
+null ] };

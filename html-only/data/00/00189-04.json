@@ -1,0 +1,8 @@
+{"births": [
+{"name": "William_Dampier", "date": "1651-09-05", "factors": [2,3,3,3,7,11,13,43]},
+{"name": "Maurice_de_Vlaminck", "date": "1876-04-04", "factors": [2,2,3,3,3,3,7,1061]},
+{"name": "Hilary_Swank", "date": "1974-07-30", "factors": [2,3,3,3,7,7,13,71]},
+{"name": "George_Westinghouse", "date": "1846-10-06", "factors": [3,3,3,3,5,5,7,169]},
+{"name": "Frank_Sherwood_Rowland", "date": "1927-06-28", "factors": [3,3,3,3,7,7,13,47]},
+{"name": "Ferdinand_de_Lesseps", "date": "1805-11-19", "factors": [2,2,3,3,3,7,47,67]},
+null ] };

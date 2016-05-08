@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Peter_MacNicol", "date": "1954-04-10", "factors": [2,3,3,17,73,109]},
+{"name": "Olivia_de_Havilland", "date": "1916-07-01", "factors": [3,3,5,11,67,73]},
+{"name": "Linda_B._Buck", "date": "1947-01-29", "factors": [2,3,3,3,73,617]},
+{"name": "Leander_Paes", "date": "1973-06-17", "factors": [2,3,5,5,73,223]},
+{"name": "Gustav_Klimt", "date": "1862-07-14", "factors": [3,3,5,17,43,73]},
+{"name": "Eugène_Ionesco", "date": "1909-11-26", "factors": [2,2,3,11,73,251]},
+{"name": "Emil_Constantinescu", "date": "1939-11-19", "factors": [2,3,3,43,43,73]},
+{"name": "Bjørn_Dæhlie", "date": "1967-06-19", "factors": [2,2,3,5,73,557]},
+null ] };

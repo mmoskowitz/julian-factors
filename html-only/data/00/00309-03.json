@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Władysław_Reymont", "date": "1867-05-07", "factors": [3,7,11,101,103]},
+{"name": "Walter_Kohn", "date": "1923-03-09", "factors": [3,11,23,31,103]},
+{"name": "Selma_Lagerlöf", "date": "1858-11-20", "factors": [3,3,3,103,863]},
+{"name": "Selena_Gomez", "date": "1992-07-22", "factors": [3,5,5,103,317]},
+{"name": "Gregor_Schlierenzauer", "date": "1990-01-07", "factors": [2,3,17,103,233]},
+{"name": "Charles_G._Dawes", "date": "1865-08-27", "factors": [3,5,5,103,311]},
+null ] };

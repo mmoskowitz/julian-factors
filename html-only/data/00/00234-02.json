@@ -1,0 +1,11 @@
+{"births": [
+{"name": "Wilkie_Collins", "date": "1824-01-08", "factors": [2,2,3,3,13,5101]},
+{"name": "Robert_F._Kennedy", "date": "1925-11-20", "factors": [2,3,3,13,13,797]},
+{"name": "Oskar_Kokoschka", "date": "1886-03-01", "factors": [2,3,3,3,13,3433]},
+{"name": "Mikhail_Bakunin", "date": "1814-05-30", "factors": [2,3,3,13,61,167]},
+{"name": "Maya_Plisetskaya", "date": "1925-11-20", "factors": [2,3,3,13,13,797]},
+{"name": "Kim_Cattrall", "date": "1956-08-21", "factors": [2,3,3,7,13,1487]},
+{"name": "Ivica_Olić", "date": "1979-09-14", "factors": [2,3,3,5,13,2089]},
+{"name": "Haile_Gebrselassie", "date": "1973-04-18", "factors": [2,3,3,5,13,2087]},
+{"name": "George_Best", "date": "1946-05-22", "factors": [2,3,3,13,19,547]},
+null ] };

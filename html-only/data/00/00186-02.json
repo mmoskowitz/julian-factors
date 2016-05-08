@@ -1,0 +1,16 @@
+{"births": [
+{"name": "Willy_Messerschmitt", "date": "1898-06-26", "factors": [2,3,3,31,4327]},
+{"name": "Theo_van_Gogh_(film_director)", "date": "1957-07-23", "factors": [2,3,7,31,1871]},
+{"name": "Stellan_Skarsgård", "date": "1951-06-13", "factors": [2,3,5,31,2617]},
+{"name": "Spiro_Agnew", "date": "1918-11-09", "factors": [2,3,29,31,449]},
+{"name": "Philip_Warren_Anderson", "date": "1923-12-13", "factors": [2,3,31,83,157]},
+{"name": "Miroslav_Klose", "date": "1978-06-09", "factors": [2,2,3,31,6569]},
+{"name": "Matthew_Bellamy", "date": "1978-06-09", "factors": [2,2,3,31,6569]},
+{"name": "Frederick_Winslow_Taylor", "date": "1856-03-20", "factors": [2,2,3,31,6449]},
+{"name": "François_Mitterrand", "date": "1916-10-26", "factors": [2,3,3,31,4339]},
+{"name": "Ferenc_Mádl", "date": "1931-01-29", "factors": [2,3,5,31,2609]},
+{"name": "Chuck_Palahniuk", "date": "1962-02-21", "factors": [2,2,3,31,6553]},
+{"name": "Cesare_Maldini", "date": "1932-02-05", "factors": [2,3,3,31,4349]},
+{"name": "Antoni_Tàpies", "date": "1923-12-13", "factors": [2,3,31,83,157]},
+{"name": "Alfred_Gusenbauer", "date": "1960-02-08", "factors": [2,2,3,31,6551]},
+null ] };

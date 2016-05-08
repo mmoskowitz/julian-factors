@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Vladimir_Zhirinovsky", "date": "1946-04-25", "factors": [3,3,5,11,17,289]},
+{"name": "Talia_Shire", "date": "1946-04-25", "factors": [3,3,5,11,17,289]},
+{"name": "Rosalind_Franklin", "date": "1920-07-25", "factors": [2,3,3,5,11,2447]},
+{"name": "Olivia_de_Havilland", "date": "1916-07-01", "factors": [3,3,5,11,67,73]},
+{"name": "Julio_Ricardo_Cruz", "date": "1974-10-10", "factors": [2,3,3,5,11,2467]},
+{"name": "Chester_A._Arthur", "date": "1829-10-05", "factors": [3,3,3,5,11,1609]},
+null ] };

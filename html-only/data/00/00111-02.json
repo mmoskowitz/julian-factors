@@ -1,0 +1,17 @@
+{"births": [
+{"name": "Thomas_Klestil", "date": "1932-11-04", "factors": [3,5,37,4373]},
+{"name": "Robert_Bosch", "date": "1861-09-23", "factors": [3,37,97,223]},
+{"name": "Ram_Narayan", "date": "1927-12-25", "factors": [3,3,37,7283]},
+{"name": "Paul_Klee", "date": "1879-12-18", "factors": [3,37,109,199]},
+{"name": "Nicolas_Boileau-Despréaux", "date": "1636-11-01", "factors": [3,13,37,1607]},
+{"name": "Koichi_Tanaka", "date": "1959-08-03", "factors": [3,29,37,757]},
+{"name": "Kate_Beckinsale", "date": "1973-07-26", "factors": [3,3,37,7333]},
+{"name": "Francisco_Goya", "date": "1746-03-30", "factors": [3,37,79,269]},
+{"name": "Ferdinand_von_Wrangel", "date": "1796-12-29", "factors": [2,3,37,10709]},
+{"name": "Daniel_Barenboim", "date": "1942-11-15", "factors": [2,3,37,10949]},
+{"name": "Clint_Eastwood", "date": "1930-05-31", "factors": [3,11,37,1987]},
+{"name": "Chuck_Yeager", "date": "1923-02-13", "factors": [3,7,37,3119]},
+{"name": "Blaise_Pascal", "date": "1623-06-19", "factors": [3,3,37,6949]},
+{"name": "Audrey_Tautou", "date": "1976-08-09", "factors": [3,13,37,1693]},
+{"name": "Alexandre_Cabanel", "date": "1823-09-28", "factors": [2,3,37,10753]},
+null ] };

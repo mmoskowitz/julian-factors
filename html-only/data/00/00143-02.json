@@ -1,0 +1,15 @@
+{"births": [
+{"name": "Wolfgang_Paul", "date": "1913-08-10", "factors": [3,11,13,5641]},
+{"name": "Victoria_Beckham", "date": "1974-04-17", "factors": [2,11,13,8539]},
+{"name": "Tom_Clancy", "date": "1947-04-12", "factors": [11,13,73,233]},
+{"name": "Santiago_Bernabéu_Yeste", "date": "1895-08-06", "factors": [7,11,13,2411]},
+{"name": "Rigoberta_Menchú", "date": "1959-01-09", "factors": [11,11,13,1549]},
+{"name": "Jan_Neruda", "date": "1834-07-09", "factors": [11,13,23,727]},
+{"name": "Italo_Calvino", "date": "1923-10-15", "factors": [11,13,17,997]},
+{"name": "Gotthard_Heinrici", "date": "1886-12-25", "factors": [5,11,13,3371]},
+{"name": "Felicity_Huffman", "date": "1962-12-09", "factors": [3,11,13,5683]},
+{"name": "David_Letterman", "date": "1947-04-12", "factors": [11,13,73,233]},
+{"name": "Clarence_Seedorf", "date": "1976-04-01", "factors": [11,11,13,1553]},
+{"name": "Birgit_Prinz", "date": "1977-10-25", "factors": [7,11,13,2441]},
+{"name": "Adam_Clayton", "date": "1960-03-13", "factors": [2,11,13,8521]},
+null ] };

@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Richard_E._Taylor", "date": "1929-11-02", "factors": [3,13,17,3659]},
+{"name": "Paul_Éluard", "date": "1895-12-14", "factors": [13,17,67,163]},
+{"name": "Kim_Stanley_Robinson", "date": "1952-03-23", "factors": [2,13,17,5507]},
+{"name": "Italo_Calvino", "date": "1923-10-15", "factors": [11,13,17,997]},
+{"name": "Fabio_Quagliarella", "date": "1983-01-31", "factors": [5,13,17,2213]},
+{"name": "Beau_Bridges", "date": "1941-12-09", "factors": [7,13,17,1571]},
+{"name": "Anthony_Perkins", "date": "1932-04-04", "factors": [13,17,79,139]},
+{"name": "Andrei_Tarkovsky", "date": "1932-04-04", "factors": [13,17,79,139]},
+null ] };

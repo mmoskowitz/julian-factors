@@ -1,0 +1,13 @@
+{"births": [
+{"name": "Vasily_Smyslov", "date": "1921-03-24", "factors": [2,2,11,17,41,79]},
+{"name": "Simone_Barone", "date": "1978-04-30", "factors": [2,2,11,19,37,79]},
+{"name": "Roza_Otunbayeva", "date": "1950-08-23", "factors": [2,2,3,17,79,151]},
+{"name": "Riyo_Mori", "date": "1986-12-24", "factors": [2,2,3,29,79,89]},
+{"name": "Peter_Mansfield", "date": "1933-10-09", "factors": [2,3,3,3,79,569]},
+{"name": "Loreena_McKennitt", "date": "1957-02-17", "factors": [2,3,3,3,79,571]},
+{"name": "Joseph_Black", "date": "1728-04-16", "factors": [2,2,2,2,79,1861]},
+{"name": "Fredrik_Bajer", "date": "1837-04-21", "factors": [2,2,2,5,79,757]},
+{"name": "Dieter_Bohlen", "date": "1954-02-07", "factors": [2,2,5,23,67,79]},
+{"name": "Alan_MacDiarmid", "date": "1927-04-14", "factors": [2,2,2,3,79,1279]},
+{"name": "Abraham_Maslow", "date": "1908-04-01", "factors": [2,2,2,2,79,1913]},
+null ] };

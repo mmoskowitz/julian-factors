@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Veronica_Lake", "date": "1922-11-14", "factors": [2,2,7,23,53,71]},
+{"name": "Norbert_Elias", "date": "1897-06-22", "factors": [3,3,3,7,53,241]},
+{"name": "Michael_Bublé", "date": "1975-09-09", "factors": [2,2,2,7,53,823]},
+{"name": "James_Madison", "date": "1751-03-16", "factors": [3,3,7,7,53,101]},
+{"name": "Ismail_Kadare", "date": "1936-01-28", "factors": [5,7,7,11,17,53]},
+{"name": "Boutros_Boutros-Ghali", "date": "1922-11-14", "factors": [2,2,7,23,53,71]},
+{"name": "Bill_Paxton", "date": "1955-05-17", "factors": [2,2,3,7,53,547]},
+{"name": "Alan_Alda", "date": "1936-01-28", "factors": [5,7,7,11,17,53]},
+null ] };

@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Otto_Preminger", "date": "1905-12-05", "factors": [2,2,2,2,2,3,3,7,11,109]},
+{"name": "Neil_Gaiman", "date": "1960-11-10", "factors": [2,2,2,2,2,2,2,3,11,577]},
+{"name": "Kim_Yong-nam", "date": "1928-02-04", "factors": [2,2,2,2,2,2,5,11,13,53]},
+{"name": "Jules_A._Hoffmann", "date": "1941-08-02", "factors": [2,2,2,2,2,2,2,2,11,863]},
+{"name": "Joey_Jordison", "date": "1975-04-26", "factors": [2,2,2,2,2,3,3,3,11,257]},
+{"name": "Joel_Schumacher", "date": "1939-08-29", "factors": [2,2,2,2,2,2,7,11,17,29]},
+null ] };

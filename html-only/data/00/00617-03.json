@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Ornette_Coleman", "date": "1930-03-09", "factors": [2,2,617,983]},
+{"name": "Mohamed_Bouazizi", "date": "1984-03-29", "factors": [2,2,617,991]},
+{"name": "Juan_Mónaco", "date": "1984-03-29", "factors": [2,2,617,991]},
+{"name": "John_McLaughlin_(musician)", "date": "1942-01-04", "factors": [3,13,101,617]},
+{"name": "Javier_Pérez_de_Cuéllar", "date": "1920-01-19", "factors": [2,13,151,617]},
+{"name": "Jason_Bateman", "date": "1969-01-14", "factors": [5,7,113,617]},
+{"name": "Hillel_Slovak", "date": "1962-04-13", "factors": [3,3,439,617]},
+{"name": "Dave_Grohl", "date": "1969-01-14", "factors": [5,7,113,617]},
+null ] };

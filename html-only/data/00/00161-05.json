@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Yann_Tiersen", "date": "1970-06-23", "factors": [2,2,2,5,7,23,379]},
+{"name": "Willard_Boyle", "date": "1924-08-19", "factors": [2,2,2,2,7,23,941]},
+{"name": "Mirek_Topolánek", "date": "1956-05-15", "factors": [2,2,2,7,23,31,61]},
+{"name": "Kevin_Costner", "date": "1955-01-18", "factors": [5,5,5,7,11,11,23]},
+{"name": "Andreu_Fontàs", "date": "1989-11-14", "factors": [2,2,3,7,7,23,181]},
+{"name": "Anastacia", "date": "1968-09-17", "factors": [2,2,3,3,7,23,421]},
+null ] };

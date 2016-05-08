@@ -1,0 +1,17 @@
+{"births": [
+{"name": "William_Anders", "date": "1933-10-17", "factors": [2,7,7,17,31,47]},
+{"name": "Roald_Amundsen", "date": "1872-07-16", "factors": [2,5,7,17,43,47]},
+{"name": "Renzo_Piano", "date": "1937-09-14", "factors": [2,5,7,13,17,157]},
+{"name": "Ramires", "date": "1987-03-24", "factors": [2,3,7,17,23,149]},
+{"name": "Nate_Dogg", "date": "1969-08-19", "factors": [2,2,3,7,17,1709]},
+{"name": "Monica_Vitti", "date": "1931-11-03", "factors": [2,2,2,7,17,2549]},
+{"name": "Matthew_Perry", "date": "1969-08-19", "factors": [2,2,3,7,17,1709]},
+{"name": "Jacques_Derrida", "date": "1930-07-15", "factors": [2,2,3,7,17,1699]},
+{"name": "Ismail_Kadare", "date": "1936-01-28", "factors": [5,7,7,11,17,53]},
+{"name": "Emil_Zátopek", "date": "1922-09-19", "factors": [2,2,3,7,17,1697]},
+{"name": "Dado_Pršo", "date": "1974-11-05", "factors": [2,2,7,7,17,733]},
+{"name": "Bertrand_Delanoë", "date": "1950-05-30", "factors": [7,11,11,13,13,17]},
+{"name": "Angela_Gossow", "date": "1974-11-05", "factors": [2,2,7,7,17,733]},
+{"name": "Alfred_Marshall", "date": "1842-07-26", "factors": [2,3,7,7,17,479]},
+{"name": "Alan_Alda", "date": "1936-01-28", "factors": [5,7,7,11,17,53]},
+null ] };

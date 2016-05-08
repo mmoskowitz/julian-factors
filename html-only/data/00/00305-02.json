@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Sigrid_Undset", "date": "1882-05-20", "factors": [5,53,61,149]},
+{"name": "Max_Müller", "date": "1823-12-06", "factors": [3,5,61,2609]},
+{"name": "Luc_Besson", "date": "1959-03-18", "factors": [3,5,61,2663]},
+{"name": "Kiri_Te_Kanawa", "date": "1944-03-06", "factors": [3,5,61,2657]},
+{"name": "Katie_Leung", "date": "1987-08-08", "factors": [5,61,71,113]},
+{"name": "Irina_Bokova", "date": "1952-07-12", "factors": [5,23,61,347]},
+{"name": "Grafite", "date": "1979-04-02", "factors": [3,5,61,2671]},
+{"name": "Björk", "date": "1965-11-21", "factors": [5,11,61,727]},
+null ] };

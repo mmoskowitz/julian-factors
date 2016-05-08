@@ -1,0 +1,13 @@
+{"births": [
+{"name": "Vladimir_Zhirinovsky", "date": "1946-04-25", "factors": [3,3,5,11,17,289]},
+{"name": "Victoria,_Princess_Royal", "date": "1840-11-21", "factors": [2,3,5,13,17,361]},
+{"name": "Victor_Francis_Hess", "date": "1883-06-24", "factors": [3,3,5,17,47,67]},
+{"name": "Talia_Shire", "date": "1946-04-25", "factors": [3,3,5,11,17,289]},
+{"name": "Sirimavo_Bandaranaike", "date": "1916-04-17", "factors": [2,3,5,17,47,101]},
+{"name": "Maximilian_I_of_Mexico", "date": "1832-07-06", "factors": [2,3,5,17,43,109]},
+{"name": "Luís_Figo", "date": "1972-11-04", "factors": [3,5,5,5,17,383]},
+{"name": "Gustav_Klimt", "date": "1862-07-14", "factors": [3,3,5,17,43,73]},
+{"name": "Blaise_Cendrars", "date": "1887-09-01", "factors": [3,3,5,17,23,137]},
+{"name": "Benjamin_Netanyahu", "date": "1949-10-21", "factors": [2,3,5,13,17,367]},
+{"name": "Arturo_Pérez-Reverte", "date": "1951-11-25", "factors": [3,5,5,17,23,83]},
+null ] };

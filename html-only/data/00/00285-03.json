@@ -1,0 +1,12 @@
+{"births": [
+{"name": "Walter_Samuel", "date": "1978-03-23", "factors": [2,3,3,5,19,1429]},
+{"name": "Tristan_Tzara", "date": "1896-04-16", "factors": [3,3,3,5,19,941]},
+{"name": "Rómulo_Gallegos", "date": "1884-08-02", "factors": [2,3,3,5,19,1409]},
+{"name": "Penélope_Cruz", "date": "1974-04-28", "factors": [3,5,11,19,19,41]},
+{"name": "Otto_Klemperer", "date": "1885-05-14", "factors": [3,5,5,19,19,89]},
+{"name": "Mikhail_Kasyanov", "date": "1957-12-08", "factors": [2,2,3,5,19,2137]},
+{"name": "John_Hughes_(filmmaker)", "date": "1950-02-18", "factors": [2,3,3,5,19,1423]},
+{"name": "Cybill_Shepherd", "date": "1950-02-18", "factors": [2,3,3,5,19,1423]},
+{"name": "Billie_Jean_King", "date": "1943-11-22", "factors": [2,3,5,5,19,853]},
+{"name": "Aleksey_Nikolayevich_Tolstoy", "date": "1883-01-10", "factors": [2,2,3,5,19,2113]},
+null ] };

@@ -1,0 +1,14 @@
+{"births": [
+{"name": "Peter_Ustinov", "date": "1921-04-16", "factors": [5,151,3209]},
+{"name": "Peter_Finch", "date": "1916-09-28", "factors": [2,151,8017]},
+{"name": "Max_Frisch", "date": "1911-05-15", "factors": [37,151,433]},
+{"name": "Martin_Škrtel", "date": "1984-12-15", "factors": [97,151,167]},
+{"name": "Klement_Gottwald", "date": "1896-11-23", "factors": [2,151,7993]},
+{"name": "Johannes_Heesters", "date": "1903-12-05", "factors": [13,151,1231]},
+{"name": "Jim_Clark", "date": "1936-03-04", "factors": [13,151,1237]},
+{"name": "Jean-Bertrand_Aristide", "date": "1953-07-15", "factors": [23,151,701]},
+{"name": "Guy_de_Maupassant", "date": "1850-08-05", "factors": [2,151,7937]},
+{"name": "Greg_Kinnear", "date": "1963-06-17", "factors": [67,151,241]},
+{"name": "David_Caruso", "date": "1956-01-07", "factors": [127,127,151]},
+{"name": "Aaron_Ciechanover", "date": "1947-10-01", "factors": [89,151,181]},
+null ] };

@@ -1,0 +1,13 @@
+{"births": [
+{"name": "Vincent_van_Gogh", "date": "1853-03-30", "factors": [2,3,3,101,1319]},
+{"name": "Theo_van_Doesburg", "date": "1883-08-30", "factors": [2,2,67,89,101]},
+{"name": "Ozzy_Osbourne", "date": "1948-12-03", "factors": [2,2,2,101,3011]},
+{"name": "Michael_Andreas_Barclay_de_Tolly", "date": "1761-12-27", "factors": [2,2,3,101,1951]},
+{"name": "Max_Weber", "date": "1864-04-21", "factors": [2,11,23,47,101]},
+{"name": "Leopold_Kronecker", "date": "1823-12-07", "factors": [2,2,19,101,311]},
+{"name": "Jozy_Altidore", "date": "1989-11-06", "factors": [2,2,73,83,101]},
+{"name": "Herbert_Kitchener,_1st_Earl_Kitchener", "date": "1850-06-24", "factors": [2,2,17,101,349]},
+{"name": "Henry_Morton_Stanley", "date": "1841-01-28", "factors": [2,17,17,41,101]},
+{"name": "Erich_Kästner", "date": "1899-02-23", "factors": [2,2,43,101,139]},
+{"name": "Bixente_Lizarazu", "date": "1969-12-09", "factors": [2,2,7,101,863]},
+null ] };

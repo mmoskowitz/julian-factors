@@ -1,0 +1,11 @@
+{"births": [
+{"name": "Vyacheslav_Molotov", "date": "1890-03-09", "factors": [5,13,23,1613]},
+{"name": "Stefan_Effenberg", "date": "1968-08-02", "factors": [2,5,23,10609]},
+{"name": "Ryan_Gosling", "date": "1980-11-12", "factors": [5,23,29,733]},
+{"name": "Princess_Madeleine,_Duchess_of_Hälsingland_and_Gästrikland", "date": "1982-06-10", "factors": [2,5,23,10631]},
+{"name": "Lionel_Messi", "date": "1987-06-24", "factors": [2,5,23,10639]},
+{"name": "John_Franklin_Enders", "date": "1897-02-10", "factors": [3,5,23,6997]},
+{"name": "Irina_Bokova", "date": "1952-07-12", "factors": [5,23,61,347]},
+{"name": "Charles_Dickens", "date": "1812-02-07", "factors": [3,5,23,6907]},
+{"name": "Andrius_Kubilius", "date": "1956-12-08", "factors": [5,23,59,359]},
+null ] };

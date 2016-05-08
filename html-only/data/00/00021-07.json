@@ -1,0 +1,14 @@
+{"births": [
+{"name": "Simon_Kuznets", "date": "1901-04-30", "factors": [2,2,2,2,3,7,7,13,79]},
+{"name": "Silvio_Berlusconi", "date": "1936-09-29", "factors": [2,2,2,3,5,7,7,7,59]},
+{"name": "Mohammed_V_of_Morocco", "date": "1909-08-10", "factors": [2,2,2,2,2,3,7,59,61]},
+{"name": "Michael_Shanks", "date": "1970-12-15", "factors": [3,3,3,3,3,5,7,7,41]},
+{"name": "Martin_Luther_King,_Jr.", "date": "1929-01-15", "factors": [2,3,3,3,3,3,7,23,31]},
+{"name": "Leo_Fender", "date": "1909-08-10", "factors": [2,2,2,2,2,3,7,59,61]},
+{"name": "Lana_Turner", "date": "1921-02-08", "factors": [2,2,2,3,3,7,11,19,23]},
+{"name": "Jules_Michelet", "date": "1798-08-21", "factors": [2,3,3,3,3,3,3,7,233]},
+{"name": "Enrico_Caruso", "date": "1873-02-25", "factors": [2,3,3,3,3,3,7,7,101]},
+{"name": "David_Wenham", "date": "1965-09-21", "factors": [2,2,2,2,3,7,7,17,61]},
+{"name": "Casey_Affleck", "date": "1975-08-12", "factors": [2,2,3,3,3,3,3,7,359]},
+{"name": "Bobby_Fischer", "date": "1943-03-09", "factors": [2,2,2,3,3,7,7,13,53]},
+null ] };

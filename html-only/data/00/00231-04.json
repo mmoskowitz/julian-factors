@@ -1,0 +1,12 @@
+{"births": [
+{"name": "Zaha_Hadid", "date": "1950-10-31", "factors": [3,5,7,7,7,11,43]},
+{"name": "Pat_Morita", "date": "1932-06-28", "factors": [2,3,3,7,11,17,103]},
+{"name": "Neil_Armstrong", "date": "1930-08-05", "factors": [3,3,3,3,7,11,389]},
+{"name": "Kate_Ryan", "date": "1980-07-22", "factors": [2,3,7,11,11,13,37]},
+{"name": "John_Candy", "date": "1950-10-31", "factors": [3,5,7,7,7,11,43]},
+{"name": "Dirk_Kuyt", "date": "1980-07-22", "factors": [2,3,7,11,11,13,37]},
+{"name": "Dean_Acheson", "date": "1893-04-11", "factors": [2,2,3,7,7,11,373]},
+{"name": "André_Citroën", "date": "1878-02-05", "factors": [2,2,3,5,7,11,521]},
+{"name": "Alyssa_Milano", "date": "1972-12-19", "factors": [2,3,5,7,7,11,151]},
+{"name": "Akira_Toriyama", "date": "1955-04-05", "factors": [2,3,3,7,7,11,251]},
+null ] };

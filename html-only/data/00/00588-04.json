@@ -1,0 +1,6 @@
+{"births": [
+{"name": "Simon_Kuznets", "date": "1901-04-30", "factors": [2,2,2,2,3,7,7,13,79]},
+{"name": "Silvio_Berlusconi", "date": "1936-09-29", "factors": [2,2,2,3,5,7,7,7,59]},
+{"name": "David_Wenham", "date": "1965-09-21", "factors": [2,2,2,2,3,7,7,17,61]},
+{"name": "Bobby_Fischer", "date": "1943-03-09", "factors": [2,2,2,3,3,7,7,13,53]},
+null ] };

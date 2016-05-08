@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Władysław_Reymont", "date": "1867-05-07", "factors": [3,7,11,101,103]},
+{"name": "Vincent_van_Gogh", "date": "1853-03-30", "factors": [2,3,3,101,1319]},
+{"name": "Sauli_Niinistö", "date": "1948-08-24", "factors": [3,7,31,37,101]},
+{"name": "Michael_Andreas_Barclay_de_Tolly", "date": "1761-12-27", "factors": [2,2,3,101,1951]},
+{"name": "Jean_Michel_Jarre", "date": "1948-08-24", "factors": [3,7,31,37,101]},
+{"name": "Arthur_Schnitzler", "date": "1862-05-15", "factors": [3,5,5,101,317]},
+null ] };

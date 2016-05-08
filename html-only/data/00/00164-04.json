@@ -1,0 +1,18 @@
+{"births": [
+{"name": "Simo_Häyhä", "date": "1905-12-17", "factors": [2,2,3,17,17,17,41]},
+{"name": "Rudyard_Kipling", "date": "1865-12-30", "factors": [2,2,2,5,5,41,293]},
+{"name": "Robert_Johnson", "date": "1911-05-08", "factors": [2,2,3,3,11,41,149]},
+{"name": "Rafael_Benítez", "date": "1960-04-16", "factors": [2,2,2,2,5,41,743]},
+{"name": "Pehr_Evind_Svinhufvud", "date": "1861-12-15", "factors": [2,2,11,11,11,11,41]},
+{"name": "Natascha_Kampusch", "date": "1988-02-17", "factors": [2,2,2,3,3,41,829]},
+{"name": "Mary_Steenburgen", "date": "1953-02-08", "factors": [2,2,2,2,3,41,1237]},
+{"name": "Marek_Jankulovski", "date": "1977-05-09", "factors": [2,2,2,3,13,41,191]},
+{"name": "Leslie_Cheung", "date": "1956-09-12", "factors": [2,2,2,2,41,47,79]},
+{"name": "John_Belushi", "date": "1949-01-24", "factors": [2,2,3,5,23,41,43]},
+{"name": "Jim_Belushi", "date": "1954-06-15", "factors": [2,2,3,7,7,41,101]},
+{"name": "Frederick_Soddy", "date": "1877-09-02", "factors": [2,2,2,2,3,41,1223]},
+{"name": "Frank_Macfarlane_Burnet", "date": "1899-09-03", "factors": [2,2,5,5,19,31,41]},
+{"name": "Festus_Mogae", "date": "1939-08-21", "factors": [2,2,2,3,3,41,823]},
+{"name": "Bob_Geldof", "date": "1951-10-05", "factors": [2,2,3,3,17,41,97]},
+{"name": "Angelos_Basinas", "date": "1976-01-03", "factors": [2,2,3,3,5,41,331]},
+null ] };

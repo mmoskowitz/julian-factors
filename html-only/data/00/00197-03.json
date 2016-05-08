@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Otto_Dix", "date": "1891-12-02", "factors": [2,2,197,3061]},
+{"name": "Louis_XIII_of_France", "date": "1601-09-27", "factors": [2,3,197,1951]},
+{"name": "Joe_Dassin", "date": "1938-11-05", "factors": [11,19,59,197]},
+{"name": "Henri_Cartier-Bresson", "date": "1908-08-22", "factors": [5,5,197,491]},
+{"name": "Gunnar_Myrdal", "date": "1898-12-06", "factors": [7,17,103,197]},
+{"name": "Danny_Elfman", "date": "1953-05-29", "factors": [2,37,167,197]},
+{"name": "Bruno_Mars", "date": "1985-10-08", "factors": [2,7,197,887]},
+{"name": "Asif_Ali_Zardari", "date": "1955-07-26", "factors": [2,7,197,883]},
+null ] };

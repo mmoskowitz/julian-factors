@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Orhan_Pamuk", "date": "1952-06-07", "factors": [2,3,5,41,1979]},
+{"name": "Liam_Neeson", "date": "1952-06-07", "factors": [2,3,5,41,1979]},
+{"name": "Kofi_Kingston", "date": "1981-08-14", "factors": [2,5,41,67,89]},
+{"name": "Fidel_Castro", "date": "1926-08-13", "factors": [2,2,5,41,2957]},
+{"name": "Eduard_Buchner", "date": "1860-05-20", "factors": [2,5,5,41,1171]},
+{"name": "David_Jarolím", "date": "1979-05-17", "factors": [2,3,5,41,1987]},
+null ] };

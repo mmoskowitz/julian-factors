@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Theo_van_Doesburg", "date": "1883-08-30", "factors": [2,2,67,89,101]},
+{"name": "Steven_Tyler", "date": "1948-03-26", "factors": [2,2,29,67,313]},
+{"name": "Silvia_Saint", "date": "1976-02-12", "factors": [2,2,5,67,1823]},
+{"name": "Robbie_Keane", "date": "1980-07-08", "factors": [2,2,7,67,1303]},
+{"name": "Richard_Rogers", "date": "1933-07-23", "factors": [2,2,3,67,3019]},
+{"name": "Pál_Schmitt", "date": "1942-05-13", "factors": [2,2,3,67,3023]},
+{"name": "Jon_Stewart", "date": "1962-11-28", "factors": [2,2,11,67,827]},
+{"name": "Henry_Cavendish", "date": "1731-10-10", "factors": [2,2,2,67,4391]},
+null ] };

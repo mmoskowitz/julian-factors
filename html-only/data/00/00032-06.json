@@ -1,0 +1,16 @@
+{"births": [
+{"name": "Valery_Chkalov", "date": "1904-02-02", "factors": [2,2,2,2,2,2,2,3,7,29,31]},
+{"name": "Sam_Raimi", "date": "1959-10-23", "factors": [2,2,2,2,2,2,2,2,3,19,167]},
+{"name": "Robert_Green", "date": "1980-01-18", "factors": [2,2,2,2,2,3,3,3,3,23,41]},
+{"name": "Lucy_Liu", "date": "1968-12-02", "factors": [2,2,2,2,2,2,2,2,2,2,2383]},
+{"name": "Kevin_Smith", "date": "1970-08-02", "factors": [2,2,2,2,2,3,3,3,5,5,113]},
+{"name": "Karl_Carstens", "date": "1914-12-14", "factors": [2,2,2,2,2,2,2,2,5,31,61]},
+{"name": "Johann_Heinrich_Pestalozzi", "date": "1746-01-12", "factors": [2,2,2,2,2,2,2,2,2,17,271]},
+{"name": "Jason_Segel", "date": "1980-01-18", "factors": [2,2,2,2,2,3,3,3,3,23,41]},
+{"name": "Hans-Dietrich_Genscher", "date": "1927-03-21", "factors": [2,2,2,2,2,2,2,3,3,5,421]},
+{"name": "Gediminas_Kirkilas", "date": "1951-08-30", "factors": [2,2,2,2,2,3,3,3,3,3,313]},
+{"name": "David_Moyes", "date": "1963-04-25", "factors": [2,2,2,2,2,2,2,2,2,2,2381]},
+{"name": "Behgjet_Pacolli", "date": "1951-08-30", "factors": [2,2,2,2,2,3,3,3,3,3,313]},
+{"name": "Alec_Guinness", "date": "1914-04-02", "factors": [2,2,2,2,2,2,2,2,2,29,163]},
+{"name": "%22Weird_Al%22_Yankovic", "date": "1959-10-23", "factors": [2,2,2,2,2,2,2,2,3,19,167]},
+null ] };

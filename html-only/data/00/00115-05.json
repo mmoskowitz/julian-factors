@@ -1,0 +1,11 @@
+{"births": [
+{"name": "Yann_Tiersen", "date": "1970-06-23", "factors": [2,2,2,5,7,23,379]},
+{"name": "Wangari_Maathai", "date": "1940-04-01", "factors": [2,2,2,5,19,23,139]},
+{"name": "Nguyễn_Minh_Triết", "date": "1942-10-08", "factors": [2,2,2,2,5,23,1321]},
+{"name": "Kevin_Costner", "date": "1955-01-18", "factors": [5,5,5,7,11,11,23]},
+{"name": "Jude_Law", "date": "1972-12-29", "factors": [2,2,2,2,5,23,1327]},
+{"name": "John_Belushi", "date": "1949-01-24", "factors": [2,2,3,5,23,41,43]},
+{"name": "George_Clooney", "date": "1961-05-06", "factors": [3,3,3,5,5,23,157]},
+{"name": "Fyodor_Dostoyevsky", "date": "1821-11-11", "factors": [2,2,2,2,5,23,1297]},
+{"name": "Alejo_Carpentier", "date": "1904-12-26", "factors": [2,2,2,5,23,37,71]},
+null ] };

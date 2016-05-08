@@ -1,0 +1,16 @@
+{"births": [
+{"name": "Yann_Tiersen", "date": "1970-06-23", "factors": [2,2,2,5,7,23,379]},
+{"name": "Willard_Boyle", "date": "1924-08-19", "factors": [2,2,2,2,7,23,941]},
+{"name": "Wangari_Maathai", "date": "1940-04-01", "factors": [2,2,2,5,19,23,139]},
+{"name": "Philip_Pullman", "date": "1946-10-19", "factors": [2,2,2,2,3,23,2203]},
+{"name": "Nguyễn_Minh_Triết", "date": "1942-10-08", "factors": [2,2,2,2,5,23,1321]},
+{"name": "Mirek_Topolánek", "date": "1956-05-15", "factors": [2,2,2,7,23,31,61]},
+{"name": "Martin_Petrov", "date": "1979-01-15", "factors": [2,2,2,2,23,29,229]},
+{"name": "Jude_Law", "date": "1972-12-29", "factors": [2,2,2,2,5,23,1327]},
+{"name": "Jean-Marie_Lehn", "date": "1939-09-30", "factors": [2,2,2,2,2,23,3301]},
+{"name": "Jaume_Bartumeu", "date": "1954-11-10", "factors": [2,2,2,2,13,23,509]},
+{"name": "Jarkko_Nieminen", "date": "1981-07-23", "factors": [2,2,2,3,23,43,103]},
+{"name": "Fyodor_Dostoyevsky", "date": "1821-11-11", "factors": [2,2,2,2,5,23,1297]},
+{"name": "Alejo_Carpentier", "date": "1904-12-26", "factors": [2,2,2,5,23,37,71]},
+{"name": "Alejandro_Sanz", "date": "1968-12-18", "factors": [2,2,2,2,19,23,349]},
+null ] };

@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Philip_K._Dick", "date": "1928-12-16", "factors": [2,2,3,131,1543]},
+{"name": "Patrick_Swayze", "date": "1952-08-18", "factors": [2,3,19,131,163]},
+{"name": "Marcellin_Berthelot", "date": "1827-10-25", "factors": [2,3,3,131,1013]},
+{"name": "Larry_Bird", "date": "1956-12-07", "factors": [2,3,3,131,1033]},
+{"name": "Jimmy_Page", "date": "1944-01-09", "factors": [2,3,3,131,1031]},
+{"name": "Iveta_Radičová", "date": "1956-12-07", "factors": [2,3,3,131,1033]},
+{"name": "Antonin_Artaud", "date": "1896-09-04", "factors": [2,3,37,83,131]},
+null ] };

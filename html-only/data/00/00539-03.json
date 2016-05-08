@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Stefanía_Fernández", "date": "1990-09-04", "factors": [2,3,7,7,11,757]},
+{"name": "Richard_Willstätter", "date": "1872-08-13", "factors": [2,7,7,11,23,97]},
+{"name": "Larry_Sanger", "date": "1968-07-16", "factors": [3,3,7,7,11,503]},
+{"name": "John_Myung", "date": "1967-01-24", "factors": [2,7,7,11,31,73]},
+{"name": "James_Chadwick", "date": "1891-10-20", "factors": [5,5,7,7,11,179]},
+{"name": "Ismail_Kadare", "date": "1936-01-28", "factors": [5,7,7,11,17,53]},
+{"name": "Charles_Fourier", "date": "1772-04-07", "factors": [2,7,7,11,13,169]},
+{"name": "Alan_Alda", "date": "1936-01-28", "factors": [5,7,7,11,17,53]},
+null ] };

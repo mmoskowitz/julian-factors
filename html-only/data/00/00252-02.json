@@ -1,0 +1,13 @@
+{"births": [
+{"name": "Wes_Montgomery", "date": "1923-03-06", "factors": [2,2,3,3,7,59,163]},
+{"name": "Paris_Hilton", "date": "1981-02-17", "factors": [2,2,3,3,7,89,109]},
+{"name": "Mary_Lynn_Rajskub", "date": "1971-06-22", "factors": [2,2,3,3,3,7,3229]},
+{"name": "Laurent_Fabius", "date": "1946-08-20", "factors": [2,2,3,3,3,7,3217]},
+{"name": "Joseph_Gordon-Levitt", "date": "1981-02-17", "factors": [2,2,3,3,7,89,109]},
+{"name": "Jim_Broadbent", "date": "1949-05-24", "factors": [2,2,3,3,5,7,1931]},
+{"name": "Jack_Kirby", "date": "1917-08-28", "factors": [2,2,3,3,3,7,3203]},
+{"name": "Hans_Kelsen", "date": "1881-10-11", "factors": [2,2,3,3,7,19,503]},
+{"name": "Giulio_Andreotti", "date": "1919-01-14", "factors": [2,2,3,3,7,7,1373]},
+{"name": "Antonio_Nocerino", "date": "1985-04-09", "factors": [2,2,3,3,7,17,571]},
+{"name": "Anastacia", "date": "1968-09-17", "factors": [2,2,3,3,7,23,421]},
+null ] };

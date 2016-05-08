@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Pope_Clement_XI", "date": "1649-07-23", "factors": [2,2,3,3,19,43,79]},
+{"name": "Pancho_Villa", "date": "1878-06-05", "factors": [2,2,3,3,5,43,311]},
+{"name": "Mario_Capecchi", "date": "1937-10-06", "factors": [2,2,3,3,3,43,523]},
+{"name": "Kjetil_André_Aamodt", "date": "1971-09-02", "factors": [2,2,3,3,19,43,83]},
+{"name": "John_Belushi", "date": "1949-01-24", "factors": [2,2,3,5,23,41,43]},
+{"name": "Jarkko_Nieminen", "date": "1981-07-23", "factors": [2,2,2,3,23,43,103]},
+null ] };

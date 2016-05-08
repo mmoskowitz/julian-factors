@@ -1,0 +1,15 @@
+{"births": [
+{"name": "Rachel_Bilson", "date": "1981-08-25", "factors": [3,3,7,151,257]},
+{"name": "Mickey_Rourke", "date": "1952-09-16", "factors": [7,7,7,47,151]},
+{"name": "Lal_Bahadur_Shastri", "date": "1904-10-02", "factors": [3,5,11,97,151]},
+{"name": "Jorge_Amado", "date": "1912-08-10", "factors": [2,2,2,151,2003]},
+{"name": "John_Dramani_Mahama", "date": "1958-11-29", "factors": [2,2,2,151,2017]},
+{"name": "Graham_Greene", "date": "1904-10-02", "factors": [3,5,11,97,151]},
+{"name": "Giovanni_Verga", "date": "1840-09-02", "factors": [2,5,5,151,317]},
+{"name": "Fatos_Nano", "date": "1952-09-16", "factors": [7,7,7,47,151]},
+{"name": "Ernst_Cassirer", "date": "1874-07-28", "factors": [2,2,7,151,569]},
+{"name": "Charles_I_of_England", "date": "1600-11-19", "factors": [2,3,5,151,509]},
+{"name": "Bourvil", "date": "1917-07-27", "factors": [2,2,19,151,211]},
+{"name": "Ben_Bernanke", "date": "1953-12-13", "factors": [2,2,29,139,151]},
+{"name": "Aki_Kaurismäki", "date": "1957-04-04", "factors": [2,2,37,109,151]},
+null ] };

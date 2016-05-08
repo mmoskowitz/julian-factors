@@ -1,0 +1,7 @@
+{"births": [
+{"name": "Ossip_Zadkine", "date": "1890-07-04", "factors": [2,2,2,2,2,11,13,17,31]},
+{"name": "Nikolai_Berdyaev", "date": "1874-03-18", "factors": [2,2,2,2,2,5,5,31,97]},
+{"name": "Karl_Pearson", "date": "1857-03-27", "factors": [2,2,2,3,3,5,5,31,43]},
+{"name": "James_Callaghan", "date": "1912-03-27", "factors": [2,2,2,2,2,3,3,31,271]},
+{"name": "George_Eliot", "date": "1819-11-22", "factors": [2,2,2,2,2,5,13,31,37]},
+null ] };

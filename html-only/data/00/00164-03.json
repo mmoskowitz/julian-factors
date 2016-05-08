@@ -1,0 +1,13 @@
+{"births": [
+{"name": "Vasily_Smyslov", "date": "1921-03-24", "factors": [2,2,11,17,41,79]},
+{"name": "Sachin_Tendulkar", "date": "1973-04-24", "factors": [2,2,3,7,41,709]},
+{"name": "Martin_Van_Buren", "date": "1782-12-05", "factors": [2,2,5,11,41,263]},
+{"name": "Lyndon_B._Johnson", "date": "1908-08-27", "factors": [2,2,3,5,41,983]},
+{"name": "Luca_Badoer", "date": "1971-01-25", "factors": [2,2,2,2,41,3721]},
+{"name": "James_Dean", "date": "1931-02-08", "factors": [2,2,5,11,41,269]},
+{"name": "Glenn_Miller", "date": "1904-03-01", "factors": [2,2,5,7,41,421]},
+{"name": "Franz_Werfel", "date": "1890-09-10", "factors": [2,2,5,17,41,173]},
+{"name": "Edvard_Beneš", "date": "1884-05-28", "factors": [2,2,3,41,59,83]},
+{"name": "Billy_the_Kid", "date": "1859-09-17", "factors": [2,2,2,2,41,3659]},
+{"name": "Ben_Gazzara", "date": "1930-08-28", "factors": [2,2,2,13,41,569]},
+null ] };

@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Thomas_Jefferson", "date": "1743-04-13", "factors": [97,109,223]},
+{"name": "Rajneesh", "date": "1931-12-11", "factors": [2,223,5441]},
+{"name": "Mohamed_Sissoko", "date": "1985-01-22", "factors": [7,223,1567]},
+{"name": "Martin_Amis", "date": "1949-08-25", "factors": [3,223,3637]},
+{"name": "Margaret_Atwood", "date": "1939-11-18", "factors": [5,223,2179]},
+{"name": "Loretta_Young", "date": "1913-01-06", "factors": [3,223,3617]},
+{"name": "Gene_Simmons", "date": "1949-08-25", "factors": [3,223,3637]},
+{"name": "Bengt_I._Samuelsson", "date": "1934-05-21", "factors": [2,223,5443]},
+null ] };

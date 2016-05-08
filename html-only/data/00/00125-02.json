@@ -1,0 +1,17 @@
+{"births": [
+{"name": "Tom_Cleverley", "date": "1989-08-12", "factors": [2,5,5,5,9791]},
+{"name": "Tadao_Ando", "date": "1941-09-13", "factors": [2,5,5,5,9721]},
+{"name": "Sándor_Kocsis", "date": "1929-09-21", "factors": [3,5,5,5,6469]},
+{"name": "Michel_Eugène_Chevreul", "date": "1786-08-31", "factors": [5,5,5,17,1117]},
+{"name": "Madhuri_Dixit", "date": "1967-05-15", "factors": [5,5,5,29,673]},
+{"name": "Jack_Kerouac", "date": "1922-03-12", "factors": [5,5,5,5,3877]},
+{"name": "Franka_Potente", "date": "1974-07-22", "factors": [2,5,5,5,9769]},
+{"name": "Emmeline_Pankhurst", "date": "1858-07-15", "factors": [5,5,5,73,263]},
+{"name": "Eduardo_Galeano", "date": "1940-09-03", "factors": [5,5,5,7,2777]},
+{"name": "Christoph_Waltz", "date": "1956-10-04", "factors": [2,5,5,5,9743]},
+{"name": "Christian_Vieri", "date": "1973-07-12", "factors": [5,5,5,5,3907]},
+{"name": "Balthasar_Neumann", "date": "1687-01-27", "factors": [2,5,5,5,9349]},
+{"name": "Asaph_Hall", "date": "1829-10-15", "factors": [5,5,5,5,3823]},
+{"name": "Albert_Kesselring", "date": "1885-11-30", "factors": [5,5,5,13,1483]},
+{"name": "Ahmet_Necdet_Sezer", "date": "1941-09-13", "factors": [2,5,5,5,9721]},
+null ] };

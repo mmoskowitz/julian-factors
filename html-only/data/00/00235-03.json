@@ -1,0 +1,13 @@
+{"births": [
+{"name": "Toni_Braxton", "date": "1967-10-07", "factors": [2,5,29,47,179]},
+{"name": "Seán_MacBride", "date": "1904-01-26", "factors": [5,7,13,47,113]},
+{"name": "Prince_Philip,_Duke_of_Edinburgh", "date": "1921-06-10", "factors": [2,5,5,47,1031]},
+{"name": "Paul_Greengard", "date": "1925-12-11", "factors": [3,5,19,47,181]},
+{"name": "Nebojša_Radmanović", "date": "1949-10-01", "factors": [2,5,31,47,167]},
+{"name": "Melina_Mercouri", "date": "1920-10-18", "factors": [5,13,13,47,61]},
+{"name": "Isambard_Kingdom_Brunel", "date": "1806-04-09", "factors": [3,5,11,47,307]},
+{"name": "Gotthold_Ephraim_Lessing", "date": "1729-01-22", "factors": [3,5,47,47,71]},
+{"name": "Frank_Gehry", "date": "1929-02-28", "factors": [2,5,13,47,397]},
+{"name": "Edmondo_De_Amicis", "date": "1846-10-21", "factors": [2,3,5,47,1699]},
+{"name": "André_Rieu", "date": "1949-10-01", "factors": [2,5,31,47,167]},
+null ] };

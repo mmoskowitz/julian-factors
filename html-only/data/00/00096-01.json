@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Steve_Wozniak", "date": "1950-08-11", "factors": [2,2,2,2,2,3,25349]},
+{"name": "Ottmar_Hitzfeld", "date": "1949-01-12", "factors": [2,2,2,2,2,3,25343]},
+{"name": "Maumoon_Abdul_Gayoom", "date": "1937-12-29", "factors": [2,2,2,2,2,3,25301]},
+{"name": "Ludwig_von_Mises", "date": "1881-09-29", "factors": [2,2,2,2,2,3,25087]},
+{"name": "Lao_She", "date": "1899-02-03", "factors": [2,2,2,2,2,3,25153]},
+{"name": "Haruki_Murakami", "date": "1949-01-12", "factors": [2,2,2,2,2,3,25343]},
+{"name": "Billy_Ray_Cyrus", "date": "1961-08-25", "factors": [2,2,2,2,2,3,25391]},
+{"name": "Benni_McCarthy", "date": "1977-12-11", "factors": [2,2,2,2,2,3,25453]},
+null ] };

@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Selena_Gomez", "date": "1992-07-22", "factors": [3,5,5,103,317]},
+{"name": "Per_Mertesacker", "date": "1984-09-29", "factors": [2,2,3,317,643]},
+{"name": "J._Michael_Bishop", "date": "1936-02-22", "factors": [2,2,5,317,383]},
+{"name": "Hermann_Oberth", "date": "1894-06-25", "factors": [2,2,11,173,317]},
+{"name": "Giovanni_Verga", "date": "1840-09-02", "factors": [2,5,5,151,317]},
+{"name": "Arthur_Schnitzler", "date": "1862-05-15", "factors": [3,5,5,101,317]},
+null ] };

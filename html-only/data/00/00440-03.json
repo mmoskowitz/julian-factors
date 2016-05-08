@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Zheng_Jie", "date": "1983-07-05", "factors": [2,2,2,2,5,7,11,397]},
+{"name": "Tite_Kubo", "date": "1977-06-26", "factors": [2,2,2,3,3,5,11,617]},
+{"name": "Predrag_Mijatović", "date": "1969-01-19", "factors": [2,2,2,2,5,11,47,59]},
+{"name": "Nihat_Kahveci", "date": "1979-11-23", "factors": [2,2,2,5,5,11,11,101]},
+{"name": "Jonás_Gutiérrez", "date": "1983-07-05", "factors": [2,2,2,2,5,7,11,397]},
+{"name": "Friedrich_Gottlieb_Klopstock", "date": "1724-07-02", "factors": [2,2,2,3,5,11,13,137]},
+{"name": "Bill_Russell", "date": "1934-02-12", "factors": [2,2,2,3,3,5,11,613]},
+null ] };

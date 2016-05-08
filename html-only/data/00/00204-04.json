@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Valentino_Rossi", "date": "1979-02-16", "factors": [2,2,2,2,3,5,17,599]},
+{"name": "John_Updike", "date": "1932-03-18", "factors": [2,2,2,2,2,3,17,1487]},
+{"name": "Jiang_Zemin", "date": "1926-08-17", "factors": [2,2,2,3,3,7,17,283]},
+{"name": "Ennio_Morricone", "date": "1928-11-10", "factors": [2,2,2,3,5,17,29,41]},
+{"name": "Eddie_Murphy", "date": "1961-04-03", "factors": [2,2,2,2,3,17,29,103]},
+{"name": "Danijel_Pranjić", "date": "1981-12-02", "factors": [2,2,3,3,5,17,17,47]},
+{"name": "Chet_Baker", "date": "1929-12-23", "factors": [2,2,2,2,3,3,17,991]},
+{"name": "Britney_Spears", "date": "1981-12-02", "factors": [2,2,3,3,5,17,17,47]},
+null ] };

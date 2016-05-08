@@ -1,0 +1,15 @@
+{"births": [
+{"name": "Richard_Stallman", "date": "1953-03-16", "factors": [2,2,3,37,5483]},
+{"name": "Milo_Ventimiglia", "date": "1977-07-08", "factors": [2,2,3,37,5503]},
+{"name": "Melvin_Calvin", "date": "1911-04-08", "factors": [2,3,17,37,641]},
+{"name": "Konrad_Adenauer", "date": "1876-01-05", "factors": [2,3,3,37,3613]},
+{"name": "Jesse_Owens", "date": "1913-09-12", "factors": [2,3,11,37,991]},
+{"name": "Isabelle_Huppert", "date": "1953-03-16", "factors": [2,2,3,37,5483]},
+{"name": "Gaël_Givet", "date": "1981-10-09", "factors": [2,3,3,37,3671]},
+{"name": "Frederik,_Crown_Prince_of_Denmark", "date": "1968-05-26", "factors": [2,3,29,37,379]},
+{"name": "Franz_Mesmer", "date": "1734-05-23", "factors": [2,2,3,37,5303]},
+{"name": "Emil_Cioran", "date": "1911-04-08", "factors": [2,3,17,37,641]},
+{"name": "Christian_Abbiati", "date": "1977-07-08", "factors": [2,2,3,37,5503]},
+{"name": "Benjamin_Thompson", "date": "1753-03-26", "factors": [2,3,11,37,967]},
+{"name": "Antonin_Artaud", "date": "1896-09-04", "factors": [2,3,37,83,131]},
+null ] };

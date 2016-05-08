@@ -1,0 +1,15 @@
+{"births": [
+{"name": "Vavá", "date": "1934-11-12", "factors": [3,17,181,263]},
+{"name": "Susan_Sarandon", "date": "1946-10-04", "factors": [3,3,181,1493]},
+{"name": "Nigel_de_Jong", "date": "1984-11-30", "factors": [2,29,181,233]},
+{"name": "Nichi_Vendola", "date": "1958-08-26", "factors": [3,7,181,641]},
+{"name": "Lúcio_Costa", "date": "1902-02-27", "factors": [3,3,181,1483]},
+{"name": "Karl_Mannheim", "date": "1893-03-27", "factors": [3,3,181,1481]},
+{"name": "John_VI_of_Portugal", "date": "1767-05-13", "factors": [5,5,181,523]},
+{"name": "John_Steinbeck", "date": "1902-02-27", "factors": [3,3,181,1483]},
+{"name": "John_Diefenbaker", "date": "1895-09-18", "factors": [2,59,113,181]},
+{"name": "Henrique_Capriles_Radonski", "date": "1972-07-11", "factors": [7,41,47,181]},
+{"name": "Geremi_Njitap", "date": "1978-12-20", "factors": [2,43,157,181]},
+{"name": "Charles_Manson", "date": "1934-11-12", "factors": [3,17,181,263]},
+{"name": "Alan_Hutton", "date": "1984-11-30", "factors": [2,29,181,233]},
+null ] };

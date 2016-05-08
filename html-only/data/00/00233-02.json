@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Stepan_Bandera", "date": "1909-01-01", "factors": [97,107,233]},
+{"name": "Philipp_Lenard", "date": "1862-06-07", "factors": [2,233,5153]},
+{"name": "Moshe_Dayan", "date": "1915-05-20", "factors": [3,233,3463]},
+{"name": "Gary_Cooper", "date": "1901-05-07", "factors": [7,233,1481]},
+{"name": "Daniel_Jarque", "date": "1983-01-01", "factors": [5,233,2099]},
+{"name": "Bert_van_Marwijk", "date": "1952-05-19", "factors": [31,233,337]},
+null ] };

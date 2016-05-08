@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Raul_Meireles", "date": "1983-03-17", "factors": [2,5,11,11,43,47]},
+{"name": "Peter_Naur", "date": "1928-10-25", "factors": [2,2,2,11,43,641]},
+{"name": "Paulo_Mendes_da_Rocha", "date": "1928-10-25", "factors": [2,2,2,11,43,641]},
+{"name": "Mohammed_bin_Rashid_Al_Maktoum", "date": "1949-07-15", "factors": [2,2,2,11,43,643]},
+{"name": "Donald_Tusk", "date": "1957-04-22", "factors": [2,5,5,11,43,103]},
+{"name": "Carl_Bildt", "date": "1949-07-15", "factors": [2,2,2,11,43,643]},
+null ] };

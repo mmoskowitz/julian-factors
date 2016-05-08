@@ -1,0 +1,14 @@
+{"births": [
+{"name": "Simon_Kuznets", "date": "1901-04-30", "factors": [2,2,2,2,3,7,7,13,79]},
+{"name": "Roque_Santa_Cruz", "date": "1981-08-16", "factors": [2,2,2,2,2,3,3,13,653]},
+{"name": "Nino_Burjanadze", "date": "1964-07-16", "factors": [2,2,2,2,2,2,3,13,977]},
+{"name": "Miguel_Indurain", "date": "1964-07-16", "factors": [2,2,2,2,2,2,3,13,977]},
+{"name": "Magnus_Carlsen", "date": "1990-11-30", "factors": [3,3,3,3,3,5,5,13,31]},
+{"name": "Léon_Degrelle", "date": "1906-06-15", "factors": [2,2,2,2,2,3,13,13,149]},
+{"name": "Ivo_Sanader", "date": "1953-06-08", "factors": [2,2,2,3,3,3,3,13,289]},
+{"name": "Hipólito_Yrigoyen", "date": "1852-07-12", "factors": [3,3,3,3,3,3,11,13,23]},
+{"name": "Ehud_Olmert", "date": "1945-09-30", "factors": [2,2,2,2,3,3,3,13,433]},
+{"name": "Bobby_Fischer", "date": "1943-03-09", "factors": [2,2,2,3,3,7,7,13,53]},
+{"name": "Arvydas_Sabonis", "date": "1964-12-19", "factors": [2,2,3,3,3,3,3,13,193]},
+{"name": "Aleksandr_Kerzhakov", "date": "1982-11-27", "factors": [2,2,3,3,5,5,11,13,19]},
+null ] };

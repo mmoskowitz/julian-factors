@@ -1,0 +1,9 @@
+{"births": [
+{"name": "William_Pitt_the_Younger", "date": "1759-05-28", "factors": [2,2,643,919]},
+{"name": "Syd_Barrett", "date": "1946-01-06", "factors": [2,31,61,643]},
+{"name": "Paul_Allen", "date": "1953-01-21", "factors": [2,3,631,643]},
+{"name": "Lucas_Papademos", "date": "1947-10-11", "factors": [3,13,97,643]},
+{"name": "Keith_Haring", "date": "1958-05-04", "factors": [3,3,421,643]},
+{"name": "Karl_Lagerfeld", "date": "1933-09-10", "factors": [5,5,151,643]},
+{"name": "Elisa_Bonaparte", "date": "1777-01-03", "factors": [2,19,97,643]},
+null ] };

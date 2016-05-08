@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Yann_Tiersen", "date": "1970-06-23", "factors": [2,2,2,5,7,23,379]},
+{"name": "Michael_Sata", "date": "1937-07-06", "factors": [2,2,2,2,5,7,4337]},
+{"name": "Mandy_Moore", "date": "1984-04-10", "factors": [2,2,2,5,5,7,1747]},
+{"name": "James_Clark_Ross", "date": "1800-04-15", "factors": [2,2,2,5,5,7,1699]},
+{"name": "Gordon_Bajnai", "date": "1968-03-05", "factors": [2,2,2,2,5,7,4357]},
+{"name": "George_Soros", "date": "1930-08-12", "factors": [2,2,2,5,5,7,1733]},
+null ] };

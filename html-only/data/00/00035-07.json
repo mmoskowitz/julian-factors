@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Silvio_Berlusconi", "date": "1936-09-29", "factors": [2,2,2,3,5,7,7,7,59]},
+{"name": "Michael_Shanks", "date": "1970-12-15", "factors": [3,3,3,3,3,5,7,7,41]},
+{"name": "Lisa_Kudrow", "date": "1963-07-30", "factors": [2,2,2,2,2,5,7,7,311]},
+{"name": "Jacques_Chirac", "date": "1932-11-29", "factors": [2,2,2,2,2,5,7,11,197]},
+{"name": "Enda_Kenny", "date": "1951-04-24", "factors": [2,2,2,2,2,5,7,41,53]},
+{"name": "César_Pelli", "date": "1926-10-12", "factors": [2,2,2,2,2,5,5,7,433]},
+null ] };

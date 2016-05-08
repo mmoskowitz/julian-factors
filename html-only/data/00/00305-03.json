@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Zalman_Shazar", "date": "1889-11-24", "factors": [2,5,59,61,67]},
+{"name": "Ralph_Nader", "date": "1934-02-27", "factors": [3,5,7,61,379]},
+{"name": "Patriarch_Alexy_II_of_Moscow", "date": "1929-02-23", "factors": [3,5,11,61,241]},
+{"name": "Melina_Mercouri", "date": "1920-10-18", "factors": [5,13,13,47,61]},
+{"name": "Marc_Gené", "date": "1974-03-29", "factors": [3,5,17,61,157]},
+{"name": "Andreas_Baader", "date": "1943-05-06", "factors": [2,5,5,61,797]},
+null ] };

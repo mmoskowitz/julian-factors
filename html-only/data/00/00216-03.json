@@ -1,0 +1,15 @@
+{"births": [
+{"name": "Pope_Leo_XII", "date": "1760-08-22", "factors": [2,2,2,3,3,3,5,11,199]},
+{"name": "Nelson_Mandela", "date": "1918-07-18", "factors": [2,2,2,2,2,3,3,3,2803]},
+{"name": "Manmohan_Singh", "date": "1932-09-26", "factors": [2,2,2,2,2,3,3,3,2809]},
+{"name": "Keanu_Reeves", "date": "1964-09-02", "factors": [2,2,2,2,3,3,3,5,1129]},
+{"name": "James_Gandolfini", "date": "1961-09-18", "factors": [2,2,2,3,3,3,5,37,61]},
+{"name": "Ivo_Sanader", "date": "1953-06-08", "factors": [2,2,2,3,3,3,3,13,289]},
+{"name": "Gherman_Titov", "date": "1935-09-11", "factors": [2,2,2,3,3,3,3,3,1249]},
+{"name": "Ehud_Olmert", "date": "1945-09-30", "factors": [2,2,2,2,3,3,3,13,433]},
+{"name": "Charles_Greeley_Abbot", "date": "1872-05-31", "factors": [2,2,2,2,3,3,3,19,293]},
+{"name": "Bertha_von_Suttner", "date": "1843-06-09", "factors": [2,2,2,3,3,3,3,5,739]},
+{"name": "Bernard_Werber", "date": "1961-09-18", "factors": [2,2,2,3,3,3,5,37,61]},
+{"name": "Andy_Warhol", "date": "1928-08-06", "factors": [2,2,2,3,3,3,3,19,197]},
+{"name": "Akseli_Gallen-Kallela", "date": "1865-04-26", "factors": [2,2,2,2,3,3,3,67,83]},
+null ] };

@@ -1,0 +1,15 @@
+{"births": [
+{"name": "Władysław_Sikorski", "date": "1881-05-20", "factors": [2,2,3,3,5,17,787]},
+{"name": "Viktor_Zubkov", "date": "1941-09-15", "factors": [2,2,3,3,11,17,361]},
+{"name": "Timothy_Dalton", "date": "1944-03-21", "factors": [2,3,3,5,7,17,227]},
+{"name": "Pierre_Louis_Maupertuis", "date": "1698-09-28", "factors": [2,2,2,3,3,17,1913]},
+{"name": "Pat_Morita", "date": "1932-06-28", "factors": [2,3,3,7,11,17,103]},
+{"name": "Matthias_Sammer", "date": "1967-09-05", "factors": [2,3,3,7,17,17,67]},
+{"name": "Kangxi_Emperor", "date": "1654-05-04", "factors": [2,3,3,3,17,17,149]},
+{"name": "Giacinto_Facchetti", "date": "1942-07-18", "factors": [2,3,3,13,13,17,47]},
+{"name": "Flórián_Albert", "date": "1941-09-15", "factors": [2,2,3,3,11,17,361]},
+{"name": "Emma_Bunton", "date": "1976-01-21", "factors": [2,3,3,3,3,17,887]},
+{"name": "Bob_Geldof", "date": "1951-10-05", "factors": [2,2,3,3,17,41,97]},
+{"name": "Arne_Friedrich", "date": "1979-05-29", "factors": [2,3,3,7,7,17,163]},
+{"name": "Antonio_Nocerino", "date": "1985-04-09", "factors": [2,2,3,3,7,17,571]},
+null ] };

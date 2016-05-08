@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Robert_Wise", "date": "1914-09-10", "factors": [3,5,11,14669]},
+{"name": "Muhammad_Naguib", "date": "1901-02-20", "factors": [3,5,11,14639]},
+{"name": "Louis_Kahn", "date": "1901-02-20", "factors": [3,5,11,14639]},
+{"name": "Joe_Strummer", "date": "1952-08-21", "factors": [3,5,11,14753]},
+{"name": "Jiří_Paroubek", "date": "1952-08-21", "factors": [3,5,11,14753]},
+{"name": "Federico_García_Lorca", "date": "1898-06-05", "factors": [3,5,11,14633]},
+{"name": "Dennis_Hopper", "date": "1936-05-17", "factors": [3,5,11,14717]},
+null ] };

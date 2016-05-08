@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Sean_Combs", "date": "1969-11-04", "factors": [7,13,13,2063]},
+{"name": "Matthew_McConaughey", "date": "1969-11-04", "factors": [7,13,13,2063]},
+{"name": "Lindsay_Lohan", "date": "1986-07-02", "factors": [13,13,31,467]},
+{"name": "John_Gurdon", "date": "1933-10-02", "factors": [13,13,53,271]},
+{"name": "Irvine_Welsh", "date": "1958-09-27", "factors": [13,13,13,1109]},
+{"name": "Graham_Hill", "date": "1929-02-15", "factors": [13,13,31,463]},
+{"name": "Erich_Ludendorff", "date": "1865-04-09", "factors": [5,13,13,2843]},
+{"name": "Adolfo_Pérez_Esquivel", "date": "1931-11-26", "factors": [13,13,83,173]},
+null ] };

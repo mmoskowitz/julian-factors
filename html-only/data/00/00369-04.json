@@ -1,0 +1,8 @@
+{"births": [
+{"name": "Robert_Johnson", "date": "1911-05-08", "factors": [2,2,3,3,11,41,149]},
+{"name": "Natascha_Kampusch", "date": "1988-02-17", "factors": [2,2,2,3,3,41,829]},
+{"name": "Michel_Teló", "date": "1981-01-21", "factors": [3,3,5,5,5,41,53]},
+{"name": "Festus_Mogae", "date": "1939-08-21", "factors": [2,2,2,3,3,41,823]},
+{"name": "Bob_Geldof", "date": "1951-10-05", "factors": [2,2,3,3,17,41,97]},
+{"name": "Angelos_Basinas", "date": "1976-01-03", "factors": [2,2,3,3,5,41,331]},
+null ] };

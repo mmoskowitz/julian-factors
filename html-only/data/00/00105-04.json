@@ -1,0 +1,12 @@
+{"births": [
+{"name": "Zaha_Hadid", "date": "1950-10-31", "factors": [3,5,7,7,7,11,43]},
+{"name": "Timothy_Dalton", "date": "1944-03-21", "factors": [2,3,3,5,7,17,227]},
+{"name": "Ryan_Phillippe", "date": "1974-09-10", "factors": [2,2,3,5,5,7,1163]},
+{"name": "John_Candy", "date": "1950-10-31", "factors": [3,5,7,7,7,11,43]},
+{"name": "Jim_Broadbent", "date": "1949-05-24", "factors": [2,2,3,3,5,7,1931]},
+{"name": "Daniel_arap_Moi", "date": "1924-09-02", "factors": [2,3,5,7,7,17,97]},
+{"name": "Ben_Wallace", "date": "1974-09-10", "factors": [2,2,3,5,5,7,1163]},
+{"name": "Anna_Freud", "date": "1895-12-03", "factors": [2,3,3,3,5,7,1277]},
+{"name": "André_Citroën", "date": "1878-02-05", "factors": [2,2,3,5,7,11,521]},
+{"name": "Alyssa_Milano", "date": "1972-12-19", "factors": [2,3,5,7,7,11,151]},
+null ] };

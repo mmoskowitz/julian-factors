@@ -1,0 +1,14 @@
+{"births": [
+{"name": "Tom_Cruise", "date": "1962-07-03", "factors": [2,2,2,3,3,7,7,691]},
+{"name": "Sarah_Palin", "date": "1964-02-11", "factors": [2,2,3,7,7,11,13,29]},
+{"name": "Salvatore_Schillaci", "date": "1964-12-01", "factors": [2,3,3,5,7,7,7,79]},
+{"name": "Saionji_Kinmochi", "date": "1849-10-23", "factors": [2,2,2,2,3,7,7,1019]},
+{"name": "Paul_Reynaud", "date": "1878-10-15", "factors": [2,2,2,3,7,7,23,89]},
+{"name": "Oliver_Smithies", "date": "1925-06-23", "factors": [2,2,3,7,7,7,19,31]},
+{"name": "Martina_Hingis", "date": "1980-09-30", "factors": [2,2,2,2,2,7,7,1559]},
+{"name": "Louis_Saha", "date": "1978-08-08", "factors": [2,2,2,2,3,7,7,1039]},
+{"name": "James_Fenimore_Cooper", "date": "1789-09-15", "factors": [2,2,2,2,7,7,13,233]},
+{"name": "Hilary_Swank", "date": "1974-07-30", "factors": [2,3,3,3,7,7,13,71]},
+{"name": "Falco_(musician)", "date": "1957-02-19", "factors": [2,2,2,2,7,7,13,239]},
+{"name": "Denzel_Washington", "date": "1954-12-28", "factors": [2,2,2,2,2,7,7,1553]},
+null ] };

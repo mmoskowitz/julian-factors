@@ -1,0 +1,10 @@
+{"births": [
+{"name": "Paul_Keating", "date": "1944-01-18", "factors": [3,3,3,7,19,677]},
+{"name": "Martine_Aubry", "date": "1950-08-08", "factors": [3,3,7,19,19,107]},
+{"name": "Leymah_Gbowee", "date": "1972-02-01", "factors": [2,2,7,13,19,353]},
+{"name": "James_Mill", "date": "1773-04-06", "factors": [2,5,7,13,19,137]},
+{"name": "George_Smoot", "date": "1945-02-20", "factors": [2,3,7,11,19,277]},
+{"name": "Christian_Ziege", "date": "1972-02-01", "factors": [2,2,7,13,19,353]},
+{"name": "Bill_Goldberg", "date": "1966-12-27", "factors": [2,3,3,7,19,1019]},
+{"name": "Alan_Smith_(footballer,_born_1980)", "date": "1980-10-28", "factors": [2,2,5,7,19,919]},
+null ] };

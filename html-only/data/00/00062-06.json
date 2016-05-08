@@ -1,0 +1,11 @@
+{"births": [
+{"name": "Zachary_Quinto", "date": "1977-06-02", "factors": [2,2,2,2,2,3,31,821]},
+{"name": "Simon_Cowell", "date": "1959-10-07", "factors": [2,2,2,2,17,17,17,31]},
+{"name": "Oliver_Smithies", "date": "1925-06-23", "factors": [2,2,3,7,7,7,19,31]},
+{"name": "Ian_Wright", "date": "1963-11-03", "factors": [2,2,2,2,2,2,31,1229]},
+{"name": "Ian_McKellen", "date": "1939-05-25", "factors": [2,2,2,2,2,31,31,79]},
+{"name": "Hicham_El_Guerrouj", "date": "1974-09-14", "factors": [2,2,2,2,2,2,31,1231]},
+{"name": "Georges_Cuvier", "date": "1769-08-23", "factors": [2,2,2,2,3,31,37,43]},
+{"name": "Dolores_Ibárruri", "date": "1895-12-09", "factors": [2,2,2,2,2,3,31,811]},
+{"name": "Agnetha_Fältskog", "date": "1950-04-05", "factors": [2,2,2,2,2,11,31,223]},
+null ] };

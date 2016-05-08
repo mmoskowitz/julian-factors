@@ -1,0 +1,9 @@
+{"births": [
+{"name": "Tony_Bennett", "date": "1926-08-03", "factors": [2,5,7,11,47,67]},
+{"name": "James_Chadwick", "date": "1891-10-20", "factors": [5,5,7,7,11,179]},
+{"name": "Ismail_Kadare", "date": "1936-01-28", "factors": [5,7,7,11,17,53]},
+{"name": "George_Emil_Palade", "date": "1912-11-19", "factors": [3,5,5,7,11,419]},
+{"name": "Franz_Brentano", "date": "1838-01-16", "factors": [2,5,7,11,13,239]},
+{"name": "Elvis_Presley", "date": "1935-01-08", "factors": [2,3,5,7,11,1051]},
+{"name": "Alan_Alda", "date": "1936-01-28", "factors": [5,7,7,11,17,53]},
+null ] };

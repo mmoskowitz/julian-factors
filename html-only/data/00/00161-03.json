@@ -1,0 +1,11 @@
+{"births": [
+{"name": "Ragnar_Granit", "date": "1900-10-30", "factors": [2,7,13,23,577]},
+{"name": "Phil_Collins", "date": "1951-01-30", "factors": [2,2,7,23,3779]},
+{"name": "Patricio_Aylwin", "date": "1918-11-26", "factors": [7,7,7,23,307]},
+{"name": "Morgan_Freeman", "date": "1937-06-01", "factors": [5,7,7,23,431]},
+{"name": "Marco_Pantani", "date": "1970-01-13", "factors": [3,7,23,31,163]},
+{"name": "Libor_Sionko", "date": "1977-02-01", "factors": [5,5,7,23,607]},
+{"name": "James_Randi", "date": "1928-08-07", "factors": [5,7,23,23,131]},
+{"name": "Hayley_Williams", "date": "1988-12-27", "factors": [2,7,11,23,691]},
+{"name": "Colleen_McCullough", "date": "1937-06-01", "factors": [5,7,7,23,431]},
+null ] };
