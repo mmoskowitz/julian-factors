@@ -4,6 +4,9 @@ push @INC, ".";
 use Julian;
 use strict;
 my $input = shift;
+
+my $searchfile = "source_data/factors_trimmed_sorted_unique.tsv"
+
 if (my ($year, $month, $day) = $input =~ /(\d\d\d\d)-(\d\d)-(\d\d)/){
     my $julian = Julian::convert_date($year, $month, $day);
     my @factors = Julian::factor($julian);
@@ -33,7 +36,6 @@ sub parse_file{
     }
 }
 
-
 sub search_factors{
     my $infoline = shift;
     my $factorization = shift;
@@ -51,7 +53,7 @@ sub search_factors{
 	    }
 	}
 	print join "\t", ($tempfactor, $factorsleft, $infoline, "\n");
-	my $search = "grep '^$tempfactor\\s$factorsleft\\s' factors_trimmed_sorted_unique.tsv";
+	my $search = "grep '^$tempfactor\\s$factorsleft\\s' $searchfile";
 	if (!$searches_done{$search}){
 	    my @results = qx"$search";
 	    print @results;
