@@ -51,17 +51,19 @@ if ($year < 1583 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     $results_text .= "<h2>Your Julian factors: ".(join ", ", @factors). "</h2>\n";
     $results_text .= "<p>The following notable people have similar Julian factors to you. Similarity is highest with the first categories.</p>\n";
     $results_text .= "<ul>";
+    my %matches;
     foreach my $search (sort {$b <=> $a} @searches) {
 	my @results;
 	my $filename = Julian::get_filename($search, $data_dir);
 	if (-r $filename){
+	    my $this_result_text = "";
 	    my ($search_factor, $search_remainder) = split ":", $search;
 	    my @search_factors = Julian::factor($search_factor);
 	    
 	    if ($search_factor eq 'PRIME'){
-	    $results_text .= " <li>Prime:\n  <ul>\n";
+	    $this_result_text .= " <li>Prime:\n  <ul>\n";
 	    } else {
-	    $results_text .= " <li>$search_factor (". (join ", ", @search_factors) .") and $search_remainder other factors:\n  <ul>\n";
+	    $this_result_text .= " <li>$search_factor (". (join ", ", @search_factors) .") and $search_remainder other factors:\n  <ul>\n";
 	    }
 	    open IN, $filename;
 	    @results = <IN>;
@@ -69,11 +71,23 @@ if ($year < 1583 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	    foreach my $result (@results){
 		chomp $result;
 		my ($name, $date, $factors) = split ", ", $result;
+		if ($matches{$name}) {
+		    next;
+		} else {
+		    $matches{$name} = 1;
+		}
 		my $text_name = $name;
 		$text_name =~ s/_/ /g;
-		$results_text .= "   <li><a href=\"http://en.wikipedia.org/wiki/$name\">$text_name</a>, born on $date, has the factors $factors.</li>\n";
+		$this_result_text .= "   <li>";
+		if ($factors eq join ",", @factors){
+		    $this_result_text .= "<b>Exact match:</b> ";
+		} 
+		$this_result_text .= "<a href=\"http://en.wikipedia.org/wiki/$name\">$text_name</a>, born on $date, has the factors $factors.</li>\n";
 	    }
-	    $results_text .= "  </ul>\n </li>\n";
+	    $this_result_text .= "  </ul>\n </li>\n";
+	    if ($this_result_text =~ /has the factor/){
+		$results_text .= $this_result_text;
+	    }
 	}
     }
     $results_text .= "</ul>";
