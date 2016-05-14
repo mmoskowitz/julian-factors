@@ -1,0 +1,4 @@
+Friedrich_Wilhelm_Joseph_Schelling, 1775-01-27, 3,23,23,1493
+Jane_Wyman, 1917-01-05, 23,23,23,199
+Oskar_Schindler, 1908-04-28, 7,23,23,653
+Slobodan_Milošević, 1941-08-20, 2,23,23,2297

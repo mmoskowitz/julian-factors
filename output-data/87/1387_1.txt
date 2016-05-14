@@ -1,0 +1,5 @@
+Arnold_Sommerfeld, 1868-12-05, 19,73,1733
+Bertil_Ohlin, 1899-04-23, 19,73,1741
+Danny_DeVito, 1944-11-17, 19,73,1753
+John_Russell_Hind, 1823-05-12, 19,73,1721
+Rem_Koolhaas, 1944-11-17, 19,73,1753

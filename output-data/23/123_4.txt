@@ -1,0 +1,12 @@
+Adolf_Erik_Nordenskiöld, 1832-11-18, 3,5,13,13,23,41
+Edvard_Beneš, 1884-05-28, 2,2,3,41,59,83
+Frank_Lloyd, 1886-02-02, 3,3,3,7,41,311
+Johann_Gottfried_Herder, 1744-08-25, 3,3,7,11,41,83
+Juliana_of_the_Netherlands, 1909-04-30, 2,3,3,29,41,113
+Kenichi_Fukui, 1918-10-04, 2,3,5,11,41,179
+Lyndon_B._Johnson, 1908-08-27, 2,2,3,5,41,983
+Penélope_Cruz, 1974-04-28, 3,5,11,19,19,41
+Sachin_Tendulkar, 1973-04-24, 2,2,3,7,41,709
+Spencer_Perceval, 1762-11-01, 3,3,13,17,29,41
+Vanessa_L._Williams, 1963-03-18, 2,3,11,17,41,53
+Walt_Whitman, 1819-05-31, 3,3,3,5,41,431

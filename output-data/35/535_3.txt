@@ -1,0 +1,4 @@
+Archibald_Hill, 1886-09-26, 5,5,17,53,107
+Lars_Løkke_Rasmussen, 1964-05-15, 2,5,43,53,107
+Stephen_Warnock, 1981-12-12, 2,5,5,107,457
+Yasuo_Fukuda, 1936-07-16, 3,5,17,89,107

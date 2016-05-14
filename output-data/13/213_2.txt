@@ -1,0 +1,7 @@
+Alfred_Jarry, 1873-09-08, 3,23,71,491
+Giampiero_Boniperti, 1928-07-04, 3,59,71,193
+Giovanni_Schiaparelli, 1835-03-14, 3,71,103,109
+Gregory_Peck, 1916-04-05, 2,3,71,5683
+Laurence_Sterne, 1713-11-24, 3,3,71,3673
+Norah_Jones, 1979-03-30, 2,3,71,5737
+Val_Kilmer, 1959-12-31, 3,17,71,673

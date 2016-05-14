@@ -1,0 +1,9 @@
+Alfred_Adler, 1870-02-07, 2,2,5,5,29,829
+Carl_XVI_Gustaf_of_Sweden, 1946-04-30, 2,2,5,7,29,599
+Cyndi_Lauper, 1953-06-22, 2,5,5,23,29,73
+K'naan, 1978-02-01, 2,2,5,11,29,383
+Keira_Knightley, 1985-03-26, 2,5,5,7,29,241
+Konrad_Lorenz, 1903-11-07, 3,5,5,11,29,101
+Marshall_Warren_Nirenberg, 1927-04-10, 2,2,5,29,37,113
+Mikhail_Tukhachevsky, 1893-02-16, 2,3,5,29,47,59
+Mitch_Mitchell, 1947-07-09, 5,5,5,11,29,61

@@ -1,0 +1,6 @@
+Eddie_Fenech_Adami, 1934-02-07, 5,5,89,1091
+Ferdinand_von_Zeppelin, 1838-07-08, 3,17,43,1091
+Giuseppe_Bergomi, 1963-12-22, 3,5,149,1091
+Hermann_Maier, 1972-12-07, 2,3,373,1091
+Sam_Peckinpah, 1925-02-21, 2,11,101,1091
+Sharon_Tate, 1943-01-24, 2,2,557,1091

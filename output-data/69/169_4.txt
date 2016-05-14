@@ -1,0 +1,11 @@
+Adolf_Erik_Nordenskiöld, 1832-11-18, 3,5,13,13,23,41
+Alessandro_Petacchi, 1974-01-03, 2,5,5,13,13,289
+Bertrand_Delanoë, 1950-05-30, 7,11,11,13,13,17
+Hans_Sloane, 1660-04-16, 2,2,11,13,13,313
+John_Dryden, 1631-08-09, 2,3,5,13,13,457
+Joséphine_de_Beauharnais, 1763-06-23, 3,3,5,13,13,311
+Maya_Plisetskaya, 1925-11-20, 2,3,3,13,13,797
+Michel_Ney, 1769-01-10, 3,7,13,13,23,29
+Robert_F._Kennedy, 1925-11-20, 2,3,3,13,13,797
+Sandro_Pertini, 1896-09-25, 3,3,3,13,13,529
+Walter_Ulbricht, 1893-06-30, 2,2,13,13,43,83

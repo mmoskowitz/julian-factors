@@ -1,0 +1,10 @@
+Daniel_Ortega, 1945-11-11, 2,3,5,11,7369
+Farouk_of_Egypt, 1920-02-11, 3,5,11,53,277
+George_Michael, 1963-06-25, 3,5,7,11,2111
+Graham_Greene, 1904-10-02, 3,5,11,97,151
+Isambard_Kingdom_Brunel, 1806-04-09, 3,5,11,47,307
+Lal_Bahadur_Shastri, 1904-10-02, 3,5,11,97,151
+Patriarch_Alexy_II_of_Moscow, 1929-02-23, 3,5,11,61,241
+Terry_Gilliam, 1940-11-22, 3,3,5,11,4909
+Thomas_Johansson, 1975-03-24, 3,5,11,113,131
+Yann_Martel, 1963-06-25, 3,5,7,11,2111

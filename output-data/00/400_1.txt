@@ -1,0 +1,4 @@
+Auguste_de_Marmont, 1774-07-20, 2,2,2,2,5,5,5923
+Ellen_Johnson_Sirleaf, 1938-10-29, 2,2,2,2,5,5,6073
+Jan_Peter_Balkenende, 1956-05-07, 2,2,2,2,5,5,6089
+Joseph_Louis_Gay-Lussac, 1778-12-06, 2,2,2,2,5,5,5927

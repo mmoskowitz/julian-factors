@@ -1,0 +1,4 @@
+Gerry_Adams, 1948-10-06, 2,5,211,1153
+Harold_Alexander,_1st_Earl_Alexander_of_Tunis, 1891-12-10, 2,2,523,1153
+Mirza_Ghulam_Ahmad, 1835-02-13, 2,17,61,1153
+Nelly_Sachs, 1891-12-10, 2,2,523,1153

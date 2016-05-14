@@ -1,0 +1,7 @@
+James_Dean, 1931-02-08, 2,2,5,11,41,269
+Johann_Gottfried_Herder, 1744-08-25, 3,3,7,11,41,83
+Kenichi_Fukui, 1918-10-04, 2,3,5,11,41,179
+Martin_Van_Buren, 1782-12-05, 2,2,5,11,41,263
+Penélope_Cruz, 1974-04-28, 3,5,11,19,19,41
+Vanessa_L._Williams, 1963-03-18, 2,3,11,17,41,53
+Vasily_Smyslov, 1921-03-24, 2,2,11,17,41,79

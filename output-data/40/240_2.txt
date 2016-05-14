@@ -1,0 +1,6 @@
+Alexander_I_of_Serbia, 1876-08-14, 2,2,2,2,3,5,37,271
+Andreas_Isaksson, 1981-10-03, 2,2,2,2,3,5,61,167
+Ignacy_Jan_Paderewski, 1860-11-06, 2,2,2,2,3,5,7,1429
+Sándor_Márai, 1900-04-11, 2,2,2,2,3,5,29,347
+Valentino_Rossi, 1979-02-16, 2,2,2,2,3,5,17,599
+Zlatan_Ibrahimović, 1981-10-03, 2,2,2,2,3,5,61,167

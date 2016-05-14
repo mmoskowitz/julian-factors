@@ -1,0 +1,6 @@
+Charles_G._Dawes, 1865-08-27, 3,5,5,103,311
+Gregor_Schlierenzauer, 1990-01-07, 2,3,17,103,233
+Selena_Gomez, 1992-07-22, 3,5,5,103,317
+Selma_Lagerlöf, 1858-11-20, 3,3,3,103,863
+Walter_Kohn, 1923-03-09, 3,11,23,31,103
+Władysław_Reymont, 1867-05-07, 3,7,11,101,103

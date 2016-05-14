@@ -1,0 +1,15 @@
+Adam_Weishaupt, 1748-02-06, 3,3,7,13,43,67
+George_Best, 1946-05-22, 2,3,3,13,19,547
+Haile_Gebrselassie, 1973-04-18, 2,3,3,5,13,2087
+Ivica_Olić, 1979-09-14, 2,3,3,5,13,2089
+Joséphine_de_Beauharnais, 1763-06-23, 3,3,5,13,13,311
+Kim_Cattrall, 1956-08-21, 2,3,3,7,13,1487
+Maya_Plisetskaya, 1925-11-20, 2,3,3,13,13,797
+Mikhail_Bakunin, 1814-05-30, 2,3,3,13,61,167
+Oskar_Kokoschka, 1886-03-01, 2,3,3,3,13,3433
+PJ_Harvey, 1969-10-09, 3,3,3,13,17,409
+Robert_F._Kennedy, 1925-11-20, 2,3,3,13,13,797
+Sandro_Pertini, 1896-09-25, 3,3,3,13,13,529
+Siegfried_Lenz, 1926-03-17, 3,3,13,17,23,53
+Spencer_Perceval, 1762-11-01, 3,3,13,17,29,41
+Wilkie_Collins, 1824-01-08, 2,2,3,3,13,5101

@@ -1,0 +1,13 @@
+Jean_Simmons, 1929-01-31, 2,41,29581
+Justus_von_Liebig, 1803-05-12, 2,41,29021
+Luís_I_of_Portugal, 1838-10-31, 2,41,29179
+Magic_Johnson, 1959-08-14, 2,41,29717
+Marcia_Gay_Harden, 1959-08-14, 2,41,29717
+Michael_Johnson_(sprinter), 1967-09-13, 2,41,29753
+Mumtaz_Mahal, 1593-09-01, 2,41,28087
+Nat_King_Cole, 1919-03-17, 2,41,29537
+Naveen_Andrews, 1969-01-17, 2,41,29759
+Pope_Benedict_XVI, 1927-04-16, 2,41,29573
+Sophia_Bush, 1982-07-08, 2,41,29819
+Thomas_Müller, 1989-09-13, 2,41,29851
+Tiësto, 1969-01-17, 2,41,29759

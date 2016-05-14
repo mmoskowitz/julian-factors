@@ -1,0 +1,11 @@
+Christopher_Nolan, 1970-07-30, 3,19,42821
+François_Tombalbaye, 1918-06-15, 3,19,42487
+Gerhard_Berger, 1959-08-27, 3,19,42751
+John_Dillinger, 1903-06-22, 3,19,42391
+Kurt_Student, 1890-05-12, 3,19,42307
+Mother_Teresa, 1910-08-26, 3,19,42437
+Nuri_Şahin, 1988-09-05, 3,19,42937
+Paul_Walker, 1973-09-12, 3,19,42841
+Samuel_Beckett, 1906-04-13, 3,19,42409
+Tomáš_Necid, 1989-08-13, 3,19,42943
+Winona_Ryder, 1971-10-29, 3,19,42829

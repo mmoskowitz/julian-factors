@@ -1,0 +1,9 @@
+Anthony_Burgess, 1917-02-25, 2,2,19,31859
+Elisabeth_Shue, 1963-10-06, 2,2,19,32083
+Hunter_S._Thompson, 1937-07-18, 2,2,19,31957
+Julia_Ormond, 1965-01-04, 2,2,19,32089
+Khan_Abdul_Ghaffar_Khan, 1890-02-06, 2,2,19,31729
+Lee_Hsien_Loong, 1952-02-10, 2,2,19,32027
+Manuel_Neuer, 1986-03-27, 2,2,19,32191
+Roald_Hoffmann, 1937-07-18, 2,2,19,31957
+İlkay_Gündoğan, 1990-10-24, 2,2,19,32213

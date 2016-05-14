@@ -1,0 +1,9 @@
+Antolín_Alcaraz, 1982-07-30, 2,2,3,5,83,491
+Arturo_Pérez-Reverte, 1951-11-25, 3,5,5,17,23,83
+Cadel_Evans, 1977-02-14, 2,2,3,11,83,223
+Christian_Eriksen, 1992-02-14, 2,3,3,11,83,149
+Edvard_Beneš, 1884-05-28, 2,2,3,41,59,83
+Freddie_Highmore, 1992-02-14, 2,3,3,11,83,149
+Gaël_Monfils, 1986-09-01, 2,3,17,17,17,83
+Johann_Gottfried_Herder, 1744-08-25, 3,3,7,11,41,83
+Milo_Đukanović, 1962-02-15, 2,3,5,11,83,89

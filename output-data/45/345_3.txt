@@ -1,0 +1,8 @@
+Adolf_Erik_Nordenskiöld, 1832-11-18, 3,5,13,13,23,41
+Arturo_Pérez-Reverte, 1951-11-25, 3,5,5,17,23,83
+Blaise_Cendrars, 1887-09-01, 3,3,5,17,23,137
+Eva_Marie_Saint, 1924-07-04, 2,3,3,5,23,1171
+François_Mauriac, 1885-10-11, 3,5,5,11,23,127
+Ivan_Mazepa, 1639-03-30, 2,2,3,5,23,1681
+Maria_Montessori, 1870-08-31, 3,3,5,23,23,101
+Mehmet_Scholl, 1970-10-16, 3,5,5,5,23,283

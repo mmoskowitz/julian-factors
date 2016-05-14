@@ -1,0 +1,7 @@
+Ambroise_Thomas, 1811-08-05, 3,173,4591
+Duffy_(singer), 1984-06-23, 2,173,7069
+Helle_Thorning-Schmidt, 1966-12-14, 59,173,239
+Jarno_Trulli, 1974-07-13, 19,173,743
+Thomas_Anders, 1963-03-01, 17,173,829
+Trofim_Lysenko, 1898-09-29, 17,173,821
+Wilt_Chamberlain, 1936-08-21, 3,173,4679

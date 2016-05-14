@@ -1,0 +1,10 @@
+Bruce_Lee, 1940-11-27, 2,2,2,5,13,4673
+Goldie_Hawn, 1945-11-21, 2,2,5,13,47,199
+Heiko_Westermann, 1983-08-14, 2,2,2,5,13,4703
+Kevin-Prince_Boateng, 1987-03-06, 2,2,3,5,13,3137
+Matthew_Fox, 1966-07-14, 2,2,2,5,13,4691
+Mila_Kunis, 1983-08-14, 2,2,2,5,13,4703
+Mohamed_Atta, 1968-09-01, 2,2,5,5,13,1877
+Mohammed_Waheed_Hassan, 1953-01-03, 2,2,3,5,13,3121
+Olivia_Newton-John, 1948-09-26, 2,2,3,5,13,3119
+William_Standish_Knowles, 1917-06-01, 2,2,5,13,67,139

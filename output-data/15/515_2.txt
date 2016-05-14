@@ -1,0 +1,11 @@
+Alessandra_Ambrosio, 1981-04-11, 5,47,101,103
+Alyson_Hannigan, 1974-03-24, 2,5,103,2371
+Honoré_de_Balzac, 1799-05-20, 2,5,103,2309
+James_Brown, 1933-05-03, 3,5,103,1571
+Josef_Albers, 1888-03-19, 5,31,103,151
+Maurice_Utrillo, 1883-12-26, 2,5,103,2339
+Paul_Scofield, 1922-01-21, 5,5,103,941
+Steven_Weinberg, 1933-05-03, 3,5,103,1571
+Telly_Savalas, 1922-01-21, 5,5,103,941
+Udo_Jürgens, 1934-09-30, 2,5,103,2357
+William_Hogarth, 1697-11-10, 2,5,103,2273

@@ -1,0 +1,10 @@
+Ben_Roy_Mottelson, 1926-07-09, 3,5,109,1483
+Bessie_Smith, 1894-04-15, 3,47,109,157
+Carlos_Moyá, 1976-08-27, 3,31,109,241
+Giovanni_Schiaparelli, 1835-03-14, 3,71,103,109
+Konstantin_Rokossovsky, 1896-12-21, 2,3,109,3691
+Mark_Webber, 1976-08-27, 3,31,109,241
+Michael_Essien, 1982-12-03, 2,3,109,3739
+Nikita_Khrushchev, 1894-04-15, 3,47,109,157
+Paul_Klee, 1879-12-18, 3,37,109,199
+Shaquille_O'Neal, 1972-03-06, 2,3,109,3733

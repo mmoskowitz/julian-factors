@@ -1,0 +1,7 @@
+George_Marshall, 1880-12-31, 2,2,2,2,5,31,971
+Giovanni_Leone, 1908-11-03, 2,2,2,7,7,31,199
+Liu_Xiang, 1983-07-13, 2,2,2,3,19,31,173
+Mirek_Topolánek, 1956-05-15, 2,2,2,7,23,31,61
+Patti_Page, 1927-11-08, 2,2,2,7,11,31,127
+Robert_Cecil,_1st_Viscount_Cecil_of_Chelwood, 1864-09-14, 2,2,2,2,29,31,167
+Skandar_Keynes, 1991-09-05, 2,2,2,3,3,31,1097

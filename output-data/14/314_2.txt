@@ -1,0 +1,6 @@
+Alexander_Pope, 1688-05-21, 2,5,157,1489
+Barbara_McClintock, 1902-06-16, 2,2,157,3847
+Gabriela_Sabatini, 1970-05-16, 2,3,157,2591
+Gary_Lineker, 1960-11-30, 2,2,157,3881
+Geremi_Njitap, 1978-12-20, 2,43,157,181
+Roy_J._Glauber, 1925-09-01, 2,7,157,1103

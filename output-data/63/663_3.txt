@@ -1,0 +1,6 @@
+Benjamin_Netanyahu, 1949-10-21, 2,3,5,13,17,367
+Domenico_Modugno, 1928-01-09, 2,3,13,17,31,59
+PJ_Harvey, 1969-10-09, 3,3,3,13,17,409
+Siegfried_Lenz, 1926-03-17, 3,3,13,17,23,53
+Spencer_Perceval, 1762-11-01, 3,3,13,17,29,41
+Victoria,_Princess_Royal, 1840-11-21, 2,3,5,13,17,361

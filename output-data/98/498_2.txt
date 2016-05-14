@@ -1,0 +1,8 @@
+Antoni_Tàpies, 1923-12-13, 2,3,31,83,157
+Antonin_Artaud, 1896-09-04, 2,3,37,83,131
+Ernesto_Geisel, 1907-08-03, 2,3,5,83,971
+Henry_Campbell-Bannerman, 1836-09-07, 2,3,3,83,1601
+Kathy_Bates, 1948-06-28, 2,3,5,83,977
+Philip_Warren_Anderson, 1923-12-13, 2,3,31,83,157
+Ralph_M._Steinman, 1943-01-14, 2,3,3,83,1627
+Stanley_Rous, 1895-04-25, 2,2,3,83,2423

@@ -1,0 +1,4 @@
+Anthony_Hopkins, 1937-12-31, 2,43,61,463
+Avram_Hershko, 1937-12-31, 2,43,61,463
+Daniel_D._Tompkins, 1774-06-21, 7,17,43,463
+Pierre_Laval, 1883-06-28, 11,11,43,463

@@ -1,0 +1,4 @@
+Cristian_Chivu, 1980-10-26, 2,3,193,2111
+Giampiero_Boniperti, 1928-07-04, 3,59,71,193
+Kevin_Durant, 1988-09-29, 3,3,193,1409
+Polykarp_Kusch, 1911-01-26, 2,3,193,2089

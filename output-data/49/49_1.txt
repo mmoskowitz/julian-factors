@@ -1,0 +1,17 @@
+Al_Capone, 1899-01-17, 7,7,49279
+Amanda_Peet, 1972-01-11, 7,7,49823
+Denílson_Pereira_Neves, 1988-02-16, 7,7,49943
+Frank_Lampard, 1978-06-20, 7,7,49871
+Frank_Wilczek, 1951-05-15, 7,7,49669
+Grand_Duchess_Anastasia_Nikolaevna_of_Russia, 1901-06-18, 7,7,49297
+Larry_Mullen,_Jr., 1961-10-31, 7,7,49747
+Lleyton_Hewitt, 1981-02-24, 7,7,49891
+Nicole_Kidman, 1967-06-20, 7,7,49789
+Peter_Jackson, 1961-10-31, 7,7,49747
+Peter_O'Toole, 1932-08-02, 7,7,49529
+Rachel_Corrie, 1979-04-10, 7,7,49877
+Rasheed_Wallace, 1974-09-17, 7,7,49843
+Raymond_Kopa, 1931-10-13, 7,7,49523
+Sophie_Ellis-Bextor, 1979-04-10, 7,7,49877
+Tyrone_Power, 1914-05-05, 7,7,49393
+Zoran_Tošić, 1987-04-28, 7,7,49937

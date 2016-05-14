@@ -1,0 +1,8 @@
+Anna_Maria_Jopek, 1970-12-14, 2,199,6133
+Camilla_Belle, 1986-10-02, 5,199,2459
+David_Duchovny, 1960-08-07, 37,199,331
+Joseph_Pulitzer, 1847-04-10, 3,199,4013
+Leisel_Jones, 1985-08-30, 19,199,647
+Paul_Hermann_Müller, 1899-01-12, 2,199,6067
+Rudolph_A._Marcus, 1923-07-21, 19,199,641
+Sarvepalli_Radhakrishnan, 1888-09-05, 5,199,2423

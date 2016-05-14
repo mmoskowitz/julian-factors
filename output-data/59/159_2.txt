@@ -1,0 +1,8 @@
+Charles_Durning, 1923-02-28, 2,3,53,7621
+Dmitriy_Ustinov, 1908-10-17, 3,53,67,227
+Henry_A._Wallace, 1888-10-07, 3,53,59,257
+Hide_(musician), 1964-12-13, 2,3,53,7669
+Lauryn_Hill, 1975-05-26, 2,3,53,7681
+Louis_Barthou, 1862-08-25, 3,11,53,1373
+Peter_Shilton, 1949-09-18, 3,3,53,5101
+Philippe_II,_Duke_of_Orléans, 1674-08-02, 3,17,53,863

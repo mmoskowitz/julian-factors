@@ -1,0 +1,5 @@
+George_Westinghouse, 1846-10-06, 3,3,3,3,5,5,7,169
+Giorgio_Napolitano, 1925-06-29, 2,3,3,3,3,5,41,73
+Leon_M._Lederman, 1922-07-15, 2,3,3,3,5,5,5,359
+Paul_Wolfowitz, 1943-12-22, 2,2,2,3,3,3,5,2251
+Édouard_Daladier, 1884-06-18, 3,3,3,3,3,3,5,661

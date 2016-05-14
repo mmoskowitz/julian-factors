@@ -1,0 +1,8 @@
+Charles_VI,_Holy_Roman_Emperor, 1685-10-01, 149,15683
+J._M._Barrie, 1860-05-09, 149,16111
+Lil_Wayne, 1982-09-27, 149,16411
+Louis_Leakey, 1903-08-07, 149,16217
+Markus_Rosenberg, 1982-09-27, 149,16411
+Norodom_Sihamoni, 1953-05-14, 149,16339
+Pastor_Maldonado, 1985-03-09, 149,16417
+Ralph_Bunche, 1903-08-07, 149,16217

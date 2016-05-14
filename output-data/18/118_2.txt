@@ -1,0 +1,15 @@
+Anna_Seghers, 1900-11-19, 2,3,59,6823
+Carl_Menger, 1840-02-23, 2,17,59,1193
+Chet_Atkins, 1924-06-20, 2,2,59,10271
+Christiaan_Barnard, 1922-11-08, 2,11,59,1867
+Daniel_Dennett, 1942-03-28, 2,43,59,479
+Derrick_Rose, 1988-10-04, 2,7,59,2963
+Filippo_Tommaso_Marinetti, 1876-12-22, 2,5,59,4079
+Gore_Verbinski, 1964-03-16, 2,5,59,4133
+Itumeleng_Khune, 1987-06-20, 2,59,89,233
+Izzy_Stradlin, 1962-04-08, 2,59,73,283
+John_Diefenbaker, 1895-09-18, 2,59,113,181
+Juan_Manuel_Santos, 1951-08-10, 2,2,59,10313
+Theodor_Heuss, 1884-01-31, 2,17,59,1201
+W._Somerset_Maugham, 1874-01-25, 2,2,59,10193
+Willard_Libby, 1908-12-17, 2,2,59,10247

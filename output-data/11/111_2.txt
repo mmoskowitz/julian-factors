@@ -1,0 +1,15 @@
+Alexandre_Cabanel, 1823-09-28, 2,3,37,10753
+Audrey_Tautou, 1976-08-09, 3,13,37,1693
+Blaise_Pascal, 1623-06-19, 3,3,37,6949
+Chuck_Yeager, 1923-02-13, 3,7,37,3119
+Clint_Eastwood, 1930-05-31, 3,11,37,1987
+Daniel_Barenboim, 1942-11-15, 2,3,37,10949
+Ferdinand_von_Wrangel, 1796-12-29, 2,3,37,10709
+Francisco_Goya, 1746-03-30, 3,37,79,269
+Kate_Beckinsale, 1973-07-26, 3,3,37,7333
+Koichi_Tanaka, 1959-08-03, 3,29,37,757
+Nicolas_Boileau-Despréaux, 1636-11-01, 3,13,37,1607
+Paul_Klee, 1879-12-18, 3,37,109,199
+Ram_Narayan, 1927-12-25, 3,3,37,7283
+Robert_Bosch, 1861-09-23, 3,37,97,223
+Thomas_Klestil, 1932-11-04, 3,5,37,4373

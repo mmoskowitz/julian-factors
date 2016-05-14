@@ -1,0 +1,13 @@
+Aldous_Huxley, 1894-07-26, 3,3,5,53623
+Barack_Obama, 1961-08-04, 3,3,5,54167
+Boudewijn_Zenden, 1976-08-15, 3,3,5,54289
+Channing_Tatum, 1980-04-26, 3,3,5,54319
+D._H._Lawrence, 1885-09-11, 3,3,5,53551
+Drew_Barrymore, 1975-02-22, 3,3,5,54277
+Jet_Li, 1963-04-26, 3,3,5,54181
+Jordana_Brewster, 1980-04-26, 3,3,5,54319
+Mike_Shinoda, 1977-02-11, 3,3,5,54293
+Ralph_Waldo_Emerson, 1803-05-25, 3,3,5,52883
+Roger_Garaudy, 1913-07-17, 3,3,5,53777
+Stjepan_Mesić, 1934-12-24, 3,3,5,53951
+Thomas_Muster, 1967-10-02, 3,3,5,54217

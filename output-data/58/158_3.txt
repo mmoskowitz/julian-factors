@@ -1,0 +1,15 @@
+Elena_Dementieva, 1981-10-15, 2,2,3,79,2579
+Florentino_Pérez, 1947-03-08, 2,2,43,79,179
+Harrison_Schmitt, 1935-07-03, 2,11,11,79,127
+Isaac_Levitan, 1860-08-30, 2,2,71,79,107
+John_L._Hall, 1934-08-21, 2,5,7,79,439
+Joseph_L._Mankiewicz, 1909-02-11, 2,2,3,79,2551
+José_Luis_Rodríguez_Zapatero, 1960-08-04, 2,5,5,79,617
+José_Sarney, 1930-04-24, 2,5,37,79,83
+Kirill_Meretskov, 1897-06-07, 2,3,11,79,463
+Mario_Kempes, 1954-07-15, 2,3,11,79,467
+Marlon_Brando, 1924-04-03, 2,23,23,29,79
+Montgomery_Clift, 1920-10-17, 2,3,19,79,269
+Pietro_Metastasio, 1698-01-03, 2,2,31,79,239
+Rudolf_Carnap, 1891-05-18, 2,5,43,71,79
+Željko_Komšić, 1964-01-20, 2,11,23,61,79

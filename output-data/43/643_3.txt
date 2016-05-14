@@ -1,0 +1,7 @@
+Elisa_Bonaparte, 1777-01-03, 2,19,97,643
+Karl_Lagerfeld, 1933-09-10, 5,5,151,643
+Keith_Haring, 1958-05-04, 3,3,421,643
+Lucas_Papademos, 1947-10-11, 3,13,97,643
+Paul_Allen, 1953-01-21, 2,3,631,643
+Syd_Barrett, 1946-01-06, 2,31,61,643
+William_Pitt_the_Younger, 1759-05-28, 2,2,643,919

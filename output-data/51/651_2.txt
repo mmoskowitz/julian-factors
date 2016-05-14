@@ -1,0 +1,9 @@
+Jean_Michel_Jarre, 1948-08-24, 3,7,31,37,101
+Johanna_Spyri, 1827-06-12, 3,3,7,31,1223
+Jules_Rimet, 1873-10-14, 3,5,7,31,739
+Marco_Pantani, 1970-01-13, 3,7,23,31,163
+Pierre_Corneille, 1606-06-06, 3,5,7,31,709
+Ray_Ewry, 1873-10-14, 3,5,7,31,739
+Robert_Brown_(botanist), 1773-12-21, 3,3,7,31,1213
+Sauli_Niinistö, 1948-08-24, 3,7,31,37,101
+Theo_van_Gogh_(film_director), 1957-07-23, 2,3,7,31,1871

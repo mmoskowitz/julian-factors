@@ -1,0 +1,5 @@
+Danny_Elfman, 1953-05-29, 2,37,167,197
+Fernando_Henrique_Cardoso, 1931-06-18, 2,5,167,1453
+H._Rider_Haggard, 1856-06-22, 2,11,167,653
+Reba_McEntire, 1955-03-28, 2,23,167,317
+Rustam_Kasimdzhanov, 1979-12-05, 2,2,167,3659

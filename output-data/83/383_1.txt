@@ -1,0 +1,4 @@
+Courteney_Cox, 1964-06-15, 383,6367
+Dusty_Springfield, 1939-04-16, 383,6343
+Jean-François_Lyotard, 1924-08-10, 383,6329
+Narain_Karthikeyan, 1977-01-14, 383,6379

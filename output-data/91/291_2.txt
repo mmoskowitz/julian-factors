@@ -1,0 +1,10 @@
+Blake_Griffin, 1989-03-16, 3,13,97,647
+Guillermo_Coria, 1982-01-13, 2,3,97,4201
+Julia_Stiles, 1981-03-28, 3,31,97,271
+Julius_Nyerere, 1922-04-13, 3,11,97,757
+Lucas_Papademos, 1947-10-11, 3,13,97,643
+Osamu_Shimomura, 1928-08-27, 3,5,97,1667
+Robert_Bosch, 1861-09-23, 3,37,97,223
+Samuel_Richardson, 1689-08-19, 3,5,97,1607
+Sid_Meier, 1954-02-24, 3,3,97,2789
+Theo_Walcott, 1989-03-16, 3,13,97,647

@@ -1,0 +1,9 @@
+Alexander_Prokhorov, 1916-07-11, 5,7,13,17,313
+Alija_Izetbegović, 1925-08-08, 2,5,13,17,1097
+Danny_Aiello, 1933-06-20, 3,7,13,17,523
+Erich_von_Däniken, 1935-04-14, 2,3,13,17,1831
+Francisco_Franco, 1892-12-04, 2,2,13,17,2729
+Gough_Whitlam, 1916-07-11, 5,7,13,17,313
+Jean_Anouilh, 1910-06-23, 5,11,13,17,199
+Joseph_I_of_Portugal, 1714-06-06, 13,13,17,19,43
+Léon_Foucault, 1819-09-18, 5,13,17,17,127

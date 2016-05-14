@@ -1,0 +1,9 @@
+Charles_Goodyear, 1800-12-29, 2,47,25307
+Chen_Shui-bian, 1950-10-12, 2,47,25889
+David_Bryan, 1962-02-07, 2,47,25933
+David_Paterson, 1954-05-20, 2,47,25903
+Eddie_Izzard, 1962-02-07, 2,47,25933
+F._Scott_Fitzgerald, 1896-09-24, 2,47,25679
+Kurt_Schwitters, 1887-06-20, 2,47,25643
+Maggie_Grace, 1983-09-21, 2,47,26017
+Sebastian_Kehl, 1980-02-13, 2,47,26003

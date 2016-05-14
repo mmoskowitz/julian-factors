@@ -1,0 +1,6 @@
+Hermann_Staudinger, 1881-03-23, 2,83,89,163
+Jacobus_Henricus_van_'t_Hoff, 1852-08-30, 2,5,163,1471
+Julian_Huxley, 1887-06-22, 2,2,163,3697
+Karolos_Papoulias, 1929-06-04, 2,7,163,1063
+Roger_Martin_du_Gard, 1881-03-23, 2,83,89,163
+Thorbjørn_Jagland, 1950-11-05, 2,5,163,1493

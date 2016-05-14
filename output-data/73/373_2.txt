@@ -1,0 +1,6 @@
+Carlo_Collodi, 1826-11-24, 19,337,373
+Dave_Mustaine, 1961-09-13, 5,373,1307
+Jens_Böhrnsen, 1949-06-12, 11,373,593
+Jerry_Yang_(entrepreneur), 1968-11-06, 2,373,3271
+Stephen_Wolfram, 1959-08-29, 47,139,373
+Yevgeny_Zamyatin, 1884-02-01, 3,373,2153

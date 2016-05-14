@@ -1,0 +1,13 @@
+Abdou_Diouf, 1935-09-07, 2,2,11,139,397
+Ben_Bernanke, 1953-12-13, 2,2,29,139,151
+Bobby_Farrell, 1949-10-06, 3,3,5,139,389
+Charles_X_Gustav_of_Sweden, 1622-11-08, 2,7,29,41,139
+Erich_Kästner, 1899-02-23, 2,2,43,101,139
+Giuseppe_Ungaretti, 1888-02-10, 3,3,41,47,139
+Jason_Derulo, 1989-09-21, 2,3,5,139,587
+Jean-Pierre_Papin, 1963-11-05, 2,7,7,139,179
+Millvina_Dean, 1912-02-02, 2,3,3,139,967
+Nikola_Tesla, 1856-07-10, 2,2,5,139,863
+Robert_E._Lee, 1807-01-19, 2,3,5,139,571
+Romy_Schneider, 1938-09-23, 2,2,17,139,257
+Zach_Braff, 1975-04-06, 2,2,23,139,191

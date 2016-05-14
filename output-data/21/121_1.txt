@@ -1,0 +1,10 @@
+Camille_Claudel, 1864-12-08, 11,11,19853
+Eric_Saade, 1990-10-29, 11,11,20233
+Gene_Kelly, 1912-08-23, 11,11,19997
+Ken_Wilber, 1949-01-31, 11,11,20107
+Luis_Federico_Leloir, 1906-09-06, 11,11,19979
+Mikhail_Lomonosov, 1711-11-19, 11,11,19391
+Petar_Stoyanov, 1952-05-25, 11,11,20117
+Robert_Kovač, 1974-04-06, 11,11,20183
+Stanley_Baldwin, 1867-08-03, 11,11,19861
+Tjalling_Koopmans, 1910-08-28, 11,11,19991

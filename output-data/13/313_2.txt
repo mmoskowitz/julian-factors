@@ -1,0 +1,6 @@
+Jerome_Isaac_Friedman, 1930-03-28, 23,313,337
+Michael_York, 1942-03-27, 5,313,1553
+Pablo_Neruda, 1904-07-12, 7,313,1103
+Portia_de_Rossi, 1973-01-31, 29,269,313
+Sam_Walton, 1918-03-29, 3,313,2579
+Tomáš_Ujfaluši, 1978-03-24, 37,211,313

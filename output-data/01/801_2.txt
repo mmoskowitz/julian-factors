@@ -1,0 +1,5 @@
+James_Stirling_(architect), 1926-04-22, 3,3,3,89,1009
+Jean_Gabin, 1904-05-17, 3,3,7,89,431
+Joni_Mitchell, 1943-11-07, 3,3,5,89,607
+Michael_Spence, 1943-11-07, 3,3,5,89,607
+Semih_Şentürk, 1983-04-29, 3,3,43,71,89

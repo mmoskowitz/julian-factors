@@ -1,0 +1,4 @@
+John_Stockton, 1962-03-26, 3,3,3,17,47,113
+Juliana_of_the_Netherlands, 1909-04-30, 2,3,3,29,41,113
+Metta_World_Peace, 1979-11-13, 2,3,5,7,103,113
+Nicole_Richie, 1981-09-21, 2,2,3,3,113,601

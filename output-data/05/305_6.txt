@@ -1,0 +1,3 @@
+Andreas_Isaksson, 1981-10-03, 2,2,2,2,3,5,61,167
+Jean_le_Rond_d'Alembert, 1717-11-16, 2,2,5,5,5,7,11,61
+Zlatan_Ibrahimović, 1981-10-03, 2,2,2,2,3,5,61,167

@@ -1,0 +1,6 @@
+Arne_Tiselius, 1902-08-10, 283,8537
+Carlos_Menem, 1930-07-02, 283,8573
+Carrie_Underwood, 1983-03-10, 283,8641
+George_Washington, 1732-02-22, 283,8317
+Mike_Dirnt, 1972-05-04, 283,8627
+Norma_Shearer, 1902-08-10, 283,8537

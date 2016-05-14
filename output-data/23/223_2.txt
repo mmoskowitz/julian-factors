@@ -1,0 +1,8 @@
+Bengt_I._Samuelsson, 1934-05-21, 2,223,5443
+Gene_Simmons, 1949-08-25, 3,223,3637
+Loretta_Young, 1913-01-06, 3,223,3617
+Margaret_Atwood, 1939-11-18, 5,223,2179
+Martin_Amis, 1949-08-25, 3,223,3637
+Mohamed_Sissoko, 1985-01-22, 7,223,1567
+Rajneesh, 1931-12-11, 2,223,5441
+Thomas_Jefferson, 1743-04-13, 97,109,223

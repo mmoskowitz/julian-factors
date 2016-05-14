@@ -1,0 +1,10 @@
+Boris_Johnson, 1964-06-19, 3,5,17,73,131
+Francis_I,_Holy_Roman_Emperor, 1708-12-08, 3,5,17,17,541
+Franklin_D._Roosevelt, 1882-01-30, 3,5,5,17,1889
+Jay_Spearing, 1988-11-25, 2,3,5,17,4799
+Jeremy_Clarkson, 1960-04-11, 3,5,17,19,503
+Jessica_Simpson, 1980-07-10, 2,3,5,17,4793
+José_Mourinho, 1963-01-26, 3,3,5,17,3187
+Marc_Gené, 1974-03-29, 3,5,17,61,157
+Nodar_Kumaritashvili, 1988-11-25, 2,3,5,17,4799
+Yasuo_Fukuda, 1936-07-16, 3,5,17,89,107

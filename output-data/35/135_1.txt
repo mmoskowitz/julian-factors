@@ -1,0 +1,7 @@
+John_McEnroe, 1959-02-16, 3,3,3,5,18049
+Luiz_Inácio_Lula_da_Silva, 1945-10-27, 3,3,3,5,18013
+Mahalia_Jackson, 1911-10-26, 3,3,3,5,17921
+Mame_Biram_Diouf, 1987-12-16, 3,3,3,5,18127
+Paul_Hausser, 1880-10-07, 3,3,3,5,17837
+Ryan_Giggs, 1973-11-29, 3,3,3,5,18089
+Zbigniew_Boniek, 1956-03-03, 3,3,3,5,18041

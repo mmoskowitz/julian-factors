@@ -1,0 +1,9 @@
+Chuck_Berry, 1926-10-18, 2,29,97,431
+Hans_Christian_Andersen, 1805-04-02, 3,7,263,431
+Jacinto_Benavente, 1866-08-12, 5,5,223,431
+Kim_Basinger, 1953-12-08, 3,7,269,431
+Klaus_Kinski, 1926-10-18, 2,29,97,431
+Niko_Kranjčar, 1984-08-13, 5,5,227,431
+Norman_Finkelstein, 1953-12-08, 3,7,269,431
+Paul_Celan, 1920-11-23, 7,11,73,431
+Robert_W._Holley, 1922-01-28, 2,3,431,937

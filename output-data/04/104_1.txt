@@ -1,0 +1,8 @@
+Carla_Gugino, 1971-08-29, 2,2,2,13,23473
+John_Glenn, 1921-07-18, 2,2,2,13,23297
+Ludwig_Mies_van_der_Rohe, 1886-03-27, 2,2,2,13,23173
+Marc_Albrighton, 1989-11-18, 2,2,2,13,23537
+Muhammad_Ali, 1942-01-17, 2,2,2,13,23369
+Nicole_Scherzinger, 1978-06-29, 2,2,2,13,23497
+Otto_Skorzeny, 1908-06-12, 2,2,2,13,23251
+Sergey_Kirov, 1886-03-27, 2,2,2,13,23173

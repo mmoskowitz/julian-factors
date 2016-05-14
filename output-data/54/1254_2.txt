@@ -1,0 +1,2 @@
+George_Smoot, 1945-02-20, 2,3,7,11,19,277
+Gustavus_Adolphus_of_Sweden, 1594-12-09, 2,3,11,11,19,167

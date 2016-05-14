@@ -1,0 +1,16 @@
+Ang_Lee, 1954-10-23, 2,137,8887
+Anna_Bergendahl, 1991-12-11, 61,137,293
+Anna_Gavalda, 1970-12-09, 3,137,5939
+Carl_David_Anderson, 1905-09-03, 3,137,5881
+George_Gamow, 1904-03-04, 31,137,569
+Giacomo_Casanova, 1725-04-02, 2,137,8581
+Heinrich_Rohrer, 1933-06-06, 7,137,2531
+Joaquim_Chissano, 1939-10-22, 2,137,8867
+Lucy_Maud_Montgomery, 1874-11-30, 17,137,1033
+Lynn_Redgrave, 1943-03-08, 11,137,1613
+Madame_du_Barry, 1743-08-19, 3,137,5737
+Michelle_Williams_(actress), 1980-09-09, 7,137,2549
+Shaun_Wright-Phillips, 1981-10-25, 2,137,8923
+Teri_Hatcher, 1964-12-08, 7,137,2543
+Vasily_Blyukher, 1889-12-01, 3,137,5867
+Winston_Churchill, 1874-11-30, 17,137,1033

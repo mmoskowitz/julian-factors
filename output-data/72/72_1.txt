@@ -1,0 +1,8 @@
+George_Lucas, 1944-05-14, 2,2,2,3,3,33767
+Grand_Duchess_Olga_Nikolaevna_of_Russia, 1895-11-15, 2,2,2,3,3,33521
+Italo_Svevo, 1861-12-19, 2,2,2,3,3,33349
+Johann_Bernoulli, 1667-08-06, 2,2,2,3,3,32363
+Mathias_Rust, 1968-06-01, 2,2,2,3,3,33889
+Paavo_Nurmi, 1897-06-13, 2,2,2,3,3,33529
+Ron_Perlman, 1950-04-13, 2,2,2,3,3,33797
+Steve_Harris_(musician), 1956-03-12, 2,2,2,3,3,33827

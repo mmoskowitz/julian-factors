@@ -1,0 +1,15 @@
+Adolf_Galland, 1912-03-19, 2,2,2,5,7,8641
+Alan_Smith_(footballer,_born_1980), 1980-10-28, 2,2,5,7,19,919
+Bar_Refaeli, 1985-06-04, 2,2,5,7,101,173
+Carl_XVI_Gustaf_of_Sweden, 1946-04-30, 2,2,5,7,29,599
+Carole_Lombard, 1908-10-06, 2,2,5,7,23,751
+Dan_Quayle, 1947-02-04, 2,2,3,5,7,5791
+Ernst_Boris_Chain, 1906-06-19, 2,2,5,7,31,557
+F._Murray_Abraham, 1939-10-24, 2,2,2,5,7,8677
+Glenn_Miller, 1904-03-01, 2,2,5,7,41,421
+Hadise, 1985-10-22, 2,2,2,5,7,8737
+Hideki_Tojo, 1884-12-30, 2,2,3,5,7,5737
+Joseph_Heller, 1923-05-01, 2,2,5,7,7,2473
+Lukas_Podolski, 1985-06-04, 2,2,5,7,101,173
+Martin_Scorsese, 1942-11-17, 2,2,2,5,7,8681
+Rubens_Barrichello, 1972-05-23, 2,2,3,5,7,5813

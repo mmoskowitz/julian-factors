@@ -1,0 +1,5 @@
+Arturo_Pérez-Reverte, 1951-11-25, 3,5,5,17,23,83
+Cyndi_Lauper, 1953-06-22, 2,5,5,23,29,73
+François_Mauriac, 1885-10-11, 3,5,5,11,23,127
+Mehmet_Scholl, 1970-10-16, 3,5,5,5,23,283
+Sin-Itiro_Tomonaga, 1906-03-31, 2,2,5,5,23,1051

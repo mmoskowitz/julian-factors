@@ -1,0 +1,7 @@
+Carrie-Anne_Moss, 1967-08-21, 3,11,11,11,13,47
+Gustavus_Adolphus_of_Sweden, 1594-12-09, 2,3,11,11,19,167
+Louise_Bourgeois, 1911-12-25, 3,5,11,11,31,43
+Paulo_Wanchope, 1976-07-31, 2,3,5,11,11,673
+Pete_Sampras, 1971-08-12, 3,5,5,11,11,269
+Serj_Tankian, 1967-08-21, 3,11,11,11,13,47
+Siim_Kallas, 1948-10-02, 2,3,3,11,11,1117

@@ -1,0 +1,14 @@
+Colin_Farrell, 1976-05-31, 53,46093
+David_Schwimmer, 1966-11-02, 53,46027
+Elias_James_Corey, 1928-07-12, 53,45763
+Elizabeth_of_Russia, 1709-12-29, 53,44257
+Elvis_Costello, 1954-08-25, 53,45943
+Empress_Elisabeth_of_Austria, 1837-12-24, 53,45139
+Hedwiges_Maduro, 1985-02-13, 53,46153
+Janet_Gaynor, 1906-10-06, 53,45613
+Janez_Janša, 1958-09-17, 53,45971
+Max_von_Laue, 1879-10-09, 53,45427
+Michel_Foucault, 1926-10-15, 53,45751
+Mohamed_Ould_Abdel_Aziz, 1956-12-20, 53,45959
+Pope_Gregory_XVI, 1765-09-18, 53,44641
+Sarah_Michelle_Gellar, 1977-04-14, 53,46099

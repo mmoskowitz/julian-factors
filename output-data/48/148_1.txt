@@ -1,0 +1,6 @@
+Anthony_Minghella, 1954-01-06, 2,2,37,16451
+Chris_Cornell, 1964-07-20, 2,2,37,16477
+Mario_Puzo, 1920-10-15, 2,2,37,16369
+Moritz_Leuenberger, 1946-09-21, 2,2,37,16433
+Palmiro_Togliatti, 1893-03-26, 2,2,37,16301
+Richard_Feynman, 1918-05-11, 2,2,37,16363

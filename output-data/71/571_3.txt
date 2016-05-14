@@ -1,0 +1,4 @@
+Arthur_Penn, 1922-09-27, 2,2,571,1061
+Isadora_Duncan, 1877-05-26, 3,5,281,571
+Johann_Joachim_Winckelmann, 1717-12-09, 3,3,457,571
+Mark_Schwarzer, 1972-10-06, 2,2,571,1069

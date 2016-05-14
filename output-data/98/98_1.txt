@@ -1,0 +1,13 @@
+Carmen_Miranda, 1909-02-09, 2,7,7,24677
+Cicinho, 1980-06-24, 2,7,7,24943
+Ferdinand_Marcos, 1917-09-11, 2,7,7,24709
+Harry_Houdini, 1874-03-24, 2,7,7,24547
+James_Caan, 1940-03-26, 2,7,7,24793
+Lee_Marvin, 1924-02-19, 2,7,7,24733
+Luigi_Einaudi, 1874-03-24, 2,7,7,24547
+Michael_Clarke_Duncan, 1957-12-10, 2,7,7,24859
+Nancy_Pelosi, 1940-03-26, 2,7,7,24793
+Rabindranath_Tagore, 1861-05-07, 2,7,7,24499
+Shinzō_Abe, 1954-09-21, 2,7,7,24847
+Thomas_Hardy, 1840-06-02, 2,7,7,24421
+Wilhelmina_of_the_Netherlands, 1880-08-31, 2,7,7,24571

@@ -1,0 +1,9 @@
+Aleksis_Kivi, 1834-10-10, 2,2,263,2273
+Charlene,_Princess_of_Monaco, 1978-01-25, 3,19,163,263
+Charles_Manson, 1934-11-12, 3,17,181,263
+Getúlio_Vargas, 1882-04-19, 2,19,241,263
+Hans_Christian_Andersen, 1805-04-02, 3,7,263,431
+Laurent-Désiré_Kabila, 1939-11-27, 2,31,149,263
+Valentina_Matviyenko, 1949-04-07, 11,29,29,263
+Vavá, 1934-11-12, 3,17,181,263
+William_Cavendish-Bentinck,_3rd_Duke_of_Portland, 1738-04-14, 2,3,263,1493

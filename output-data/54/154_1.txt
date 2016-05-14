@@ -1,0 +1,5 @@
+Edward_Drinker_Cope, 1840-07-28, 2,7,11,15541
+Friedrich_Nietzsche, 1844-10-15, 2,7,11,15551
+Kārlis_Ulmanis, 1877-09-04, 2,7,11,15629
+Lázaro_Cárdenas, 1895-05-21, 2,7,11,15671
+Philippe_Mexès, 1982-03-30, 2,7,11,15877

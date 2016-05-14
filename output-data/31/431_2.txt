@@ -1,0 +1,5 @@
+August_Krogh, 1874-11-15, 2,431,2791
+Bertram_Brockhouse, 1918-07-15, 3,431,1873
+Erich_Maria_Remarque, 1898-06-22, 2,431,2801
+Klaus_Barbie, 1913-10-25, 5,431,1123
+Thornton_Wilder, 1897-04-17, 3,431,1867

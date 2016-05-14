@@ -1,0 +1,4 @@
+Aleksis_Kivi, 1834-10-10, 2,2,263,2273
+Getúlio_Vargas, 1882-04-19, 2,19,241,263
+Laurent-Désiré_Kabila, 1939-11-27, 2,31,149,263
+William_Cavendish-Bentinck,_3rd_Duke_of_Portland, 1738-04-14, 2,3,263,1493

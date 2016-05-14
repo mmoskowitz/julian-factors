@@ -1,0 +1,17 @@
+Alexander_Khalifman, 1966-01-18, 7,17,103,199
+Ashton_Kutcher, 1978-02-07, 2,7,17,10267
+Beau_Bridges, 1941-12-09, 7,13,17,1571
+Daniel_D._Tompkins, 1774-06-21, 7,17,43,463
+Daniel_Van_Buyten, 1978-02-07, 2,7,17,10267
+Dwight_D._Eisenhower, 1890-10-14, 2,7,17,10133
+Gunnar_Myrdal, 1898-12-06, 7,17,103,197
+Jacques_Santer, 1937-05-18, 3,7,17,6803
+Janica_Kostelić, 1982-01-05, 2,7,17,10273
+Jaroslav_Plašil, 1982-01-05, 2,7,17,10273
+Leighton_Baines, 1984-12-11, 5,7,17,4111
+Marvin_Minsky, 1927-08-09, 3,7,17,6793
+Octavio_Paz, 1914-03-31, 2,7,17,10169
+Paula_Abdul, 1962-06-19, 2,7,17,10243
+Richard_Axel, 1946-07-02, 7,17,107,191
+Wilhelm_Steinitz, 1836-05-17, 7,17,101,199
+Yahya_Jammeh, 1965-05-25, 5,7,17,4099

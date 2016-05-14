@@ -1,0 +1,6 @@
+Charles_X_Gustav_of_Sweden, 1622-11-08, 2,7,29,41,139
+Cuba_Gooding,_Jr., 1968-01-02, 7,7,17,29,101
+Giorgio_de_Chirico, 1888-07-10, 2,2,7,29,2969
+Lena_Olin, 1955-03-22, 2,2,7,29,2999
+Saint-John_Perse, 1887-05-31, 2,3,7,29,1979
+Valdis_Zatlers, 1955-03-22, 2,2,7,29,2999

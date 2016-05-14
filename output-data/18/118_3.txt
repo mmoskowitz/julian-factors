@@ -1,0 +1,11 @@
+Ali_Larter, 1976-02-28, 2,2,11,59,941
+Allan_McLeod_Cormack, 1924-02-23, 2,3,41,59,167
+Edward_Lear, 1812-05-12, 2,5,7,59,577
+Gilbert_Gottfried, 1955-02-28, 2,3,3,59,2293
+Helmut_Schmidt, 1918-12-23, 2,5,5,59,821
+Johann_Ludwig_Burckhardt, 1784-11-24, 2,2,5,59,2011
+Joseph_Yobo, 1980-09-06, 2,2,2,59,5179
+Vivienne_Westwood, 1941-04-08, 2,2,7,59,1471
+Wisława_Szymborska, 1923-07-02, 2,19,23,47,59
+Zachary_Taylor, 1784-11-24, 2,2,5,59,2011
+Zalman_Shazar, 1889-11-24, 2,5,59,61,67

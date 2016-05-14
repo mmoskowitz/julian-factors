@@ -1,0 +1,17 @@
+Alexander_Alekhine, 1892-10-31, 2,3,17,67,353
+George_Grosz, 1893-07-26, 2,5,13,67,277
+Henry_Cavendish, 1731-10-10, 2,2,2,67,4391
+Itzhak_Perlman, 1945-08-31, 2,3,23,67,263
+Joe_Mantegna, 1947-11-13, 2,3,3,67,2017
+Jon_Stewart, 1962-11-28, 2,2,11,67,827
+Juan_Perón, 1895-10-08, 2,7,31,67,83
+Kofi_Kingston, 1981-08-14, 2,5,41,67,89
+Pál_Schmitt, 1942-05-13, 2,2,3,67,3023
+Reynaldo_Bignone, 1928-01-21, 2,3,3,67,2011
+Richard_Rogers, 1933-07-23, 2,2,3,67,3019
+Robbie_Keane, 1980-07-08, 2,2,7,67,1303
+Silvia_Saint, 1976-02-12, 2,2,5,67,1823
+Steven_Tyler, 1948-03-26, 2,2,29,67,313
+Theo_van_Doesburg, 1883-08-30, 2,2,67,89,101
+Van_Morrison, 1945-08-31, 2,3,23,67,263
+Zalman_Shazar, 1889-11-24, 2,5,59,61,67

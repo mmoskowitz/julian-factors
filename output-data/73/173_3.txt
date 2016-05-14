@@ -1,0 +1,12 @@
+Adolfo_Pérez_Esquivel, 1931-11-26, 13,13,83,173
+Alexi_Laiho, 1979-04-08, 3,17,173,277
+Ben_Barnes_(actor), 1981-08-20, 2,2,173,3533
+Brian_Clough, 1935-03-21, 2,3,173,2339
+Erwin_Neher, 1944-03-20, 13,23,47,173
+Janez_Drnovšek, 1950-05-17, 2,13,173,541
+John_Stuart_Mill, 1806-05-20, 2,7,173,983
+Megan_Fox, 1986-05-16, 2,3,173,2357
+Robert_Falcon_Scott, 1868-06-06, 3,11,173,421
+Ron_Howard, 1954-03-01, 2,31,173,227
+Santi_Cazorla, 1984-12-13, 3,3,173,1571
+Uche_Kalu, 1986-05-16, 2,3,173,2357

@@ -1,0 +1,13 @@
+Charles_Fourier, 1772-04-07, 2,7,7,11,13,169
+Elvis_Presley, 1935-01-08, 2,3,5,7,11,1051
+Franz_Brentano, 1838-01-16, 2,5,7,11,13,239
+George_Smoot, 1945-02-20, 2,3,7,11,19,277
+Georges_Lemaître, 1894-07-17, 2,3,3,7,11,1741
+Jane_Fonda, 1937-12-21, 2,2,2,7,11,3943
+John_Myung, 1967-01-24, 2,7,7,11,31,73
+Léopold_Sédar_Senghor, 1906-10-09, 2,2,7,11,47,167
+Richard_Kingson, 1978-06-13, 2,2,2,7,11,3967
+Richard_Willstätter, 1872-08-13, 2,7,7,11,23,97
+Stefanía_Fernández, 1990-09-04, 2,3,7,7,11,757
+Tony_Bennett, 1926-08-03, 2,5,7,11,47,67
+William_Henry_Harrison, 1773-02-09, 2,3,3,7,11,1709

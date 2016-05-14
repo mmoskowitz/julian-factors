@@ -1,0 +1,5 @@
+Elena_Dementieva, 1981-10-15, 2,2,3,79,2579
+Joseph_L._Mankiewicz, 1909-02-11, 2,2,3,79,2551
+Kirill_Meretskov, 1897-06-07, 2,3,11,79,463
+Mario_Kempes, 1954-07-15, 2,3,11,79,467
+Montgomery_Clift, 1920-10-17, 2,3,19,79,269

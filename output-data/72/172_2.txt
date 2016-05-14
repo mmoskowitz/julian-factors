@@ -1,0 +1,9 @@
+Adolf_Eichmann, 1906-03-19, 2,2,2,43,7027
+Archibald_Primrose,_5th_Earl_of_Rosebery, 1847-05-07, 2,2,3,43,4643
+Erich_Kästner, 1899-02-23, 2,2,43,101,139
+Florentino_Pérez, 1947-03-08, 2,2,43,79,179
+John_Mayer, 1977-10-16, 2,2,2,43,7103
+Katherine_Mansfield, 1888-10-14, 2,2,43,107,131
+Knut_Hamsun, 1859-08-04, 2,2,5,43,2791
+Peter_Medawar, 1915-02-28, 2,2,3,43,4691
+William_Howard_Taft, 1857-09-15, 2,2,7,43,1993

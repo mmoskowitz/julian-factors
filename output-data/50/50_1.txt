@@ -1,0 +1,8 @@
+Edgar_F._Codd, 1923-08-19, 2,5,5,48473
+Hakeem_Olajuwon, 1963-01-21, 2,5,5,48761
+Henry_Dunant, 1828-05-08, 2,5,5,47777
+Ike_Turner, 1931-11-05, 2,5,5,48533
+Jacques_Villeneuve, 1971-04-09, 2,5,5,48821
+Jaroslav_Seifert, 1901-09-23, 2,5,5,48313
+John_Hurt, 1940-01-22, 2,5,5,48593
+Ronnie_James_Dio, 1942-07-10, 2,5,5,48611

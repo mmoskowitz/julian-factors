@@ -1,0 +1,3 @@
+George_Smoot, 1945-02-20, 2,3,7,11,19,277
+Gustavus_Adolphus_of_Sweden, 1594-12-09, 2,3,11,11,19,167
+Penélope_Cruz, 1974-04-28, 3,5,11,19,19,41

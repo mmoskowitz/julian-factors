@@ -1,0 +1,4 @@
+Antonio_Saca, 1965-03-09, 2,2,7,7,23,541
+Boutros_Boutros-Ghali, 1922-11-14, 2,2,7,23,53,71
+Carole_Lombard, 1908-10-06, 2,2,5,7,23,751
+Veronica_Lake, 1922-11-14, 2,2,7,23,53,71

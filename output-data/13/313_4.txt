@@ -1,0 +1,7 @@
+Alexander_Prokhorov, 1916-07-11, 5,7,13,17,313
+Babe_Ruth, 1895-02-06, 2,3,5,257,313
+Bill_Nighy, 1949-12-12, 2,13,13,23,313
+Gough_Whitlam, 1916-07-11, 5,7,13,17,313
+Jaime_Alguersuari, 1990-03-23, 3,3,11,79,313
+Marc_Ravalomanana, 1949-12-12, 2,13,13,23,313
+Steven_Tyler, 1948-03-26, 2,2,29,67,313

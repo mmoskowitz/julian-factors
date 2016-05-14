@@ -1,0 +1,10 @@
+Bella_Akhmadulina, 1937-04-10, 31,157,499
+Carlo_Azeglio_Ciampi, 1920-12-09, 13,157,1187
+Christiaan_Eijkman, 1858-08-11, 2,157,7643
+Chuck_Schuldiner, 1967-05-13, 41,157,379
+Friedrich_Wöhler, 1800-07-31, 109,139,157
+George_Andrew_Olah, 1927-05-22, 2,157,7723
+Heinrich_von_Kleist, 1777-10-18, 2,157,7549
+Ilan_Ramon, 1954-06-20, 13,157,1193
+Richard_R._Schrock, 1945-01-04, 17,157,911
+Sander_Boschker, 1970-10-20, 7,157,2221

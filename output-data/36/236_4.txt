@@ -1,0 +1,5 @@
+Edson_Braafheid, 1983-04-08, 2,2,2,3,11,59,157
+Ferdinand_I_of_Austria, 1793-04-19, 2,2,2,2,3,59,839
+Gheorghe_Gheorghiu-Dej, 1901-11-08, 2,2,2,2,3,59,853
+Severo_Ochoa, 1905-09-24, 2,2,2,3,3,59,569
+Wes_Montgomery, 1923-03-06, 2,2,3,3,7,59,163

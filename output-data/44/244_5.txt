@@ -1,0 +1,6 @@
+Andreas_Isaksson, 1981-10-03, 2,2,2,2,3,5,61,167
+Jean_le_Rond_d'Alembert, 1717-11-16, 2,2,5,5,5,7,11,61
+Kurt_Georg_Kiesinger, 1904-04-06, 2,2,2,2,2,2,61,619
+Makarios_III, 1913-08-13, 2,2,2,3,3,19,29,61
+Susilo_Bambang_Yudhoyono, 1949-09-09, 2,2,2,2,3,3,61,277
+Zlatan_Ibrahimović, 1981-10-03, 2,2,2,2,3,5,61,167

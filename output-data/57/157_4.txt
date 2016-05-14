@@ -1,0 +1,13 @@
+Antoni_Tàpies, 1923-12-13, 2,3,31,83,157
+Davide_Santon, 1991-01-02, 2,3,23,113,157
+Geraldine_Chaplin, 1944-07-31, 2,3,29,89,157
+Gnassingbé_Eyadéma, 1935-12-26, 2,11,19,37,157
+Karl_Dönitz, 1891-09-16, 3,3,3,157,569
+Louis_Althusser, 1918-10-16, 2,3,3,157,857
+Marc_Gené, 1974-03-29, 3,5,17,61,157
+Mart_Poom, 1972-02-03, 2,5,5,157,311
+Maurice_Chevalier, 1888-09-12, 2,2,11,157,349
+Mircea_Eliade, 1907-03-09, 3,3,29,59,157
+Philip_Warren_Anderson, 1923-12-13, 2,3,31,83,157
+Robert_C._Merton, 1944-07-31, 2,3,29,89,157
+Stewart_Downing, 1984-07-22, 3,3,3,157,577

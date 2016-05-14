@@ -1,0 +1,8 @@
+Angela_Merkel, 1954-07-17, 2,2,5,211,577
+Bourvil, 1917-07-27, 2,2,19,151,211
+Demis_Roussos, 1946-06-15, 2,3,17,113,211
+J._Michael_Straczynski, 1954-07-17, 2,2,5,211,577
+John_Huston, 1906-08-05, 3,3,19,67,211
+Oscar_Pistorius, 1986-11-22, 2,2,13,211,223
+Sébastien_Le_Prestre_de_Vauban, 1633-05-04, 2,2,2,211,1373
+Umberto_I_of_Italy, 1844-03-14, 3,3,13,97,211

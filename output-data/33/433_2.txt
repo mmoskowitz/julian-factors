@@ -1,0 +1,6 @@
+Alexander_Stepanovich_Popov, 1859-03-16, 23,241,433
+Jay_Mohr, 1970-08-23, 3,433,1879
+John_Cleese, 1939-10-27, 31,181,433
+Marcelo_Caetano, 1906-08-17, 3,433,1861
+Max_Frisch, 1911-05-15, 37,151,433
+River_Phoenix, 1970-08-23, 3,433,1879

@@ -1,0 +1,6 @@
+Albert_Schweitzer, 1875-01-14, 2,59,20389
+Calvin_Klein_(fashion_designer), 1942-11-19, 2,59,20599
+Demi_Lovato, 1992-08-20, 2,59,20753
+John_Cornforth, 1917-09-07, 2,59,20521
+Karl_Malone, 1963-07-24, 2,59,20663
+Robert_Capa, 1913-10-22, 2,59,20509

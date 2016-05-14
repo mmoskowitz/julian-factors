@@ -1,0 +1,6 @@
+Larry_Wall, 1954-09-27, 2,2,17,35809
+Manuel_Belgrano, 1770-06-03, 2,2,17,34819
+Somchai_Wongsawat, 1947-08-31, 2,2,17,35771
+Victor_Amadeus_III_of_Sardinia, 1726-06-26, 2,2,17,34583
+Walter_Zenga, 1960-04-28, 2,2,17,35839
+Ágnes_Szávay, 1988-12-29, 2,2,17,35993

@@ -1,0 +1,4 @@
+Engelbert_Dollfuss, 1892-10-04, 3,5,5,5,7,919
+George_Emil_Palade, 1912-11-19, 3,5,5,7,11,419
+Kurt_Wüthrich, 1938-10-04, 3,5,5,7,7,661
+Marion_Bartoli, 1984-10-02, 3,3,5,5,7,1553

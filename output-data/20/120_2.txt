@@ -1,0 +1,12 @@
+Antonio_Meucci, 1808-04-13, 2,2,2,2,3,5,9923
+Demy_de_Zeeuw, 1983-05-26, 2,2,2,3,3,5,6793
+Gene_Roddenberry, 1921-08-19, 2,2,2,3,5,61,331
+George_IV_of_the_United_Kingdom, 1762-08-12, 2,2,2,3,3,5,6569
+Gustaf_VI_Adolf_of_Sweden, 1882-11-11, 2,2,2,3,3,5,6691
+John_Herschel, 1792-03-07, 2,2,2,3,3,5,6599
+Juan_Sebastián_Verón, 1975-03-09, 2,2,2,2,3,5,10177
+Kiefer_Sutherland, 1966-12-21, 2,2,2,3,5,29,701
+Natasha_Richardson, 1963-05-11, 2,2,2,2,3,5,10159
+Peter_Zumthor, 1943-04-26, 2,2,2,3,5,47,431
+Roy_Makaay, 1975-03-09, 2,2,2,2,3,5,10177
+William_Hurt, 1950-03-20, 2,2,2,2,3,5,10139

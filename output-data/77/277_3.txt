@@ -1,0 +1,10 @@
+Alexi_Laiho, 1979-04-08, 3,17,173,277
+Ashanti_(singer), 1980-10-13, 5,5,277,353
+Camillo_Golgi, 1843-07-07, 2,2,277,2161
+Chlodwig,_Prince_of_Hohenlohe-Schillingsfürst, 1819-03-31, 2,2,277,2153
+Henry_Way_Kendall, 1926-12-09, 2,3,277,1459
+Kurt_Russell, 1951-03-17, 2,23,191,277
+Martin_Gardner, 1914-10-21, 2,17,257,277
+Nastassja_Kinski, 1961-01-24, 3,7,277,419
+Scott_Parker, 1980-10-13, 5,5,277,353
+Wilson_Palacios, 1984-07-29, 2,5,277,883

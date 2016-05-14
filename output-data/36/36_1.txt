@@ -1,0 +1,16 @@
+Christian_Klien, 1983-02-07, 2,2,3,3,67927
+Christopher_Wren, 1632-10-20, 2,2,3,3,64373
+Fouad_Siniora, 1943-04-14, 2,2,3,3,67523
+George_Stephenson, 1781-06-09, 2,2,3,3,65881
+Giovanni_Gronchi, 1887-09-10, 2,2,3,3,66959
+Jeremy_Bentham, 1748-02-15, 2,2,3,3,65543
+Joaquin_Phoenix, 1974-10-28, 2,2,3,3,67843
+John_Bardeen, 1908-05-23, 2,2,3,3,67169
+Michael_Jackson, 1958-08-29, 2,2,3,3,67679
+Nick_Mason, 1944-01-27, 2,2,3,3,67531
+Oliver_Riedel, 1971-04-11, 2,2,3,3,67807
+Otto_Diels, 1876-01-23, 2,2,3,3,66841
+Richard_Pryor, 1940-12-01, 2,2,3,3,67499
+Tassos_Papadopoulos, 1934-01-07, 2,2,3,3,67429
+Willem_Drees, 1886-07-05, 2,2,3,3,66947
+Éric_Rohmer, 1920-03-21, 2,2,3,3,67289

@@ -1,0 +1,6 @@
+Albert_Kesselring, 1885-11-30, 5,5,5,13,1483
+Alfred_Rosenberg, 1893-01-12, 5,5,13,13,571
+Claude_Adrien_Helvétius, 1715-01-26, 5,5,13,31,233
+Daniel_Brühl, 1978-06-16, 5,5,13,73,103
+Hermann_Göring, 1893-01-12, 5,5,13,13,571
+Tara_Strong, 1973-02-12, 5,5,11,13,683

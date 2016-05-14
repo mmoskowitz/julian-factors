@@ -1,0 +1,4 @@
+Andriy_Shevchenko, 1976-09-29, 2,3,3,5,5,61,89
+Clifford_Geertz, 1926-08-23, 2,3,5,5,5,53,61
+Gene_Roddenberry, 1921-08-19, 2,2,2,3,5,61,331
+Kostas_Karamanlis, 1956-09-14, 2,3,5,11,11,11,61

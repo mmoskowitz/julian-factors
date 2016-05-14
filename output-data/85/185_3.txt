@@ -1,0 +1,16 @@
+Annie_Besant, 1847-10-01, 3,3,5,37,1439
+Ashley_Judd, 1968-04-19, 5,11,11,37,109
+Dennis_Gabor, 1900-06-05, 5,5,7,37,373
+Diane_Keaton, 1946-01-05, 5,5,11,37,239
+Dionne_Warwick, 1940-12-12, 5,5,37,37,71
+Erik_Erikson, 1902-06-15, 3,3,5,37,1451
+Ian_Somerhalder, 1978-12-08, 2,5,5,37,1321
+Jean-Baptiste_Biot, 1774-04-21, 2,5,19,37,337
+Jeffrén_Suárez, 1988-01-20, 2,2,5,37,3307
+Jonny_Greenwood, 1971-11-05, 2,2,5,37,3299
+José_Sarney, 1930-04-24, 2,5,37,79,83
+Kelly_Kelly, 1987-01-15, 2,5,17,37,389
+Kevin_Carter, 1960-09-13, 2,5,7,37,941
+Le_Corbusier, 1887-10-06, 2,5,5,37,1303
+Paul_Langevin, 1872-01-23, 3,5,7,37,619
+William_Carlos_Williams, 1883-09-17, 2,5,17,37,383

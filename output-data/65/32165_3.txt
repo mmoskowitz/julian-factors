@@ -1,0 +1,2 @@
+Alan_Smith_(footballer,_born_1980), 1980-10-28, 2,2,5,7,19,919
+Engelbert_Dollfuss, 1892-10-04, 3,5,5,5,7,919

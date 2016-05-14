@@ -1,0 +1,5 @@
+Emil_Constantinescu, 1939-11-19, 2,3,3,43,43,73
+Gustav_Klimt, 1862-07-14, 3,3,5,17,43,73
+Linda_B._Buck, 1947-01-29, 2,3,3,3,73,617
+Olivia_de_Havilland, 1916-07-01, 3,3,5,11,67,73
+Peter_MacNicol, 1954-04-10, 2,3,3,17,73,109

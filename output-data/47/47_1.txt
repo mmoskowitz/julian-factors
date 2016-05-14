@@ -1,0 +1,13 @@
+Chaka_Khan, 1953-03-23, 47,51797
+Cláudio_Taffarel, 1966-05-08, 47,51899
+Frank_Rijkaard, 1962-09-30, 47,51871
+John_Dewey, 1859-10-20, 47,51071
+Madeleine_Stowe, 1958-08-18, 47,51839
+Martin_Ryle, 1918-09-27, 47,51529
+Paul_J._Crutzen, 1933-12-03, 47,51647
+Prince_Maximilian_of_Baden, 1867-07-10, 47,51131
+Queen_Latifah, 1970-03-18, 47,51929
+Steve_Vai, 1960-06-06, 47,51853
+Takeshi_Kitano, 1947-01-18, 47,51749
+Terence_Stamp, 1938-07-22, 47,51683
+Wes_Craven, 1939-08-02, 47,51691

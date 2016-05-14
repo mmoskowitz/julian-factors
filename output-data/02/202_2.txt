@@ -1,0 +1,10 @@
+Amr_Moussa, 1936-10-03, 2,2,101,6011
+Eliphas_Levi, 1810-02-08, 2,3,101,3931
+George_F._Kennan, 1904-02-16, 2,7,101,1709
+Ivan_Rakitić, 1988-03-10, 2,5,101,2423
+Michelle_Pfeiffer, 1958-04-29, 2,7,101,1723
+Mustafa_IV, 1779-09-08, 2,2,101,5869
+Sam_Peckinpah, 1925-02-21, 2,11,101,1091
+Tsai_Ing-wen, 1956-08-31, 2,2,101,6029
+Viktor_Frankl, 1905-03-26, 2,5,101,2393
+William_Thomson,_1st_Baron_Kelvin, 1824-06-26, 2,53,101,223

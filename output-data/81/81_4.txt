@@ -1,0 +1,14 @@
+Donna_Summer, 1948-12-31, 2,2,3,3,3,3,3,2503
+Ferdinand_Schörner, 1892-06-12, 3,3,3,3,3,3,3,1103
+Frank_Sherwood_Rowland, 1927-06-28, 3,3,3,3,7,7,13,47
+George_Arliss, 1868-04-10, 2,2,2,3,3,3,3,3709
+George_Westinghouse, 1846-10-06, 3,3,3,3,5,5,7,169
+Giorgio_Napolitano, 1925-06-29, 2,3,3,3,3,5,41,73
+Ivo_Karlović, 1979-02-28, 2,2,3,3,3,3,19,397
+Jean-Jacques_Dessalines, 1758-09-20, 2,3,3,3,3,3,3,1621
+Maurice_de_Vlaminck, 1876-04-04, 2,2,3,3,3,3,7,1061
+Mohammed_VI_of_Morocco, 1963-08-21, 2,3,3,3,3,3,29,173
+Richard_Gere, 1949-08-31, 3,3,3,3,3,17,19,31
+Sébastien_Bourdais, 1979-02-28, 2,2,3,3,3,3,19,397
+Vilfredo_Pareto, 1848-07-15, 3,3,3,3,3,3,19,173
+Édouard_Daladier, 1884-06-18, 3,3,3,3,3,3,5,661

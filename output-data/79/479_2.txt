@@ -1,0 +1,5 @@
+Alfonso_Cuarón, 1961-11-28, 7,479,727
+Henry_Wadsworth_Longfellow, 1807-02-27, 3,479,1657
+Robert_Aumann, 1930-06-08, 5,479,1013
+Robert_Jordan, 1948-10-17, 3,479,1693
+Yakubu_Aiyegbeni, 1982-11-22, 5,479,1021

@@ -1,0 +1,9 @@
+Ian_Somerhalder, 1978-12-08, 2,5,5,37,1321
+Jean-Baptiste_Biot, 1774-04-21, 2,5,19,37,337
+Jeffrén_Suárez, 1988-01-20, 2,2,5,37,3307
+Jonny_Greenwood, 1971-11-05, 2,2,5,37,3299
+José_Sarney, 1930-04-24, 2,5,37,79,83
+Kelly_Kelly, 1987-01-15, 2,5,17,37,389
+Kevin_Carter, 1960-09-13, 2,5,7,37,941
+Le_Corbusier, 1887-10-06, 2,5,5,37,1303
+William_Carlos_Williams, 1883-09-17, 2,5,17,37,383

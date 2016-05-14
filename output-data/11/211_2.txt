@@ -1,0 +1,13 @@
+Alfonso_García_Robles, 1911-03-20, 5,211,2293
+Anne_Baxter, 1923-05-07, 2,211,5743
+Benedetto_Croce, 1866-02-25, 59,193,211
+Bernard_Lewis, 1916-05-31, 2,211,5737
+David_Tennant, 1971-04-18, 23,211,503
+Filippo_Inzaghi, 1973-08-09, 71,163,211
+Jeff_Goldblum, 1952-10-22, 83,139,211
+Jennifer_Lopez, 1969-07-24, 2,211,5783
+Mehmed_IV, 1642-01-02, 17,211,647
+Mick_Jagger, 1943-07-26, 41,211,281
+Miklós_Horthy, 1868-06-18, 3,211,3797
+Paul_Landers, 1964-12-09, 2,211,5779
+Tomáš_Ujfaluši, 1978-03-24, 37,211,313

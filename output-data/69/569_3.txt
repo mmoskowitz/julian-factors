@@ -1,0 +1,5 @@
+Charles_Laughton, 1899-07-01, 2,2,569,1061
+Ed_Harris, 1950-11-28, 7,13,47,569
+Felix_Wankel, 1902-08-13, 2,11,193,569
+Ricardo_Zamora, 1901-01-21, 3,5,283,569
+Russell_Alan_Hulse, 1950-11-28, 7,13,47,569

@@ -1,0 +1,6 @@
+Carl_Bildt, 1949-07-15, 2,2,2,11,43,643
+Donald_Tusk, 1957-04-22, 2,5,5,11,43,103
+Mohammed_bin_Rashid_Al_Maktoum, 1949-07-15, 2,2,2,11,43,643
+Paulo_Mendes_da_Rocha, 1928-10-25, 2,2,2,11,43,641
+Peter_Naur, 1928-10-25, 2,2,2,11,43,641
+Raul_Meireles, 1983-03-17, 2,5,11,11,43,47

@@ -1,0 +1,4 @@
+Alberto_Contador, 1982-12-06, 3,3,3,3,3,29,347
+George_Harrison, 1943-02-25, 2,2,3,5,11,29,127
+Kiefer_Sutherland, 1966-12-21, 2,2,2,3,5,29,701
+Tomasz_Kuszczak, 1982-03-20, 2,2,2,3,3,29,1171

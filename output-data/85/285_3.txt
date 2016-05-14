@@ -1,0 +1,10 @@
+Aleksey_Nikolayevich_Tolstoy, 1883-01-10, 2,2,3,5,19,2113
+Billie_Jean_King, 1943-11-22, 2,3,5,5,19,853
+Cybill_Shepherd, 1950-02-18, 2,3,3,5,19,1423
+John_Hughes_(filmmaker), 1950-02-18, 2,3,3,5,19,1423
+Mikhail_Kasyanov, 1957-12-08, 2,2,3,5,19,2137
+Otto_Klemperer, 1885-05-14, 3,5,5,19,19,89
+Penélope_Cruz, 1974-04-28, 3,5,11,19,19,41
+Rómulo_Gallegos, 1884-08-02, 2,3,3,5,19,1409
+Tristan_Tzara, 1896-04-16, 3,3,3,5,19,941
+Walter_Samuel, 1978-03-23, 2,3,3,5,19,1429

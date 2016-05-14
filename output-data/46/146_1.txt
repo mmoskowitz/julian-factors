@@ -1,0 +1,8 @@
+Buddy_Holly, 1936-09-07, 2,73,16633
+Cobie_Smulders, 1982-04-03, 2,73,16747
+Ernest_Renan, 1823-02-28, 2,73,16349
+Halldór_Laxness, 1902-04-23, 2,73,16547
+Lionel_Barrymore, 1878-04-28, 2,73,16487
+Melvil_Dewey, 1851-12-10, 2,73,16421
+Rainer_Maria_Rilke, 1875-12-04, 2,73,16481
+Umberto_II_of_Italy, 1904-09-15, 2,73,16553

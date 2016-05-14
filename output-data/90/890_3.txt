@@ -1,0 +1,4 @@
+Milo_Đukanović, 1962-02-15, 2,3,5,11,83,89
+Nelson_Rockefeller, 1908-07-08, 2,5,11,13,19,89
+Walter_Mondale, 1928-01-05, 2,5,5,5,89,109
+Zulfikar_Ali_Bhutto, 1928-01-05, 2,5,5,5,89,109

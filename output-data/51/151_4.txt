@@ -1,0 +1,13 @@
+Aki_Kaurismäki, 1957-04-04, 2,2,37,109,151
+Ben_Bernanke, 1953-12-13, 2,2,29,139,151
+Bourvil, 1917-07-27, 2,2,19,151,211
+Charles_I_of_England, 1600-11-19, 2,3,5,151,509
+Ernst_Cassirer, 1874-07-28, 2,2,7,151,569
+Fatos_Nano, 1952-09-16, 7,7,7,47,151
+Giovanni_Verga, 1840-09-02, 2,5,5,151,317
+Graham_Greene, 1904-10-02, 3,5,11,97,151
+John_Dramani_Mahama, 1958-11-29, 2,2,2,151,2017
+Jorge_Amado, 1912-08-10, 2,2,2,151,2003
+Lal_Bahadur_Shastri, 1904-10-02, 3,5,11,97,151
+Mickey_Rourke, 1952-09-16, 7,7,7,47,151
+Rachel_Bilson, 1981-08-25, 3,3,7,151,257

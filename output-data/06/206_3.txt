@@ -1,0 +1,7 @@
+Charlotte_Brontë, 1816-04-21, 2,5,5,103,463
+Gregor_Schlierenzauer, 1990-01-07, 2,3,17,103,233
+Malena_Ernman, 1970-11-04, 2,17,17,41,103
+Maurice_Gibb, 1949-12-22, 2,2,2,103,2953
+Robin_Gibb, 1949-12-22, 2,2,2,103,2953
+Vincent_Cassel, 1966-11-23, 2,2,31,103,191
+William_Daniel_Phillips, 1948-11-05, 2,2,5,103,1181

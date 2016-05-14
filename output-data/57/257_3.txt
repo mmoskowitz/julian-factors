@@ -1,0 +1,5 @@
+Charles_Bronson, 1921-11-03, 2,2,257,2357
+Henry_A._Wallace, 1888-10-07, 3,53,59,257
+Martin_Gardner, 1914-10-21, 2,17,257,277
+Thomas_Vermaelen, 1985-11-14, 3,19,167,257
+Wilhelm_Dilthey, 1833-11-19, 3,7,257,443

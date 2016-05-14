@@ -1,0 +1,3 @@
+David_Hilbert, 1862-01-23, 19,43,2939
+Robert_Curl, 1933-08-23, 19,43,2971
+Theodore_Schultz, 1902-04-30, 19,43,2957

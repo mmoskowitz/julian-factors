@@ -1,0 +1,12 @@
+Angelos_Basinas, 1976-01-03, 2,2,3,3,5,41,331
+Billy_Zane, 1966-02-24, 2,2,3,3,3,5,4517
+Cardinal_Richelieu, 1585-09-09, 2,2,3,3,5,13,983
+Demy_de_Zeeuw, 1983-05-26, 2,2,2,3,3,5,6793
+George_IV_of_the_United_Kingdom, 1762-08-12, 2,2,2,3,3,5,6569
+Gustaf_VI_Adolf_of_Sweden, 1882-11-11, 2,2,2,3,3,5,6691
+Jim_Broadbent, 1949-05-24, 2,2,3,3,5,7,1931
+John_Herschel, 1792-03-07, 2,2,2,3,3,5,6599
+Joseph_de_Maistre, 1753-04-01, 2,2,3,3,3,5,4373
+Pancho_Villa, 1878-06-05, 2,2,3,3,5,43,311
+Wilfred_Owen, 1893-03-18, 2,2,3,3,5,13,1031
+Władysław_Sikorski, 1881-05-20, 2,2,3,3,5,17,787

@@ -1,0 +1,8 @@
+Donna_Summer, 1948-12-31, 2,2,3,3,3,3,3,2503
+George_Arliss, 1868-04-10, 2,2,2,3,3,3,3,3709
+Giorgio_Napolitano, 1925-06-29, 2,3,3,3,3,5,41,73
+Ivo_Karlović, 1979-02-28, 2,2,3,3,3,3,19,397
+Jean-Jacques_Dessalines, 1758-09-20, 2,3,3,3,3,3,3,1621
+Maurice_de_Vlaminck, 1876-04-04, 2,2,3,3,3,3,7,1061
+Mohammed_VI_of_Morocco, 1963-08-21, 2,3,3,3,3,3,29,173
+Sébastien_Bourdais, 1979-02-28, 2,2,3,3,3,3,19,397

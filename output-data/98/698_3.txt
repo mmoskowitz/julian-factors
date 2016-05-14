@@ -1,0 +1,7 @@
+Costas_Simitis, 1936-06-23, 2,7,7,71,349
+Geronimo, 1829-06-16, 2,3,7,163,349
+Herbert_Kitchener,_1st_Earl_Kitchener, 1850-06-24, 2,2,17,101,349
+John_von_Neumann, 1903-12-28, 2,2,3,349,577
+Maurice_Chevalier, 1888-09-12, 2,2,11,157,349
+Richard_Bach, 1936-06-23, 2,7,7,71,349
+Yohan_Blake, 1989-12-26, 2,3,7,167,349

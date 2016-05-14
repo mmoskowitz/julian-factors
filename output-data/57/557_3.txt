@@ -1,0 +1,7 @@
+Aristide_Briand, 1862-03-28, 3,3,479,557
+Audrey_Hepburn, 1929-05-04, 5,13,67,557
+Earl_Warren, 1891-03-19, 2,5,433,557
+Jorge_Batlle_Ibáñez, 1927-10-25, 2,7,311,557
+Leon_Panetta, 1938-06-28, 7,7,89,557
+Ronald_Golias, 1929-05-04, 5,13,67,557
+Sharon_Tate, 1943-01-24, 2,2,557,1091

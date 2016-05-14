@@ -1,0 +1,9 @@
+Aleksei_Brusilov, 1853-08-31, 2,2,2,2,71,2111
+America_Ferrera, 1984-04-18, 2,2,2,2,71,2153
+Boutros_Boutros-Ghali, 1922-11-14, 2,2,7,23,53,71
+Claude_Joseph_Rouget_de_Lisle, 1760-05-10, 2,2,2,2,71,2081
+David_Rudisha, 1988-12-17, 2,2,2,31,71,139
+Lucille_Ball, 1911-08-06, 2,3,3,3,71,631
+Thomas_Andrews_(shipbuilder), 1873-02-07, 2,2,3,3,71,941
+Vera_Zvonareva, 1984-09-07, 2,5,5,13,53,71
+Veronica_Lake, 1922-11-14, 2,2,7,23,53,71

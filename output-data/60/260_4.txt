@@ -1,0 +1,4 @@
+Edmond_H._Fischer, 1920-04-06, 2,2,5,7,11,11,11,13
+Friedrich_Gottlieb_Klopstock, 1724-07-02, 2,2,2,3,5,11,13,137
+Hideki_Shirakawa, 1936-08-20, 2,2,2,2,5,5,13,467
+Warwick_Davis, 1970-02-03, 2,2,3,3,5,7,13,149

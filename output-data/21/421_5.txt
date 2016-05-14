@@ -1,0 +1,5 @@
+Ernest_Hemingway, 1899-07-21, 2,2,2,3,239,421
+Glenn_Miller, 1904-03-01, 2,2,5,7,41,421
+Juan_Silveira_dos_Santos, 1979-02-01, 3,3,3,5,43,421
+Mercè_Rodoreda, 1908-10-10, 2,2,2,2,359,421
+Walter_Cronkite, 1916-11-04, 3,3,3,3,71,421

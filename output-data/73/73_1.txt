@@ -1,0 +1,7 @@
+Gustave_Le_Bon, 1841-05-07, 73,32789
+Harold_Macmillan, 1894-02-10, 73,33053
+Heath_Ledger, 1979-04-04, 73,33479
+Luís_Fabiano, 1980-11-08, 73,33487
+Michael_Stuart_Brown, 1941-04-13, 73,33289
+Richard_J._Roberts, 1943-09-06, 73,33301
+Roger_Waters, 1943-09-06, 73,33301

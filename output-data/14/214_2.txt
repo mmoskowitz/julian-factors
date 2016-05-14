@@ -1,0 +1,8 @@
+Alain_Juppé, 1945-08-15, 2,11,107,1033
+Anton_Chekhov, 1860-01-29, 2,3,107,3739
+Harvey_Milk, 1930-05-22, 2,3,107,3779
+Jacques_Hadamard, 1865-12-08, 2,103,107,109
+Khaleda_Zia, 1945-08-15, 2,11,107,1033
+Mark_Ruffalo, 1967-11-20, 2,13,107,877
+Prince_Eugene_of_Savoy, 1663-10-18, 2,2,107,5441
+Wernher_von_Braun, 1912-03-23, 2,2,107,5653

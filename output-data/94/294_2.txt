@@ -1,0 +1,7 @@
+Alfred_Marshall, 1842-07-26, 2,3,7,7,17,479
+Boris_III_of_Bulgaria, 1894-01-30, 2,3,7,7,29,283
+C._S._Lewis, 1898-11-29, 2,3,7,7,43,191
+George_Maxwell_Richards, 1931-12-01, 2,2,3,7,7,4127
+Imelda_Marcos, 1929-07-02, 2,3,7,7,37,223
+Rinko_Kikuchi, 1981-01-06, 2,3,5,7,7,1663
+Stefanía_Fernández, 1990-09-04, 2,3,7,7,11,757

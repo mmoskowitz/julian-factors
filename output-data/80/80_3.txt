@@ -1,0 +1,15 @@
+Alexander_I_of_Serbia, 1876-08-14, 2,2,2,2,3,5,37,271
+Andreas_Isaksson, 1981-10-03, 2,2,2,2,3,5,61,167
+Bakili_Muluzi, 1943-03-17, 2,2,2,2,5,5,59,103
+Hideki_Shirakawa, 1936-08-20, 2,2,2,2,5,5,13,467
+Ignacy_Jan_Paderewski, 1860-11-06, 2,2,2,2,3,5,7,1429
+Jean-François_Champollion, 1790-12-23, 2,2,2,2,2,5,5,2969
+Jonás_Gutiérrez, 1983-07-05, 2,2,2,2,5,7,11,397
+Karl_Schwarzschild, 1873-10-09, 2,2,2,2,2,2,5,7517
+Pope_Innocent_XI, 1611-05-16, 2,2,2,2,2,5,5,2887
+Predrag_Mijatović, 1969-01-19, 2,2,2,2,5,11,47,59
+Sándor_Márai, 1900-04-11, 2,2,2,2,3,5,29,347
+Tadamichi_Kuribayashi, 1891-07-07, 2,2,2,2,5,7,59,73
+Valentino_Rossi, 1979-02-16, 2,2,2,2,3,5,17,599
+Zheng_Jie, 1983-07-05, 2,2,2,2,5,7,11,397
+Zlatan_Ibrahimović, 1981-10-03, 2,2,2,2,3,5,61,167

@@ -1,0 +1,3 @@
+Cuba_Gooding,_Jr., 1968-01-02, 7,7,17,29,101
+Henry_Morton_Stanley, 1841-01-28, 2,17,17,41,101
+Herbert_Kitchener,_1st_Earl_Kitchener, 1850-06-24, 2,2,17,101,349

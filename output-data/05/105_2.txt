@@ -1,0 +1,16 @@
+Arnold_Böcklin, 1827-10-16, 3,3,5,7,7583
+Carlos_Marchena, 1979-07-31, 3,3,5,7,7759
+George_Michael, 1963-06-25, 3,5,7,11,2111
+Hans-Jörg_Butt, 1974-05-28, 3,3,5,7,7753
+Heinrich_Louis_d'Arrest, 1822-08-13, 3,3,5,7,7577
+John_Wayne_Gacy, 1942-03-17, 3,5,7,79,293
+Jonathan_Edwards_(triple_jumper), 1966-05-10, 3,5,7,13,1787
+Jules_Rimet, 1873-10-14, 3,5,7,31,739
+Marcelo_Salas, 1974-12-24, 3,5,7,7,3323
+Marco_Simoncelli, 1987-01-20, 3,5,7,7,3329
+Mel_Gibson, 1956-01-03, 3,5,5,7,4639
+Paul_Langevin, 1872-01-23, 3,5,7,37,619
+Pierre_Corneille, 1606-06-06, 3,5,7,31,709
+Ralph_Nader, 1934-02-27, 3,5,7,61,379
+Ray_Ewry, 1873-10-14, 3,5,7,31,739
+Yann_Martel, 1963-06-25, 3,5,7,11,2111

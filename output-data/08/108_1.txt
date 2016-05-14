@@ -1,0 +1,7 @@
+Edgar_Rice_Burroughs, 1875-09-01, 2,2,3,3,3,22279
+Fahd_of_Saudi_Arabia, 1921-03-16, 2,2,3,3,3,22433
+George_Everest, 1790-07-04, 2,2,3,3,3,21991
+Mahatma_Gandhi, 1869-10-02, 2,2,3,3,3,22259
+Miranda_Kerr, 1983-04-20, 2,2,3,3,3,22643
+Richard_Holbrooke, 1941-04-24, 2,2,3,3,3,22501
+Sebastián_Abreu, 1976-10-17, 2,2,3,3,3,22621

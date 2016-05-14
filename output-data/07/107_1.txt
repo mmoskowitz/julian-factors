@@ -1,0 +1,7 @@
+Anne-Sophie_Mutter, 1963-06-29, 107,22787
+Bastian_Schweinsteiger, 1984-08-01, 107,22859
+Edmund_Hillary, 1919-07-20, 107,22637
+Frédéric_Joliot-Curie, 1900-03-19, 107,22571
+Gary_Oldman, 1958-03-21, 107,22769
+Roger_Glover, 1945-11-30, 107,22727
+William_Ramsay, 1852-10-02, 107,22409

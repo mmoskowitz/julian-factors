@@ -1,0 +1,5 @@
+Adolf_Erik_Nordenskiöld, 1832-11-18, 3,5,13,13,23,41
+Giuseppe_Garibaldi, 1807-07-04, 2,2,11,13,23,181
+Max_Schmeling, 1905-09-28, 2,2,13,23,43,47
+Michel_Ney, 1769-01-10, 3,7,13,13,23,29
+Siegfried_Lenz, 1926-03-17, 3,3,13,17,23,53

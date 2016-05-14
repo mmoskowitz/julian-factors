@@ -1,0 +1,8 @@
+Charles_Perrault, 1628-01-12, 3,5,317,487
+Edward_Teller, 1908-01-15, 3,5,331,487
+Eiður_Guðjohnsen, 1978-09-15, 2,13,193,487
+Marko_Pantelić, 1978-09-15, 2,13,193,487
+Martin_Niemöller, 1892-01-14, 3,13,127,487
+Nílton_Santos, 1925-05-16, 2,19,131,487
+Oliver_Stone, 1946-09-15, 2,11,227,487
+Tommy_Lee_Jones, 1946-09-15, 2,11,227,487

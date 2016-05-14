@@ -1,0 +1,10 @@
+Aleksey_Konstantinovich_Tolstoy, 1817-09-05, 2,2,2,3,43,2311
+C._S._Lewis, 1898-11-29, 2,3,7,7,43,191
+Emil_Constantinescu, 1939-11-19, 2,3,3,43,43,73
+Josh_Holloway, 1969-07-20, 2,3,3,3,43,1051
+Judi_Dench, 1934-12-09, 2,2,3,5,43,941
+Martin_Sheen, 1940-08-03, 2,2,3,17,43,277
+Maximilian_I_of_Mexico, 1832-07-06, 2,3,5,17,43,109
+Millard_Fillmore, 1800-01-07, 2,3,3,7,43,439
+Rebecca_Soni, 1987-03-18, 2,2,2,3,43,2371
+Yuri_Andropov, 1914-06-15, 2,3,3,43,53,59

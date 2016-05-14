@@ -1,0 +1,9 @@
+Ali_Khamenei, 1939-07-17, 103,103,229
+Andreas_Brehme, 1960-11-09, 29,229,367
+Cliff_Burton, 1962-02-10, 5,229,2129
+Gottlieb_Daimler, 1834-03-17, 53,197,229
+Jean-Paul_Belmondo, 1933-04-09, 3,229,3533
+Luciano_Pavarotti, 1935-10-12, 23,229,461
+Michael_Chang, 1972-02-22, 7,229,1523
+Michael_Krohn-Dehli, 1983-06-06, 59,181,229
+Otto_Jespersen, 1860-07-16, 11,229,953

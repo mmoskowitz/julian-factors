@@ -1,0 +1,15 @@
+Allen_Ginsberg, 1926-06-03, 3,13,62171
+Anastasia_Myskina, 1981-07-08, 3,13,62687
+August_Bebel, 1840-02-22, 3,13,61363
+Bill_Evans, 1929-08-16, 3,13,62201
+Count_Basie, 1904-08-21, 3,13,61967
+Ernst_Jünger, 1895-03-29, 3,13,61879
+Hans_Asperger, 1906-02-18, 3,13,61981
+Jacob_Bernoulli, 1654-12-27, 3,13,59629
+Kate_Moss, 1974-01-16, 3,13,62617
+Michelle_Rodriguez, 1978-07-12, 3,13,62659
+Ngo_Dinh_Diem, 1901-01-03, 3,13,61933
+Ringo_Starr, 1940-07-07, 3,13,62303
+Selim_III, 1761-12-24, 3,13,60631
+Topher_Grace, 1978-07-12, 3,13,62659
+Willard_Van_Orman_Quine, 1908-06-25, 3,13,62003

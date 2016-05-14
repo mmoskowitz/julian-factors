@@ -1,0 +1,14 @@
+Amy_Adams, 1974-08-20, 3,7,19,6121
+Bojan_Krkić, 1990-08-28, 7,19,79,233
+Ephraim_Katzir, 1916-05-16, 7,19,109,167
+George_Lazenby, 1939-09-05, 3,7,19,6089
+George_Paget_Thomson, 1892-05-03, 7,7,19,2591
+Jean-Antoine_Watteau, 1684-10-10, 7,11,19,1597
+Jenna_Jameson, 1974-04-09, 2,7,19,9181
+José_Bosingwa, 1982-08-24, 5,7,19,3677
+Kim_Källström, 1982-08-24, 5,7,19,3677
+Niki_Lauda, 1949-02-22, 7,11,19,1663
+Nikolai_Andrianov, 1952-10-14, 3,7,19,6101
+Ofra_Haza, 1957-11-19, 7,13,19,1409
+Percival_Lowell, 1855-03-13, 5,7,19,3607
+Shaggy_(musician), 1968-10-22, 7,7,19,2621

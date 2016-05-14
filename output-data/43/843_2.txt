@@ -1,0 +1,4 @@
+Isadora_Duncan, 1877-05-26, 3,5,281,571
+Keith_Moon, 1946-08-23, 3,5,281,577
+Kwame_Nkrumah, 1909-09-18, 3,19,151,281
+Vladimir_Stojković, 1983-07-28, 3,3,281,967

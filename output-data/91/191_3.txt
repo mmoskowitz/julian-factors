@@ -1,0 +1,8 @@
+Emile_Hirsch, 1985-03-13, 3,3,191,1423
+Fabricio_Coloccini, 1982-01-22, 3,17,191,251
+Garrett_Hedlund, 1984-09-03, 2,19,191,337
+Harlow_Shapley, 1885-11-02, 11,31,37,191
+John_Couch_Adams, 1819-06-05, 2,5,191,1249
+Julie_Kavner, 1950-09-07, 3,31,137,191
+Kurt_Russell, 1951-03-17, 2,23,191,277
+Richard_Axel, 1946-07-02, 7,17,107,191

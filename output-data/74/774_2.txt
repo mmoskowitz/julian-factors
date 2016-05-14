@@ -1,0 +1,4 @@
+Emil_Constantinescu, 1939-11-19, 2,3,3,43,43,73
+Josh_Holloway, 1969-07-20, 2,3,3,3,43,1051
+Millard_Fillmore, 1800-01-07, 2,3,3,7,43,439
+Yuri_Andropov, 1914-06-15, 2,3,3,43,53,59

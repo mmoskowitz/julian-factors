@@ -1,0 +1,10 @@
+Archibald_Primrose,_5th_Earl_of_Rosebery, 1847-05-07, 2,2,3,43,4643
+Emerson_Fittipaldi, 1946-12-12, 2,3,11,43,857
+Georg_Büchner, 1813-10-17, 3,3,3,43,2053
+Ollanta_Humala, 1962-06-27, 2,3,11,43,859
+Olof_Mellberg, 1977-09-03, 3,13,31,43,47
+Peter_Medawar, 1915-02-28, 2,2,3,43,4691
+Semih_Şentürk, 1983-04-29, 3,3,43,71,89
+Silvestre_Varela, 1985-02-02, 2,3,19,43,499
+Talal_of_Jordan, 1909-02-26, 3,3,3,43,2083
+Taylor_Momsen, 1993-07-26, 2,3,11,43,863

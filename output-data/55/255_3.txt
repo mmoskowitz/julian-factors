@@ -1,0 +1,11 @@
+Arturo_Pérez-Reverte, 1951-11-25, 3,5,5,17,23,83
+Benjamin_Netanyahu, 1949-10-21, 2,3,5,13,17,367
+Blaise_Cendrars, 1887-09-01, 3,3,5,17,23,137
+Gustav_Klimt, 1862-07-14, 3,3,5,17,43,73
+Luís_Figo, 1972-11-04, 3,5,5,5,17,383
+Maximilian_I_of_Mexico, 1832-07-06, 2,3,5,17,43,109
+Sirimavo_Bandaranaike, 1916-04-17, 2,3,5,17,47,101
+Talia_Shire, 1946-04-25, 3,3,5,11,17,289
+Victor_Francis_Hess, 1883-06-24, 3,3,5,17,47,67
+Victoria,_Princess_Royal, 1840-11-21, 2,3,5,13,17,361
+Vladimir_Zhirinovsky, 1946-04-25, 3,3,5,11,17,289

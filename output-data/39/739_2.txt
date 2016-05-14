@@ -1,0 +1,4 @@
+Arne_Jacobsen, 1902-02-11, 7,467,739
+Kai_Siegbahn, 1918-04-20, 29,113,739
+Pierre-Joseph_Proudhon, 1809-01-15, 11,293,739
+William_Booth, 1829-04-10, 53,61,739

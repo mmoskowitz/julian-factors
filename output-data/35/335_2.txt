@@ -1,0 +1,6 @@
+Audrey_Hepburn, 1929-05-04, 5,13,67,557
+Bernard_Parker, 1986-03-16, 5,67,67,109
+Douglas_Haig,_1st_Earl_Haig, 1861-06-19, 3,5,67,2389
+José_Rizal, 1861-06-19, 3,5,67,2389
+Ronald_Golias, 1929-05-04, 5,13,67,557
+Rosanna_Arquette, 1959-08-10, 2,5,67,3637

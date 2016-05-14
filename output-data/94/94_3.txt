@@ -1,0 +1,17 @@
+André_Rieu, 1949-10-01, 2,5,31,47,167
+Christiane_Nüsslein-Volhard, 1942-10-20, 2,2,7,47,1847
+Edmondo_De_Amicis, 1846-10-21, 2,3,5,47,1699
+Frank_Gehry, 1929-02-28, 2,5,13,47,397
+Frank_Wedekind, 1864-07-24, 2,2,3,47,4259
+Gianni_Versace, 1946-12-02, 2,2,17,47,761
+John_Edwards_(musician), 1953-05-09, 2,3,47,89,97
+Kaarlo_Juho_Ståhlberg, 1865-01-28, 2,2,2,47,6389
+Max_Weber, 1864-04-21, 2,11,23,47,101
+Nebojša_Radmanović, 1949-10-01, 2,5,31,47,167
+Prince_Philip,_Duke_of_Edinburgh, 1921-06-10, 2,5,5,47,1031
+Robin_Williams, 1951-07-21, 2,2,2,47,6473
+Rolandas_Paksas, 1956-06-10, 2,3,3,47,2879
+Sol_Campbell, 1974-09-18, 2,2,11,47,1181
+Toni_Braxton, 1967-10-07, 2,5,29,47,179
+Wisława_Szymborska, 1923-07-02, 2,19,23,47,59
+Xzibit, 1974-09-18, 2,2,11,47,1181

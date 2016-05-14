@@ -1,0 +1,5 @@
+David_Cronenberg, 1943-03-15, 2,3,151,2683
+Hans_Krankl, 1953-02-14, 2,3,151,2687
+Jordan_Rudess, 1956-11-04, 3,19,151,283
+Kwame_Nkrumah, 1909-09-18, 3,19,151,281
+Lester_B._Pearson, 1897-04-23, 3,73,73,151

@@ -1,0 +1,5 @@
+Alexander_Grothendieck, 1928-03-28, 53,67,683
+Jan_Matejko, 1838-06-24, 31,113,683
+Roman_Weidenfeller, 1980-08-06, 3,683,1193
+Sonia_Gandhi, 1946-12-09, 3,683,1187
+Zbigniew_Brzezinski, 1928-03-28, 53,67,683

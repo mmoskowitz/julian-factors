@@ -1,0 +1,4 @@
+Arthur_Koestler, 1905-09-05, 7,23,15013
+John_C._Breckinridge, 1821-01-16, 7,23,14821
+Lothar_Matthäus, 1961-03-21, 7,23,15139
+Yukio_Hatoyama, 1947-02-11, 7,23,15107

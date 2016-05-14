@@ -1,0 +1,13 @@
+Alan_Hutton, 1984-11-30, 2,29,181,233
+Charles_Manson, 1934-11-12, 3,17,181,263
+Geremi_Njitap, 1978-12-20, 2,43,157,181
+Henrique_Capriles_Radonski, 1972-07-11, 7,41,47,181
+John_Diefenbaker, 1895-09-18, 2,59,113,181
+John_Steinbeck, 1902-02-27, 3,3,181,1483
+John_VI_of_Portugal, 1767-05-13, 5,5,181,523
+Karl_Mannheim, 1893-03-27, 3,3,181,1481
+Lúcio_Costa, 1902-02-27, 3,3,181,1483
+Nichi_Vendola, 1958-08-26, 3,7,181,641
+Nigel_de_Jong, 1984-11-30, 2,29,181,233
+Susan_Sarandon, 1946-10-04, 3,3,181,1493
+Vavá, 1934-11-12, 3,17,181,263

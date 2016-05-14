@@ -1,0 +1,5 @@
+Alessandro_Del_Piero, 1974-11-09, 2,2,2,3,5,20353
+Dziga_Vertov, 1896-01-02, 2,2,2,3,5,20113
+Gloria_Macapagal-Arroyo, 1947-04-05, 2,2,2,3,5,20269
+John_Edwards_(producer), 1953-03-04, 2,2,2,3,5,20287
+Michael_Collins_(astronaut), 1930-10-31, 2,2,2,3,5,20219

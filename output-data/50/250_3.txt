@@ -1,0 +1,13 @@
+Charles_I_of_Austria, 1887-08-17, 2,2,3,5,5,5,1607
+Clifford_Geertz, 1926-08-23, 2,3,5,5,5,53,61
+Hans-Adam_II,_Prince_of_Liechtenstein, 1945-02-14, 2,2,3,5,5,5,1621
+Henry_Moore, 1898-07-30, 2,2,5,5,5,11,439
+Ivan_Lendl, 1960-03-07, 2,2,2,5,5,5,2437
+James_Francis_Edward_Stuart, 1688-06-10, 2,3,3,5,5,5,1039
+Manuel_Pinto_da_Costa, 1937-08-05, 2,5,5,5,5,29,67
+Marcel_Marceau, 1923-03-22, 2,2,5,5,5,37,131
+Marcus_Garvey, 1887-08-17, 2,2,3,5,5,5,1607
+Nicholas_I_of_Montenegro, 1841-10-07, 2,5,5,5,5,5,383
+Philippe_Noiret, 1930-10-01, 2,3,5,5,5,5,647
+Richard_Harris, 1930-10-01, 2,3,5,5,5,5,647
+Sonja_Henie, 1912-04-08, 2,2,3,5,5,5,1613

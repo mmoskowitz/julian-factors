@@ -1,0 +1,15 @@
+ATB, 1973-02-26, 3,179,4547
+Abhishek_Bachchan, 1976-02-05, 3,179,4549
+Betty_Ford, 1918-04-08, 83,163,179
+Eliza_Dushku, 1980-12-30, 7,179,1951
+Francis_Picabia, 1879-01-22, 3,179,4483
+Guy_Debord, 1931-12-28, 3,179,4519
+Gérard_Houllier, 1947-09-03, 107,127,179
+John_Aloisi, 1976-02-05, 3,179,4549
+Joseph-Ignace_Guillotin, 1738-05-28, 2,179,6581
+Joseph_Murray, 1919-04-01, 7,179,1933
+Kjell_Magne_Bondevik, 1947-09-03, 107,127,179
+Mario_Draghi, 1947-09-03, 107,127,179
+Ole_Gunnar_Solskjær, 1973-02-26, 3,179,4547
+Roger_Vadim, 1928-01-26, 17,179,797
+Tony_Jaa, 1976-02-05, 3,179,4549

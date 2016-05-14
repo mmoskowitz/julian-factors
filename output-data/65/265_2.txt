@@ -1,0 +1,6 @@
+Ambrose_Bierce, 1842-06-24, 2,5,53,4517
+Antonio_Segni, 1891-02-02, 5,19,53,479
+Dolph_Lundgren, 1957-11-03, 5,29,53,317
+Martin_Rodbell, 1925-12-01, 5,7,53,1307
+Odilon_Redon, 1840-04-20, 5,11,53,821
+Sigrid_Undset, 1882-05-20, 5,53,61,149

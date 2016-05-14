@@ -1,0 +1,5 @@
+Elvis_Presley, 1935-01-08, 2,3,5,7,11,1051
+George_Smoot, 1945-02-20, 2,3,7,11,19,277
+Georges_Lemaître, 1894-07-17, 2,3,3,7,11,1741
+Stefanía_Fernández, 1990-09-04, 2,3,7,7,11,757
+William_Henry_Harrison, 1773-02-09, 2,3,3,7,11,1709

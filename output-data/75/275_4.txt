@@ -1,0 +1,3 @@
+Frederick_Chapman_Robbins, 1916-08-25, 2,2,5,5,11,31,71
+Henry_Moore, 1898-07-30, 2,2,5,5,5,11,439
+Kevin_Costner, 1955-01-18, 5,5,5,7,11,11,23

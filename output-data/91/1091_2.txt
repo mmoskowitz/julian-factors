@@ -1,0 +1,4 @@
+Bernard_Bolzano, 1781-10-05, 2,1087,1091
+Dolly_Parton, 1946-01-19, 3,743,1091
+Joseph_Campbell, 1904-03-26, 5,443,1091
+Julian_Barnes, 1946-01-19, 3,743,1091

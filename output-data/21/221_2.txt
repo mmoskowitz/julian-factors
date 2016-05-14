@@ -1,0 +1,8 @@
+Andrei_Tarkovsky, 1932-04-04, 13,17,79,139
+Anthony_Perkins, 1932-04-04, 13,17,79,139
+Beau_Bridges, 1941-12-09, 7,13,17,1571
+Fabio_Quagliarella, 1983-01-31, 5,13,17,2213
+Italo_Calvino, 1923-10-15, 11,13,17,997
+Kim_Stanley_Robinson, 1952-03-23, 2,13,17,5507
+Paul_Éluard, 1895-12-14, 13,17,67,163
+Richard_E._Taylor, 1929-11-02, 3,13,17,3659

@@ -1,0 +1,6 @@
+Clement_Attlee, 1883-01-03, 11,23,9521
+Daryl_Sabara, 1992-06-14, 11,23,9679
+James_Monroe, 1758-04-28, 11,23,9341
+Jens_Stoltenberg, 1959-03-16, 11,23,9631
+Kiran_Desai, 1971-09-03, 11,23,9649
+Klaus_Tschütscher, 1967-07-08, 11,23,9643

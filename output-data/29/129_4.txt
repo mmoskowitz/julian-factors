@@ -1,0 +1,17 @@
+Adam_Weishaupt, 1748-02-06, 3,3,7,13,43,67
+Aleksey_Konstantinovich_Tolstoy, 1817-09-05, 2,2,2,3,43,2311
+C._S._Lewis, 1898-11-29, 2,3,7,7,43,191
+Emil_Constantinescu, 1939-11-19, 2,3,3,43,43,73
+Ferid_Murad, 1936-09-14, 3,3,5,5,43,251
+Gustav_Klimt, 1862-07-14, 3,3,5,17,43,73
+Janet_Jackson, 1966-05-16, 3,3,3,11,43,191
+Johnny_Logan_(singer), 1954-05-13, 3,5,5,5,43,151
+Josh_Holloway, 1969-07-20, 2,3,3,3,43,1051
+Juan_Silveira_dos_Santos, 1979-02-01, 3,3,3,5,43,421
+Judi_Dench, 1934-12-09, 2,2,3,5,43,941
+Louise_Bourgeois, 1911-12-25, 3,5,11,11,31,43
+Martin_Sheen, 1940-08-03, 2,2,3,17,43,277
+Maximilian_I_of_Mexico, 1832-07-06, 2,3,5,17,43,109
+Millard_Fillmore, 1800-01-07, 2,3,3,7,43,439
+Rebecca_Soni, 1987-03-18, 2,2,2,3,43,2371
+Yuri_Andropov, 1914-06-15, 2,3,3,43,53,59

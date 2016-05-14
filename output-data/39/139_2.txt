@@ -1,0 +1,15 @@
+Ahmadou_Ahidjo, 1924-08-24, 3,139,5813
+Ashley_Cole, 1980-12-20, 43,139,409
+Ben_Foster_(footballer), 1983-04-03, 73,139,241
+Bolesław_Bierut, 1892-04-18, 2,139,8677
+Chloë_Sevigny, 1974-11-18, 3,139,5857
+Friedrich_Wöhler, 1800-07-31, 109,139,157
+Giuseppe_Piazzi, 1746-07-16, 3,139,5657
+Jeff_Goldblum, 1952-10-22, 83,139,211
+Julie_Walters, 1950-02-22, 2,139,8753
+Julius_Erving, 1950-02-22, 2,139,8753
+Petter_Solberg, 1974-11-18, 3,139,5857
+Sasha_Grey, 1988-03-14, 2,139,8803
+Shane_Long, 1987-01-22, 29,139,607
+Stephen_Wolfram, 1959-08-29, 47,139,373
+Émilie_du_Châtelet, 1706-12-17, 101,139,167

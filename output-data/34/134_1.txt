@@ -1,0 +1,4 @@
+David_Silva, 1986-01-08, 2,67,18257
+Frida_Kahlo, 1907-07-06, 2,67,18043
+Janeane_Garofalo, 1964-09-28, 2,67,18199
+Lee_Harvey_Oswald, 1939-10-18, 2,67,18131

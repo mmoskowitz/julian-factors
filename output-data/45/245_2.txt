@@ -1,0 +1,12 @@
+Andrés_Segovia, 1893-02-21, 5,7,7,43,229
+Colleen_McCullough, 1937-06-01, 5,7,7,23,431
+Donald_J._Cram, 1919-04-22, 2,5,7,7,4943
+Francisco_Macías_Nguema, 1924-01-01, 5,7,7,13,761
+Jacques_Le_Goff, 1924-01-01, 5,7,7,13,761
+Jean-Victor_Poncelet, 1788-07-01, 5,7,7,11,881
+Kieran_Gibbs, 1989-09-26, 5,7,7,97,103
+Marcelo_Salas, 1974-12-24, 3,5,7,7,3323
+Marco_Simoncelli, 1987-01-20, 3,5,7,7,3329
+Morgan_Freeman, 1937-06-01, 5,7,7,23,431
+Morten_Gamst_Pedersen, 1981-09-08, 5,7,7,17,587
+Tomáš_Berdych, 1985-09-17, 5,5,7,7,1997

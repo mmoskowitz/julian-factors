@@ -1,0 +1,5 @@
+Jennifer_Love_Hewitt, 1979-02-21, 5,5,11,8887
+Kevin_Spacey, 1959-07-26, 5,5,11,8861
+Ma_Ying-jeou, 1950-07-13, 5,5,11,8849
+Pascal_Chimbonda, 1979-02-21, 5,5,11,8887
+Wayne_Gretzky, 1961-01-26, 5,5,11,8863

@@ -1,0 +1,9 @@
+Aleksey_Konstantinovich_Tolstoy, 1817-09-05, 2,2,2,3,43,2311
+Carl_Bildt, 1949-07-15, 2,2,2,11,43,643
+Hamilton_O._Smith, 1931-08-23, 2,2,2,2,43,3527
+John_Cusack, 1966-06-28, 2,2,2,7,43,1013
+Mohammed_bin_Rashid_Al_Maktoum, 1949-07-15, 2,2,2,11,43,643
+Paulo_Mendes_da_Rocha, 1928-10-25, 2,2,2,11,43,641
+Peter_Naur, 1928-10-25, 2,2,2,11,43,641
+Rebecca_Soni, 1987-03-18, 2,2,2,3,43,2371
+Renée_Zellweger, 1969-04-25, 2,2,2,2,43,3547

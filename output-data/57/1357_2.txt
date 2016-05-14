@@ -1,0 +1,5 @@
+Andrius_Kubilius, 1956-12-08, 5,23,59,359
+Horst_Seehofer, 1949-07-04, 11,23,59,163
+Lea_Michele, 1986-08-29, 3,23,59,601
+Rosen_Plevneliev, 1964-05-14, 3,23,59,599
+Vito_Volterra, 1860-05-03, 23,29,59,61

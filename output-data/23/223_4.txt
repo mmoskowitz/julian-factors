@@ -1,0 +1,5 @@
+Don_Cheadle, 1964-11-29, 2,2,2,223,1367
+Frederick_William_IV_of_Prussia, 1795-10-15, 3,11,17,19,223
+John_Ford, 1894-02-01, 2,2,5,223,541
+Oscar_Pistorius, 1986-11-22, 2,2,13,211,223
+Viktor_Tsoi, 1962-06-21, 2,2,3,223,911

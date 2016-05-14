@@ -1,0 +1,4 @@
+Lauren_Graham, 1967-03-16, 5,397,1229
+Marlene_Dietrich, 1901-12-27, 5,397,1217
+Tiago_Mendes, 1981-05-02, 2,397,3079
+Yelena_Isinbayeva, 1982-06-03, 3,397,2053

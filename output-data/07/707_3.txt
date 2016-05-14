@@ -1,0 +1,5 @@
+Bixente_Lizarazu, 1969-12-09, 2,2,7,101,863
+Cuba_Gooding,_Jr., 1968-01-02, 7,7,17,29,101
+Jean_Michel_Jarre, 1948-08-24, 3,7,31,37,101
+Sauli_Niinistö, 1948-08-24, 3,7,31,37,101
+Władysław_Reymont, 1867-05-07, 3,7,11,101,103

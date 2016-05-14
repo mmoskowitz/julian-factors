@@ -1,0 +1,11 @@
+Andre_Agassi, 1970-04-29, 5,37,79,167
+Ashley_Young, 1985-07-09, 5,7,37,1889
+Daniel_Auteuil, 1950-01-24, 5,7,37,1879
+Eric_Dane, 1972-11-09, 2,5,37,6599
+James_Cameron, 1954-08-16, 2,5,37,6581
+Miranda_Richardson, 1958-03-03, 5,13,37,1013
+Mohammed_Daoud_Khan, 1909-07-18, 5,17,37,769
+Sarah_Wayne_Callies, 1977-06-01, 5,37,47,281
+Thomas_Klestil, 1932-11-04, 3,5,37,4373
+Uma_Thurman, 1970-04-29, 5,37,79,167
+William_Giauque, 1895-05-12, 5,5,37,2609

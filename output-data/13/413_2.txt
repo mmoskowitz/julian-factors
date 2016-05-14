@@ -1,0 +1,4 @@
+Daniel_Nathans, 1928-10-30, 7,7,59,839
+Derrick_Rose, 1988-10-04, 2,7,59,2963
+Teófilo_Cubillas, 1949-03-08, 7,43,59,137
+Vinnie_Jones, 1965-01-05, 5,7,59,1181

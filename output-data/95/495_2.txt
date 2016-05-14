@@ -1,0 +1,6 @@
+Chester_A._Arthur, 1829-10-05, 3,3,3,5,11,1609
+Julio_Ricardo_Cruz, 1974-10-10, 2,3,3,5,11,2467
+Olivia_de_Havilland, 1916-07-01, 3,3,5,11,67,73
+Rosalind_Franklin, 1920-07-25, 2,3,3,5,11,2447
+Talia_Shire, 1946-04-25, 3,3,5,11,17,289
+Vladimir_Zhirinovsky, 1946-04-25, 3,3,5,11,17,289

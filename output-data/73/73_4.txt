@@ -1,0 +1,14 @@
+Boris_Johnson, 1964-06-19, 3,5,17,73,131
+Conrad_Bain, 1923-02-04, 2,3,11,73,503
+Daniel_Brühl, 1978-06-16, 5,5,13,73,103
+Edgar_Adrian,_1st_Baron_Adrian, 1889-11-30, 2,2,2,73,4129
+Emmeline_Pankhurst, 1858-07-15, 5,5,5,73,263
+Hans_Blix, 1928-06-28, 3,5,5,73,443
+Itamar_Franco, 1930-06-28, 5,17,17,23,73
+Joe_Cole, 1981-11-08, 2,2,3,73,2791
+Jozy_Altidore, 1989-11-06, 2,2,73,83,101
+Levi_Strauss, 1829-02-26, 2,2,2,73,4091
+Patsy_Cline, 1932-09-08, 2,3,3,73,1847
+Robert_Coleman_Richardson, 1937-06-26, 2,3,5,73,1109
+Russell_Crowe, 1964-04-07, 2,2,7,73,1193
+Tom_Selleck, 1945-01-29, 2,2,11,73,757

@@ -1,0 +1,7 @@
+André-Pierre_Gignac, 1985-12-05, 2,2,3,239,853
+Frankie_Muniz, 1985-12-05, 2,2,3,239,853
+George_Orwell, 1903-06-25, 2,3,5,239,337
+Giorgio_Chiellini, 1984-08-14, 2,7,17,43,239
+Pedro_I_of_Brazil, 1798-10-12, 2,5,5,199,239
+Pietro_Metastasio, 1698-01-03, 2,2,31,79,239
+Robin_Söderling, 1984-08-14, 2,7,17,43,239

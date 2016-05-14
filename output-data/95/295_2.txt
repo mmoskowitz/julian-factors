@@ -1,0 +1,7 @@
+Andrius_Kubilius, 1956-12-08, 5,23,59,359
+Andriy_Voronin, 1979-07-21, 5,5,59,1657
+Filippo_Tommaso_Marinetti, 1876-12-22, 2,5,59,4079
+Gore_Verbinski, 1964-03-16, 2,5,59,4133
+John_Hughes_(Irish_musician), 1950-06-23, 5,59,73,113
+Pope_Pius_XII, 1876-03-02, 3,5,59,2719
+Vinnie_Jones, 1965-01-05, 5,7,59,1181

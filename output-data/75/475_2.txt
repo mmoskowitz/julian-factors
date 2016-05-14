@@ -1,0 +1,5 @@
+Adrien-Marie_Legendre, 1752-09-18, 3,5,5,19,1657
+Craig_Mello, 1960-10-18, 5,5,7,19,733
+Frederick_Banting, 1891-11-14, 2,5,5,19,2539
+Jean-Claude_Van_Damme, 1960-10-18, 5,5,7,19,733
+Norman_Mailer, 1923-01-31, 2,5,5,19,2551

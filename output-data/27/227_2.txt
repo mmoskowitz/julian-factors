@@ -1,0 +1,7 @@
+Aleksandar_Kolarov, 1985-11-10, 13,227,829
+Diane_Kruger, 1976-07-15, 2,227,5381
+Emilia_Plater, 1806-11-13, 17,227,617
+Evelyn_Waugh, 1903-10-28, 5,227,2129
+Hank_Williams, 1923-09-17, 3,227,3559
+Mordechai_Vanunu, 1954-10-14, 17,227,631
+Raj_Kapoor, 1924-12-14, 59,181,227

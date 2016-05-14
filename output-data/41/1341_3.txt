@@ -1,0 +1,4 @@
+Christian_Eriksen, 1992-02-14, 2,3,3,11,83,149
+Freddie_Highmore, 1992-02-14, 2,3,3,11,83,149
+John_Newcombe, 1944-05-23, 3,3,7,7,37,149
+Ludwig_Wittgenstein, 1889-04-26, 2,3,3,29,31,149

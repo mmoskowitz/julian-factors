@@ -1,0 +1,4 @@
+Emily_Dickinson, 1830-12-10, 2,2,269,2221
+Gilberto_Silva, 1976-10-07, 2,19,239,269
+Idriss_Carlos_Kameni, 1984-02-18, 2,2,269,2273
+Jan_Železný, 1966-06-16, 2,2,269,2267

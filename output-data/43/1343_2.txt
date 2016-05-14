@@ -1,0 +1,4 @@
+Andrei_Tarkovsky, 1932-04-04, 13,17,79,139
+Anthony_Perkins, 1932-04-04, 13,17,79,139
+Kevin_Garnett, 1976-05-19, 17,17,79,107
+Ricardo_Quaresma, 1983-09-26, 3,17,79,607

@@ -1,0 +1,16 @@
+Anton_Rubinstein, 1829-11-28, 3,3,3,3,3,9833
+Dale_Carnegie, 1888-11-24, 3,3,3,3,5,5953
+David_H._Hubel, 1926-02-27, 3,3,3,3,37,809
+El_Lissitzky, 1890-11-23, 2,3,3,3,3,14887
+Giovanni_Domenico_Cassini, 1625-06-08, 3,3,3,3,17,1681
+Henri_Barbusse, 1873-05-17, 3,3,3,3,5,5939
+James_Tobin, 1918-03-05, 3,3,3,3,7,4271
+Mahamadou_Diarra, 1981-05-18, 2,3,3,3,3,15091
+Mihai_Ghimpu, 1951-11-19, 3,3,3,3,151,199
+Niels_Ryberg_Finsen, 1860-12-15, 3,3,3,3,107,277
+Nikolai_Yezhov, 1895-05-01, 2,3,3,3,3,14897
+Prosper_Mérimée, 1803-09-28, 3,3,3,3,11,2671
+Ruslana, 1973-05-24, 2,3,3,3,3,15073
+Walter_Cronkite, 1916-11-04, 3,3,3,3,71,421
+Wayne_Rooney, 1985-10-24, 2,3,3,3,3,15101
+Woody_Allen, 1935-12-01, 3,3,3,3,31,967

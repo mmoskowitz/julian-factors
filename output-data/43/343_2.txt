@@ -1,0 +1,6 @@
+Alizée, 1984-08-21, 3,7,7,7,2377
+Charles_Lucien_Bonaparte, 1803-05-24, 2,7,7,7,3469
+Fatos_Nano, 1952-09-16, 7,7,7,47,151
+Friedrich_Paulus, 1890-09-23, 7,7,7,79,89
+Mickey_Rourke, 1952-09-16, 7,7,7,47,151
+Patricio_Aylwin, 1918-11-26, 7,7,7,23,307

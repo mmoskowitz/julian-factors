@@ -1,0 +1,8 @@
+Bixente_Lizarazu, 1969-12-09, 2,2,7,101,863
+Erich_Kästner, 1899-02-23, 2,2,43,101,139
+Herbert_Kitchener,_1st_Earl_Kitchener, 1850-06-24, 2,2,17,101,349
+Jozy_Altidore, 1989-11-06, 2,2,73,83,101
+Leopold_Kronecker, 1823-12-07, 2,2,19,101,311
+Michael_Andreas_Barclay_de_Tolly, 1761-12-27, 2,2,3,101,1951
+Ozzy_Osbourne, 1948-12-03, 2,2,2,101,3011
+Theo_van_Doesburg, 1883-08-30, 2,2,67,89,101

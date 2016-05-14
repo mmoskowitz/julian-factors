@@ -1,0 +1,13 @@
+Antonin_Artaud, 1896-09-04, 2,3,37,83,131
+Benjamin_Thompson, 1753-03-26, 2,3,11,37,967
+Christian_Abbiati, 1977-07-08, 2,2,3,37,5503
+Emil_Cioran, 1911-04-08, 2,3,17,37,641
+Franz_Mesmer, 1734-05-23, 2,2,3,37,5303
+Frederik,_Crown_Prince_of_Denmark, 1968-05-26, 2,3,29,37,379
+Gaël_Givet, 1981-10-09, 2,3,3,37,3671
+Isabelle_Huppert, 1953-03-16, 2,2,3,37,5483
+Jesse_Owens, 1913-09-12, 2,3,11,37,991
+Konrad_Adenauer, 1876-01-05, 2,3,3,37,3613
+Melvin_Calvin, 1911-04-08, 2,3,17,37,641
+Milo_Ventimiglia, 1977-07-08, 2,2,3,37,5503
+Richard_Stallman, 1953-03-16, 2,2,3,37,5483

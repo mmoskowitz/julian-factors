@@ -1,0 +1,16 @@
+August_Schleicher, 1821-02-19, 3,3,5,13,4079
+Bettina_von_Arnim, 1785-04-04, 3,3,3,13,6761
+Claude_Lévi-Strauss, 1908-11-28, 3,3,11,13,1879
+Frank_P._Ramsey, 1903-02-22, 3,3,13,107,193
+Jamie_Oliver_(musician), 1975-07-16, 3,3,3,13,6959
+Jaroslav_Heyrovský, 1890-12-20, 3,3,3,13,6871
+John_Venn, 1834-08-04, 3,3,13,107,191
+Magda_Goebbels, 1901-11-11, 3,3,11,13,1877
+Odd_Hassel, 1897-05-17, 3,3,13,47,439
+Paul_Morphy, 1837-06-22, 2,3,3,13,10223
+Robert_Duvall, 1931-01-05, 2,3,3,13,10369
+Sebastian_Giovinco, 1987-01-26, 3,3,3,13,6971
+Semyon_Timoshenko, 1895-02-18, 2,3,3,13,10313
+Spencer_Tracy, 1900-04-05, 2,3,3,13,10321
+Umberto_I_of_Italy, 1844-03-14, 3,3,13,97,211
+Vanessa_Paradis, 1972-12-22, 3,3,13,41,509

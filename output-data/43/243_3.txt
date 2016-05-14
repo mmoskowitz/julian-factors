@@ -1,0 +1,7 @@
+Donna_Summer, 1948-12-31, 2,2,3,3,3,3,3,2503
+Ferdinand_Schörner, 1892-06-12, 3,3,3,3,3,3,3,1103
+Jean-Jacques_Dessalines, 1758-09-20, 2,3,3,3,3,3,3,1621
+Mohammed_VI_of_Morocco, 1963-08-21, 2,3,3,3,3,3,29,173
+Richard_Gere, 1949-08-31, 3,3,3,3,3,17,19,31
+Vilfredo_Pareto, 1848-07-15, 3,3,3,3,3,3,19,173
+Édouard_Daladier, 1884-06-18, 3,3,3,3,3,3,5,661

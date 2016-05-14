@@ -1,0 +1,8 @@
+Alfredo_Di_Stéfano, 1926-07-04, 2,2,5,5,24247
+Hippolyte_Fizeau, 1819-09-23, 2,2,5,5,23857
+J._R._R._Tolkien, 1892-01-03, 2,2,5,5,24121
+James_Blunt, 1974-02-22, 2,2,5,5,24421
+Paul_Ludwig_Ewald_von_Kleist, 1881-08-08, 2,2,5,5,24083
+Rosamund_Pike, 1979-01-27, 2,2,5,5,24439
+Vera_Farmiga, 1973-08-06, 2,2,5,5,24419
+Vladimir_Propp, 1895-04-17, 2,2,5,5,24133

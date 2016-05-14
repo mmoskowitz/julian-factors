@@ -1,0 +1,3 @@
+Francisco_Macías_Nguema, 1924-01-01, 5,7,7,13,761
+Jacques_Le_Goff, 1924-01-01, 5,7,7,13,761
+Seán_O'Casey, 1880-03-30, 2,2,7,113,761

@@ -1,0 +1,9 @@
+Bill_Goldberg, 1966-12-27, 2,3,3,7,19,1019
+Cybill_Shepherd, 1950-02-18, 2,3,3,5,19,1423
+Enrique_Iglesias, 1976-05-08, 2,3,3,3,19,2381
+George_Best, 1946-05-22, 2,3,3,13,19,547
+Johannes_Stark, 1874-04-15, 2,2,3,3,19,3517
+John_Hughes_(filmmaker), 1950-02-18, 2,3,3,5,19,1423
+Paramahansa_Yogananda, 1893-01-05, 2,2,3,3,19,3527
+Rómulo_Gallegos, 1884-08-02, 2,3,3,5,19,1409
+Walter_Samuel, 1978-03-23, 2,3,3,5,19,1429

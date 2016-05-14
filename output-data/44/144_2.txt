@@ -1,0 +1,13 @@
+Abraham_de_Moivre, 1667-05-26, 2,2,2,2,3,3,11,1471
+Alexandra_Maria_Lara, 1978-11-12, 2,2,2,2,3,3,3,5657
+Carlos_I_of_Portugal, 1863-09-28, 2,2,2,2,3,3,13,1283
+Chet_Baker, 1929-12-23, 2,2,2,2,3,3,17,991
+Gianluigi_Buffon, 1978-01-28, 2,2,2,2,3,3,71,239
+Greer_Garson, 1904-09-29, 2,2,2,2,3,3,13,1291
+Hafizullah_Amin, 1929-08-01, 2,2,2,2,2,3,3,8423
+Jamie_Carragher, 1978-01-28, 2,2,2,2,3,3,71,239
+Jupp_Heynckes, 1945-05-09, 2,2,2,2,2,3,3,8443
+Nikolai_Ostrovsky, 1904-09-29, 2,2,2,2,3,3,13,1291
+Susilo_Bambang_Yudhoyono, 1949-09-09, 2,2,2,2,3,3,61,277
+Wilhelm_Canaris, 1887-01-01, 2,2,2,2,2,3,3,8369
+Yevgeny_Kafelnikov, 1974-02-18, 2,2,2,2,3,3,3,5653

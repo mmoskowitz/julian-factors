@@ -1,0 +1,7 @@
+Anna_Faris, 1976-11-29, 11,11,61,331
+Björk, 1965-11-21, 5,11,61,727
+Gunnar_Nordahl, 1921-10-19, 11,23,61,157
+László_Sólyom, 1942-01-03, 2,11,61,1811
+Manuel_Fernandes_(footballer,_born_1986), 1986-02-05, 2,11,61,1823
+Mustafa_Kemal_Atatürk, 1881-05-19, 11,37,61,97
+Vedran_Ćorluka, 1986-02-05, 2,11,61,1823

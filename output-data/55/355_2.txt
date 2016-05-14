@@ -1,0 +1,4 @@
+Jeffrey_Dahmer, 1960-05-21, 5,5,71,1373
+Katie_Leung, 1987-08-08, 5,61,71,113
+Vicente_Blasco_Ibáñez, 1867-01-29, 5,7,71,967
+Óscar_Romero, 1917-08-15, 5,19,71,359

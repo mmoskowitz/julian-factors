@@ -1,0 +1,12 @@
+Amílcar_Cabral, 1924-09-12, 2,2,2,5,60601
+Anastasia_Pavlyuchenkova, 1991-07-03, 2,2,2,5,61211
+Chad_Michael_Murray, 1981-08-24, 2,2,2,5,61121
+Hussein_of_Jordan, 1935-11-14, 2,2,2,5,60703
+Jon_Lovitz, 1957-07-21, 2,2,2,5,60901
+Paul_Simon, 1941-10-13, 2,2,2,5,60757
+Richie_Sambora, 1959-07-11, 2,2,2,5,60919
+Robert_Sean_Leonard, 1969-02-28, 2,2,2,5,61007
+Stephenie_Meyer, 1973-12-24, 2,2,2,5,61051
+Suzanne_Vega, 1959-07-11, 2,2,2,5,60919
+William-Adolphe_Bouguereau, 1825-11-30, 2,2,2,5,59699
+William_Kvist, 1985-02-24, 2,2,2,5,61153

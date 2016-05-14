@@ -1,0 +1,13 @@
+Austen_Chamberlain, 1863-10-16, 2,3,3,17,47,167
+Carrie-Anne_Moss, 1967-08-21, 3,11,11,11,13,47
+Daniel_Bernoulli, 1700-02-08, 2,3,5,11,47,151
+Emir_Kusturica, 1954-11-24, 2,3,5,11,47,157
+John_Stockton, 1962-03-26, 3,3,3,17,47,113
+Matt_Groening, 1954-02-15, 2,2,3,3,47,1439
+Mikhail_Tukhachevsky, 1893-02-16, 2,3,5,29,47,59
+Richard_Cromwell, 1626-10-04, 2,2,3,5,47,821
+Robert_Huber, 1937-02-20, 2,2,2,3,47,2153
+Serj_Tankian, 1967-08-21, 3,11,11,11,13,47
+Sirimavo_Bandaranaike, 1916-04-17, 2,3,5,17,47,101
+Ursula_K._Le_Guin, 1929-10-21, 3,3,5,31,37,47
+Victor_Francis_Hess, 1883-06-24, 3,3,5,17,47,67

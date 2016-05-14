@@ -1,0 +1,6 @@
+Billy_Connolly, 1942-11-24, 3,7,283,409
+Elinor_Ostrom, 1933-08-07, 3,3,283,953
+Eoin_Colfer, 1965-05-14, 2,31,139,283
+Izzy_Stradlin, 1962-04-08, 2,59,73,283
+Jordan_Rudess, 1956-11-04, 3,19,151,283
+Ricardo_Zamora, 1901-01-21, 3,5,283,569

@@ -59,13 +59,6 @@ sub get_filename{
     return $filename;
 }
 
-sub sort_searches {
-    my @a = split ":", $a;
-    my @b = split ":", $b;
-    my $first = ($a[0] <=> $b[0]);
-    return $first == 0? $a[1] <=> $b[1] : $first;
-}
-
 sub get_searches{
     my $factorization = shift;
     my @factors = split ",", $factorization;

@@ -1,0 +1,6 @@
+Burton_Richter, 1931-03-22, 2,47,83,311
+Corry_Brokken, 1932-12-03, 2,2,311,1951
+Jorge_Batlle_Ibáñez, 1927-10-25, 2,7,311,557
+Robert_Mitchum, 1917-08-06, 2,17,229,311
+Thomas_Paine, 1737-01-29, 2,7,311,541
+William_Shatner, 1931-03-22, 2,47,83,311

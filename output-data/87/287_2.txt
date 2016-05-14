@@ -1,0 +1,9 @@
+Abdelaziz_Bouteflika, 1937-03-02, 2,7,41,4231
+Brendan_Gleeson, 1955-03-29, 5,7,41,1697
+Edward_G._Robinson, 1893-12-12, 7,7,41,1201
+Fritz_Kreisler, 1875-02-02, 7,41,83,101
+Henrique_Capriles_Radonski, 1972-07-11, 7,41,47,181
+Maurice_Druon, 1918-04-23, 2,7,41,4219
+Robert_Owen, 1771-05-14, 7,37,41,223
+Roman_Pavlyuchenko, 1981-12-15, 7,7,41,1217
+Shirley_Booth, 1898-08-30, 7,41,47,179

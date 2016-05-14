@@ -1,0 +1,5 @@
+Agatha_Christie, 1890-09-15, 3,5,5,5,59,109
+Franco_Modigliani, 1918-06-18, 2,3,7,23,23,109
+Jerome_Karle, 1918-06-18, 2,3,7,23,23,109
+Maximilian_I_of_Mexico, 1832-07-06, 2,3,5,17,43,109
+Peter_MacNicol, 1954-04-10, 2,3,3,17,73,109

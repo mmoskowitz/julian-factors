@@ -1,0 +1,6 @@
+Adlai_Stevenson_II, 1900-02-05, 5,31,15581
+Folke_Bernadotte, 1895-01-02, 5,31,15569
+Friedensreich_Hundertwasser, 1928-12-15, 5,31,15649
+Hope_Solo, 1981-07-30, 5,31,15773
+Klaus_Ebner, 1964-08-08, 5,31,15733
+Rinus_Michels, 1928-02-09, 5,31,15647

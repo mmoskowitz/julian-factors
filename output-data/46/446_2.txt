@@ -1,0 +1,6 @@
+Jeremy_Renner, 1971-01-07, 2,13,223,421
+John_Wallis, 1616-11-23, 2,71,73,223
+Lou_Andreas-Salomé, 1861-02-12, 2,7,223,769
+Pier_Paolo_Pasolini, 1922-03-05, 2,3,223,1811
+Susan_Boyle, 1961-04-01, 2,5,223,1093
+William_Thomson,_1st_Baron_Kelvin, 1824-06-26, 2,53,101,223

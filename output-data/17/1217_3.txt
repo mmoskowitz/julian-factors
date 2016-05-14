@@ -1,0 +1,3 @@
+Gustave_Doré, 1832-01-06, 2,2,491,1217
+Leonard_Bernstein, 1918-08-25, 2,5,199,1217
+Roman_Pavlyuchenko, 1981-12-15, 7,7,41,1217

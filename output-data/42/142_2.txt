@@ -1,0 +1,11 @@
+Abu_Musab_al-Zarqawi, 1966-10-20, 2,41,71,419
+Albert_Szent-Györgyi, 1893-09-16, 2,13,71,1307
+Frederick_Reines, 1918-03-16, 2,2,71,8527
+George_Biddell_Airy, 1801-07-27, 2,2,71,8377
+Gregory_Peck, 1916-04-05, 2,3,71,5683
+John_Wallis, 1616-11-23, 2,71,73,223
+Norah_Jones, 1979-03-30, 2,3,71,5737
+Roberto_Abbondanzieri, 1972-08-19, 2,2,71,8597
+Stefan_Raab, 1966-10-20, 2,41,71,419
+William_Morris, 1834-03-24, 2,2,71,8419
+Zac_Efron, 1987-10-18, 2,19,71,907

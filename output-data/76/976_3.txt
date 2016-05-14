@@ -1,0 +1,4 @@
+Andreas_Isaksson, 1981-10-03, 2,2,2,2,3,5,61,167
+Kurt_Georg_Kiesinger, 1904-04-06, 2,2,2,2,2,2,61,619
+Susilo_Bambang_Yudhoyono, 1949-09-09, 2,2,2,2,3,3,61,277
+Zlatan_Ibrahimović, 1981-10-03, 2,2,2,2,3,5,61,167

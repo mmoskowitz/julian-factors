@@ -1,0 +1,15 @@
+Amanda_Seyfried, 1985-12-03, 2,7,17,19,541
+Chris_Evert, 1954-12-21, 3,7,17,19,359
+Craig_Mello, 1960-10-18, 5,5,7,19,733
+Franz_Müntefering, 1940-01-16, 2,2,7,19,4567
+George_Herbert,_5th_Earl_of_Carnarvon, 1866-06-26, 2,3,7,19,3011
+Jean-Claude_Van_Damme, 1960-10-18, 5,5,7,19,733
+Jerry_Lewis, 1926-03-16, 2,5,7,19,1823
+Kevin_Smith_(cornerback), 1970-04-07, 3,3,7,19,2039
+Lindsay_Anderson, 1923-04-17, 2,3,7,19,3037
+Pope_John_Paul_II, 1920-05-18, 2,7,7,19,1301
+Rosa_Parks, 1913-02-04, 2,7,11,19,827
+Samuel_Eto'o, 1981-03-10, 3,7,11,19,557
+Taylor_Lautner, 1992-02-11, 3,7,17,19,361
+Truman_Capote, 1924-09-30, 2,7,13,19,701
+Wilhelm_Ritter_von_Leeb, 1876-09-05, 2,7,19,83,109

@@ -1,0 +1,13 @@
+António_de_Oliveira_Salazar, 1889-04-28, 2,2,2,2,5,30139
+Boris_Shaposhnikov, 1882-10-02, 2,2,2,2,5,30109
+Cecilia_Bartoli, 1966-06-04, 2,2,2,2,5,30491
+Dominic_Monaghan, 1976-12-08, 2,2,2,2,5,30539
+Edward_James_Olmos, 1947-02-24, 2,2,2,2,5,30403
+Frances_Hodgson_Burnett, 1849-11-24, 2,2,2,2,5,29959
+Francis_Ford_Coppola, 1939-04-07, 2,2,2,2,5,30367
+George_Peppard, 1928-10-01, 2,2,2,2,5,30319
+Gerhard_Armauer_Hansen, 1841-07-29, 2,2,2,2,5,29921
+John_Key, 1961-08-09, 2,2,2,2,5,30469
+José_Raúl_Capablanca, 1888-11-19, 2,2,2,2,5,30137
+Mahmoud_Jibril, 1952-05-28, 2,2,2,2,5,30427
+Virgilijus_Alekna, 1972-02-13, 2,2,2,2,5,30517

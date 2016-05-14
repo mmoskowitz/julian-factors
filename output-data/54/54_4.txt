@@ -1,0 +1,17 @@
+Alexandra_Maria_Lara, 1978-11-12, 2,2,2,2,3,3,3,5657
+Antonín_Novotný, 1904-12-10, 2,2,2,3,3,3,67,167
+Donna_Summer, 1948-12-31, 2,2,3,3,3,3,3,2503
+Ferdinand_de_Lesseps, 1805-11-19, 2,2,3,3,3,7,47,67
+George_Arliss, 1868-04-10, 2,2,2,3,3,3,3,3709
+Giorgio_Napolitano, 1925-06-29, 2,3,3,3,3,5,41,73
+Hilary_Swank, 1974-07-30, 2,3,3,3,7,7,13,71
+Ivo_Karlović, 1979-02-28, 2,2,3,3,3,3,19,397
+Jean-Jacques_Dessalines, 1758-09-20, 2,3,3,3,3,3,3,1621
+Leon_M._Lederman, 1922-07-15, 2,3,3,3,5,5,5,359
+Maurice_de_Vlaminck, 1876-04-04, 2,2,3,3,3,3,7,1061
+Michel_Debré, 1912-01-15, 2,2,2,3,3,3,23,487
+Mohammed_VI_of_Morocco, 1963-08-21, 2,3,3,3,3,3,29,173
+Paul_Wolfowitz, 1943-12-22, 2,2,2,3,3,3,5,2251
+Sébastien_Bourdais, 1979-02-28, 2,2,3,3,3,3,19,397
+William_Dampier, 1651-09-05, 2,3,3,3,7,11,13,43
+Yevgeny_Kafelnikov, 1974-02-18, 2,2,2,2,3,3,3,5653

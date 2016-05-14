@@ -1,0 +1,7 @@
+Frederick_William,_Elector_of_Brandenburg, 1620-02-16, 2,43,26893
+Henry_Kissinger, 1923-05-27, 2,43,28181
+Ivan_Turgenev, 1818-11-09, 2,43,27737
+Jason_Isaacs, 1963-06-06, 2,43,28351
+Mary_Shelley, 1797-08-30, 2,43,27647
+Pedro_II_of_Brazil, 1825-12-02, 2,43,27767
+Theodor_Mommsen, 1817-11-30, 2,43,27733

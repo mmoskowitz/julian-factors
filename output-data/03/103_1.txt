@@ -1,0 +1,6 @@
+David_Cook_(singer), 1982-12-20, 103,23741
+Frédéric_Mistral, 1830-09-08, 103,23201
+Igor_Andreev, 1983-07-14, 103,23743
+Mehmet_Ali_Talat, 1952-07-06, 103,23633
+Mira_Sorvino, 1967-09-28, 103,23687
+Richard_Dawkins, 1941-03-26, 103,23593

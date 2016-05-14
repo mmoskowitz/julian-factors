@@ -1,0 +1,6 @@
+Alejandro_González_Iñárritu, 1963-08-15, 2,2,2,2,3,79,643
+André_Breton, 1896-02-19, 2,2,2,3,19,67,79
+Jonathan_Woodgate, 1980-01-22, 2,2,5,7,13,17,79
+Leslie_Cheung, 1956-09-12, 2,2,2,2,41,47,79
+Michael_Wittmann, 1914-04-22, 2,2,3,3,23,37,79
+Pope_Clement_XI, 1649-07-23, 2,2,3,3,19,43,79

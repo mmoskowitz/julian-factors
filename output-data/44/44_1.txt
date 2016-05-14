@@ -1,0 +1,14 @@
+Chaim_Soutine, 1893-01-13, 2,2,11,54829
+Charles_Simonyi, 1948-09-10, 2,2,11,55291
+Chris_Smalling, 1989-11-22, 2,2,11,55633
+Eren_Derdiyok, 1988-06-12, 2,2,11,55621
+Ernest_Bai_Koroma, 1953-10-02, 2,2,11,55333
+Friedrich_Georg_Wilhelm_von_Struve, 1793-04-15, 2,2,11,54001
+Gustav_III_of_Sweden, 1746-01-24, 2,2,11,53609
+James_Harden, 1989-08-26, 2,2,11,55631
+Lila_Downs, 1968-09-09, 2,2,11,55457
+Manuel_Azaña, 1880-01-10, 2,2,11,54721
+Mauricio_Isla, 1988-06-12, 2,2,11,55621
+Samuel_Doe, 1951-05-06, 2,2,11,55313
+Sergei_Ignashevich, 1979-07-14, 2,2,11,55547
+Terry_Fox, 1958-07-28, 2,2,11,55373

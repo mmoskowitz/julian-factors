@@ -1,0 +1,5 @@
+Frank_Lloyd, 1886-02-02, 3,3,3,7,41,311
+Johann_Gottfried_Herder, 1744-08-25, 3,3,7,11,41,83
+Juliana_of_the_Netherlands, 1909-04-30, 2,3,3,29,41,113
+Spencer_Perceval, 1762-11-01, 3,3,13,17,29,41
+Walt_Whitman, 1819-05-31, 3,3,3,5,41,431

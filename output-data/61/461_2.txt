@@ -1,0 +1,6 @@
+Colin_McRae, 1968-08-05, 67,79,461
+Ignacy_Łukasiewicz, 1822-03-08, 31,167,461
+Karl_Benz, 1844-11-25, 5,461,1039
+Luciano_Pavarotti, 1935-10-12, 23,229,461
+Marine_Le_Pen, 1968-08-05, 67,79,461
+Mungo_Park_(explorer), 1771-09-11, 11,461,467

@@ -1,0 +1,13 @@
+Art_Garfunkel, 1941-11-05, 3,17,47653
+Carlo_Ancelotti, 1959-06-10, 3,17,47779
+Carlo_Cudicini, 1973-09-06, 3,17,47881
+Eliot_Spitzer, 1959-06-10, 3,17,47779
+Erich_Hartmann, 1922-04-19, 3,17,47513
+Franz_Grillparzer, 1791-01-15, 3,17,46573
+Gerhard_Herzberg, 1904-12-25, 3,17,47389
+Giuseppe_Rossi, 1987-02-01, 3,17,47977
+Haddaway, 1965-01-09, 3,17,47819
+John_Travolta, 1954-02-18, 3,17,47741
+Sebastian_Boenisch, 1987-02-01, 3,17,47977
+Stanley_B._Prusiner, 1942-05-28, 3,17,47657
+Will_Ferrell, 1967-07-16, 3,17,47837

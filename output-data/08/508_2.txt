@@ -1,0 +1,5 @@
+Carlos_Alberto_Torres, 1944-07-17, 2,2,2,127,2393
+Jorge_Larrionda, 1968-03-09, 2,2,3,127,1601
+Peter_II_of_Yugoslavia, 1923-09-06, 2,2,13,127,367
+Władysław_IV_Vasa, 1595-06-09, 2,2,5,127,907
+Youri_Djorkaeff, 1968-03-09, 2,2,3,127,1601

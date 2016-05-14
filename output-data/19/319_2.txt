@@ -1,0 +1,6 @@
+Eddie_Irvine, 1965-11-10, 2,11,29,3823
+Farah_Pahlavi, 1938-10-14, 5,11,29,1523
+Jacob_Zuma, 1942-04-12, 11,19,29,401
+Lara_Flynn_Boyle, 1970-03-24, 7,11,29,1093
+Patrick_Stewart, 1940-07-13, 3,11,29,2539
+Valentina_Matviyenko, 1949-04-07, 11,29,29,263

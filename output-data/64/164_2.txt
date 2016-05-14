@@ -1,0 +1,10 @@
+Chris_Eagles, 1985-11-19, 2,2,7,41,2131
+Fidel_Castro, 1926-08-13, 2,2,5,41,2957
+Gabriel_Agbonlahor, 1986-10-13, 2,2,3,41,4973
+Giuseppe_Tomasi_di_Lampedusa, 1896-12-23, 2,2,41,41,359
+James_Irwin, 1930-03-17, 2,2,3,41,4931
+Mark_Twain, 1835-11-30, 2,2,3,41,4861
+Meles_Zenawi, 1955-05-09, 2,2,31,41,479
+Robert_Fripp, 1946-05-16, 2,2,3,41,4943
+Sarah_Jessica_Parker, 1965-03-25, 2,2,3,41,4957
+Stefka_Kostadinova, 1965-03-25, 2,2,3,41,4957

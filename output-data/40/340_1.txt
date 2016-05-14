@@ -1,0 +1,4 @@
+Benjamin_Constant, 1767-10-25, 2,2,5,17,6961
+Chiune_Sugihara, 1900-01-01, 2,2,5,17,7103
+Julius_Wagner-Jauregg, 1857-03-07, 2,2,5,17,7057
+Vitaly_Ginzburg, 1916-10-04, 2,2,5,17,7121

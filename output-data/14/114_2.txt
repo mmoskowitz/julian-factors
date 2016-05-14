@@ -1,0 +1,17 @@
+Annise_Parker, 1956-05-17, 2,3,5,19,4273
+Dido_(singer), 1971-12-25, 2,3,5,19,4283
+Emanuel_Lasker, 1868-12-24, 2,3,5,19,4217
+George_Herbert,_5th_Earl_of_Carnarvon, 1866-06-26, 2,3,7,19,3011
+Hideki_Yukawa, 1907-01-23, 2,3,3,19,7069
+James_Joseph_Sylvester, 1814-09-03, 2,3,11,19,1901
+Joanne_Woodward, 1930-02-27, 2,3,13,19,1637
+Lindsay_Anderson, 1923-04-17, 2,3,7,19,3037
+Montgomery_Clift, 1920-10-17, 2,3,19,79,269
+Oscar_Robertson, 1938-11-24, 2,3,3,19,7103
+Patrick_Swayze, 1952-08-18, 2,3,19,131,163
+Robert_F._Furchgott, 1916-06-04, 2,3,3,19,7079
+Robert_Koren, 1980-09-20, 2,3,19,41,523
+Roberto_Soldado, 1985-05-27, 2,2,3,19,10729
+Silvestre_Varela, 1985-02-02, 2,3,19,43,499
+Stanisław_Konarski, 1700-09-30, 2,2,3,19,10273
+Vittorio_Gassman, 1922-09-01, 2,3,19,29,733

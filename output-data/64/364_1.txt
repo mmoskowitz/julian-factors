@@ -1,0 +1,6 @@
+Alois_Alzheimer, 1864-06-14, 2,2,7,13,6599
+Calvin_Harris, 1984-01-17, 2,2,7,13,6719
+Hristo_Stoichkov, 1966-02-08, 2,2,7,13,6701
+Ingvar_Kamprad, 1926-03-30, 2,2,7,13,6661
+Jørn_Utzon, 1918-04-09, 2,2,7,13,6653
+Viktor_Yushchenko, 1954-02-23, 2,2,7,13,6689

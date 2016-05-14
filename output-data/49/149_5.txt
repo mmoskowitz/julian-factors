@@ -1,0 +1,9 @@
+Christian_Eriksen, 1992-02-14, 2,3,3,11,83,149
+Dale_T._Mortensen, 1939-02-02, 2,2,2,2,149,1019
+Freddie_Highmore, 1992-02-14, 2,3,3,11,83,149
+John_Newcombe, 1944-05-23, 3,3,7,7,37,149
+Ludwig_Wittgenstein, 1889-04-26, 2,3,3,29,31,149
+Masi_Oka, 1974-12-27, 2,2,2,3,149,683
+Ramires, 1987-03-24, 2,3,7,17,23,149
+Simeon_Saxe-Coburg-Gotha, 1937-06-16, 2,2,5,5,149,163
+Synyster_Gates, 1981-07-07, 2,2,2,7,149,293

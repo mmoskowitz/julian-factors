@@ -1,0 +1,7 @@
+Clinton_Davisson, 1881-10-22, 5,5,5,19267
+Emma_Goldman, 1869-06-27, 5,5,5,19231
+Eric_Burdon, 1941-05-11, 5,5,5,19441
+Hans_Spemann, 1869-06-27, 5,5,5,19231
+Karl-Heinz_Rummenigge, 1955-09-25, 5,5,5,19483
+Otto_of_Greece, 1815-06-01, 5,5,5,19073
+Stanley_Cohen_(biochemist), 1922-11-17, 5,5,5,19387

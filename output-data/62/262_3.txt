@@ -1,0 +1,12 @@
+Antonin_Artaud, 1896-09-04, 2,3,37,83,131
+Bertolt_Brecht, 1898-02-10, 2,5,19,97,131
+Emina_Jahović, 1982-01-15, 2,2,2,131,2333
+Iveta_Radičová, 1956-12-07, 2,3,3,131,1033
+Jessica_Alba, 1981-04-28, 2,7,31,43,131
+Jimmy_Page, 1944-01-09, 2,3,3,131,1031
+Katherine_Mansfield, 1888-10-14, 2,2,43,107,131
+Larry_Bird, 1956-12-07, 2,3,3,131,1033
+Marcellin_Berthelot, 1827-10-25, 2,3,3,131,1013
+Patrick_Swayze, 1952-08-18, 2,3,19,131,163
+Philip_K._Dick, 1928-12-16, 2,2,3,131,1543
+Valéry_Giscard_d'Estaing, 1926-02-02, 2,2,7,131,661

@@ -1,0 +1,11 @@
+Antony_Hewish, 1924-05-11, 2,2,3,3,11,6121
+Christian_Eriksen, 1992-02-14, 2,3,3,11,83,149
+Freddie_Highmore, 1992-02-14, 2,3,3,11,83,149
+Georges_Lemaître, 1894-07-17, 2,3,3,7,11,1741
+Julio_Ricardo_Cruz, 1974-10-10, 2,3,3,5,11,2467
+Madeleine_Albright, 1937-05-15, 2,2,3,3,11,6133
+Oguchi_Onyewu, 1982-05-13, 2,3,3,11,53,233
+Rick_Astley, 1966-02-06, 2,3,3,11,97,127
+Rosalind_Franklin, 1920-07-25, 2,3,3,5,11,2447
+Siim_Kallas, 1948-10-02, 2,3,3,11,11,1117
+William_Henry_Harrison, 1773-02-09, 2,3,3,7,11,1709

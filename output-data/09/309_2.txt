@@ -1,0 +1,7 @@
+Adrian_Mutu, 1979-01-08, 3,11,103,719
+Archduke_Franz_Ferdinand_of_Austria, 1863-12-18, 3,3,103,2591
+Giovanni_Schiaparelli, 1835-03-14, 3,71,103,109
+James_Brown, 1933-05-03, 3,5,103,1571
+Mos_Def, 1973-12-11, 3,7,103,1129
+Steven_Weinberg, 1933-05-03, 3,5,103,1571
+Stipe_Pletikosa, 1979-01-08, 3,11,103,719

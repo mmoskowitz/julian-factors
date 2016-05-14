@@ -1,0 +1,12 @@
+Boris_III_of_Bulgaria, 1894-01-30, 2,3,7,7,29,283
+Camille_Flammarion, 1842-02-26, 2,2,3,3,29,2293
+Diego_Rivera, 1886-12-08, 2,2,2,3,29,3463
+Dirk_Bogarde, 1921-03-28, 2,2,2,3,29,3481
+Edward_Mills_Purcell, 1912-08-30, 2,2,3,17,29,409
+Juliana_of_the_Netherlands, 1909-04-30, 2,3,3,29,41,113
+Ludwig_Wittgenstein, 1889-04-26, 2,3,3,29,31,149
+Mikhail_Tukhachevsky, 1893-02-16, 2,3,5,29,47,59
+Riyo_Mori, 1986-12-24, 2,2,3,29,79,89
+Stevan_Jovetić, 1989-11-02, 2,2,2,3,29,3517
+Steve_Biko, 1946-12-18, 2,2,3,29,29,241
+Steven_Spielberg, 1946-12-18, 2,2,3,29,29,241

@@ -1,0 +1,10 @@
+Alain_Prost, 1955-02-24, 2,337,3613
+Arthur_Schopenhauer, 1788-02-22, 5,337,1409
+Bert_van_Marwijk, 1952-05-19, 31,233,337
+Bruno_Alves, 1981-11-27, 5,337,1451
+Carlo_Collodi, 1826-11-24, 19,337,373
+Helen_Hunt, 1963-06-15, 5,337,1447
+Jerome_Isaac_Friedman, 1930-03-28, 23,313,337
+Mariana_of_Austria, 1634-12-24, 3,337,2293
+Steve_Jobs, 1955-02-24, 2,337,3613
+Tom_Kenny, 1962-07-13, 2,337,3617

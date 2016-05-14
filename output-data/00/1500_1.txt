@@ -1,0 +1,4 @@
+Charles_I_of_Austria, 1887-08-17, 2,2,3,5,5,5,1607
+Hans-Adam_II,_Prince_of_Liechtenstein, 1945-02-14, 2,2,3,5,5,5,1621
+Marcus_Garvey, 1887-08-17, 2,2,3,5,5,5,1607
+Sonja_Henie, 1912-04-08, 2,2,3,5,5,5,1613

@@ -1,0 +1,11 @@
+Eros_Ramazzotti, 1963-10-28, 2,5,109,2237
+Felipe_Calderón, 1962-08-18, 2,53,109,211
+Godfrey_Hounsfield, 1919-08-28, 2,41,109,271
+Jacques_Hadamard, 1865-12-08, 2,103,107,109
+Jo_Nesbø, 1960-03-29, 2,7,109,1597
+Johannes_Hevelius, 1611-01-28, 2,2,109,5297
+Konstantin_Rokossovsky, 1896-12-21, 2,3,109,3691
+Michael_Essien, 1982-12-03, 2,3,109,3739
+Robert_Doornbos, 1981-09-23, 2,5,109,2243
+Shaquille_O'Neal, 1972-03-06, 2,3,109,3733
+Teresa_Teng, 1953-01-29, 2,13,109,859

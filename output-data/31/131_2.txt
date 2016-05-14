@@ -1,0 +1,13 @@
+Alcide_De_Gasperi, 1881-04-03, 31,131,593
+Alexander_Mackenzie, 1822-01-28, 2,131,9109
+Carl_Zeiss, 1816-09-11, 109,131,167
+Christian_Karembeu, 1970-12-03, 3,131,6211
+Francis_William_Aston, 1877-09-01, 19,131,967
+Gigliola_Cinquetti, 1947-12-20, 31,131,599
+Jon_Dahl_Tomasson, 1976-08-29, 17,131,1097
+Kelsey_Grammer, 1955-02-21, 29,131,641
+Kurt_Vonnegut, 1922-11-11, 13,131,1423
+Marie_Louise,_Duchess_of_Parma, 1791-12-12, 2,131,9067
+Paul_Tillich, 1886-08-20, 2,131,9199
+Roland_Emmerich, 1955-11-10, 3,131,6197
+Stanley_Milgram, 1933-08-15, 7,131,2647

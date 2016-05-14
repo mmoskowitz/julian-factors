@@ -1,0 +1,9 @@
+Andrius_Kubilius, 1956-12-08, 5,23,59,359
+Charles_Dickens, 1812-02-07, 3,5,23,6907
+Irina_Bokova, 1952-07-12, 5,23,61,347
+John_Franklin_Enders, 1897-02-10, 3,5,23,6997
+Lionel_Messi, 1987-06-24, 2,5,23,10639
+Princess_Madeleine,_Duchess_of_Hälsingland_and_Gästrikland, 1982-06-10, 2,5,23,10631
+Ryan_Gosling, 1980-11-12, 5,23,29,733
+Stefan_Effenberg, 1968-08-02, 2,5,23,10609
+Vyacheslav_Molotov, 1890-03-09, 5,13,23,1613

@@ -1,0 +1,7 @@
+Anna_Nicole_Smith, 1967-11-28, 2,3,7,11,5281
+George_Michael, 1963-06-25, 3,5,7,11,2111
+Ramana_Maharshi, 1879-12-30, 3,7,7,11,1489
+Samuel_Eto'o, 1981-03-10, 3,7,11,19,557
+Thaksin_Shinawatra, 1949-07-26, 3,3,7,11,3511
+Władysław_Reymont, 1867-05-07, 3,7,11,101,103
+Yann_Martel, 1963-06-25, 3,5,7,11,2111
