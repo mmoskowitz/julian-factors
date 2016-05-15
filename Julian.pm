@@ -31,7 +31,7 @@ sub factor{
     my $number = shift;
     my @factors;
     my $current = 2;
-    while ($number > $current**2){
+    while ($number >= $current**2){
 	if ($number % $current == 0){
 	    push @factors, $current;
 	    $number /= $current;
