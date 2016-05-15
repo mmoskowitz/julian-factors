@@ -11,9 +11,9 @@ open IN, $file;
 my $count;
 my %factors;
 while (my $line = <IN>){
-    #last if ($count > 20);
-    my ($name, $date, $julian, $factorization) = split /\t/, $line;
-    my $infoline = join(", ", ($name, $date, $factorization));
+    #last if ($count > 2000);
+    my ($name, $date, $julian, $factorization, $viewcount) = split /\t/, $line;
+    my $infoline = join(", ", ($name, $date, $factorization, $viewcount));
     #print $infoline;
     add_factors($infoline, $factorization);
     $count++;
@@ -23,21 +23,16 @@ foreach my $factoring (sort keys %factors){
     next if ($factoring =~ /:0$/);
     
     my $filename = Julian::get_filename($factoring, $output_dir);
-
-    #my $tempfactor = (split ":", $factor)[0];
-    #my $dir = substr $tempfactor, -2;
-    #if (length($dir) == 1) {
-	#$dir = "0$dir";
-    #}
-    #$filename =~ s|//|/|;
-    #$filename =~ s|/ME/|/|;
-    #$filename =~ s|:|_|;
     open OUT, ">", "$filename" || die "can't write $filename\n";
     print "writing $filename\n";
-    my @results = sort @{$factors{$factoring}};
+    #get top 20 by pageviews
+    my @results_by_view = sort {(split ", ", $b)[3] <=> (split ", ", $a)[3]} uniq(@{$factors{$factoring}});
+    my @results_filtered = @results_by_view[0..20];
+    my @results = sort @results_filtered;
+    #my @results = sort @{$factors{$factoring}};
     for (my $i = 0; $i < @results; $i++){
 	if ($results[$i] ne $results[$i+1]){
-	    print OUT $results[$i]."\n";
+	    print OUT $results[$i];
 	}
     }
     close OUT;
@@ -70,9 +65,16 @@ sub add_factors{
     }
 }
 
+#from http://stackoverflow.com/questions/7651/how-do-i-remove-duplicate-items-from-an-array-in-perl
+sub uniq {
+    my %seen;
+    grep !$seen{$_}++, @_;
+}
+
 sub add_factor{
     my $search = shift;
     my $infoline = shift;
+    my $name = (split ", ", $infoline)[0];
     if (!($factors{$search})) {
 	$factors{$search} = [];
     }
