@@ -1,27 +1,21 @@
-Adrian_Mutu, 1979-01-08, 3,11,103,719
-Alberto_Santos-Dumont, 1873-07-20, 11,11,103,193
-Alessandra_Ambrosio, 1981-04-11, 5,47,101,103
-Alexander_Khalifman, 1966-01-18, 7,17,103,199
-Alyson_Hannigan, 1974-03-24, 2,5,103,2371
-Archduke_Franz_Ferdinand_of_Austria, 1863-12-18, 3,3,103,2591
-Giovanni_Schiaparelli, 1835-03-14, 3,71,103,109
-Giuseppe_Farina, 1906-10-30, 7,7,103,479
-Groucho_Marx, 1890-10-02, 2,23,103,509
-Gunnar_Myrdal, 1898-12-06, 7,17,103,197
-Honoré_de_Balzac, 1799-05-20, 2,5,103,2309
-Jacques_Hadamard, 1865-12-08, 2,103,107,109
-James_Brown, 1933-05-03, 3,5,103,1571
-Joan_Sutherland, 1926-11-07, 2,79,103,149
-Josef_Albers, 1888-03-19, 5,31,103,151
-Jules_Bordet, 1870-06-13, 2,11,103,1061
-Mary_II_of_England, 1662-04-30, 2,2,103,5651
-Maurice_Utrillo, 1883-12-26, 2,5,103,2339
-Mos_Def, 1973-12-11, 3,7,103,1129
-Paul_Scofield, 1922-01-21, 5,5,103,941
-Prince_Joachim_of_Denmark, 1969-06-07, 19,29,43,103
-Steven_Weinberg, 1933-05-03, 3,5,103,1571
-Stipe_Pletikosa, 1979-01-08, 3,11,103,719
-Telly_Savalas, 1922-01-21, 5,5,103,941
-Theobald_von_Bethmann-Hollweg, 1856-11-29, 2,19,103,613
-Udo_Jürgens, 1934-09-30, 2,5,103,2357
-William_Hogarth, 1697-11-10, 2,5,103,2273
+Adrian_Mutu, 1979-01-08, 3,11,103,719, 117184.6944
+Alberto_Santos-Dumont, 1873-07-20, 11,11,103,193, 99835.5
+Alessandra_Ambrosio, 1981-04-11, 5,47,101,103, 260149.3889
+Alyson_Hannigan, 1974-03-24, 2,5,103,2371, 544853.3514
+Archduke_Franz_Ferdinand_of_Austria, 1863-12-18, 3,3,103,2591, 112890.8857
+Giovanni_Schiaparelli, 1835-03-14, 3,71,103,109, 41087.63636
+Groucho_Marx, 1890-10-02, 2,23,103,509, 157622.5405
+Honoré_de_Balzac, 1799-05-20, 2,5,103,2309, 119358.0732
+James_Brown, 1933-05-03, 3,5,103,1571, 200526.6207
+Joan_Sutherland, 1926-11-07, 2,79,103,149, 34425
+Josef_Albers, 1888-03-19, 5,31,103,151, 43066.96154
+Mary_II_of_England, 1662-04-30, 2,2,103,5651, 39571.43396
+Maurice_Utrillo, 1883-12-26, 2,5,103,2339, 29136.9375
+Mos_Def, 1973-12-11, 3,7,103,1129, 350750.4615
+Paul_Scofield, 1922-01-21, 5,5,103,941, 25294.40625
+Prince_Joachim_of_Denmark, 1969-06-07, 19,29,43,103, 43778.61538
+Steven_Weinberg, 1933-05-03, 3,5,103,1571, 27149.95556
+Stipe_Pletikosa, 1979-01-08, 3,11,103,719, 24432.96875
+Telly_Savalas, 1922-01-21, 5,5,103,941, 123823.0606
+Udo_Jürgens, 1934-09-30, 2,5,103,2357, 70443.53846
+William_Hogarth, 1697-11-10, 2,5,103,2273, 43351.35417

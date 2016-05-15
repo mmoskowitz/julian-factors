@@ -1,2 +1,2 @@
-Ahmed_Sékou_Touré, 1922-01-09, 281,8623
-Har_Gobind_Khorana, 1922-01-09, 281,8623
+Ahmed_Sékou_Touré, 1922-01-09, 281,8623, 20008.29032
+Har_Gobind_Khorana, 1922-01-09, 281,8623, 18008.5

@@ -1,2 +1,2 @@
-Francis_I,_Holy_Roman_Emperor, 1708-12-08, 3,5,17,17,541
-Habib_Bourguiba, 1903-08-03, 3,3,17,17,929
+Francis_I,_Holy_Roman_Emperor, 1708-12-08, 3,5,17,17,541, 13806.29787
+Habib_Bourguiba, 1903-08-03, 3,3,17,17,929, 40340.63636

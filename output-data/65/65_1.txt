@@ -1,6 +1,6 @@
-Claudio_López_(footballer), 1974-07-17, 5,13,37573
-Dwight_F._Davis, 1879-07-05, 5,13,37039
-François_Quesnay, 1694-06-04, 5,13,35999
-Fyodor_Tolbukhin, 1894-06-16, 5,13,37123
-Hugo_Sánchez, 1958-07-11, 5,13,37483
-Vladimir_Komarov, 1927-03-16, 5,13,37307
+Claudio_López_(footballer), 1974-07-17, 5,13,37573, 30188.62963
+Dwight_F._Davis, 1879-07-05, 5,13,37039, 6020.423077
+François_Quesnay, 1694-06-04, 5,13,35999, 36391.45455
+Fyodor_Tolbukhin, 1894-06-16, 5,13,37123, 7678.464286
+Hugo_Sánchez, 1958-07-11, 5,13,37483, 66336.86111
+Vladimir_Komarov, 1927-03-16, 5,13,37307, 19307.02326

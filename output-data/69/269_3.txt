@@ -1,11 +1,11 @@
-Emily_Dickinson, 1830-12-10, 2,2,269,2221
-Florent_Malouda, 1980-06-13, 3,13,233,269
-Francisco_Goya, 1746-03-30, 3,37,79,269
-Gilberto_Silva, 1976-10-07, 2,19,239,269
-Idriss_Carlos_Kameni, 1984-02-18, 2,2,269,2273
-Jan_Železný, 1966-06-16, 2,2,269,2267
-Juan_Carlos_Navarro_(basketball), 1980-06-13, 3,13,233,269
-Kim_Basinger, 1953-12-08, 3,7,269,431
-Lucas_Barrios, 1984-11-13, 3,7,269,433
-Norman_Finkelstein, 1953-12-08, 3,7,269,431
-Sarah_Connor_(singer), 1980-06-13, 3,13,233,269
+Emily_Dickinson, 1830-12-10, 2,2,269,2221, 116092
+Florent_Malouda, 1980-06-13, 3,13,233,269, 79509.59574
+Francisco_Goya, 1746-03-30, 3,37,79,269, 117316.5517
+Gilberto_Silva, 1976-10-07, 2,19,239,269, 57700.75
+Idriss_Carlos_Kameni, 1984-02-18, 2,2,269,2273, 33075.82143
+Jan_Železný, 1966-06-16, 2,2,269,2267, 18419.62162
+Juan_Carlos_Navarro_(basketball), 1980-06-13, 3,13,233,269, 30353.88462
+Kim_Basinger, 1953-12-08, 3,7,269,431, 201803.0909
+Lucas_Barrios, 1984-11-13, 3,7,269,433, 113493.7037
+Norman_Finkelstein, 1953-12-08, 3,7,269,431, 58880.38462
+Sarah_Connor_(singer), 1980-06-13, 3,13,233,269, 91566.57143

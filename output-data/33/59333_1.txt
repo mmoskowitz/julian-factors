@@ -1,2 +1,2 @@
-Joschka_Fischer, 1948-04-12, 41,59333
-Marcello_Lippi, 1948-04-12, 41,59333
+Joschka_Fischer, 1948-04-12, 41,59333, 50217.17143
+Marcello_Lippi, 1948-04-12, 41,59333, 69349.07692

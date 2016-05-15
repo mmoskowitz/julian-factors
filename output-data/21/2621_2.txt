@@ -1,4 +1,4 @@
-Hubert_Humphrey, 1911-05-27, 13,71,2621
-Little_Richard, 1932-12-05, 2,463,2621
-Sheldon_Lee_Glashow, 1932-12-05, 2,463,2621
-Vincent_Price, 1911-05-27, 13,71,2621
+Hubert_Humphrey, 1911-05-27, 13,71,2621, 66045.14706
+Little_Richard, 1932-12-05, 2,463,2621, 224243.2414
+Sheldon_Lee_Glashow, 1932-12-05, 2,463,2621, 10748.85366
+Vincent_Price, 1911-05-27, 13,71,2621, 196147.8788

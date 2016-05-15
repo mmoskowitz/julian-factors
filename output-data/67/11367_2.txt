@@ -1,2 +1,2 @@
-Juan_Silveira_dos_Santos, 1979-02-01, 3,3,3,5,43,421
-Walter_Cronkite, 1916-11-04, 3,3,3,3,71,421
+Juan_Silveira_dos_Santos, 1979-02-01, 3,3,3,5,43,421, 41088.08571
+Walter_Cronkite, 1916-11-04, 3,3,3,3,71,421, 104453.2647

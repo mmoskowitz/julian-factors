@@ -1,2 +1,2 @@
-Ernest_Walton, 1903-10-06, 7,61,5659
-Thomas_Huckle_Weller, 1915-06-15, 7,61,5669
+Ernest_Walton, 1903-10-06, 7,61,5659, 8455.44186
+Thomas_Huckle_Weller, 1915-06-15, 7,61,5669, 5808.535714

@@ -1,95 +1,21 @@
-Alex_Jones_(radio_host), 1974-02-11, 13,19,9887
-Alex_Oxlade-Chamberlain, 1993-08-15, 2,19,64453
-Anne_Rice, 1941-10-04, 19,37,3457
-Arnold_Sommerfeld, 1868-12-05, 19,73,1733
-Barry_Marshall, 1951-09-30, 19,53,2417
-Bertil_Ohlin, 1899-04-23, 19,73,1741
-Bongani_Khumalo, 1987-01-06, 7,19,18397
-Carlo_Collodi, 1826-11-24, 19,337,373
-Caroline_of_Ansbach, 1683-03-01, 2,19,61469
-Cesária_Évora, 1941-08-27, 13,19,9839
-Christopher_Nolan, 1970-07-30, 3,19,42821
-Christopher_Plummer, 1929-12-13, 2,19,63841
-Conan_O'Brien, 1963-04-18, 13,19,9871
-Danny_DeVito, 1944-11-17, 19,73,1753
-David_Hilbert, 1862-01-23, 19,43,2939
-Dokka_Umarov, 1964-04-13, 2,19,64171
-Douglas_Fairbanks, 1883-05-23, 19,19,6673
-Dragan_Đokanović, 1958-04-20, 11,19,11657
-Ed_O'Brien, 1968-04-15, 19,53,2423
-Ernst_Mach, 1838-02-18, 11,19,11447
-Francis_William_Aston, 1877-09-01, 19,131,967
-Frank_de_Boer, 1970-05-15, 19,19,6761
-François_Tombalbaye, 1918-06-15, 3,19,42487
-Frits_Zernike, 1888-07-16, 2,19,63443
-Gabriel_Lippmann, 1845-08-16, 13,19,9697
-George_Gershwin, 1898-09-26, 2,19,63541
-Georgios_Samaras, 1985-02-21, 19,31,4153
-Gerhard_Berger, 1959-08-27, 3,19,42751
-Giacomo_Leopardi, 1798-06-29, 5,19,25031
-Grazia_Deledda, 1871-09-27, 19,67,1889
-H._H._Asquith, 1852-09-12, 19,97,1301
-Harald_zur_Hausen, 1936-03-11, 2,19,63901
-Hassan_Gouled_Aptidon, 1916-10-15, 19,61,2089
-Ion_Antonescu, 1882-06-15, 17,19,7457
-Isla_Fisher, 1976-02-03, 7,19,18367
-Iván_Córdoba, 1976-08-11, 11,19,11689
-Jack_White, 1975-07-09, 2,19,64279
-James_Horner, 1953-08-14, 19,97,1321
-James_M._Buchanan, 1919-10-03, 2,19,63743
-Jane_Russell, 1921-06-21, 7,19,18217
-Jarno_Trulli, 1974-07-13, 19,173,743
-Jeff_Bridges, 1949-12-04, 2,19,64033
-Jim_Carrey, 1962-01-17, 17,19,7547
-JoJo_(singer), 1990-12-20, 5,19,25771
-Joan_Enric_Vives_Sicília, 1949-07-24, 19,79,1621
-John_Dillinger, 1903-06-22, 3,19,42391
-John_McCain, 1936-08-29, 19,23,5557
-John_Russell_Hind, 1823-05-12, 19,73,1721
-José_Saramago, 1922-11-16, 2,19,63773
-Judy_Holliday, 1921-06-21, 7,19,18217
-Justin_Chambers, 1970-07-11, 2,19,64231
-Justin_Timberlake, 1981-01-31, 5,19,25733
-Kenny_G, 1956-06-05, 7,19,18313
-Konstantin_von_Neurath, 1873-02-02, 19,277,457
-Konstantinos_Stephanopoulos, 1926-08-15, 2,19,63809
-Kurt_Student, 1890-05-12, 3,19,42307
-Lata_Mangeshkar, 1929-09-28, 2,19,63839
-Lee_Kuan_Yew, 1923-09-16, 2,19,63781
-Leisel_Jones, 1985-08-30, 19,199,647
-Lisandro_López, 1983-03-02, 5,19,25741
-Marc_Bloch, 1886-07-06, 7,19,18121
-Mark_Rothko, 1903-09-25, 2,19,63589
-Markus_Merk, 1962-03-15, 2,19,64151
-Milorad_Čavić, 1984-05-31, 19,109,1181
-Mother_Teresa, 1910-08-26, 3,19,42437
-Nicolas_Sarkozy, 1955-01-28, 5,19,25633
-Norman_Angell, 1872-12-26, 19,103,1229
-Nuri_Şahin, 1988-09-05, 3,19,42937
-Omar_Bradley, 1893-02-12, 2,19,63487
-Pau_Gasol, 1980-07-06, 2,19,64327
-Paul_Walker, 1973-09-12, 3,19,42841
-Pedro_de_la_Rosa, 1971-02-24, 2,19,64237
-Pierre_Messmer, 1916-03-20, 2,19,63709
-Raymond_Barre, 1924-04-12, 19,193,661
-Rem_Koolhaas, 1944-11-17, 19,73,1753
-René-Robert_Cavelier,_Sieur_de_La_Salle, 1643-11-21, 19,61,2003
-Robert_Curl, 1933-08-23, 19,43,2971
-Ronald_de_Boer, 1970-05-15, 19,19,6761
-Ronaldo, 1976-09-18, 19,71,1811
-Rudolph_A._Marcus, 1923-07-21, 19,199,641
-Samuel_Beckett, 1906-04-13, 3,19,42409
-Sergei_Eisenstein, 1898-01-22, 19,31,4099
-Sergio_Agüero, 1988-06-02, 2,19,64403
-Shelton_Benjamin, 1975-07-09, 2,19,64279
-Sigourney_Weaver, 1949-10-08, 13,19,9851
-Theda_Bara, 1885-07-29, 19,53,2393
-Theodore_Schultz, 1902-04-30, 19,43,2957
-Tomáš_Necid, 1989-08-13, 3,19,42943
-Trent_Reznor, 1965-05-17, 19,23,5581
-Valon_Behrami, 1985-04-19, 2,19,64373
-Valter_Birsa, 1986-08-07, 19,61,2111
-Venus_Williams, 1980-06-17, 7,19,18379
-Vitaly_Scherbo, 1972-01-13, 11,19,11681
-Winona_Ryder, 1971-10-29, 3,19,42829
-Zhang_Ziyi, 1979-02-09, 19,293,439
+Christopher_Nolan, 1970-07-30, 3,19,42821, 311038.0345
+Christopher_Plummer, 1929-12-13, 2,19,63841, 209185.875
+Conan_O'Brien, 1963-04-18, 13,19,9871, 252868.4474
+Danny_DeVito, 1944-11-17, 19,73,1753, 221287.9787
+Isla_Fisher, 1976-02-03, 7,19,18367, 472004.1
+Jack_White, 1975-07-09, 2,19,64279, 221805.9677
+Jeff_Bridges, 1949-12-04, 2,19,64033, 305174.1087
+Jim_Carrey, 1962-01-17, 17,19,7547, 489841.2027
+John_Dillinger, 1903-06-22, 3,19,42391, 521797.3438
+John_McCain, 1936-08-29, 19,23,5557, 229144.573
+Justin_Chambers, 1970-07-11, 2,19,64231, 165256.8148
+Justin_Timberlake, 1981-01-31, 5,19,25733, 571333.029
+Mother_Teresa, 1910-08-26, 3,19,42437, 298469.6139
+Pau_Gasol, 1980-07-06, 2,19,64327, 191048.1842
+Paul_Walker, 1973-09-12, 3,19,42841, 907568.1429
+Ronaldo, 1976-09-18, 19,71,1811, 510843.8533
+Sergio_Agüero, 1988-06-02, 2,19,64403, 222520.875
+Sigourney_Weaver, 1949-10-08, 13,19,9851, 230360.037
+Trent_Reznor, 1965-05-17, 19,23,5581, 224082.3871
+Winona_Ryder, 1971-10-29, 3,19,42829, 338869.5
+Zhang_Ziyi, 1979-02-09, 19,293,439, 175378.907

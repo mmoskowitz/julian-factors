@@ -1,2 +1,2 @@
-David_Copperfield_(illusionist), 1956-09-16, 2,2,13,31,1511
-Demba_Ba, 1985-05-25, 2,5,13,31,607
+David_Copperfield_(illusionist), 1956-09-16, 2,2,13,31,1511, 28281.625
+Demba_Ba, 1985-05-25, 2,5,13,31,607, 148081.5938

@@ -1,5 +1,5 @@
-Manuel_Pinto_da_Costa, 1937-08-05, 2,5,5,5,5,29,67
-Nicholas_I_of_Montenegro, 1841-10-07, 2,5,5,5,5,5,383
-Philippe_Noiret, 1930-10-01, 2,3,5,5,5,5,647
-Richard_Harris, 1930-10-01, 2,3,5,5,5,5,647
-Władysław_Szpilman, 1911-12-05, 5,5,5,5,7,7,79
+Manuel_Pinto_da_Costa, 1937-08-05, 2,5,5,5,5,29,67, 5821.793103
+Nicholas_I_of_Montenegro, 1841-10-07, 2,5,5,5,5,5,383, 21807.88462
+Philippe_Noiret, 1930-10-01, 2,3,5,5,5,5,647, 41073.23256
+Richard_Harris, 1930-10-01, 2,3,5,5,5,5,647, 216976.5714
+Władysław_Szpilman, 1911-12-05, 5,5,5,5,7,7,79, 118544.3667

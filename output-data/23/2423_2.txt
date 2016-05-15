@@ -1,2 +1,2 @@
-Ed_O'Brien, 1968-04-15, 19,53,2423
-Sarvepalli_Radhakrishnan, 1888-09-05, 5,199,2423
+Ed_O'Brien, 1968-04-15, 19,53,2423, 41458.53846
+Sarvepalli_Radhakrishnan, 1888-09-05, 5,199,2423, 47832.06818

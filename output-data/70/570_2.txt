@@ -1,7 +1,7 @@
-Aleksey_Nikolayevich_Tolstoy, 1883-01-10, 2,2,3,5,19,2113
-Billie_Jean_King, 1943-11-22, 2,3,5,5,19,853
-Cybill_Shepherd, 1950-02-18, 2,3,3,5,19,1423
-John_Hughes_(filmmaker), 1950-02-18, 2,3,3,5,19,1423
-Mikhail_Kasyanov, 1957-12-08, 2,2,3,5,19,2137
-Rómulo_Gallegos, 1884-08-02, 2,3,3,5,19,1409
-Walter_Samuel, 1978-03-23, 2,3,3,5,19,1429
+Aleksey_Nikolayevich_Tolstoy, 1883-01-10, 2,2,3,5,19,2113, 18082.78788
+Billie_Jean_King, 1943-11-22, 2,3,5,5,19,853, 84511.23529
+Cybill_Shepherd, 1950-02-18, 2,3,3,5,19,1423, 135416.6897
+John_Hughes_(filmmaker), 1950-02-18, 2,3,3,5,19,1423, 13486.51852
+Mikhail_Kasyanov, 1957-12-08, 2,2,3,5,19,2137, 11364.75
+Rómulo_Gallegos, 1884-08-02, 2,3,3,5,19,1409, 72747.85714
+Walter_Samuel, 1978-03-23, 2,3,3,5,19,1429, 50929.075

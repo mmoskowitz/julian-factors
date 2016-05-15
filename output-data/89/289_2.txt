@@ -1,5 +1,5 @@
-Charles_Curtis, 1860-01-25, 2,17,17,4153
-Georg_Wilhelm_Friedrich_Hegel, 1770-08-27, 3,17,17,2731
-George_Eastman, 1854-07-12, 17,17,43,193
-Kevin_Garnett, 1976-05-19, 17,17,79,107
-Luke_Young_(footballer,_born_1979), 1979-07-19, 3,17,17,2819
+Charles_Curtis, 1860-01-25, 2,17,17,4153, 20156.16667
+Georg_Wilhelm_Friedrich_Hegel, 1770-08-27, 3,17,17,2731, 111868.4421
+George_Eastman, 1854-07-12, 17,17,43,193, 45217.45
+Kevin_Garnett, 1976-05-19, 17,17,79,107, 192039.2
+Luke_Young_(footballer,_born_1979), 1979-07-19, 3,17,17,2819, 5231.37931

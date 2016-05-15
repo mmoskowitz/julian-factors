@@ -1,3 +1,3 @@
-Aleksandr_Solzhenitsyn, 1918-12-11, 2,293,4133
-Kirstie_Alley, 1951-01-12, 2,293,4153
-Rush_Limbaugh, 1951-01-12, 2,293,4153
+Aleksandr_Solzhenitsyn, 1918-12-11, 2,293,4133, 49846.02198
+Kirstie_Alley, 1951-01-12, 2,293,4153, 267111.4828
+Rush_Limbaugh, 1951-01-12, 2,293,4153, 231943.8889

@@ -1,7 +1,7 @@
-Aleksandar_Kolarov, 1985-11-10, 13,227,829
-Damien_Hirst, 1965-06-07, 2,829,1471
-Kajsa_Bergqvist, 1976-10-12, 7,421,829
-Mick_Foley, 1965-06-07, 2,829,1471
-Rodney_Robert_Porter, 1917-10-08, 23,127,829
-Thomas_Anders, 1963-03-01, 17,173,829
-William_II_of_the_Netherlands, 1792-12-06, 2,829,1433
+Aleksandar_Kolarov, 1985-11-10, 13,227,829, 65035.57576
+Damien_Hirst, 1965-06-07, 2,829,1471, 180479.1379
+Kajsa_Bergqvist, 1976-10-12, 7,421,829, 18995.61538
+Mick_Foley, 1965-06-07, 2,829,1471, 324785.037
+Rodney_Robert_Porter, 1917-10-08, 23,127,829, 5416.965517
+Thomas_Anders, 1963-03-01, 17,173,829, 69718.88235
+William_II_of_the_Netherlands, 1792-12-06, 2,829,1433, 47495.44828

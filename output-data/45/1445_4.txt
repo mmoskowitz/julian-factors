@@ -1,3 +1,3 @@
-Alessandro_Petacchi, 1974-01-03, 2,5,5,13,13,289
-Talia_Shire, 1946-04-25, 3,3,5,11,17,289
-Vladimir_Zhirinovsky, 1946-04-25, 3,3,5,11,17,289
+Alessandro_Petacchi, 1974-01-03, 2,5,5,13,13,289, 24459
+Talia_Shire, 1946-04-25, 3,3,5,11,17,289, 208893.3571
+Vladimir_Zhirinovsky, 1946-04-25, 3,3,5,11,17,289, 22252.21429

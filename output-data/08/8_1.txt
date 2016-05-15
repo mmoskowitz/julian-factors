@@ -1,95 +1,21 @@
-Adolf_Anderssen, 1818-07-06, 2,2,2,298157
-Adriano_Celentano, 1938-01-06, 2,2,2,303613
-Alec_Baldwin, 1958-04-03, 2,2,2,304537
-Alexander_Lukashenko, 1954-08-30, 2,2,2,304373
-Alexander_Suvorov, 1730-11-24, 2,2,2,294157
-Anna_Lindh, 1957-06-19, 2,2,2,304501
-Arash_(singer), 1977-04-23, 2,2,2,305407
-Baldur_von_Schirach, 1907-05-09, 2,2,2,302213
-Bernardo_Bertolucci, 1940-03-16, 2,2,2,303713
-Brandon_Flowers, 1981-06-21, 2,2,2,305597
-Brandon_Lee, 1965-02-01, 2,2,2,304849
-Branislav_Ivanović, 1984-02-22, 2,2,2,305719
-Cafu, 1970-06-07, 2,2,2,305093
-Chace_Crawford, 1985-07-18, 2,2,2,305783
-Charles_Baudelaire, 1821-04-09, 2,2,2,298283
-Charlotte_Corday, 1768-07-27, 2,2,2,295877
-Chinua_Achebe, 1930-11-16, 2,2,2,303287
-Christoph_Schneider, 1966-05-11, 2,2,2,304907
-Cindy_Crawford, 1966-02-20, 2,2,2,304897
-Clark_Gable, 1901-02-01, 2,2,2,301927
-Cynthia_Nixon, 1966-04-09, 2,2,2,304903
-Cédric_Carrasso, 1981-12-30, 2,2,2,305621
-Darren_Aronofsky, 1969-02-12, 2,2,2,305033
-Darren_Bent, 1984-02-06, 2,2,2,305717
-Dave_Brubeck, 1920-12-06, 2,2,2,302833
-Diego_Cavalieri, 1982-12-01, 2,2,2,305663
-Doutzen_Kroes, 1985-01-23, 2,2,2,305761
-Edward_Rydz-Śmigły, 1886-03-11, 2,2,2,301247
-Edwin_van_der_Sar, 1970-10-29, 2,2,2,305111
-François_Guizot, 1787-10-04, 2,2,2,296753
-Freeman_Dyson, 1923-12-15, 2,2,2,302971
-George_Porter, 1920-12-06, 2,2,2,302833
-Georges_Brassens, 1921-10-22, 2,2,2,302873
-Gilberto_Gil, 1942-06-26, 2,2,2,303817
-Giorgos_Karagounis, 1977-03-06, 2,2,2,305401
-Guillaume_Depardieu, 1971-04-07, 2,2,2,305131
-Hans_Adolf_Krebs, 1900-08-25, 2,2,2,301907
-Harel_Skaat, 1981-08-08, 2,2,2,305603
-Herbert_C._Brown, 1912-05-22, 2,2,2,302443
-Hermann_Müller_(politician), 1876-05-18, 2,2,2,300799
-Irwin_Rose, 1926-07-16, 2,2,2,303089
-Jane_Birkin, 1946-12-14, 2,2,2,304021
-Jean-Luc_Dehaene, 1940-08-07, 2,2,2,303731
-Jean_Chrétien, 1934-01-11, 2,2,2,303431
-Jeff_Koons, 1955-01-21, 2,2,2,304391
-John_Carpenter_(footballer), 1948-08-29, 2,2,2,304099
-John_Cena, 1977-04-23, 2,2,2,305407
-John_Milnor, 1931-02-20, 2,2,2,303299
-John_Wilkes_Booth, 1838-05-10, 2,2,2,299063
-Joseph_Erlanger, 1874-01-05, 2,2,2,300691
-Joseph_Fourier, 1768-03-21, 2,2,2,295861
-Jostein_Gaarder, 1952-08-08, 2,2,2,304279
-Kal_Penn, 1977-04-23, 2,2,2,305407
-Kevin_Anderson_(tennis), 1986-05-18, 2,2,2,305821
-Lewis_Hamilton, 1985-01-07, 2,2,2,305759
-Luisão, 1981-02-13, 2,2,2,305581
-Manu_Ginóbili, 1977-07-28, 2,2,2,305419
-Marcello_Mastroianni, 1924-09-28, 2,2,2,303007
-Marie_François_Sadi_Carnot, 1837-08-11, 2,2,2,299029
-Martin_O'Neill, 1952-03-01, 2,2,2,304259
-Max_Stirner, 1806-10-25, 2,2,2,297623
-Mehmed_V, 1844-11-02, 2,2,2,299359
-Micah_Richards, 1988-06-24, 2,2,2,305917
-Moritz_Bleibtreu, 1971-08-13, 2,2,2,305147
-Mykola_Azarov, 1947-12-17, 2,2,2,304067
-Nadar_(photographer), 1820-04-06, 2,2,2,298237
-Nancy_Cartwright, 1957-10-25, 2,2,2,304517
-Neil_Patrick_Harris, 1973-06-15, 2,2,2,305231
-Nikolai_Leskov, 1831-02-16, 2,2,2,298733
-Nursultan_Nazarbayev, 1940-07-06, 2,2,2,303727
-Olga_Constantinovna_of_Russia, 1851-09-03, 2,2,2,299671
-Parker_Posey, 1968-11-08, 2,2,2,305021
-Patricia_Kaas, 1966-12-05, 2,2,2,304933
-Patrick_Vieira, 1976-06-23, 2,2,2,305369
-Paul_Samuelson, 1915-05-15, 2,2,2,302579
-Phillip_Cocu, 1970-10-29, 2,2,2,305111
-Princess_Stéphanie_of_Monaco, 1965-02-01, 2,2,2,304849
-Richard_Dean_Anderson, 1950-01-23, 2,2,2,304163
-Richard_Rodgers, 1902-06-28, 2,2,2,301991
-Roger_Federer, 1981-08-08, 2,2,2,305603
-Rutger_Hauer, 1944-01-23, 2,2,2,303889
-Sergei_Ivanov, 1953-01-31, 2,2,2,304301
-Stan_Lee, 1922-12-28, 2,2,2,302927
-Stéphane_Mallarmé, 1842-03-18, 2,2,2,299239
-Sune_Bergström, 1916-01-10, 2,2,2,302609
-Susumu_Tonegawa, 1939-09-06, 2,2,2,303689
-Sócrates, 1954-02-19, 2,2,2,304349
-Theodor_Schwann, 1810-12-07, 2,2,2,297811
-Thom_Yorke, 1968-10-07, 2,2,2,305017
-Tom_Huddlestone, 1986-12-28, 2,2,2,305849
-Tore_André_Flo, 1973-06-15, 2,2,2,305231
-Vladimir_Arnold, 1937-06-12, 2,2,2,303587
-Wilhelm_Maybach, 1846-02-09, 2,2,2,299417
-William_Saroyan, 1908-08-31, 2,2,2,302273
-Zemfira, 1976-08-26, 2,2,2,305377
+Alec_Baldwin, 1958-04-03, 2,2,2,304537, 331334.1
+Brandon_Flowers, 1981-06-21, 2,2,2,305597, 256757.6538
+Brandon_Lee, 1965-02-01, 2,2,2,304849, 496278.8
+Chace_Crawford, 1985-07-18, 2,2,2,305783, 400866.2759
+Charles_Baudelaire, 1821-04-09, 2,2,2,298283, 181049.5857
+Cindy_Crawford, 1966-02-20, 2,2,2,304897, 197012.7895
+Clark_Gable, 1901-02-01, 2,2,2,301927, 182093.9828
+Cynthia_Nixon, 1966-04-09, 2,2,2,304903, 204391.3103
+Darren_Aronofsky, 1969-02-12, 2,2,2,305033, 193740.7105
+Doutzen_Kroes, 1985-01-23, 2,2,2,305761, 191083.7647
+Jane_Birkin, 1946-12-14, 2,2,2,304021, 195953.4063
+John_Carpenter_(footballer), 1948-08-29, 2,2,2,304099, 193408.6563
+John_Cena, 1977-04-23, 2,2,2,305407, 919637.4151
+John_Wilkes_Booth, 1838-05-10, 2,2,2,299063, 194745.0227
+Kal_Penn, 1977-04-23, 2,2,2,305407, 314000.3438
+Neil_Patrick_Harris, 1973-06-15, 2,2,2,305231, 834520.6341
+Princess_Stéphanie_of_Monaco, 1965-02-01, 2,2,2,304849, 176215.6667
+Richard_Dean_Anderson, 1950-01-23, 2,2,2,304163, 179699.5556
+Roger_Federer, 1981-08-08, 2,2,2,305603, 364359.0198
+Stan_Lee, 1922-12-28, 2,2,2,302927, 307491.087
+Thom_Yorke, 1968-10-07, 2,2,2,305017, 250655.75

@@ -1,3 +1,3 @@
-Amedeo_Modigliani, 1884-07-12, 3,719,1117
-Nicole_(Chilean_singer), 1977-01-19, 2,719,1699
-Preity_Zinta, 1975-01-31, 43,79,719
+Amedeo_Modigliani, 1884-07-12, 3,719,1117, 111157.1525
+Nicole_(Chilean_singer), 1977-01-19, 2,719,1699, 509.8666667
+Preity_Zinta, 1975-01-31, 43,79,719, 197209.7619

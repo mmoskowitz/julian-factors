@@ -1,5 +1,5 @@
-Claude_Adrien_Helvétius, 1715-01-26, 5,5,13,31,233
-David_Copperfield_(illusionist), 1956-09-16, 2,2,13,31,1511
-Demba_Ba, 1985-05-25, 2,5,13,31,607
-Fernand_Braudel, 1902-08-24, 5,11,13,31,109
-Olof_Mellberg, 1977-09-03, 3,13,31,43,47
+Claude_Adrien_Helvétius, 1715-01-26, 5,5,13,31,233, 12317.36111
+David_Copperfield_(illusionist), 1956-09-16, 2,2,13,31,1511, 28281.625
+Demba_Ba, 1985-05-25, 2,5,13,31,607, 148081.5938
+Fernand_Braudel, 1902-08-24, 5,11,13,31,109, 37344.775
+Olof_Mellberg, 1977-09-03, 3,13,31,43,47, 47025.92105

@@ -1,100 +1,21 @@
-Adam_Riess, 1969-12-16, 7,17,20509
-Adolf_Dassler, 1900-11-03, 2,17,71039
-Andrey_Arshavin, 1981-05-29, 17,31,4639
-Antonio_Machado, 1875-07-26, 5,17,28307
-Arjen_Robben, 1984-01-23, 2,17,71933
-Art_Garfunkel, 1941-11-05, 3,17,47653
-Astrid_Lindgren, 1907-11-14, 17,41,3469
-Billy_Wilder, 1906-06-22, 17,53,2683
-Brad_Delson, 1977-12-01, 2,17,71867
-Bryan_Cranston, 1956-03-07, 17,23,6229
-Carl_Ferdinand_Cori, 1896-12-05, 2,17,70997
-Carl_Jung, 1875-07-26, 5,17,28307
-Carlo_Ancelotti, 1959-06-10, 3,17,47779
-Carlo_Cudicini, 1973-09-06, 3,17,47881
-Carlos_Sainz, 1962-04-12, 2,17,71699
-Chun_Doo-hwan, 1931-01-18, 13,17,10979
-Coolio, 1963-08-01, 2,17,71713
-Cory_Doctorow, 1971-07-17, 17,37,3881
-Danielle_Steel, 1947-08-14, 17,23,6221
-Daron_Malakian, 1975-07-18, 17,53,2711
-Elihu_Root, 1845-02-15, 13,17,10837
-Eliot_Spitzer, 1959-06-10, 3,17,47779
-Emilia_Plater, 1806-11-13, 17,227,617
-Erich_Hartmann, 1922-04-19, 3,17,47513
-Erskine_Caldwell, 1903-12-17, 5,17,28429
-Felix_Klein, 1849-04-25, 17,61,2311
-Francesca_Schiavone, 1980-06-23, 17,53,2713
-Franz_Grillparzer, 1791-01-15, 3,17,46573
-Françoise_Sagan, 1935-06-21, 2,17,71411
-Friedrich_Hayek, 1899-05-08, 2,17,71023
-Gerhard_Herzberg, 1904-12-25, 3,17,47389
-Gerhard_Schröder, 1944-04-07, 11,17,13001
-Giuseppe_Rossi, 1987-02-01, 3,17,47977
-Grégory_Lemarchal, 1983-05-13, 17,97,1483
-Gustave_Flaubert, 1821-12-12, 17,79,1777
-Haddaway, 1965-01-09, 3,17,47819
-Hatem_Ben_Arfa, 1987-03-07, 17,31,4643
-Hattie_McDaniel, 1895-06-10, 2,17,70981
-Ibrahim_Ferrer, 1927-02-20, 17,67,2129
-Ion_Antonescu, 1882-06-15, 17,19,7457
-Jack_London, 1876-01-12, 5,17,28309
-Jack_Palance, 1919-02-18, 7,17,20353
-Janet_Leigh, 1927-07-06, 17,29,4919
-Janne_Ahonen, 1977-05-11, 2,17,71861
-Jennette_McCurdy, 1992-06-26, 17,283,509
-Jennifer_Capriati, 1976-03-29, 2,17,71849
-Jim_Carrey, 1962-01-17, 17,19,7547
-Joachim_Löw, 1960-02-03, 13,17,11027
-Jodie_Foster, 1962-11-19, 17,61,2351
-John_Isner, 1985-04-26, 17,37,3889
-John_Travolta, 1954-02-18, 3,17,47741
-Jon_Dahl_Tomasson, 1976-08-29, 17,131,1097
-Joseph_Hooton_Taylor,_Jr., 1941-03-29, 2,17,71473
-Kieran_Richardson, 1984-10-21, 2,17,71941
-Leonardo_Araújo, 1969-09-05, 17,89,1613
-Leslie_Nielsen, 1926-02-11, 17,127,1123
-Lucy_Maud_Montgomery, 1874-11-30, 17,137,1033
-M.I.A._(rapper), 1975-07-18, 17,53,2711
-Makoto_Kobayashi_(physicist), 1944-04-07, 11,17,13001
-Matt_Biondi, 1965-10-08, 11,17,13043
-Matthias_Jakob_Schleiden, 1804-04-05, 17,191,733
-Mehmed_IV, 1642-01-02, 17,211,647
-Mia_Wasikowska, 1989-10-14, 17,109,1321
-Mike_Myers, 1963-05-25, 2,17,71711
-Mordechai_Vanunu, 1954-10-14, 17,227,631
-Morten_Olsen, 1949-08-14, 2,17,71563
-Moussa_Dadis_Camara, 1964-01-01, 5,17,28687
-Nambaryn_Enkhbayar, 1958-06-01, 5,17,28663
-Oskar_Lafontaine, 1943-09-16, 17,29,4931
-Pierre_Bourdieu, 1930-08-01, 17,43,3319
-Pierre_Curie, 1859-05-15, 17,59,2393
-Pope_Innocent_XII, 1615-03-13, 13,17,10457
-Pope_Pius_XI, 1857-05-31, 5,17,28229
-Raúl_Castro, 1931-06-03, 5,17,28547
-Richard_R._Schrock, 1945-01-04, 17,157,911
-Robert_Bunsen, 1811-03-30, 13,17,10781
-Robert_Rodriguez, 1968-06-20, 17,17,8443
-Roderick_MacKinnon, 1956-02-19, 2,17,71633
-Roger_Vadim, 1928-01-26, 17,179,797
-Roger_Y._Tsien, 1952-02-01, 17,67,2137
-Ruslan_Rotan, 1981-10-29, 2,17,71909
-Salvador_Luria, 1912-08-13, 7,17,20333
-Sebastian_Boenisch, 1987-02-01, 3,17,47977
-Sidney_Poitier, 1927-02-20, 17,67,2129
-Stanley_B._Prusiner, 1942-05-28, 3,17,47657
-Steve_Buscemi, 1957-12-13, 5,17,28661
-Theodoros_Zagorakis, 1971-10-27, 17,163,881
-Thomas_Anders, 1963-03-01, 17,173,829
-Timothy_Leary, 1920-10-22, 17,31,4597
-Toshiro_Mifune, 1920-04-01, 5,17,28499
-Trofim_Lysenko, 1898-09-29, 17,173,821
-Ursula_Andress, 1936-03-19, 2,17,71419
-Vikash_Dhorasoo, 1973-10-10, 5,17,28729
-Vukašin_Brajić, 1984-02-09, 17,47,3061
-Warren_G._Harding, 1865-11-02, 2,17,70663
-Will_Eisner, 1917-03-06, 7,17,20347
-Will_Ferrell, 1967-07-16, 3,17,47837
-Winston_Churchill, 1874-11-30, 17,137,1033
-Yaya_Touré, 1983-05-13, 17,97,1483
-Zillur_Rahman, 1929-03-09, 17,97,1471
+Antonio_Machado, 1875-07-26, 5,17,28307, 140250.9032
+Arjen_Robben, 1984-01-23, 2,17,71933, 223918.5517
+Bryan_Cranston, 1956-03-07, 17,23,6229, 586023.4615
+Carl_Jung, 1875-07-26, 5,17,28307, 224846.8472
+Coolio, 1963-08-01, 2,17,71713, 219342.1538
+Daron_Malakian, 1975-07-18, 17,53,2711, 155659.4324
+Eliot_Spitzer, 1959-06-10, 3,17,47779, 162286.4483
+Jennette_McCurdy, 1992-06-26, 17,283,509, 551673.5806
+Jim_Carrey, 1962-01-17, 17,19,7547, 489841.2027
+Jodie_Foster, 1962-11-19, 17,61,2351, 315427
+John_Travolta, 1954-02-18, 3,17,47741, 418778.8594
+Leslie_Nielsen, 1926-02-11, 17,127,1123, 214057.2833
+Mia_Wasikowska, 1989-10-14, 17,109,1321, 288772.7667
+Mike_Myers, 1963-05-25, 2,17,71711, 160244.0513
+Pierre_Bourdieu, 1930-08-01, 17,43,3319, 168694.9556
+Robert_Rodriguez, 1968-06-20, 17,17,8443, 250577.3235
+Steve_Buscemi, 1957-12-13, 5,17,28661, 273113.6444
+Timothy_Leary, 1920-10-22, 17,31,4597, 185760.3636
+Ursula_Andress, 1936-03-19, 2,17,71419, 163371.7429
+Will_Ferrell, 1967-07-16, 3,17,47837, 514288.6471
+Winston_Churchill, 1874-11-30, 17,137,1033, 288094.5526

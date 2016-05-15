@@ -1,127 +1,21 @@
-Abhisit_Vejjajiva, 1964-08-03, 2,3,5,29,2803
-Adrien-Marie_Legendre, 1752-09-18, 3,5,5,19,1657
-Allen_Iverson, 1975-06-07, 2,3,5,13,6263
-Andreas_Thorkildsen, 1982-04-01, 2,2,3,5,40751
-Annie_Besant, 1847-10-01, 3,3,5,37,1439
-Annise_Parker, 1956-05-17, 2,3,5,19,4273
-Antanas_Smetona, 1874-08-10, 3,3,5,193,277
-Arnold_Böcklin, 1827-10-16, 3,3,5,7,7583
-Arthur_Schnitzler, 1862-05-15, 3,5,5,101,317
-August_Schleicher, 1821-02-19, 3,3,5,13,4079
-Babe_Ruth, 1895-02-06, 2,3,5,257,313
-Benedikt_Höwedes, 1988-02-29, 2,2,3,5,40787
-Bobby_Farrell, 1949-10-06, 3,3,5,139,389
-Boris_Johnson, 1964-06-19, 3,5,17,73,131
-Brian_May, 1947-07-19, 3,3,5,191,283
-Carlos_Marchena, 1979-07-31, 3,3,5,7,7759
-Celine_Dion, 1968-03-30, 3,3,5,59,919
-Charles_G._Dawes, 1865-08-27, 3,5,5,103,311
-Charles_I_of_England, 1600-11-19, 2,3,5,151,509
-Clara_Schumann, 1819-09-13, 2,3,5,281,283
-Clive_Barker, 1952-10-05, 2,3,5,53,1531
-Daniel_Ortega, 1945-11-11, 2,3,5,11,7369
-Daniel_Radcliffe, 1989-07-23, 2,3,3,5,27197
-Darijo_Srna, 1982-05-01, 2,3,5,149,547
-David_Jarolím, 1979-05-17, 2,3,5,41,1987
-Dido_(singer), 1971-12-25, 2,3,5,19,4283
-Dominique_de_Villepin, 1953-11-14, 3,5,29,29,193
-Douglas_MacArthur, 1880-01-26, 2,2,3,5,40129
-Edmondo_De_Amicis, 1846-10-21, 2,3,5,47,1699
-Edward_Adelbert_Doisy, 1893-11-13, 2,2,3,5,40213
-Emanuel_Lasker, 1868-12-24, 2,3,5,19,4217
-Erik_Erikson, 1902-06-15, 3,3,5,37,1451
-Ernesto_Geisel, 1907-08-03, 2,3,5,83,971
-Farouk_of_Egypt, 1920-02-11, 3,5,11,53,277
-Ferenc_Mádl, 1931-01-29, 2,3,5,31,2609
-Francis_I,_Holy_Roman_Emperor, 1708-12-08, 3,5,17,17,541
-Franklin_D._Roosevelt, 1882-01-30, 3,5,5,17,1889
-George_Michael, 1963-06-25, 3,5,7,11,2111
-George_Orwell, 1903-06-25, 2,3,5,239,337
-Gina_Lollobrigida, 1927-07-04, 3,5,19,67,127
-Giovanni_Giolitti, 1842-10-27, 3,3,5,83,641
-Gotthold_Ephraim_Lessing, 1729-01-22, 3,5,47,47,71
-Graham_Greene, 1904-10-02, 3,5,11,97,151
-Hans-Jörg_Butt, 1974-05-28, 3,3,5,7,7753
-Hans_Blix, 1928-06-28, 3,5,5,73,443
-Heinrich_Louis_d'Arrest, 1822-08-13, 3,3,5,7,7577
-Herbert_Hoover, 1874-08-10, 3,3,5,193,277
-Isambard_Kingdom_Brunel, 1806-04-09, 3,5,11,47,307
-James_K._Polk, 1795-11-02, 3,5,5,41,773
-Jason_Derulo, 1989-09-21, 2,3,5,139,587
-Jay_Spearing, 1988-11-25, 2,3,5,17,4799
-Jean-Claude_Juncker, 1954-12-09, 3,3,5,53,1021
-Jean_Monnet, 1888-11-09, 2,3,5,5,16073
-Jeanne_Calment, 1875-02-21, 2,2,3,5,40099
-Jeremy_Clarkson, 1960-04-11, 3,5,17,19,503
-Jessica_Simpson, 1980-07-10, 2,3,5,17,4793
-John_Irving, 1942-03-02, 2,2,3,5,40507
-John_McEnroe, 1959-02-16, 3,3,3,5,18049
-John_Wayne_Gacy, 1942-03-17, 3,5,7,79,293
-Jonathan_Edwards_(triple_jumper), 1966-05-10, 3,5,7,13,1787
-Joni_Mitchell, 1943-11-07, 3,3,5,89,607
-José_Mourinho, 1963-01-26, 3,3,5,17,3187
-Jules_Rimet, 1873-10-14, 3,5,7,31,739
-Julio_Cortázar, 1914-08-26, 2,3,3,5,26893
-Julio_Iglesias, 1943-09-23, 2,3,3,5,27011
-Kathy_Bates, 1948-06-28, 2,3,5,83,977
-Lal_Bahadur_Shastri, 1904-10-02, 3,5,11,97,151
-Liam_Neeson, 1952-06-07, 2,3,5,41,1979
-Lou_Reed, 1942-03-02, 2,2,3,5,40507
-Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma, 1900-06-25, 3,3,5,191,281
-Louis_XVIII_of_France, 1755-11-17, 2,2,3,5,39373
-Luiz_Inácio_Lula_da_Silva, 1945-10-27, 3,3,3,5,18013
-Mahalia_Jackson, 1911-10-26, 3,3,3,5,17921
-Mame_Biram_Diouf, 1987-12-16, 3,3,3,5,18127
-Marat_Safin, 1980-01-27, 3,3,5,29,1873
-Marc_Gené, 1974-03-29, 3,5,17,61,157
-Marcelo_Salas, 1974-12-24, 3,5,7,7,3323
-Marco_Simoncelli, 1987-01-20, 3,5,7,7,3329
-Max_Born, 1882-12-11, 2,3,5,23,3491
-Mel_Gibson, 1956-01-03, 3,5,5,7,4639
-Michael_Spence, 1943-11-07, 3,3,5,89,607
-Mickey_Rooney, 1920-09-23, 2,3,5,23,3511
-Mikhail_Fradkov, 1950-09-01, 3,5,5,71,457
-Mir-Hossein_Mousavi, 1942-03-02, 2,2,3,5,40507
-Nodar_Kumaritashvili, 1988-11-25, 2,3,5,17,4799
-Orhan_Pamuk, 1952-06-07, 2,3,5,41,1979
-Patriarch_Alexy_II_of_Moscow, 1929-02-23, 3,5,11,61,241
-Paul_Greengard, 1925-12-11, 3,5,19,47,181
-Paul_Hausser, 1880-10-07, 3,3,3,5,17837
-Paul_Langevin, 1872-01-23, 3,5,7,37,619
-Pelé, 1940-10-23, 3,5,5,179,181
-Philippe_Senderos, 1985-02-14, 2,3,3,5,27179
-Pierre-Simon_Laplace, 1749-03-23, 2,3,5,5,15733
-Pierre_Corneille, 1606-06-06, 3,5,7,31,709
-Prince_Daniel,_Duke_of_Västergötland, 1973-09-15, 2,2,3,5,40699
-Rafic_Hariri, 1944-11-01, 3,3,5,71,761
-Ralph_Nader, 1934-02-27, 3,5,7,61,379
-Randy_Pausch, 1960-10-23, 2,3,5,137,593
-Ray_Ewry, 1873-10-14, 3,5,7,31,739
-Robert_Coleman_Richardson, 1937-06-26, 2,3,5,73,1109
-Robert_E._Lee, 1807-01-19, 2,3,5,139,571
-Robert_Musil, 1880-11-06, 3,5,5,97,331
-Robin_Warren, 1937-06-11, 3,3,5,31,1741
-Ronald_Fisher, 1890-02-17, 3,3,5,41,1307
-Rosalynn_Carter, 1927-08-18, 2,3,5,229,353
-Ryan_Giggs, 1973-11-29, 3,3,3,5,18089
-Róbert_Vittek, 1982-04-01, 2,2,3,5,40751
-Sean_Bean, 1959-04-17, 3,5,5,53,613
-Selena_Gomez, 1992-07-22, 3,5,5,103,317
-Sidney_Sheldon, 1917-02-11, 2,3,3,5,26903
-Skrillex, 1988-01-15, 3,5,5,67,487
-Slaven_Bilić, 1968-09-11, 2,3,5,163,499
-Stellan_Skarsgård, 1951-06-13, 2,3,5,31,2617
-Sándor_Kocsis, 1929-09-21, 3,5,5,5,6469
-Terry_Gilliam, 1940-11-22, 3,3,5,11,4909
-Thomas_Johansson, 1975-03-24, 3,5,11,113,131
-Tom_Hooper, 1972-10-05, 3,5,13,19,659
-Tommy_Robredo, 1982-05-01, 2,3,5,149,547
-V._V._Giri, 1894-08-10, 2,3,5,5,16087
-Victor_Ponta, 1972-09-20, 2,2,3,5,40693
-Vidkun_Quisling, 1887-07-18, 2,3,3,5,26783
-Willem_Dafoe, 1955-07-22, 2,3,3,5,27059
-Wynton_Marsalis, 1961-10-18, 2,3,5,193,421
-Yann_Martel, 1963-06-25, 3,5,7,11,2111
-Yasuo_Fukuda, 1936-07-16, 3,5,17,89,107
-Zbigniew_Boniek, 1956-03-03, 3,3,3,5,18041
-Édith_Piaf, 1915-12-19, 2,3,5,5,16139
+Allen_Iverson, 1975-06-07, 2,3,5,13,6263, 335376.5641
+Babe_Ruth, 1895-02-06, 2,3,5,257,313, 344636.6111
+Celine_Dion, 1968-03-30, 3,3,5,59,919, 294861.8421
+Daniel_Radcliffe, 1989-07-23, 2,3,3,5,27197, 413127.9091
+Franklin_D._Roosevelt, 1882-01-30, 3,5,5,17,1889, 302324.0442
+George_Michael, 1963-06-25, 3,5,7,11,2111, 246603.5882
+Jeremy_Clarkson, 1960-04-11, 3,5,17,19,503, 370308.7647
+Jessica_Simpson, 1980-07-10, 2,3,5,17,4793, 258221.04
+John_Wayne_Gacy, 1942-03-17, 3,5,7,79,293, 569592.3077
+José_Mourinho, 1963-01-26, 3,3,5,17,3187, 297051.9524
+Liam_Neeson, 1952-06-07, 2,3,5,41,1979, 566489.4038
+Lou_Reed, 1942-03-02, 2,2,3,5,40507, 306698.0976
+Mel_Gibson, 1956-01-03, 3,5,5,7,4639, 368269.6
+Mickey_Rooney, 1920-09-23, 2,3,5,23,3511, 237817.2581
+Pelé, 1940-10-23, 3,5,5,179,181, 274468.1477
+Ryan_Giggs, 1973-11-29, 3,3,3,5,18089, 233076.4098
+Sean_Bean, 1959-04-17, 3,5,5,53,613, 371673.8462
+Selena_Gomez, 1992-07-22, 3,5,5,103,317, 913989.0208
+Skrillex, 1988-01-15, 3,5,5,67,487, 689120
+Stellan_Skarsgård, 1951-06-13, 2,3,5,31,2617, 253823.2424
+Willem_Dafoe, 1955-07-22, 2,3,3,5,27059, 235547.3

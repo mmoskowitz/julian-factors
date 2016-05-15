@@ -1,23 +1,21 @@
-Adam_Sandler, 1966-09-09, 41,59497
-Alexander_Rodchenko, 1891-12-05, 41,58831
-Arnaldur_Indriðason, 1961-01-28, 41,59447
-Charles_Le_Brun, 1619-02-24, 41,56401
-Christian_Poulsen, 1980-02-28, 41,59617
-Elie_Wiesel, 1928-09-30, 41,59159
-Feist_(singer), 1976-02-13, 41,59581
-Heinrich_Böll, 1917-12-21, 41,59063
-John_Coltrane, 1926-09-23, 41,59141
-Joschka_Fischer, 1948-04-12, 41,59333
-LL_Cool_J, 1968-01-14, 41,59509
-Luigi_Galvani, 1737-09-09, 41,57457
-Marcello_Lippi, 1948-04-12, 41,59333
-Martin_Bormann, 1900-06-17, 41,58907
-Maximilien_Robespierre, 1758-05-06, 41,57641
-Paolo_Maldini, 1968-06-26, 41,59513
-René_Lacoste, 1904-07-02, 41,58943
-Rowan_Atkinson, 1955-01-06, 41,59393
-Sean_Penn, 1960-08-17, 41,59443
-Shaukat_Aziz, 1949-03-06, 41,59341
-Shimon_Peres, 1923-08-02, 41,59113
-Tayshaun_Prince, 1980-02-28, 41,59617
-Yasser_Arafat, 1929-08-24, 41,59167
+Adam_Sandler, 1966-09-09, 41,59497, 637335.9643
+Alexander_Rodchenko, 1891-12-05, 41,58831, 41601.69231
+Arnaldur_Indriðason, 1961-01-28, 41,59447, 32644.11111
+Christian_Poulsen, 1980-02-28, 41,59617, 61455.23529
+Elie_Wiesel, 1928-09-30, 41,59159, 132101.2273
+Feist_(singer), 1976-02-13, 41,59581, 46647.77778
+Heinrich_Böll, 1917-12-21, 41,59063, 42464.8169
+John_Coltrane, 1926-09-23, 41,59141, 122522.2
+Joschka_Fischer, 1948-04-12, 41,59333, 50217.17143
+LL_Cool_J, 1968-01-14, 41,59509, 379192.4
+Luigi_Galvani, 1737-09-09, 41,57457, 44220.95745
+Marcello_Lippi, 1948-04-12, 41,59333, 69349.07692
+Martin_Bormann, 1900-06-17, 41,58907, 128214.5
+Maximilien_Robespierre, 1758-05-06, 41,57641, 104694.0896
+Paolo_Maldini, 1968-06-26, 41,59513, 143465.0847
+René_Lacoste, 1904-07-02, 41,58943, 40194.93548
+Rowan_Atkinson, 1955-01-06, 41,59393, 305651.8824
+Sean_Penn, 1960-08-17, 41,59443, 347506.9474
+Shimon_Peres, 1923-08-02, 41,59113, 75266.42857
+Tayshaun_Prince, 1980-02-28, 41,59617, 41558.31034
+Yasser_Arafat, 1929-08-24, 41,59167, 114414.3936

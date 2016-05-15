@@ -1,2 +1,2 @@
-Anders_Svensson_(footballer,_born_1976), 1976-07-17, 2,2,2,2,2,76343
-Marcos_Senna, 1976-07-17, 2,2,2,2,2,76343
+Anders_Svensson_(footballer,_born_1976), 1976-07-17, 2,2,2,2,2,76343, 7872.037037
+Marcos_Senna, 1976-07-17, 2,2,2,2,2,76343, 50807.02778

@@ -1,3 +1,3 @@
-Andrea_Barzagli, 1981-05-08, 2,2,139,4397
-François_Jacob, 1920-06-17, 2,2,139,4357
-Johann_Heinrich_Lambert, 1728-08-26, 2,2,139,4231
+Andrea_Barzagli, 1981-05-08, 2,2,139,4397, 50167.425
+François_Jacob, 1920-06-17, 2,2,139,4357, 14421.12121
+Johann_Heinrich_Lambert, 1728-08-26, 2,2,139,4231, 15888.03125

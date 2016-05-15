@@ -1,5 +1,5 @@
-Fernando_Redondo, 1969-06-06, 2,709,1721
-Henry_Fonda, 1905-05-16, 7,487,709
-James_Coburn, 1928-08-31, 11,311,709
-Klemens_von_Metternich, 1773-05-15, 13,257,709
-Saul_Perlmutter, 1959-09-22, 7,491,709
+Fernando_Redondo, 1969-06-06, 2,709,1721, 66522.92857
+Henry_Fonda, 1905-05-16, 7,487,709, 121984.6667
+James_Coburn, 1928-08-31, 11,311,709, 102582.3182
+Klemens_von_Metternich, 1773-05-15, 13,257,709, 39558.32075
+Saul_Perlmutter, 1959-09-22, 7,491,709, 10570.45455

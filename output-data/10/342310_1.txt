@@ -1,2 +1,2 @@
-Helmuth_von_Moltke_the_Younger, 1848-05-23, 2,5,7,34231
-Otto_Lilienthal, 1848-05-23, 2,5,7,34231
+Helmuth_von_Moltke_the_Younger, 1848-05-23, 2,5,7,34231, 20341.86667
+Otto_Lilienthal, 1848-05-23, 2,5,7,34231, 43023.74286

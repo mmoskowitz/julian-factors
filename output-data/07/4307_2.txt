@@ -1,2 +1,2 @@
-Izzy_Stradlin, 1962-04-08, 2,59,73,283
-John_Hughes_(Irish_musician), 1950-06-23, 5,59,73,113
+Izzy_Stradlin, 1962-04-08, 2,59,73,283, 147745.7241
+John_Hughes_(Irish_musician), 1950-06-23, 5,59,73,113, 13486.51852

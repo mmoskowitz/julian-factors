@@ -1,2 +1,2 @@
-Nikola_Kalinić, 1988-01-05, 5,7,29,2411
-Santiago_Bernabéu_Yeste, 1895-08-06, 7,11,13,2411
+Nikola_Kalinić, 1988-01-05, 5,7,29,2411, 25123.42308
+Santiago_Bernabéu_Yeste, 1895-08-06, 7,11,13,2411, 43065.96774

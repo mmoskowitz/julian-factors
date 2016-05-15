@@ -1,14 +1,14 @@
-Alfred_Gusenbauer, 1960-02-08, 2,2,3,31,6551
-Antoni_Tàpies, 1923-12-13, 2,3,31,83,157
-Cesare_Maldini, 1932-02-05, 2,3,3,31,4349
-Chuck_Palahniuk, 1962-02-21, 2,2,3,31,6553
-Ferenc_Mádl, 1931-01-29, 2,3,5,31,2609
-François_Mitterrand, 1916-10-26, 2,3,3,31,4339
-Frederick_Winslow_Taylor, 1856-03-20, 2,2,3,31,6449
-Matthew_Bellamy, 1978-06-09, 2,2,3,31,6569
-Miroslav_Klose, 1978-06-09, 2,2,3,31,6569
-Philip_Warren_Anderson, 1923-12-13, 2,3,31,83,157
-Spiro_Agnew, 1918-11-09, 2,3,29,31,449
-Stellan_Skarsgård, 1951-06-13, 2,3,5,31,2617
-Theo_van_Gogh_(film_director), 1957-07-23, 2,3,7,31,1871
-Willy_Messerschmitt, 1898-06-26, 2,3,3,31,4327
+Alfred_Gusenbauer, 1960-02-08, 2,2,3,31,6551, 13744.02857
+Antoni_Tàpies, 1923-12-13, 2,3,31,83,157, 39932.2069
+Cesare_Maldini, 1932-02-05, 2,3,3,31,4349, 47400
+Chuck_Palahniuk, 1962-02-21, 2,2,3,31,6553, 164860.1538
+Ferenc_Mádl, 1931-01-29, 2,3,5,31,2609, 8123.666667
+François_Mitterrand, 1916-10-26, 2,3,3,31,4339, 94068.29577
+Frederick_Winslow_Taylor, 1856-03-20, 2,2,3,31,6449, 189728.5143
+Matthew_Bellamy, 1978-06-09, 2,2,3,31,6569, 202427.8537
+Miroslav_Klose, 1978-06-09, 2,2,3,31,6569, 164814.9516
+Philip_Warren_Anderson, 1923-12-13, 2,3,31,83,157, 12304.25
+Spiro_Agnew, 1918-11-09, 2,3,29,31,449, 79704.57895
+Stellan_Skarsgård, 1951-06-13, 2,3,5,31,2617, 253823.2424
+Theo_van_Gogh_(film_director), 1957-07-23, 2,3,7,31,1871, 11820.57143
+Willy_Messerschmitt, 1898-06-26, 2,3,3,31,4327, 25914.10714

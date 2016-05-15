@@ -1,92 +1,21 @@
-Adrian_Smith, 1957-02-27, 2,2,2,17,17911
-Alan_Turing, 1912-06-23, 2,2,2,17,17791
-Alexander_Alekhine, 1892-10-31, 2,3,17,67,353
-Alexander_Prokhorov, 1916-07-11, 5,7,13,17,313
-Alija_Izetbegović, 1925-08-08, 2,5,13,17,1097
-Amanda_Seyfried, 1985-12-03, 2,7,17,19,541
-Amin_Maalouf, 1949-02-25, 2,2,17,37,967
-André_Le_Nôtre, 1613-03-12, 2,7,17,17,571
-Archibald_Hill, 1886-09-26, 5,5,17,53,107
-Benjamin_Constant, 1767-10-25, 2,2,5,17,6961
-Bonnie_Tyler, 1951-06-08, 5,11,17,19,137
-Boris_Johnson, 1964-06-19, 3,5,17,73,131
-Chiune_Sugihara, 1900-01-01, 2,2,5,17,7103
-Chris_Evert, 1954-12-21, 3,7,17,19,359
-Constantine_P._Cavafy, 1863-04-29, 2,2,2,17,17659
-Cuba_Gooding,_Jr., 1968-01-02, 7,7,17,29,101
-Danny_Aiello, 1933-06-20, 3,7,13,17,523
-David_Lloyd_George, 1863-01-17, 2,17,23,37,83
-Demis_Roussos, 1946-06-15, 2,3,17,113,211
-Elia_Kazan, 1909-09-07, 2,2,7,17,5081
-Emil_Cioran, 1911-04-08, 2,3,17,37,641
-Erich_von_Däniken, 1935-04-14, 2,3,13,17,1831
-Erich_von_Falkenhayn, 1861-09-11, 3,3,3,17,5231
-Flavia_Pennetta, 1982-02-25, 5,5,11,17,523
-Francis_I,_Holy_Roman_Emperor, 1708-12-08, 3,5,17,17,541
-Francisco_Franco, 1892-12-04, 2,2,13,17,2729
-Franklin_D._Roosevelt, 1882-01-30, 3,5,5,17,1889
-Frederick_William_IV_of_Prussia, 1795-10-15, 3,11,17,19,223
-Gaston_Thorn, 1928-09-03, 2,2,17,53,673
-Gianni_Versace, 1946-12-02, 2,2,17,47,761
-Giorgio_Chiellini, 1984-08-14, 2,7,17,43,239
-Giovanni_Alfonso_Borelli, 1608-01-28, 2,2,17,83,409
-Gough_Whitlam, 1916-07-11, 5,7,13,17,313
-Gregor_Schlierenzauer, 1990-01-07, 2,3,17,103,233
-Habib_Bourguiba, 1903-08-03, 3,3,17,17,929
-Henry_Morton_Stanley, 1841-01-28, 2,17,17,41,101
-Henry_Wilson, 1812-02-16, 2,2,3,17,11681
-Herbert_Kitchener,_1st_Earl_Kitchener, 1850-06-24, 2,2,17,101,349
-Humberto_de_Alencar_Castelo_Branco, 1897-09-20, 3,3,17,31,509
-Imre_Lakatos, 1922-11-09, 3,3,17,47,337
-Itamar_Franco, 1930-06-28, 5,17,17,23,73
-Jay_Spearing, 1988-11-25, 2,3,5,17,4799
-Jean_Anouilh, 1910-06-23, 5,11,13,17,199
-Jeremy_Clarkson, 1960-04-11, 3,5,17,19,503
-Jeri_Ryan, 1968-02-22, 2,2,17,53,677
-Jessica_Simpson, 1980-07-10, 2,3,5,17,4793
-John_Garang, 1945-06-23, 3,3,17,23,691
-John_Howard, 1939-07-26, 2,5,17,31,461
-Joseph_I_of_Portugal, 1714-06-06, 13,13,17,19,43
-Joseph_von_Fraunhofer, 1787-03-06, 2,2,7,17,4987
-José_Mourinho, 1963-01-26, 3,3,5,17,3187
-Julie_Andrews, 1935-10-01, 2,2,7,17,5101
-Julius_Wagner-Jauregg, 1857-03-07, 2,2,5,17,7057
-Kelly_Kelly, 1987-01-15, 2,5,17,37,389
-Kim_Wilde, 1960-11-18, 2,2,2,17,17921
-Leonard_Bloomfield, 1887-04-01, 2,3,3,17,7877
-Luka_Modrić, 1985-09-09, 3,3,17,59,271
-Léon_Foucault, 1819-09-18, 5,13,17,17,127
-Malcolm_Young, 1953-01-06, 3,3,7,17,2273
-Malena_Ernman, 1970-11-04, 2,17,17,41,103
-Marc_Gené, 1974-03-29, 3,5,17,61,157
-Marcel_Pagnol, 1895-02-28, 2,2,17,23,1543
-Marcus_Grönholm, 1968-02-05, 3,3,17,37,431
-Martha_Washington, 1731-06-02, 2,3,3,17,7691
-Melvin_Calvin, 1911-04-08, 2,3,17,37,641
-Michel_Eugène_Chevreul, 1786-08-31, 5,5,5,17,1117
-Morten_Gamst_Pedersen, 1981-09-08, 5,7,7,17,587
-Nina_Simone, 1933-02-21, 2,2,7,17,5099
-Nodar_Kumaritashvili, 1988-11-25, 2,3,5,17,4799
-Paul_Bettany, 1971-05-27, 2,11,17,61,107
-Pink_(singer), 1979-09-08, 2,2,3,17,11981
-Pope_Innocent_XIII, 1655-05-13, 2,2,17,23,1487
-René_Higuita, 1966-08-27, 2,2,17,29,1237
-Ric_Flair, 1949-02-25, 2,2,17,37,967
-Robin_Söderling, 1984-08-14, 2,7,17,43,239
-Roman_Herzog, 1934-04-05, 2,2,17,29,1231
-Romy_Schneider, 1938-09-23, 2,2,17,139,257
-Rubén_Darío, 1867-01-18, 2,2,2,17,17669
-Rüştü_Reçber, 1973-05-10, 2,2,17,149,241
-Sam_Mendes, 1965-08-01, 3,3,17,19,839
-Semmy_Schilt, 1973-10-27, 2,3,17,89,269
-Shigeru_Miyamoto, 1952-11-16, 2,2,3,17,11933
-Steve_Ballmer, 1956-03-24, 2,2,3,17,11939
-Taylor_Lautner, 1992-02-11, 3,7,17,19,361
-Théophile_Gautier, 1811-08-30, 2,11,17,23,277
-Ulysses_S._Grant, 1822-04-27, 3,3,17,19,821
-Vint_Cerf, 1943-06-23, 2,17,19,53,71
-Vitaly_Ginzburg, 1916-10-04, 2,2,5,17,7121
-Walter_Model, 1891-01-24, 2,2,17,29,1223
-William_Carlos_Williams, 1883-09-17, 2,5,17,37,383
-William_Randolph_Hearst, 1863-04-29, 2,2,2,17,17659
-Yasuo_Fukuda, 1936-07-16, 3,5,17,89,107
+Alan_Turing, 1912-06-23, 2,2,2,17,17791, 166646.3981
+Amanda_Seyfried, 1985-12-03, 2,7,17,19,541, 607842.4146
+Bonnie_Tyler, 1951-06-08, 5,11,17,19,137, 203901.7241
+Francisco_Franco, 1892-12-04, 2,2,13,17,2729, 204477.122
+Franklin_D._Roosevelt, 1882-01-30, 3,5,5,17,1889, 302324.0442
+Jeremy_Clarkson, 1960-04-11, 3,5,17,19,503, 370308.7647
+Jeri_Ryan, 1968-02-22, 2,2,17,53,677, 234186.3462
+Jessica_Simpson, 1980-07-10, 2,3,5,17,4793, 258221.04
+José_Mourinho, 1963-01-26, 3,3,5,17,3187, 297051.9524
+Julie_Andrews, 1935-10-01, 2,2,7,17,5101, 225873.1818
+Kelly_Kelly, 1987-01-15, 2,5,17,37,389, 355629.7778
+Malcolm_Young, 1953-01-06, 3,3,7,17,2273, 156465.2692
+Nina_Simone, 1933-02-21, 2,2,7,17,5099, 173762.5652
+Paul_Bettany, 1971-05-27, 2,11,17,61,107, 285745.5806
+Ric_Flair, 1949-02-25, 2,2,17,37,967, 346837.9032
+Romy_Schneider, 1938-09-23, 2,2,17,139,257, 210811.4091
+Sam_Mendes, 1965-08-01, 3,3,17,19,839, 186579.871
+Shigeru_Miyamoto, 1952-11-16, 2,2,3,17,11933, 219089.4688
+Steve_Ballmer, 1956-03-24, 2,2,3,17,11939, 145593.0556
+Taylor_Lautner, 1992-02-11, 3,7,17,19,361, 363088.4505
+William_Randolph_Hearst, 1863-04-29, 2,2,2,17,17659, 171427.0714

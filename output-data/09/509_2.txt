@@ -1,3 +1,3 @@
-Jennette_McCurdy, 1992-06-26, 17,283,509
-John_Everett_Millais, 1829-06-08, 2,509,2347
-Stephen_Fry, 1957-08-24, 2,509,2393
+Jennette_McCurdy, 1992-06-26, 17,283,509, 551673.5806
+John_Everett_Millais, 1829-06-08, 2,509,2347, 58646.79412
+Stephen_Fry, 1957-08-24, 2,509,2393, 357339.3421

@@ -1,60 +1,21 @@
-Alan_Hutton, 1984-11-30, 2,29,181,233
-Anders_Behring_Breivik, 1979-02-13, 3,7,29,4013
-Andrés_Iniesta, 1984-05-11, 3,3,29,9371
-Bernie_Mac, 1957-10-05, 2,2,29,21001
-Carolina_Klüft, 1983-02-02, 29,37,43,53
-Charles_Trenet, 1913-05-18, 3,5,29,5563
-Chuck_Berry, 1926-10-18, 2,29,97,431
-Claire_Danes, 1979-04-12, 5,5,29,3371
-Dolph_Lundgren, 1957-11-03, 5,29,53,317
-Eddie_Irvine, 1965-11-10, 2,11,29,3823
-Eduard_Shevardnadze, 1928-01-25, 2,5,29,8363
-Eugenio_Montale, 1896-10-12, 2,2,29,20809
-Farah_Pahlavi, 1938-10-14, 5,11,29,1523
-Fernando_Lugo, 1951-05-30, 2,2,29,20981
-Fernando_Morientes, 1976-04-05, 3,29,43,653
-Frederick_VI_of_Denmark, 1768-01-28, 3,5,29,5441
-Giuseppe_Mazzini, 1805-06-22, 2,3,29,13681
-Igor_Sikorsky, 1889-05-25, 29,29,47,61
-Jack_Steinberger, 1921-05-25, 2,29,37,1129
-Jacob_Zuma, 1942-04-12, 11,19,29,401
-Jennifer_Aniston, 1969-02-11, 3,7,29,4007
-Jennifer_Morrison, 1979-04-12, 5,5,29,3371
-Jens_Fink-Jensen, 1956-12-19, 2,3,29,13999
-John_Pemberton, 1831-07-08, 2,29,89,463
-Juan_Manuel_de_Rosas, 1793-03-30, 2,2,29,20483
-Klaus_Kinski, 1926-10-18, 2,29,97,431
-Koichi_Tanaka, 1959-08-03, 3,29,37,757
-Lara_Flynn_Boyle, 1970-03-24, 7,11,29,1093
-Lev_Landau, 1908-01-22, 2,29,47,887
-Marshall_McLuhan, 1911-07-21, 2,29,53,787
-Masatoshi_Koshiba, 1926-09-19, 3,29,47,593
-Mateja_Kežman, 1979-04-12, 5,5,29,3371
-Mena_Suvari, 1979-02-13, 3,7,29,4013
-Miguel_Ángel_Asturias, 1899-10-19, 2,3,29,13879
-Miloš_Krasić, 1984-11-01, 3,5,29,5623
-Monica_Bellucci, 1964-09-30, 2,2,29,21023
-Nicolas_Anelka, 1979-03-14, 2,29,29,1453
-Nigel_de_Jong, 1984-11-30, 2,29,181,233
-Nikola_Kalinić, 1988-01-05, 5,7,29,2411
-Owen_Chamberlain, 1920-07-10, 3,5,29,5569
-Patrick_Stewart, 1940-07-13, 3,11,29,2539
-Prince_Joachim_of_Denmark, 1969-06-07, 19,29,43,103
-Raymond_Aron, 1905-03-14, 2,7,29,5953
-Reza_Shah, 1878-03-15, 2,29,47,883
-Rob_Halford, 1951-08-25, 23,29,41,89
-Roberto_Mancini, 1964-11-27, 2,19,29,2213
-Rupert_Grint, 1988-08-24, 3,3,29,9377
-Ryan_Gosling, 1980-11-12, 5,23,29,733
-Satyendra_Nath_Bose, 1894-01-01, 19,29,29,151
-Simon_Rolfes, 1982-01-21, 2,5,29,8431
-Stephan_Lichtsteiner, 1984-01-16, 5,29,101,167
-Svetlana_Alliluyeva, 1926-02-28, 2,17,29,2459
-Tariq_Aziz, 1936-04-28, 2,7,29,5981
-Urbain_Le_Verrier, 1811-03-11, 2,3,29,13693
-Valentina_Matviyenko, 1949-04-07, 11,29,29,263
-Vannevar_Bush, 1890-03-11, 7,7,29,1697
-Vasily_Chuikov, 1900-02-12, 2,13,29,3203
-Vedad_Ibišević, 1984-08-06, 2,3,29,14057
-Vito_Volterra, 1860-05-03, 23,29,59,61
-Zoya_Kosmodemyanskaya, 1923-09-13, 5,5,29,3343
+Anders_Behring_Breivik, 1979-02-13, 3,7,29,4013, 127652.1642
+Andrés_Iniesta, 1984-05-11, 3,3,29,9371, 175989.6812
+Bernie_Mac, 1957-10-05, 2,2,29,21001, 354973.9333
+Chuck_Berry, 1926-10-18, 2,29,97,431, 210749.1667
+Claire_Danes, 1979-04-12, 5,5,29,3371, 350954.2045
+Dolph_Lundgren, 1957-11-03, 5,29,53,317, 366478.381
+Farah_Pahlavi, 1938-10-14, 5,11,29,1523, 113725.9259
+Jennifer_Aniston, 1969-02-11, 3,7,29,4007, 624681.7714
+Jennifer_Morrison, 1979-04-12, 5,5,29,3371, 365644.1892
+Juan_Manuel_de_Rosas, 1793-03-30, 2,2,29,20483, 124514.3846
+Klaus_Kinski, 1926-10-18, 2,29,97,431, 186547.2703
+Lara_Flynn_Boyle, 1970-03-24, 7,11,29,1093, 108846.6341
+Marshall_McLuhan, 1911-07-21, 2,29,53,787, 118848.7027
+Mena_Suvari, 1979-02-13, 3,7,29,4013, 256665.3871
+Monica_Bellucci, 1964-09-30, 2,2,29,21023, 325758.2698
+Nicolas_Anelka, 1979-03-14, 2,29,29,1453, 193191.4906
+Patrick_Stewart, 1940-07-13, 3,11,29,2539, 284151.381
+Rob_Halford, 1951-08-25, 23,29,41,89, 159061.7742
+Roberto_Mancini, 1964-11-27, 2,19,29,2213, 127441.7
+Rupert_Grint, 1988-08-24, 3,3,29,9377, 294582.8103
+Ryan_Gosling, 1980-11-12, 5,23,29,733, 839408.8649

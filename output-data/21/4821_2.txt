@@ -1,2 +1,2 @@
-Nicolas_Boileau-Despréaux, 1636-11-01, 3,13,37,1607
-Samuel_Richardson, 1689-08-19, 3,5,97,1607
+Nicolas_Boileau-Despréaux, 1636-11-01, 3,13,37,1607, 29682.925
+Samuel_Richardson, 1689-08-19, 3,5,97,1607, 29614.28571

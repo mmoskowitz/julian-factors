@@ -1,2 +1,2 @@
-Caetano_Veloso, 1942-08-07, 2,937,1297
-Frederick_William_I_of_Prussia, 1688-08-14, 5,499,937
+Caetano_Veloso, 1942-08-07, 2,937,1297, 97239.75
+Frederick_William_I_of_Prussia, 1688-08-14, 5,499,937, 32930.53659

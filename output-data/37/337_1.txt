@@ -1,5 +1,5 @@
-André_Ooijer, 1974-07-11, 337,7247
-Jennifer_Jones, 1919-03-02, 337,7187
-Joachim_von_Ribbentrop, 1893-04-30, 337,7159
-Maurice_Jarre, 1924-09-13, 337,7193
-Paavo_Lipponen, 1941-04-23, 337,7211
+André_Ooijer, 1974-07-11, 337,7247, 22548.5
+Jennifer_Jones, 1919-03-02, 337,7187, 51117.575
+Joachim_von_Ribbentrop, 1893-04-30, 337,7159, 77586.4902
+Maurice_Jarre, 1924-09-13, 337,7193, 34603.475
+Paavo_Lipponen, 1941-04-23, 337,7211, 14041.8

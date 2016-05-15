@@ -1,2 +1,2 @@
-Charles_Louis_Alphonse_Laveran, 1845-06-18, 2,2,5,5,43,557
-Judi_Dench, 1934-12-09, 2,2,3,5,43,941
+Charles_Louis_Alphonse_Laveran, 1845-06-18, 2,2,5,5,43,557, 6309.761905
+Judi_Dench, 1934-12-09, 2,2,3,5,43,941, 197975.3617

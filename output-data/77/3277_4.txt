@@ -1,2 +1,2 @@
-Juliana_of_the_Netherlands, 1909-04-30, 2,3,3,29,41,113
-Marshall_Warren_Nirenberg, 1927-04-10, 2,2,5,29,37,113
+Juliana_of_the_Netherlands, 1909-04-30, 2,3,3,29,41,113, 57192.04545
+Marshall_Warren_Nirenberg, 1927-04-10, 2,2,5,29,37,113, 10393.11429

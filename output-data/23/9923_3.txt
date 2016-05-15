@@ -1,2 +1,2 @@
-Dzhokhar_Dudayev, 1944-02-15, 5,7,7,9923
-Maurice_Wilkins, 1916-12-15, 2,2,61,9923
+Dzhokhar_Dudayev, 1944-02-15, 5,7,7,9923, 17305.52174
+Maurice_Wilkins, 1916-12-15, 2,2,61,9923, 22576.66667

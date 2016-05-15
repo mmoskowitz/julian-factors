@@ -1,36 +1,21 @@
-Alvin_E._Roth, 1951-12-18, 2,7,23,7559
-Antoine_Lavoisier, 1743-08-26, 2,13,23,3943
-Arthur_C._Clarke, 1917-12-16, 2,23,61,863
-Constantine_I_of_Greece, 1868-08-02, 2,3,23,17417
-Dita_Von_Teese, 1972-09-28, 2,2,23,26539
-Franjo_Tuđman, 1922-05-14, 2,2,23,26339
-Gary_Cahill, 1985-12-19, 2,13,23,4091
-Goh_Chok_Tong, 1941-05-20, 2,7,23,7547
-Groucho_Marx, 1890-10-02, 2,23,103,509
-Howard_Gardner, 1943-07-11, 2,2,23,26423
-James_Van_Allen, 1914-09-07, 2,3,23,17539
-Jason_Newsted, 1963-03-04, 2,2,23,26501
-Jean-Pierre_Léaud, 1944-05-28, 2,17,23,3109
-Kakha_Kaladze, 1978-02-27, 2,3,23,17707
-Kurt_Russell, 1951-03-17, 2,23,191,277
-Lionel_Messi, 1987-06-24, 2,5,23,10639
-Miguel_Ángel_Nadal, 1966-07-28, 2,19,23,2791
-Morihei_Ueshiba, 1883-12-14, 2,23,83,631
-Naomi_Klein, 1970-05-08, 2,23,97,547
-Poul_Anderson, 1926-11-25, 2,2,23,26357
-Princess_Madeleine,_Duchess_of_Hälsingland_and_Gästrikland, 1982-06-10, 2,5,23,10631
-Rafael_Moneo, 1937-05-09, 2,3,23,17599
-Ray_Manzarek, 1939-02-12, 2,11,23,4801
-Reba_McEntire, 1955-03-28, 2,23,167,317
-Rudy_Giuliani, 1944-05-28, 2,17,23,3109
-Saoirse_Ronan, 1994-04-12, 2,7,23,7607
-Simone_Veil, 1927-07-13, 2,3,23,17573
-Slobodan_Milošević, 1941-08-20, 2,23,23,2297
-Sonia_Sotomayor, 1954-06-25, 2,23,43,1231
-Stefan_Effenberg, 1968-08-02, 2,5,23,10609
-Ségolène_Royal, 1953-09-22, 2,7,23,7561
-T._S._Eliot, 1888-09-26, 2,17,23,3083
-Theodore_William_Richards, 1868-01-31, 2,13,23,4019
-Violeta_Chamorro, 1929-10-18, 2,3,23,17579
-William_Cavendish,_4th_Duke_of_Devonshire, 1720-05-08, 2,2,23,25537
-William_Wilberforce, 1759-08-24, 2,2,23,25693
+Antoine_Lavoisier, 1743-08-26, 2,13,23,3943, 126016.0133
+Arthur_C._Clarke, 1917-12-16, 2,23,61,863, 93615.12121
+Dita_Von_Teese, 1972-09-28, 2,2,23,26539, 447816.8065
+Gary_Cahill, 1985-12-19, 2,13,23,4091, 71426.93548
+Groucho_Marx, 1890-10-02, 2,23,103,509, 157622.5405
+Howard_Gardner, 1943-07-11, 2,2,23,26423, 109990.4074
+Jason_Newsted, 1963-03-04, 2,2,23,26501, 183494.5625
+Kurt_Russell, 1951-03-17, 2,23,191,277, 255372.0208
+Lionel_Messi, 1987-06-24, 2,5,23,10639, 867939.1053
+Naomi_Klein, 1970-05-08, 2,23,97,547, 77117.93333
+Princess_Madeleine,_Duchess_of_Hälsingland_and_Gästrikland, 1982-06-10, 2,5,23,10631, 58743.80645
+Ray_Manzarek, 1939-02-12, 2,11,23,4801, 119962.3214
+Reba_McEntire, 1955-03-28, 2,23,167,317, 178099.6071
+Rudy_Giuliani, 1944-05-28, 2,17,23,3109, 110191.2973
+Saoirse_Ronan, 1994-04-12, 2,7,23,7607, 322028.5161
+Simone_Veil, 1927-07-13, 2,3,23,17573, 66179.84615
+Slobodan_Milošević, 1941-08-20, 2,23,23,2297, 86026.93846
+Sonia_Sotomayor, 1954-06-25, 2,23,43,1231, 189663.1538
+Ségolène_Royal, 1953-09-22, 2,7,23,7561, 65212.4918
+T._S._Eliot, 1888-09-26, 2,17,23,3083, 109895.1282
+William_Wilberforce, 1759-08-24, 2,2,23,25693, 99936.71875

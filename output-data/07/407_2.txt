@@ -1,5 +1,5 @@
-Charles_Thomson_Rees_Wilson, 1869-02-14, 2,11,37,2953
-Clint_Eastwood, 1930-05-31, 3,11,37,1987
-Demetrio_Albertini, 1971-08-23, 2,11,37,2999
-Harlow_Shapley, 1885-11-02, 11,31,37,191
-Mustafa_Kemal_Atatürk, 1881-05-19, 11,37,61,97
+Charles_Thomson_Rees_Wilson, 1869-02-14, 2,11,37,2953, 7158
+Clint_Eastwood, 1930-05-31, 3,11,37,1987, 508947.76
+Demetrio_Albertini, 1971-08-23, 2,11,37,2999, 33738.5
+Harlow_Shapley, 1885-11-02, 11,31,37,191, 10788.11111
+Mustafa_Kemal_Atatürk, 1881-05-19, 11,37,61,97, 117202.488

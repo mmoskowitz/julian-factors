@@ -1,7 +1,7 @@
-Ali_Abdullah_Saleh, 1942-03-21, 11,17,41,317
-Charles_Perrault, 1628-01-12, 3,5,317,487
-Dolph_Lundgren, 1957-11-03, 5,29,53,317
-Fradique_de_Menezes, 1942-03-21, 11,17,41,317
-Maximilian_Schell, 1930-12-08, 2,43,89,317
-Reba_McEntire, 1955-03-28, 2,23,167,317
-Yelena_Bonner, 1923-02-15, 5,11,139,317
+Ali_Abdullah_Saleh, 1942-03-21, 11,17,41,317, 33662.01923
+Charles_Perrault, 1628-01-12, 3,5,317,487, 86485.5614
+Dolph_Lundgren, 1957-11-03, 5,29,53,317, 366478.381
+Fradique_de_Menezes, 1942-03-21, 11,17,41,317, 5403.1
+Maximilian_Schell, 1930-12-08, 2,43,89,317, 53683.9
+Reba_McEntire, 1955-03-28, 2,23,167,317, 178099.6071
+Yelena_Bonner, 1923-02-15, 5,11,139,317, 8643.62963

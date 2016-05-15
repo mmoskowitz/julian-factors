@@ -1,11 +1,11 @@
-Alija_Izetbegović, 1925-08-08, 2,5,13,17,1097
-Benjamin_Constant, 1767-10-25, 2,2,5,17,6961
-Chiune_Sugihara, 1900-01-01, 2,2,5,17,7103
-Jay_Spearing, 1988-11-25, 2,3,5,17,4799
-Jessica_Simpson, 1980-07-10, 2,3,5,17,4793
-John_Howard, 1939-07-26, 2,5,17,31,461
-Julius_Wagner-Jauregg, 1857-03-07, 2,2,5,17,7057
-Kelly_Kelly, 1987-01-15, 2,5,17,37,389
-Nodar_Kumaritashvili, 1988-11-25, 2,3,5,17,4799
-Vitaly_Ginzburg, 1916-10-04, 2,2,5,17,7121
-William_Carlos_Williams, 1883-09-17, 2,5,17,37,383
+Alija_Izetbegović, 1925-08-08, 2,5,13,17,1097, 29677.85
+Benjamin_Constant, 1767-10-25, 2,2,5,17,6961, 34027.55556
+Chiune_Sugihara, 1900-01-01, 2,2,5,17,7103, 93628.69231
+Jay_Spearing, 1988-11-25, 2,3,5,17,4799, 42018.26923
+Jessica_Simpson, 1980-07-10, 2,3,5,17,4793, 258221.04
+John_Howard, 1939-07-26, 2,5,17,31,461, 43059
+Julius_Wagner-Jauregg, 1857-03-07, 2,2,5,17,7057, 8021.911765
+Kelly_Kelly, 1987-01-15, 2,5,17,37,389, 355629.7778
+Nodar_Kumaritashvili, 1988-11-25, 2,3,5,17,4799, 38320.66667
+Vitaly_Ginzburg, 1916-10-04, 2,2,5,17,7121, 10451.61702
+William_Carlos_Williams, 1883-09-17, 2,5,17,37,383, 57228.53846

@@ -1,4 +1,4 @@
-Augustus_II_the_Strong, 1670-05-12, 2,347,3359
-Luciano_Spalletti, 1959-03-07, 2,347,3511
-Thomas_Gainsborough, 1727-05-14, 2,347,3389
-Victoria_Azarenka, 1989-07-31, 2,347,3527
+Augustus_II_the_Strong, 1670-05-12, 2,347,3359, 40949.64865
+Luciano_Spalletti, 1959-03-07, 2,347,3511, 39900.11111
+Thomas_Gainsborough, 1727-05-14, 2,347,3389, 34684.83333
+Victoria_Azarenka, 1989-07-31, 2,347,3527, 106898

@@ -1,12 +1,12 @@
-Andreas_Thorkildsen, 1982-04-01, 2,2,3,5,40751
-Benedikt_Höwedes, 1988-02-29, 2,2,3,5,40787
-Douglas_MacArthur, 1880-01-26, 2,2,3,5,40129
-Edward_Adelbert_Doisy, 1893-11-13, 2,2,3,5,40213
-Jeanne_Calment, 1875-02-21, 2,2,3,5,40099
-John_Irving, 1942-03-02, 2,2,3,5,40507
-Lou_Reed, 1942-03-02, 2,2,3,5,40507
-Louis_XVIII_of_France, 1755-11-17, 2,2,3,5,39373
-Mir-Hossein_Mousavi, 1942-03-02, 2,2,3,5,40507
-Prince_Daniel,_Duke_of_Västergötland, 1973-09-15, 2,2,3,5,40699
-Róbert_Vittek, 1982-04-01, 2,2,3,5,40751
-Victor_Ponta, 1972-09-20, 2,2,3,5,40693
+Andreas_Thorkildsen, 1982-04-01, 2,2,3,5,40751, 24055.81481
+Benedikt_Höwedes, 1988-02-29, 2,2,3,5,40787, 31394.29032
+Douglas_MacArthur, 1880-01-26, 2,2,3,5,40129, 189132.1017
+Edward_Adelbert_Doisy, 1893-11-13, 2,2,3,5,40213, 4547.675676
+Jeanne_Calment, 1875-02-21, 2,2,3,5,40099, 187494
+John_Irving, 1942-03-02, 2,2,3,5,40507, 124266.5
+Lou_Reed, 1942-03-02, 2,2,3,5,40507, 306698.0976
+Louis_XVIII_of_France, 1755-11-17, 2,2,3,5,39373, 69245.29825
+Mir-Hossein_Mousavi, 1942-03-02, 2,2,3,5,40507, 72210.27273
+Prince_Daniel,_Duke_of_Västergötland, 1973-09-15, 2,2,3,5,40699, 21933.90625
+Róbert_Vittek, 1982-04-01, 2,2,3,5,40751, 20903.4375
+Victor_Ponta, 1972-09-20, 2,2,3,5,40693, 14597.93333

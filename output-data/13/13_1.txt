@@ -1,56 +1,21 @@
-Abou_Diaby, 1986-05-11, 13,188197
-Alec_Douglas-Home, 1903-07-02, 13,185869
-Anthony_Eden, 1897-06-12, 13,185699
-Benazir_Bhutto, 1953-06-21, 13,187273
-Briana_Banks, 1978-05-21, 13,187973
-Bryan_Robson, 1957-01-11, 13,187373
-Candice_Bergen, 1946-05-09, 13,187073
-Carlos_Mesa, 1953-08-12, 13,187277
-Chris_O'Donnell, 1970-06-26, 13,187751
-Cuauhtémoc_Blanco, 1973-01-17, 13,187823
-David_Alaba, 1992-06-24, 13,188369
-Debbie_Harry, 1945-07-01, 13,187049
-Diego_Pérez_(footballer), 1980-05-18, 13,188029
-Désirée_Clary, 1777-11-08, 13,182339
-Elizabeth_Gaskell, 1810-09-29, 13,183263
-Emile_Heskey, 1978-01-11, 13,187963
-Emilio_Salgari, 1862-08-21, 13,184721
-Errico_Malatesta, 1853-12-14, 13,184477
-Evangelista_Torricelli, 1608-10-15, 13,177589
-Giovanni_Falcone, 1939-05-18, 13,186877
-Günter_Blobel, 1936-05-21, 13,186793
-Hannes_Alfvén, 1908-05-30, 13,186007
-Jason_Statham, 1967-07-26, 13,187669
-Javier_Mascherano, 1984-06-08, 13,188143
-Jean-Alain_Boumsong, 1979-12-14, 13,188017
-Joan_Fontaine, 1917-10-22, 13,186271
-Jochen_Rindt, 1942-04-18, 13,186959
-John_Tyler, 1790-03-29, 13,182687
-José_Ortega_y_Gasset, 1883-05-09, 13,185303
-Jöns_Jacob_Berzelius, 1779-08-20, 13,182389
-Lasse_Virén, 1949-07-22, 13,187163
-Michael_Cimino, 1939-02-03, 13,186869
-Michael_Gambon, 1940-10-19, 13,186917
-Michael_Owen, 1979-12-14, 13,188017
-Michaël_Llodra, 1980-05-18, 13,188029
-Miguel_Veloso, 1986-05-11, 13,188197
-Mirko_Cvetković, 1950-08-16, 13,187193
-Morgan_Tsvangirai, 1952-03-10, 13,187237
-Olav_V_of_Norway, 1903-07-02, 13,185869
-Osamu_Tezuka, 1928-11-03, 13,186581
-Paul_Cohen, 1934-04-02, 13,186733
-Peter_Benenson, 1921-07-31, 13,186377
-Peter_Grünberg, 1939-05-18, 13,186877
-Piotr_Trochowski, 1984-03-22, 13,188137
-Richard_Owen, 1804-07-20, 13,183089
-Ricky_Martin, 1971-12-24, 13,187793
-Ritchie_Blackmore, 1945-04-14, 13,187043
-Rupert_Murdoch, 1931-03-11, 13,186647
-Sean_Hayes_(actor), 1970-06-26, 13,187751
-Sophia_of_Hanover, 1630-10-14, 13,178207
-Sophie_Monk, 1979-12-14, 13,188017
-Stonewall_Jackson, 1824-01-21, 13,183637
-Theo_Angelopoulos, 1935-04-27, 13,186763
-William_H._Macy, 1950-03-13, 13,187181
-Willie_Nelson, 1933-04-29, 13,186707
-Willy_Brandt, 1913-12-18, 13,186163
+Briana_Banks, 1978-05-21, 13,187973, 278049.4615
+Candice_Bergen, 1946-05-09, 13,187073, 105176.7568
+Chris_O'Donnell, 1970-06-26, 13,187751, 182663.2941
+Cuauhtémoc_Blanco, 1973-01-17, 13,187823, 78293.48485
+David_Alaba, 1992-06-24, 13,188369, 102558.8667
+Debbie_Harry, 1945-07-01, 13,187049, 203803.7407
+Emile_Heskey, 1978-01-11, 13,187963, 102361.275
+Giovanni_Falcone, 1939-05-18, 13,186877, 107891.9714
+Jason_Statham, 1967-07-26, 13,187669, 813869.9592
+Javier_Mascherano, 1984-06-08, 13,188143, 92656.56604
+Joan_Fontaine, 1917-10-22, 13,186271, 103268.7632
+Michael_Gambon, 1940-10-19, 13,186917, 279427.3235
+Michael_Owen, 1979-12-14, 13,188017, 195402.8421
+Osamu_Tezuka, 1928-11-03, 13,186581, 149161.5897
+Ricky_Martin, 1971-12-24, 13,187793, 233111.8421
+Ritchie_Blackmore, 1945-04-14, 13,187043, 145133
+Rupert_Murdoch, 1931-03-11, 13,186647, 246635.1569
+Stonewall_Jackson, 1824-01-21, 13,183637, 144809.1471
+William_H._Macy, 1950-03-13, 13,187181, 161777.1
+Willie_Nelson, 1933-04-29, 13,186707, 244650.2647
+Willy_Brandt, 1913-12-18, 13,186163, 88754.5942

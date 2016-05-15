@@ -1,132 +1,21 @@
-Adam_Johnson_(footballer), 1987-07-14, 2,5,7,13,2689
-Adolfo_Bioy_Casares, 1914-09-15, 2,5,7,71,487
-Alexander_of_Greece, 1893-08-01, 2,2,7,199,433
-Alois_Alzheimer, 1864-06-14, 2,2,7,13,6599
-Amanda_Seyfried, 1985-12-03, 2,7,17,19,541
-André_Frédéric_Cournand, 1895-09-24, 2,2,5,7,17239
-André_Le_Nôtre, 1613-03-12, 2,7,17,17,571
-Anna_Nicole_Smith, 1967-11-28, 2,3,7,11,5281
-Anne,_Princess_Royal, 1950-08-15, 2,2,7,11,7901
-Artturi_Ilmari_Virtanen, 1895-01-15, 2,2,2,7,43093
-Ban_Ki-moon, 1944-06-13, 2,3,7,107,541
-Benjamin_Harrison, 1833-08-20, 2,2,5,7,17077
-Bill_Shankly, 1913-09-02, 2,2,7,7,12347
-Bixente_Lizarazu, 1969-12-09, 2,2,7,101,863
-Bob_Marley, 1945-02-06, 2,2,7,37,2347
-Calvin_Harris, 1984-01-17, 2,2,7,13,6719
-Carlos_Sastre, 1975-04-22, 2,2,7,83,1051
-Charles_Ives, 1874-10-20, 2,2,2,7,42961
-Charles_Lucien_Bonaparte, 1803-05-24, 2,7,7,7,3469
-Charles_X_Gustav_of_Sweden, 1622-11-08, 2,7,29,41,139
-Chris_Eagles, 1985-11-19, 2,2,7,41,2131
-Chris_Hoy, 1976-03-23, 2,2,5,7,17449
-Christiane_Nüsslein-Volhard, 1942-10-20, 2,2,7,47,1847
-Chulalongkorn, 1853-09-20, 2,2,3,7,28549
-Clive_Granger, 1934-09-04, 2,2,3,7,28901
-Costas_Simitis, 1936-06-23, 2,7,7,71,349
-Dan_Aykroyd, 1952-07-01, 2,3,3,7,19319
-Dan_Castellaneta, 1957-10-29, 2,2,5,7,17401
-Daniel_C._Tsui, 1939-02-28, 2,3,7,7,8263
-David_Henrie, 1989-07-11, 2,3,7,13,4483
-Dennis_Ritchie, 1941-09-09, 2,3,7,13,4451
-Diego_Milito, 1979-06-12, 2,2,7,191,457
-Donald_J._Cram, 1919-04-22, 2,5,7,7,4943
-Douglas_Adams, 1952-03-11, 2,7,37,37,127
-Douglas_Hyde, 1860-01-17, 2,3,3,7,19051
-Edgar_Davids, 1973-03-13, 2,3,3,7,19379
-Eduard_Khil, 1934-09-04, 2,2,3,7,28901
-Edward_Lear, 1812-05-12, 2,5,7,59,577
-Eli_Wallach, 1915-12-07, 2,3,3,7,19213
-Elia_Kazan, 1909-09-07, 2,2,7,17,5081
-Eric_Allin_Cornell, 1961-12-19, 2,2,7,7,12437
-Ernst_Cassirer, 1874-07-28, 2,2,7,151,569
-Eugene_O'Neill, 1888-10-16, 2,3,7,137,419
-Ferry_Corsten, 1973-12-04, 2,2,5,7,17443
-Frank_Abagnale, 1948-04-27, 2,2,7,283,307
-Franz_Müntefering, 1940-01-16, 2,2,7,19,4567
-Friedrich_Engels, 1820-11-28, 2,2,7,31,2749
-Fränk_Schleck, 1980-04-15, 2,2,2,7,43649
-George_Herbert,_5th_Earl_of_Carnarvon, 1866-06-26, 2,3,7,19,3011
-Geronimo, 1829-06-16, 2,3,7,163,349
-Giorgio_Chiellini, 1984-08-14, 2,7,17,43,239
-Giorgio_de_Chirico, 1888-07-10, 2,2,7,29,2969
-Hamid_Karzai, 1957-12-24, 2,2,7,167,521
-Harry_Belafonte, 1927-03-01, 2,2,5,7,17321
-Hayley_Williams, 1988-12-27, 2,7,11,23,691
-Henry_Bessemer, 1813-01-19, 2,7,7,83,293
-Henry_Fuseli, 1741-02-07, 2,2,2,7,42089
-Hristo_Stoichkov, 1966-02-08, 2,2,7,13,6701
-Ingvar_Kamprad, 1926-03-30, 2,2,7,13,6661
-Jan_Smuts, 1870-05-24, 2,3,3,7,19081
-Jean-Pierre_Papin, 1963-11-05, 2,7,7,139,179
-Jens_Christian_Skou, 1918-10-08, 2,7,7,13,1901
-Jerry_Lewis, 1926-03-16, 2,5,7,19,1823
-Jessica_Alba, 1981-04-28, 2,7,31,43,131
-Joe_Lieberman, 1942-02-24, 2,3,3,7,19289
-Johann_Gottfried_Galle, 1812-06-09, 2,3,3,7,18913
-John_L._Hall, 1934-08-21, 2,5,7,79,439
-John_Milton, 1608-12-09, 2,2,2,7,41227
-Joseph_von_Fraunhofer, 1787-03-06, 2,2,7,17,4987
-Juan_Perón, 1895-10-08, 2,7,31,67,83
-Julie_Andrews, 1935-10-01, 2,2,7,17,5101
-Justin_Bieber, 1994-03-01, 2,2,7,7,12497
-Jørn_Utzon, 1918-04-09, 2,2,7,13,6653
-Jürgen_Habermas, 1929-06-18, 2,2,5,7,17327
-Ken_Kesey, 1935-09-17, 2,3,7,13,4447
-Kevin_Carter, 1960-09-13, 2,5,7,37,941
-Kevin_Federline, 1978-03-21, 2,2,7,197,443
-Klaus_Meine, 1948-05-25, 2,2,2,7,43441
-Koji_Murofushi, 1974-10-08, 2,2,2,7,43613
-Lena_Olin, 1955-03-22, 2,2,7,29,2999
-Lindsay_Anderson, 1923-04-17, 2,3,7,19,3037
-Martín_Cáceres, 1987-04-07, 2,2,7,31,2819
-Michelle_Monaghan, 1976-03-23, 2,2,5,7,17449
-Mitchel_Musso, 1991-07-09, 2,7,11,13,1223
-Moses_Mendelssohn, 1729-09-06, 2,2,7,11,7639
-Mylène_Farmer, 1961-09-12, 2,3,7,7,8291
-Nikki_Reed, 1988-05-17, 2,3,3,7,19423
-Nina_Simone, 1933-02-21, 2,2,7,17,5099
-Nouri_al-Maliki, 1950-06-20, 2,2,7,233,373
-Olympe_de_Gouges, 1748-05-07, 2,5,7,13,2593
-Otis_Redding, 1941-09-09, 2,3,7,13,4451
-Paula_Fernandes, 1984-08-28, 2,2,5,7,17471
-Phil_Collins, 1951-01-30, 2,2,7,23,3779
-Phil_Jagielka, 1982-08-17, 2,3,7,7,8317
-Pope_John_Paul_II, 1920-05-18, 2,7,7,19,1301
-Ragnar_Granit, 1900-10-30, 2,7,13,23,577
-Rani_Mukerji, 1978-03-21, 2,2,7,197,443
-Ravshan_Irmatov, 1977-08-09, 2,2,7,11,7933
-Ricardo_Martinelli, 1952-03-11, 2,7,37,37,127
-Riccardo_Giacconi, 1931-10-06, 2,2,5,7,17333
-Richard_Bach, 1936-06-23, 2,7,7,71,349
-Rob_Zombie, 1965-01-12, 2,2,3,7,29033
-Robbie_Keane, 1980-07-08, 2,2,7,67,1303
-Robert_Peel, 1788-02-05, 2,2,7,7,12113
-Robert_Redford, 1936-08-18, 2,3,3,7,19273
-Roberto_Rossellini, 1906-05-08, 2,7,11,11,1427
-Robin_Söderling, 1984-08-14, 2,7,17,43,239
-Rosa_Parks, 1913-02-04, 2,7,11,19,827
-Rose_Byrne, 1979-07-24, 2,7,13,13,1033
-Russell_Crowe, 1964-04-07, 2,2,7,73,1193
-Ryan_Nelsen, 1977-10-18, 2,3,7,7,8311
-Saint-John_Perse, 1887-05-31, 2,3,7,29,1979
-Sezen_Aksu, 1954-07-13, 2,2,2,7,43481
-Seán_O'Casey, 1880-03-30, 2,2,7,113,761
-Sébastien_Loeb, 1974-02-26, 2,2,2,7,43609
-Taio_Cruz, 1985-04-23, 2,7,7,109,229
-Theo_van_Gogh_(film_director), 1957-07-23, 2,3,7,31,1871
-Truman_Capote, 1924-09-30, 2,7,13,19,701
-Tyra_Banks, 1973-12-04, 2,2,5,7,17443
-Valdis_Zatlers, 1955-03-22, 2,2,7,29,2999
-Valéry_Giscard_d'Estaing, 1926-02-02, 2,2,7,131,661
-Viktor_Yushchenko, 1954-02-23, 2,2,7,13,6689
-Vissarion_Belinsky, 1811-06-11, 2,7,7,41,593
-Vivienne_Westwood, 1941-04-08, 2,2,7,59,1471
-Wayne_Bridge, 1980-08-05, 2,2,2,7,43651
-Wesley_Snipes, 1962-07-31, 2,2,7,83,1049
-Wilhelm_Ritter_von_Leeb, 1876-09-05, 2,7,19,83,109
-William_Howard_Taft, 1857-09-15, 2,2,7,43,1993
-William_James, 1842-01-11, 2,7,7,13,1879
-Willow_Smith, 2000-10-31, 2,2,2,7,43783
-Wiz_Khalifa, 1987-09-08, 2,3,3,7,19421
-Yohan_Blake, 1989-12-26, 2,3,7,167,349
+Amanda_Seyfried, 1985-12-03, 2,7,17,19,541, 607842.4146
+Anna_Nicole_Smith, 1967-11-28, 2,3,7,11,5281, 283367.4318
+Bob_Marley, 1945-02-06, 2,2,7,37,2347, 665908.1319
+Calvin_Harris, 1984-01-17, 2,2,7,13,6719, 285724.3125
+David_Henrie, 1989-07-11, 2,3,7,13,4483, 358139.8148
+Hayley_Williams, 1988-12-27, 2,7,11,23,691, 459394.0833
+Jerry_Lewis, 1926-03-16, 2,5,7,19,1823, 300946.4138
+Jessica_Alba, 1981-04-28, 2,7,31,43,131, 513002.5672
+Justin_Bieber, 1994-03-01, 2,2,7,7,12497, 1208064.543
+Mitchel_Musso, 1991-07-09, 2,7,11,13,1223, 317108.2667
+Nikki_Reed, 1988-05-17, 2,3,3,7,19423, 466590.1111
+Phil_Collins, 1951-01-30, 2,2,7,23,3779, 346433.08
+Pope_John_Paul_II, 1920-05-18, 2,7,7,19,1301, 348813.2364
+Rob_Zombie, 1965-01-12, 2,2,3,7,29033, 375879.8276
+Rose_Byrne, 1979-07-24, 2,7,13,13,1033, 363428.7857
+Russell_Crowe, 1964-04-07, 2,2,7,73,1193, 337672.9649
+Taio_Cruz, 1985-04-23, 2,7,7,109,229, 268347.8571
+Tyra_Banks, 1973-12-04, 2,2,5,7,17443, 301357.2174
+Wesley_Snipes, 1962-07-31, 2,2,7,83,1049, 337400.025
+Willow_Smith, 2000-10-31, 2,2,2,7,43783, 482813.9655
+Wiz_Khalifa, 1987-09-08, 2,3,3,7,19421, 727897.0625

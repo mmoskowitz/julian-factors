@@ -1,2 +1,2 @@
-Christian_Karembeu, 1970-12-03, 3,131,6211
-Roland_Emmerich, 1955-11-10, 3,131,6197
+Christian_Karembeu, 1970-12-03, 3,131,6211, 66029.34615
+Roland_Emmerich, 1955-11-10, 3,131,6197, 109079.7619

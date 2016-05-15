@@ -1,2 +1,2 @@
-Jean-Bertrand_Aristide, 1953-07-15, 23,151,701
-Richard_Adolf_Zsigmondy, 1865-04-01, 23,149,701
+Jean-Bertrand_Aristide, 1953-07-15, 23,151,701, 48704.25806
+Richard_Adolf_Zsigmondy, 1865-04-01, 23,149,701, 7273.540541

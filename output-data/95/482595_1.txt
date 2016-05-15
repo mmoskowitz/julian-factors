@@ -1,2 +1,2 @@
-Dashiell_Hammett, 1894-05-27, 3,5,5,32173
-Louis-Ferdinand_Céline, 1894-05-27, 3,5,5,32173
+Dashiell_Hammett, 1894-05-27, 3,5,5,32173, 47524.66667
+Louis-Ferdinand_Céline, 1894-05-27, 3,5,5,32173, 61775.26923

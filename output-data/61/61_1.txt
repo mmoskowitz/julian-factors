@@ -1,16 +1,16 @@
-Alessandro_Manzoni, 1785-03-07, 61,38903
-Bernhard_Schlink, 1944-07-06, 61,39857
-Henri_Poincaré, 1854-04-29, 61,39317
-Howard_Hawks, 1896-05-30, 61,39569
-Ian_Curtis, 1956-07-15, 61,39929
-Joe_Satriani, 1956-07-15, 61,39929
-Josh_Radnor, 1974-07-29, 61,40037
-José_de_Espronceda, 1808-03-25, 61,39041
-Kim_Peek, 1951-11-11, 61,39901
-Marcello_Malpighi, 1628-03-10, 61,37963
-Martinus_J._G._Veltman, 1931-06-27, 61,39779
-Moncef_Marzouki, 1945-07-07, 61,39863
-Nick_Vujicic, 1982-12-04, 61,40087
-Pierre_Trudeau, 1919-10-18, 61,39709
-Rita_Hayworth, 1918-10-17, 61,39703
-Shawn_Michaels, 1965-07-22, 61,39983
+Alessandro_Manzoni, 1785-03-07, 61,38903, 72838.91489
+Bernhard_Schlink, 1944-07-06, 61,39857, 41179.625
+Henri_Poincaré, 1854-04-29, 61,39317, 44952.11111
+Howard_Hawks, 1896-05-30, 61,39569, 55869.51515
+Ian_Curtis, 1956-07-15, 61,39929, 209369.3429
+Joe_Satriani, 1956-07-15, 61,39929, 240564.2703
+Josh_Radnor, 1974-07-29, 61,40037, 339447.7097
+José_de_Espronceda, 1808-03-25, 61,39041, 40629.84848
+Kim_Peek, 1951-11-11, 61,39901, 129064.6786
+Marcello_Malpighi, 1628-03-10, 61,37963, 22269.6
+Martinus_J._G._Veltman, 1931-06-27, 61,39779, 9158.888889
+Moncef_Marzouki, 1945-07-07, 61,39863, 29723.82759
+Nick_Vujicic, 1982-12-04, 61,40087, 205538.1071
+Pierre_Trudeau, 1919-10-18, 61,39709, 85690.66667
+Rita_Hayworth, 1918-10-17, 61,39703, 128028.9571
+Shawn_Michaels, 1965-07-22, 61,39983, 554633.9706

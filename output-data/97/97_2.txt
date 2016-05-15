@@ -1,27 +1,21 @@
-Brandy_Norwood, 1979-02-11, 5,97,5039
-Bruce_Willis, 1955-03-19, 5,97,5021
-Claude_Berri, 1934-07-01, 29,97,863
-Damon_Albarn, 1968-03-23, 2,97,12577
-Fernando_Hierro, 1968-03-23, 2,97,12577
-Franklin_Pierce, 1804-11-23, 53,97,463
-George_Abela, 1948-04-22, 31,97,809
-Grégory_Lemarchal, 1983-05-13, 17,97,1483
-Guillermo_del_Toro, 1964-10-09, 31,97,811
-H._H._Asquith, 1852-09-12, 19,97,1301
-Hans_Eysenck, 1916-03-04, 2,97,12479
-James_Horner, 1953-08-14, 19,97,1321
-John_Carpenter, 1948-01-16, 2,97,12539
-John_Millington_Synge, 1871-04-16, 3,97,8263
-Juliusz_Słowacki, 1809-09-04, 13,97,1889
-Jérôme_Boateng, 1988-09-03, 23,97,1097
-Maharishi_Mahesh_Yogi, 1918-01-12, 5,97,4993
-Martin_Škrtel, 1984-12-15, 97,151,167
-Minnie_Driver, 1970-01-31, 3,97,8387
-Paul_Giamatti, 1967-06-06, 7,97,3593
-Robert_McNamara, 1916-06-09, 11,97,2269
-Stepan_Bandera, 1909-01-01, 97,107,233
-Sydney_Pollack, 1934-07-01, 29,97,863
-Taslima_Nasrin, 1962-08-25, 41,97,613
-Thomas_Jefferson, 1743-04-13, 97,109,223
-Yaya_Touré, 1983-05-13, 17,97,1483
-Zillur_Rahman, 1929-03-09, 17,97,1471
+Brandy_Norwood, 1979-02-11, 5,97,5039, 238251.8065
+Bruce_Willis, 1955-03-19, 5,97,5021, 519817.7361
+Claude_Berri, 1934-07-01, 29,97,863, 41094.85185
+Damon_Albarn, 1968-03-23, 2,97,12577, 235849.7
+Fernando_Hierro, 1968-03-23, 2,97,12577, 60850.91429
+Franklin_Pierce, 1804-11-23, 53,97,463, 48260.7191
+Grégory_Lemarchal, 1983-05-13, 17,97,1483, 76908.88889
+Guillermo_del_Toro, 1964-10-09, 31,97,811, 261679.5938
+Hans_Eysenck, 1916-03-04, 2,97,12479, 49031.18519
+James_Horner, 1953-08-14, 19,97,1321, 81024.85714
+John_Carpenter, 1948-01-16, 2,97,12539, 193408.6563
+Juliusz_Słowacki, 1809-09-04, 13,97,1889, 79692.86667
+Jérôme_Boateng, 1988-09-03, 23,97,1097, 111636.525
+Maharishi_Mahesh_Yogi, 1918-01-12, 5,97,4993, 87510
+Martin_Škrtel, 1984-12-15, 97,151,167, 49892.36842
+Minnie_Driver, 1970-01-31, 3,97,8387, 206852.6296
+Paul_Giamatti, 1967-06-06, 7,97,3593, 171443.7576
+Robert_McNamara, 1916-06-09, 11,97,2269, 111345.3421
+Sydney_Pollack, 1934-07-01, 29,97,863, 77326.87234
+Thomas_Jefferson, 1743-04-13, 97,109,223, 233192.2301
+Yaya_Touré, 1983-05-13, 17,97,1483, 124395.9318

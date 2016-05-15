@@ -1,3 +1,3 @@
-Aristotle_Onassis, 1906-01-15, 5,5,31,3119
-Diana_Ross, 1944-03-26, 5,5,31,3137
-Stanisław_August_Poniatowski, 1732-01-17, 5,5,31,3037
+Aristotle_Onassis, 1906-01-15, 5,5,31,3119, 138229.5111
+Diana_Ross, 1944-03-26, 5,5,31,3137, 246066.5217
+Stanisław_August_Poniatowski, 1732-01-17, 5,5,31,3037, 87172.18182

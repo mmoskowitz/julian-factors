@@ -1,24 +1,21 @@
-Alicia_Keys, 1981-01-25, 11,31,67,107
-Anna_Netrebko, 1971-09-18, 2,2,67,9109
-Antonio_López_de_Santa_Anna, 1794-02-21, 2,2,67,8867
-Audrey_Hepburn, 1929-05-04, 5,13,67,557
-Bernard_Parker, 1986-03-16, 5,67,67,109
-Chick_Corea, 1941-06-12, 19,23,67,83
-Dmitriy_Ustinov, 1908-10-17, 3,53,67,227
-Douglas_Haig,_1st_Earl_Haig, 1861-06-19, 3,5,67,2389
-Francisco_Javier_Rodríguez, 1981-10-20, 7,13,67,401
-Heinrich_Otto_Wieland, 1877-06-04, 2,3,67,5987
-Jada_Pinkett_Smith, 1971-09-18, 2,2,67,9109
-Jean-Marc_Ayrault, 1950-01-25, 2,3,67,6053
-José_Rizal, 1861-06-19, 3,5,67,2389
-Lance_Armstrong, 1971-09-18, 2,2,67,9109
-Marisa_Tomei, 1964-12-04, 3,11,67,1103
-Paul_Éluard, 1895-12-14, 13,17,67,163
-Peter_Kropotkin, 1842-12-09, 2,17,67,1051
-Ronald_Golias, 1929-05-04, 5,13,67,557
-Rosanna_Arquette, 1959-08-10, 2,5,67,3637
-Roy_Orbison, 1936-04-23, 3,3,67,4027
-Sertab_Erener, 1964-12-04, 3,11,67,1103
-Toše_Proeski, 1981-01-25, 11,31,67,107
-Werner_Faymann, 1960-05-04, 2,13,67,1399
-William_Lassell, 1799-06-18, 7,11,67,461
+Alicia_Keys, 1981-01-25, 11,31,67,107, 394436.1695
+Anna_Netrebko, 1971-09-18, 2,2,67,9109, 64230.06897
+Antonio_López_de_Santa_Anna, 1794-02-21, 2,2,67,8867, 152827.3243
+Audrey_Hepburn, 1929-05-04, 5,13,67,557, 437288.7
+Bernard_Parker, 1986-03-16, 5,67,67,109, 14633.2963
+Chick_Corea, 1941-06-12, 19,23,67,83, 70676.47368
+Dmitriy_Ustinov, 1908-10-17, 3,53,67,227, 11416.10714
+Douglas_Haig,_1st_Earl_Haig, 1861-06-19, 3,5,67,2389, 9011.071429
+Francisco_Javier_Rodríguez, 1981-10-20, 7,13,67,401, 28622.96296
+Jada_Pinkett_Smith, 1971-09-18, 2,2,67,9109, 498196.2593
+Jean-Marc_Ayrault, 1950-01-25, 2,3,67,6053, 39428.39535
+José_Rizal, 1861-06-19, 3,5,67,2389, 138858.2549
+Lance_Armstrong, 1971-09-18, 2,2,67,9109, 241006.1081
+Marisa_Tomei, 1964-12-04, 3,11,67,1103, 268258.2368
+Paul_Éluard, 1895-12-14, 13,17,67,163, 63021.125
+Peter_Kropotkin, 1842-12-09, 2,17,67,1051, 33317.06897
+Rosanna_Arquette, 1959-08-10, 2,5,67,3637, 140952.4848
+Roy_Orbison, 1936-04-23, 3,3,67,4027, 192492.9512
+Sertab_Erener, 1964-12-04, 3,11,67,1103, 44963.78378
+Toše_Proeski, 1981-01-25, 11,31,67,107, 48977.02941
+Werner_Faymann, 1960-05-04, 2,13,67,1399, 21189.31707

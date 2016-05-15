@@ -1,2 +1,2 @@
-Archer_John_Porter_Martin, 1910-03-01, 7,345533
-David_Niven, 1910-03-01, 7,345533
+Archer_John_Porter_Martin, 1910-03-01, 7,345533, 6228.757576
+David_Niven, 1910-03-01, 7,345533, 124420.0789

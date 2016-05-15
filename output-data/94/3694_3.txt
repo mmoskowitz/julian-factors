@@ -1,2 +1,2 @@
-Christiane_Nüsslein-Volhard, 1942-10-20, 2,2,7,47,1847
-Patsy_Cline, 1932-09-08, 2,3,3,73,1847
+Christiane_Nüsslein-Volhard, 1942-10-20, 2,2,7,47,1847, 12494.16667
+Patsy_Cline, 1932-09-08, 2,3,3,73,1847, 147204.2222

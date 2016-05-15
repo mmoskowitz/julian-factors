@@ -1,138 +1,21 @@
-Alessandro_Volta, 1745-02-18, 2,2,2,3,98269
-Alexander_Yegorov_(military), 1883-10-13, 2,2,2,3,100379
-Alfred_Gusenbauer, 1960-02-08, 2,2,3,31,6551
-Andreas_Thorkildsen, 1982-04-01, 2,2,3,5,40751
-André-Pierre_Gignac, 1985-12-05, 2,2,3,239,853
-Anne_Brontë, 1820-01-17, 2,2,2,3,99409
-Archibald_Primrose,_5th_Earl_of_Rosebery, 1847-05-07, 2,2,3,43,4643
-Armando_Guebuza, 1943-01-20, 2,2,2,3,101281
-Axel_Oxenstierna, 1583-06-16, 2,2,3,89,2153
-Benedikt_Höwedes, 1988-02-29, 2,2,3,5,40787
-Benny_Goodman, 1909-05-30, 2,2,2,3,100769
-Berti_Vogts, 1946-12-30, 2,2,2,3,101341
-Bette_Davis, 1908-04-05, 2,2,3,23,8761
-Billie_Joe_Armstrong, 1972-02-17, 2,2,3,389,523
-Celia_Cruz, 1925-10-21, 2,2,3,11,18367
-Christian_Abbiati, 1977-07-08, 2,2,3,37,5503
-Christian_Klien, 1983-02-07, 2,2,3,3,67927
-Christian_Panucci, 1973-04-12, 2,2,2,3,101741
-Christopher_Wren, 1632-10-20, 2,2,3,3,64373
-Chuck_Palahniuk, 1962-02-21, 2,2,3,31,6553
-Chulalongkorn, 1853-09-20, 2,2,3,7,28549
-Clive_Granger, 1934-09-04, 2,2,3,7,28901
-Dannii_Minogue, 1971-10-20, 2,2,3,13,15649
-Demetrius_Vikelas, 1835-02-15, 2,2,3,13,15329
-Dmitri_Mendeleev, 1834-02-08, 2,2,2,3,99623
-Donald_Pleasence, 1919-10-05, 2,2,3,71,2843
-Douglas_MacArthur, 1880-01-26, 2,2,3,5,40129
-Edgar_Cayce, 1877-03-18, 2,2,2,3,100279
-Eduard_Khil, 1934-09-04, 2,2,3,7,28901
-Edward_Adelbert_Doisy, 1893-11-13, 2,2,3,5,40213
-Elena_Dementieva, 1981-10-15, 2,2,3,79,2579
-Evangeline_Lilly, 1979-08-03, 2,2,2,3,101837
-Ferdinand_I_of_Romania, 1865-08-24, 2,2,2,3,100103
-Ferenc_Puskás, 1927-04-02, 2,2,3,11,18371
-Fouad_Siniora, 1943-04-14, 2,2,3,3,67523
-Frank_Drake, 1930-05-28, 2,2,3,181,1117
-Frank_Wedekind, 1864-07-24, 2,2,3,47,4259
-Frankie_Muniz, 1985-12-05, 2,2,3,239,853
-Franz_Mesmer, 1734-05-23, 2,2,3,37,5303
-Frederick_Winslow_Taylor, 1856-03-20, 2,2,3,31,6449
-Fritz_Sauckel, 1894-10-27, 2,2,2,3,100547
-Gabriel_Agbonlahor, 1986-10-13, 2,2,3,41,4973
-George_Stephenson, 1781-06-09, 2,2,3,3,65881
-George_Wald, 1906-11-18, 2,2,3,13,15497
-Giovanni_Gronchi, 1887-09-10, 2,2,3,3,66959
-Gustav_Bauer, 1870-01-06, 2,2,3,89,2251
-Günther_von_Kluge, 1882-10-30, 2,2,3,181,1109
-Halldór_Ásgrímsson, 1947-09-08, 2,2,3,61,3323
-Harry_Markowitz, 1927-08-24, 2,2,3,61,3313
-Heinrich_Schliemann, 1822-01-06, 2,2,2,3,99439
-Henry_Ford, 1863-07-30, 2,2,3,263,761
-Henry_Wilson, 1812-02-16, 2,2,3,17,11681
-Howard_Carter, 1874-05-09, 2,2,3,307,653
-Isabelle_Huppert, 1953-03-16, 2,2,3,37,5483
-Italo_Balbo, 1896-06-06, 2,2,3,71,2833
-James_Irwin, 1930-03-17, 2,2,3,41,4931
-Jeanne_Calment, 1875-02-21, 2,2,3,5,40099
-Jennifer_Connelly, 1970-12-12, 2,2,3,13,15647
-Jeremy_Bentham, 1748-02-15, 2,2,3,3,65543
-Joaquin_Phoenix, 1974-10-28, 2,2,3,3,67843
-Joe_Cole, 1981-11-08, 2,2,3,73,2791
-John_Bardeen, 1908-05-23, 2,2,3,3,67169
-John_Irving, 1942-03-02, 2,2,3,5,40507
-John_von_Neumann, 1903-12-28, 2,2,3,349,577
-Jorge_Larrionda, 1968-03-09, 2,2,3,127,1601
-Joseph_L._Mankiewicz, 1909-02-11, 2,2,3,79,2551
-Jóhanna_Sigurðardóttir, 1942-10-04, 2,2,3,13,15581
-Karim_Benzema, 1987-12-19, 2,2,3,11,18539
-Klaus_Mann, 1906-11-18, 2,2,3,13,15497
-Lars_Jacobsen, 1979-09-20, 2,2,2,3,101839
-Lech_Wałęsa, 1943-09-29, 2,2,3,173,1171
-Lou_Reed, 1942-03-02, 2,2,3,5,40507
-Louis_XVIII_of_France, 1755-11-17, 2,2,3,5,39373
-Malcolm_McDowell, 1943-06-13, 2,2,2,3,101287
-Maria_II_of_Portugal, 1819-04-04, 2,2,2,3,99397
-Mark_Twain, 1835-11-30, 2,2,3,41,4861
-Mary,_Crown_Princess_of_Denmark, 1972-02-05, 2,2,2,3,101723
-Matthew_Bellamy, 1978-06-09, 2,2,3,31,6569
-Michael_Andreas_Barclay_de_Tolly, 1761-12-27, 2,2,3,101,1951
-Michael_Jackson, 1958-08-29, 2,2,3,3,67679
-Milan_Jovanović_(footballer,_born_1981), 1981-04-18, 2,2,2,3,101863
-Milo_Ventimiglia, 1977-07-08, 2,2,3,37,5503
-Mir-Hossein_Mousavi, 1942-03-02, 2,2,3,5,40507
-Miroslav_Klose, 1978-06-09, 2,2,3,31,6569
-Mohammad_Khatami, 1943-09-29, 2,2,3,173,1171
-Nathan_Söderblom, 1866-01-15, 2,2,2,3,100109
-Nick_Mason, 1944-01-27, 2,2,3,3,67531
-Oliver_Riedel, 1971-04-11, 2,2,3,3,67807
-Otto_Diels, 1876-01-23, 2,2,3,3,66841
-Pamela_Anderson, 1967-07-01, 2,2,2,3,101653
-Park_Geun-hye, 1952-02-02, 2,2,3,23,8819
-Patti_Smith, 1946-12-30, 2,2,2,3,101341
-Paul_Robeson, 1898-04-09, 2,2,3,173,1163
-Paul_di_Resta, 1986-04-16, 2,2,2,3,101939
-Paul_of_Greece, 1901-12-14, 2,2,3,11,18301
-Per_Mertesacker, 1984-09-29, 2,2,3,317,643
-Peter_D._Mitchell, 1920-09-29, 2,2,3,11,18353
-Peter_Facinelli, 1973-11-26, 2,2,3,197,1033
-Peter_Medawar, 1915-02-28, 2,2,3,43,4691
-Philip_K._Dick, 1928-12-16, 2,2,3,131,1543
-Pink_(singer), 1979-09-08, 2,2,3,17,11981
-Prince_Daniel,_Duke_of_Västergötland, 1973-09-15, 2,2,3,5,40699
-Pál_Schmitt, 1942-05-13, 2,2,3,67,3023
-Richard_F._Heck, 1931-08-15, 2,2,2,3,101107
-Richard_Pryor, 1940-12-01, 2,2,3,3,67499
-Richard_Rogers, 1933-07-23, 2,2,3,67,3019
-Richard_Stallman, 1953-03-16, 2,2,3,37,5483
-Rob_Zombie, 1965-01-12, 2,2,3,7,29033
-Robert_Fripp, 1946-05-16, 2,2,3,41,4943
-Roberto_Soldado, 1985-05-27, 2,2,3,19,10729
-Rodion_Malinovsky, 1898-11-23, 2,2,2,3,100609
-Romano_Prodi, 1939-08-09, 2,2,3,193,1049
-Róbert_Vittek, 1982-04-01, 2,2,3,5,40751
-Sarah_Jessica_Parker, 1965-03-25, 2,2,3,41,4957
-Shigeru_Miyamoto, 1952-11-16, 2,2,3,17,11933
-Shinji_Okazaki, 1986-04-16, 2,2,2,3,101939
-Snoop_Dogg, 1971-10-20, 2,2,3,13,15649
-Stanisław_Konarski, 1700-09-30, 2,2,3,19,10273
-Stanley_Rous, 1895-04-25, 2,2,3,83,2423
-Stefan_Zweig, 1881-11-28, 2,2,3,419,479
-Stefka_Kostadinova, 1965-03-25, 2,2,3,41,4957
-Steve_Ballmer, 1956-03-24, 2,2,3,17,11939
-Tassos_Papadopoulos, 1934-01-07, 2,2,3,3,67429
-Teodoro_Obiang_Nguema_Mbasogo, 1942-06-06, 2,2,3,11,18413
-Tia_Carrere, 1967-01-02, 2,2,3,11,18481
-Tim_Robbins, 1958-10-16, 2,2,3,277,733
-Varg_Vikernes, 1973-02-11, 2,2,3,283,719
-Victor_Ponta, 1972-09-20, 2,2,3,5,40693
-Viktor_Dyk, 1877-12-31, 2,2,2,3,100291
-Viktor_Tsoi, 1962-06-21, 2,2,3,223,911
-Willem_Drees, 1886-07-05, 2,2,3,3,66947
-Yoshiki_(musician), 1965-11-20, 2,2,3,439,463
-Youri_Djorkaeff, 1968-03-09, 2,2,3,127,1601
-Zhao_Ziyang, 1919-10-17, 2,2,2,3,100927
-Zhelyu_Zhelev, 1935-03-03, 2,2,2,3,101161
-Álvaro_Obregón, 1880-02-19, 2,2,3,283,709
-Émile_Durkheim, 1858-04-15, 2,2,2,3,99991
-Éric_Rohmer, 1920-03-21, 2,2,3,3,67289
+Billie_Joe_Armstrong, 1972-02-17, 2,2,3,389,523, 305341.3864
+Frankie_Muniz, 1985-12-05, 2,2,3,239,853, 521514.3077
+Jennifer_Connelly, 1970-12-12, 2,2,3,13,15647, 360216.5333
+Joaquin_Phoenix, 1974-10-28, 2,2,3,3,67843, 428683.1667
+Karim_Benzema, 1987-12-19, 2,2,3,11,18539, 196712.5593
+Lou_Reed, 1942-03-02, 2,2,3,5,40507, 306698.0976
+Malcolm_McDowell, 1943-06-13, 2,2,2,3,101287, 228129.973
+Mark_Twain, 1835-11-30, 2,2,3,41,4861, 194408.5755
+Matthew_Bellamy, 1978-06-09, 2,2,3,31,6569, 202427.8537
+Michael_Jackson, 1958-08-29, 2,2,3,3,67679, 988099.6531
+Milo_Ventimiglia, 1977-07-08, 2,2,3,37,5503, 288907.5455
+Pamela_Anderson, 1967-07-01, 2,2,2,3,101653, 320536.2787
+Patti_Smith, 1946-12-30, 2,2,2,3,101341, 205034.119
+Peter_Facinelli, 1973-11-26, 2,2,3,197,1033, 332463.3846
+Richard_Pryor, 1940-12-01, 2,2,3,3,67499, 316400.8214
+Rob_Zombie, 1965-01-12, 2,2,3,7,29033, 375879.8276
+Sarah_Jessica_Parker, 1965-03-25, 2,2,3,41,4957, 368720.3333
+Shigeru_Miyamoto, 1952-11-16, 2,2,3,17,11933, 219089.4688
+Snoop_Dogg, 1971-10-20, 2,2,3,13,15649, 706028.283
+Tia_Carrere, 1967-01-02, 2,2,3,11,18481, 216760.8214
+Tim_Robbins, 1958-10-16, 2,2,3,277,733, 195214.9268

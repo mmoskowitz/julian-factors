@@ -1,2 +1,2 @@
-Christian_Poulsen, 1980-02-28, 41,59617
-Tayshaun_Prince, 1980-02-28, 41,59617
+Christian_Poulsen, 1980-02-28, 41,59617, 61455.23529
+Tayshaun_Prince, 1980-02-28, 41,59617, 41558.31034

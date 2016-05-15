@@ -1,2 +1,2 @@
-Fouad_Mebazaa, 1933-06-15, 2,11,31,3559
-Jigme_Singye_Wangchuck, 1955-11-11, 2,11,31,3571
+Fouad_Mebazaa, 1933-06-15, 2,11,31,3559, 13641.25
+Jigme_Singye_Wangchuck, 1955-11-11, 2,11,31,3571, 28072.13158

@@ -1,4 +1,4 @@
-David_Bowie, 1947-01-08, 3,293,2767
-Michael_C._Hall, 1971-02-01, 3,293,2777
-Vittorio_Emanuele_Orlando, 1860-05-19, 3,293,2731
-Zlatko_Zahovič, 1971-02-01, 3,293,2777
+David_Bowie, 1947-01-08, 3,293,2767, 498752.7761
+Michael_C._Hall, 1971-02-01, 3,293,2777, 383879.4571
+Vittorio_Emanuele_Orlando, 1860-05-19, 3,293,2731, 19714.81481
+Zlatko_Zahovič, 1971-02-01, 3,293,2777, 19408.30769

@@ -1,4 +1,4 @@
-Edmondo_De_Amicis, 1846-10-21, 2,3,5,47,1699
-Gotthold_Ephraim_Lessing, 1729-01-22, 3,5,47,47,71
-Isambard_Kingdom_Brunel, 1806-04-09, 3,5,11,47,307
-Paul_Greengard, 1925-12-11, 3,5,19,47,181
+Edmondo_De_Amicis, 1846-10-21, 2,3,5,47,1699, 30896.29032
+Gotthold_Ephraim_Lessing, 1729-01-22, 3,5,47,47,71, 59323.18
+Isambard_Kingdom_Brunel, 1806-04-09, 3,5,11,47,307, 82107.37143
+Paul_Greengard, 1925-12-11, 3,5,19,47,181, 8775.148148

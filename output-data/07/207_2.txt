@@ -1,8 +1,8 @@
-Andrija_Mohorovičić, 1857-01-23, 3,3,23,67,173
-Deodoro_da_Fonseca, 1827-08-05, 3,3,11,23,1049
-Gael_García_Bernal, 1978-11-30, 2,3,3,23,5903
-Immanuel_Wallerstein, 1930-09-28, 3,3,3,23,3907
-John_Garang, 1945-06-23, 3,3,17,23,691
-Steve_McManaman, 1972-02-11, 2,3,3,23,5897
-Vincent_Candela, 1973-10-24, 3,3,23,47,251
-Vitali_Klitschko, 1971-07-19, 3,3,3,23,3931
+Andrija_Mohorovičić, 1857-01-23, 3,3,23,67,173, 11072.19355
+Deodoro_da_Fonseca, 1827-08-05, 3,3,11,23,1049, 34165.08108
+Gael_García_Bernal, 1978-11-30, 2,3,3,23,5903, 137147.907
+Immanuel_Wallerstein, 1930-09-28, 3,3,3,23,3907, 51488.03571
+John_Garang, 1945-06-23, 3,3,17,23,691, 23075.6
+Steve_McManaman, 1972-02-11, 2,3,3,23,5897, 96774.28571
+Vincent_Candela, 1973-10-24, 3,3,23,47,251, 20513.35714
+Vitali_Klitschko, 1971-07-19, 3,3,3,23,3931, 446598.2759

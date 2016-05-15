@@ -1,2 +1,2 @@
-David_Copperfield_(illusionist), 1956-09-16, 2,2,13,31,1511
-Martin_Buber, 1878-02-08, 3,3,3,59,1511
+David_Copperfield_(illusionist), 1956-09-16, 2,2,13,31,1511, 28281.625
+Martin_Buber, 1878-02-08, 3,3,3,59,1511, 48265.25581

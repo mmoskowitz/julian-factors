@@ -1,24 +1,21 @@
-Alex_Oxlade-Chamberlain, 1993-08-15, 2,19,64453
-Caroline_of_Ansbach, 1683-03-01, 2,19,61469
-Christopher_Plummer, 1929-12-13, 2,19,63841
-Dokka_Umarov, 1964-04-13, 2,19,64171
-Frits_Zernike, 1888-07-16, 2,19,63443
-George_Gershwin, 1898-09-26, 2,19,63541
-Harald_zur_Hausen, 1936-03-11, 2,19,63901
-Jack_White, 1975-07-09, 2,19,64279
-James_M._Buchanan, 1919-10-03, 2,19,63743
-Jeff_Bridges, 1949-12-04, 2,19,64033
-José_Saramago, 1922-11-16, 2,19,63773
-Justin_Chambers, 1970-07-11, 2,19,64231
-Konstantinos_Stephanopoulos, 1926-08-15, 2,19,63809
-Lata_Mangeshkar, 1929-09-28, 2,19,63839
-Lee_Kuan_Yew, 1923-09-16, 2,19,63781
-Mark_Rothko, 1903-09-25, 2,19,63589
-Markus_Merk, 1962-03-15, 2,19,64151
-Omar_Bradley, 1893-02-12, 2,19,63487
-Pau_Gasol, 1980-07-06, 2,19,64327
-Pedro_de_la_Rosa, 1971-02-24, 2,19,64237
-Pierre_Messmer, 1916-03-20, 2,19,63709
-Sergio_Agüero, 1988-06-02, 2,19,64403
-Shelton_Benjamin, 1975-07-09, 2,19,64279
-Valon_Behrami, 1985-04-19, 2,19,64373
+Alex_Oxlade-Chamberlain, 1993-08-15, 2,19,64453, 87397.77419
+Caroline_of_Ansbach, 1683-03-01, 2,19,61469, 27262.30769
+Christopher_Plummer, 1929-12-13, 2,19,63841, 209185.875
+Dokka_Umarov, 1964-04-13, 2,19,64171, 33609.96429
+George_Gershwin, 1898-09-26, 2,19,63541, 101560.5424
+Jack_White, 1975-07-09, 2,19,64279, 221805.9677
+James_M._Buchanan, 1919-10-03, 2,19,63743, 16371.36585
+Jeff_Bridges, 1949-12-04, 2,19,64033, 305174.1087
+José_Saramago, 1922-11-16, 2,19,63773, 73834.86585
+Justin_Chambers, 1970-07-11, 2,19,64231, 165256.8148
+Lata_Mangeshkar, 1929-09-28, 2,19,63839, 130628.8387
+Lee_Kuan_Yew, 1923-09-16, 2,19,63781, 65215.12069
+Mark_Rothko, 1903-09-25, 2,19,63589, 142737.2424
+Markus_Merk, 1962-03-15, 2,19,64151, 20446.07692
+Omar_Bradley, 1893-02-12, 2,19,63487, 81664.85294
+Pau_Gasol, 1980-07-06, 2,19,64327, 191048.1842
+Pedro_de_la_Rosa, 1971-02-24, 2,19,64237, 26747.34211
+Pierre_Messmer, 1916-03-20, 2,19,63709, 15107.9
+Sergio_Agüero, 1988-06-02, 2,19,64403, 222520.875
+Shelton_Benjamin, 1975-07-09, 2,19,64279, 140906.0769
+Valon_Behrami, 1985-04-19, 2,19,64373, 50607.54545

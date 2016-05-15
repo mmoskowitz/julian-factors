@@ -1,2 +1,2 @@
-Fraizer_Campbell, 1987-09-13, 167,14653
-Tsvetana_Pironkova, 1987-09-13, 167,14653
+Fraizer_Campbell, 1987-09-13, 167,14653, 48134.80769
+Tsvetana_Pironkova, 1987-09-13, 167,14653, 25133.03846

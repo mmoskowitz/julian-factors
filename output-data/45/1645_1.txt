@@ -1,2 +1,2 @@
-George_Curzon,_1st_Marquess_Curzon_of_Kedleston, 1859-01-11, 5,7,47,1459
-Mark_Rutte, 1967-02-14, 5,7,47,1483
+George_Curzon,_1st_Marquess_Curzon_of_Kedleston, 1859-01-11, 5,7,47,1459, 5908.677419
+Mark_Rutte, 1967-02-14, 5,7,47,1483, 26230.07018

@@ -1,3 +1,3 @@
-Branko_Crvenkovski, 1962-10-12, 199,12251
-Edward_C._Prescott, 1940-12-26, 199,12211
-Silvio_Piola, 1913-09-29, 199,12161
+Branko_Crvenkovski, 1962-10-12, 199,12251, 7243.452381
+Edward_C._Prescott, 1940-12-26, 199,12211, 12016.77778
+Silvio_Piola, 1913-09-29, 199,12161, 42284.66667

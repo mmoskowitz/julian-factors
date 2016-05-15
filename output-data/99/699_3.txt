@@ -1,2 +1,2 @@
-Felipe_González, 1942-03-05, 3,3,19,61,233
-Gregor_Schlierenzauer, 1990-01-07, 2,3,17,103,233
+Felipe_González, 1942-03-05, 3,3,19,61,233, 32274.65116
+Gregor_Schlierenzauer, 1990-01-07, 2,3,17,103,233, 62005.7037

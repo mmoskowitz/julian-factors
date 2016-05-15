@@ -1,2 +1,2 @@
-Diego_Ribas_da_Cunha, 1985-02-28, 2,2,611531
-Jelena_Janković, 1985-02-28, 2,2,611531
+Diego_Ribas_da_Cunha, 1985-02-28, 2,2,611531, 150365.2727
+Jelena_Janković, 1985-02-28, 2,2,611531, 49995.13333

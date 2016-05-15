@@ -1,176 +1,21 @@
-Aaron_Eckhart, 1968-03-12, 3,3,7,38729
-Abbas_Kiarostami, 1940-06-22, 2,3,3,134989
-Abigail_Breslin, 1996-04-14, 3,3,61,4463
-Aldous_Huxley, 1894-07-26, 3,3,5,53623
-Andrés_Iniesta, 1984-05-11, 3,3,29,9371
-Archduke_Franz_Ferdinand_of_Austria, 1863-12-18, 3,3,103,2591
-Aristide_Briand, 1862-03-28, 3,3,479,557
-Arthur_Compton, 1892-09-10, 3,3,17,15767
-Aung_San, 1915-02-13, 3,3,61,4409
-Barack_Obama, 1961-08-04, 3,3,5,54167
-Beatrix_of_the_Netherlands, 1938-01-31, 3,3,73,3697
-Benedict_Cumberbatch, 1976-07-19, 2,3,3,135721
-Bernardo_Houssay, 1887-04-10, 3,3,3,89273
-Bert_Sakmann, 1942-06-12, 2,3,3,135029
-Blaise_Pascal, 1623-06-19, 3,3,37,6949
-Boudewijn_Zenden, 1976-08-15, 3,3,5,54289
-Buckminster_Fuller, 1895-07-12, 2,3,3,134077
-Burt_Reynolds, 1936-02-11, 3,3,7,38543
-Carlos_Vela, 1989-03-01, 2,3,3,135977
-Channing_Tatum, 1980-04-26, 3,3,5,54319
-Charles_IV_of_Spain, 1748-11-11, 2,3,3,131101
-Charles_Pic, 1990-02-15, 3,3,101,2693
-Chris_Paul, 1985-05-06, 3,3,11,24709
-Christopher_A._Pissarides, 1948-02-20, 3,3,31,8719
-Cormac_McCarthy, 1933-07-20, 3,3,3,89899
-Curtis_Mayfield, 1942-06-03, 3,3,3,90019
-D._H._Lawrence, 1885-09-11, 3,3,5,53551
-Daniella_Monet, 1989-03-01, 2,3,3,135977
-David_O._Selznick, 1902-05-10, 3,3,3,89477
-Deborah_Kerr, 1921-09-30, 2,3,3,134609
-Deryck_Whibley, 1980-03-21, 3,3,31,8761
-Drew_Barrymore, 1975-02-22, 3,3,5,54277
-Dwight_Howard, 1985-12-08, 3,3,229,1187
-Edgar_Wallace, 1875-04-01, 3,3,43,6217
-Edward_Sapir, 1884-01-26, 3,3,41,6529
-Elinor_Ostrom, 1933-08-07, 3,3,283,953
-Emile_Hirsch, 1985-03-13, 3,3,191,1423
-Emma_Roberts, 1991-02-10, 3,3,199,1367
-Emmanuel_Eboué, 1983-06-04, 3,3,163,1667
-Eric_Maskin, 1950-12-12, 3,3,7,38629
-Eric_Prydz, 1976-07-19, 2,3,3,135721
-Erwin_von_Witzleben, 1881-12-04, 2,3,3,133801
-Eugène_Delacroix, 1798-04-26, 3,3,11,24019
-Ezequiel_Garay, 1986-10-10, 3,3,3,90619
-Fabio_Capello, 1946-06-18, 3,3,7,38603
-Ferdinand_III,_Holy_Roman_Emperor, 1608-07-13, 3,3,179,1433
-Filip_Vujanović, 1954-09-01, 2,3,3,135277
-François_Duvalier, 1907-04-14, 3,3,11,24421
-François_de_La_Rochefoucauld_(writer), 1613-09-15, 3,3,17,15101
-Fred_Durst, 1970-08-20, 2,3,3,135601
-Fritz_Albert_Lipmann, 1899-06-12, 3,3,157,1709
-Gabdulkhay_Akhatov, 1927-09-08, 3,3,467,577
-Gabriel_Heinze, 1978-04-19, 3,3,11,24683
-Gaspard_Ulliel, 1984-11-25, 3,3,463,587
-Gaston_Bachelard, 1884-06-27, 2,3,3,133853
-George_Hamilton-Gordon,_4th_Earl_of_Aberdeen, 1784-01-28, 3,3,3,87877
-Goran_Hadžić, 1958-09-07, 3,3,3,90239
-Grégory_Coupet, 1972-12-31, 2,3,3,135649
-Gustave_Moreau, 1826-04-06, 3,3,13,20411
-H._Robert_Horvitz, 1947-05-08, 3,3,13,20789
-Halle_Berry, 1966-08-14, 3,3,131,2069
-Hannibal_Hamlin, 1809-08-27, 3,3,3,88223
-Hans_Morgenthau, 1904-02-17, 3,3,3,89501
-Henri_Matisse, 1869-12-31, 2,3,3,133559
-Henri_de_Toulouse-Lautrec, 1864-11-24, 3,3,89,2999
-Henrik_Larsson, 1971-09-20, 2,3,3,135623
-Hermann_Ebbinghaus, 1850-01-24, 3,3,79,3371
-Hillel_Slovak, 1962-04-13, 3,3,439,617
-Holly_Hunter, 1958-03-20, 2,3,3,135349
-Horatio_Nelson,_1st_Viscount_Nelson, 1758-09-29, 3,3,11,23873
-Hélder_Postiga, 1982-08-02, 3,3,13,20899
-Imelda_Staunton, 1956-01-09, 3,3,3,90203
-Ivan_Basso, 1977-11-26, 3,3,3,90499
-Ivan_Goncharov, 1812-06-18, 3,3,3,88261
-J._Hans_D._Jensen, 1907-06-25, 3,3,7,38377
-James_Franco, 1978-04-19, 3,3,11,24683
-James_Milner, 1986-01-04, 2,3,3,135913
-James_Watt, 1736-01-19, 2,3,3,130841
-Jamie_Foxx, 1967-12-13, 3,3,419,647
-Jason_Lee_(actor), 1970-04-25, 3,3,139,1951
-Javier_Saviola, 1981-12-11, 3,3,13,20897
-Jeb_Bush, 1953-02-11, 3,3,13,20807
-Jeff_Daniels, 1955-02-19, 3,3,3,90191
-Jerry_West, 1938-05-28, 2,3,3,134947
-Jet_Li, 1963-04-26, 3,3,5,54181
-Jimmy_Connors, 1952-09-02, 3,3,7,38639
-Jimmy_Floyd_Hasselbaink, 1972-03-27, 3,3,61,4447
-Johan_Christian_Fabricius, 1745-01-07, 2,3,3,131023
-Johann_Joachim_Winckelmann, 1717-12-09, 3,3,457,571
-Johann_Palisa, 1848-12-06, 3,3,149,1787
-John_Carew, 1979-09-05, 3,3,3,90523
-John_Carmack, 1970-08-20, 2,3,3,135601
-John_Hume, 1937-01-18, 3,3,149,1811
-John_Steinbeck, 1902-02-27, 3,3,181,1483
-Jonny_Evans, 1988-01-03, 3,3,127,2141
-Jordana_Brewster, 1980-04-26, 3,3,5,54319
-Jordi_Cruyff, 1974-02-09, 3,3,31,8753
-Joseph_Barbera, 1911-03-24, 3,3,3,89597
-Joseph_Freiherr_von_Eichendorff, 1788-03-10, 2,3,3,131899
-Joseph_Kabila, 1971-06-04, 2,3,3,135617
-Jérôme_Lalande, 1732-07-11, 3,3,41,6379
-Karl_Mannheim, 1893-03-27, 3,3,181,1481
-Kate_Beckinsale, 1973-07-26, 3,3,37,7333
-Keith_Haring, 1958-05-04, 3,3,421,643
-Ken_Anderson_(wrestler), 1976-03-06, 3,3,13,20879
-Kevin_Durant, 1988-09-29, 3,3,193,1409
-Lakshmi_Mittal, 1950-06-15, 3,3,127,2129
-Laura_Dern, 1967-02-10, 3,3,3,90353
-Laurence_Sterne, 1713-11-24, 3,3,71,3673
-Lazzaro_Spallanzani, 1729-01-10, 3,3,43,6079
-Lenny_Kravitz, 1964-05-26, 3,3,7,38707
-Linda_Hamilton, 1956-09-26, 2,3,3,135319
-Louise_of_Mecklenburg-Strelitz, 1776-03-10, 3,3,73,3607
-Léon_M'ba, 1902-02-09, 3,3,73,3677
-Lúcio_Costa, 1902-02-27, 3,3,181,1483
-M._C._Escher, 1898-06-17, 3,3,59,4547
-Marco_Borriello, 1982-06-18, 2,3,3,135841
-Marit_Bjørgen, 1980-03-21, 3,3,31,8761
-Mark_Hughes, 1963-11-01, 2,3,3,135463
-Max_Jacob, 1876-07-12, 3,3,47,5689
-Max_Wolf, 1863-06-21, 3,3,3,88951
-Melinda_Gates, 1964-08-15, 2,3,3,135479
-Michael_Haneke, 1942-03-23, 3,3,13,20773
-Mike_Shinoda, 1977-02-11, 3,3,5,54293
-Mikhail_Vrubel, 1856-03-05, 3,3,43,6199
-Milovan_Đilas, 1911-06-04, 3,3,389,691
-Mohamed_Zidan, 1981-12-11, 3,3,13,20897
-Nana_Mouskouri, 1934-10-13, 3,3,107,2521
-Neville_Chamberlain, 1869-03-18, 2,3,3,133543
-Pastora_Soler, 1978-09-28, 3,3,13,20887
-Paul_Dirac, 1902-08-08, 3,3,331,811
-Paul_Muni, 1895-09-22, 2,3,3,134081
-Peter_III_of_Russia, 1728-02-21, 3,3,31,8431
-Peter_Mandelson, 1953-10-21, 3,3,3,90173
-Peter_Shilton, 1949-09-18, 3,3,53,5101
-Philip_Noel-Baker,_Baron_Noel-Baker, 1889-11-01, 3,3,113,2371
-Pierre_de_Coubertin, 1863-01-01, 2,3,3,133417
-Pyotr_Kapitsa, 1894-07-08, 3,3,3,89371
-Ralph_Waldo_Emerson, 1803-05-25, 3,3,5,52883
-Ram_Narayan, 1927-12-25, 3,3,37,7283
-Ray_Liotta, 1954-12-18, 2,3,3,135283
-Rembrandt, 1606-07-15, 2,3,3,128213
-Rhys_Ifans, 1967-07-22, 3,3,3,90359
-Robert_Doisneau, 1912-04-14, 2,3,3,134417
-Robert_Prosinečki, 1969-01-12, 3,3,3,90379
-Roger_Garaudy, 1913-07-17, 3,3,5,53777
-Roger_Moore, 1927-10-14, 3,3,3,89821
-Ronald_Koeman, 1963-03-21, 3,3,61,4441
-Ronaldinho, 1980-03-21, 3,3,31,8761
-Roy_Orbison, 1936-04-23, 3,3,67,4027
-Roy_Scheider, 1932-11-10, 3,3,31,8699
-Royston_Drenthe, 1987-04-08, 3,3,61,4457
-Rupert_Grint, 1988-08-24, 3,3,29,9377
-Samak_Sundaravej, 1935-06-13, 2,3,3,134887
-Santi_Cazorla, 1984-12-13, 3,3,173,1571
-Sean_Astin, 1971-02-25, 3,3,59,4597
-Serge_Gainsbourg, 1928-04-02, 2,3,3,134741
-Sergei_Bagapsh, 1949-03-04, 3,3,83,3257
-Sid_Meier, 1954-02-24, 3,3,97,2789
-Sidney_Lumet, 1924-06-25, 3,3,41,6569
-Simone_Signoret, 1921-03-25, 3,3,241,1117
-Sinclair_Lewis, 1885-02-07, 3,3,79,3389
-Stamford_Raffles, 1781-07-06, 3,3,11,23957
-Stjepan_Mesić, 1934-12-24, 3,3,5,53951
-Susan_Sarandon, 1946-10-04, 3,3,181,1493
-Teimour_Radjabov, 1987-03-12, 2,3,3,135937
-Theodor_W._Hänsch, 1941-10-30, 3,3,3,90011
-Theofanis_Gekas, 1980-05-23, 2,3,3,135799
-Thomas_Muster, 1967-10-02, 3,3,5,54217
-Tigran_Petrosian, 1929-06-17, 3,3,409,659
-Tim_Hunt, 1943-02-19, 2,3,3,135043
-Tsung-Dao_Lee, 1926-11-24, 3,3,3,89809
-Victor_Emmanuel_II_of_Italy, 1820-03-14, 3,3,7,37871
-Vladimir_Stojković, 1983-07-28, 3,3,281,967
-Wen_Jiabao, 1942-09-19, 3,3,3,90023
-Łukasz_Fabiański, 1985-04-18, 3,3,3,90599
+Abigail_Breslin, 1996-04-14, 3,3,61,4463, 323182.2703
+Barack_Obama, 1961-08-04, 3,3,5,54167, 562682.885
+Benedict_Cumberbatch, 1976-07-19, 2,3,3,135721, 429918.6129
+Burt_Reynolds, 1936-02-11, 3,3,7,38543, 264935.0833
+Channing_Tatum, 1980-04-26, 3,3,5,54319, 932963
+Drew_Barrymore, 1975-02-22, 3,3,5,54277, 429028.9423
+Dwight_Howard, 1985-12-08, 3,3,229,1187, 266136.8158
+Emile_Hirsch, 1985-03-13, 3,3,191,1423, 290282.9667
+Emma_Roberts, 1991-02-10, 3,3,199,1367, 681507.5313
+Fred_Durst, 1970-08-20, 2,3,3,135601, 239138.3462
+Halle_Berry, 1966-08-14, 3,3,131,2069, 316650.2923
+James_Franco, 1978-04-19, 3,3,11,24683, 612270.7907
+Jamie_Foxx, 1967-12-13, 3,3,419,647, 340360.1489
+Jet_Li, 1963-04-26, 3,3,5,54181, 420854.8333
+Jordana_Brewster, 1980-04-26, 3,3,5,54319, 394103.2759
+Kate_Beckinsale, 1973-07-26, 3,3,37,7333, 498613.9565
+Kevin_Durant, 1988-09-29, 3,3,193,1409, 265804.8974
+Lenny_Kravitz, 1964-05-26, 3,3,7,38707, 321332.2955
+Ronaldinho, 1980-03-21, 3,3,31,8761, 497528.4156
+Rupert_Grint, 1988-08-24, 3,3,29,9377, 294582.8103
+Serge_Gainsbourg, 1928-04-02, 2,3,3,134741, 307667.5

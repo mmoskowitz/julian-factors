@@ -1,23 +1,21 @@
-Adolphe_Thiers, 1797-04-15, 5,13,79,463
-Alexander_von_Humboldt, 1769-09-14, 2,5,13,18211
-Audrey_Hepburn, 1929-05-04, 5,13,67,557
-Ed_Asner, 1929-11-15, 2,5,13,18661
-Erich_Ludendorff, 1865-04-09, 5,13,13,2843
-Eugène_Terre'Blanche, 1941-01-31, 5,5,13,7477
-Fabio_Quagliarella, 1983-01-31, 5,13,17,2213
-Ferdinand_von_Lindemann, 1852-04-12, 2,5,13,18443
-Gilbert_Arenas, 1982-01-06, 5,5,13,7523
-Gotthard_Heinrici, 1886-12-25, 5,11,13,3371
-Guy_Berryman, 1978-04-12, 2,5,13,18797
-Hafez_al-Assad, 1930-10-06, 5,13,163,229
-Jiang_Qing, 1914-03-19, 2,5,13,18617
-Jim_Courier, 1970-08-17, 3,5,13,12517
-Laura_Chinchilla, 1959-03-28, 5,13,19,1973
-Leelee_Sobieski, 1983-06-10, 3,5,13,12541
-Miranda_Richardson, 1958-03-03, 5,13,37,1013
-Nawaz_Sharif, 1949-12-25, 5,5,13,7487
-Ronald_Golias, 1929-05-04, 5,13,67,557
-Sissy_Spacek, 1949-12-25, 5,5,13,7487
-Vyacheslav_Molotov, 1890-03-09, 5,13,23,1613
-Walter_Houser_Brattain, 1902-02-10, 2,5,13,18583
-William_Shockley, 1910-02-13, 5,13,127,293
+Adolphe_Thiers, 1797-04-15, 5,13,79,463, 32727.39024
+Alexander_von_Humboldt, 1769-09-14, 2,5,13,18211, 79015.54167
+Audrey_Hepburn, 1929-05-04, 5,13,67,557, 437288.7
+Ed_Asner, 1929-11-15, 2,5,13,18661, 98434.69231
+Erich_Ludendorff, 1865-04-09, 5,13,13,2843, 57164.22727
+Eugène_Terre'Blanche, 1941-01-31, 5,5,13,7477, 37253.44444
+Fabio_Quagliarella, 1983-01-31, 5,13,17,2213, 78678.25
+Gilbert_Arenas, 1982-01-06, 5,5,13,7523, 132246.7692
+Gotthard_Heinrici, 1886-12-25, 5,11,13,3371, 27364.62963
+Guy_Berryman, 1978-04-12, 2,5,13,18797, 70591.10714
+Hafez_al-Assad, 1930-10-06, 5,13,163,229, 75907.44444
+Jiang_Qing, 1914-03-19, 2,5,13,18617, 129517.3704
+Jim_Courier, 1970-08-17, 3,5,13,12517, 51740.05714
+Laura_Chinchilla, 1959-03-28, 5,13,19,1973, 22030.43182
+Leelee_Sobieski, 1983-06-10, 3,5,13,12541, 201184.6667
+Miranda_Richardson, 1958-03-03, 5,13,37,1013, 121284.6774
+Nawaz_Sharif, 1949-12-25, 5,5,13,7487, 54492.41667
+Sissy_Spacek, 1949-12-25, 5,5,13,7487, 117780.9744
+Vyacheslav_Molotov, 1890-03-09, 5,13,23,1613, 62059.30909
+Walter_Houser_Brattain, 1902-02-10, 2,5,13,18583, 9581.047619
+William_Shockley, 1910-02-13, 5,13,127,293, 25492

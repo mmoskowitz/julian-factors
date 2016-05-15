@@ -1,13 +1,13 @@
-Andre_Agassi, 1970-04-29, 5,37,79,167
-Charles_W._Fairbanks, 1852-05-11, 7,7,167,293
-Danny_Elfman, 1953-05-29, 2,37,167,197
-Ephraim_Katzir, 1916-05-16, 7,19,109,167
-Fernando_Henrique_Cardoso, 1931-06-18, 2,5,167,1453
-H._Rider_Haggard, 1856-06-22, 2,11,167,653
-Kevin_Keegan, 1951-02-14, 13,19,59,167
-Reba_McEntire, 1955-03-28, 2,23,167,317
-Rustam_Kasimdzhanov, 1979-12-05, 2,2,167,3659
-Salman_Rushdie, 1947-06-19, 3,5,167,971
-Stephan_Lichtsteiner, 1984-01-16, 5,29,101,167
-Thomas_Vermaelen, 1985-11-14, 3,19,167,257
-Uma_Thurman, 1970-04-29, 5,37,79,167
+Andre_Agassi, 1970-04-29, 5,37,79,167, 162956.9565
+Charles_W._Fairbanks, 1852-05-11, 7,7,167,293, 11555.26667
+Danny_Elfman, 1953-05-29, 2,37,167,197, 168895.5946
+Ephraim_Katzir, 1916-05-16, 7,19,109,167, 11172.40741
+Fernando_Henrique_Cardoso, 1931-06-18, 2,5,167,1453, 69111.59459
+H._Rider_Haggard, 1856-06-22, 2,11,167,653, 24528.36364
+Kevin_Keegan, 1951-02-14, 13,19,59,167, 68161.04762
+Reba_McEntire, 1955-03-28, 2,23,167,317, 178099.6071
+Rustam_Kasimdzhanov, 1979-12-05, 2,2,167,3659, 6776.483871
+Salman_Rushdie, 1947-06-19, 3,5,167,971, 150212.1884
+Stephan_Lichtsteiner, 1984-01-16, 5,29,101,167, 45860.03226
+Thomas_Vermaelen, 1985-11-14, 3,19,167,257, 68454
+Uma_Thurman, 1970-04-29, 5,37,79,167, 284231.2881

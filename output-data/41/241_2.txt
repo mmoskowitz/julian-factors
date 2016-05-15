@@ -1,9 +1,9 @@
-Alexander_Stepanovich_Popov, 1859-03-16, 23,241,433
-Andrei_Zhdanov, 1896-02-26, 5,241,2003
-Ben_Foster_(footballer), 1983-04-03, 73,139,241
-Brad_Friedel, 1971-05-18, 7,241,1447
-Enzo_Ferrari, 1898-02-18, 2,241,5009
-Greg_Kinnear, 1963-06-17, 67,151,241
-Hans-Georg_Gadamer, 1900-02-11, 11,241,911
-Helen_Hayes, 1900-10-10, 2,241,5011
-Joan_Baez, 1941-01-09, 3,241,3361
+Alexander_Stepanovich_Popov, 1859-03-16, 23,241,433, 14746.34286
+Andrei_Zhdanov, 1896-02-26, 5,241,2003, 22682.16129
+Ben_Foster_(footballer), 1983-04-03, 73,139,241, 4977.358974
+Brad_Friedel, 1971-05-18, 7,241,1447, 77224.375
+Enzo_Ferrari, 1898-02-18, 2,241,5009, 99143.11111
+Greg_Kinnear, 1963-06-17, 67,151,241, 119912.5152
+Hans-Georg_Gadamer, 1900-02-11, 11,241,911, 38515.5
+Helen_Hayes, 1900-10-10, 2,241,5011, 37545.93939
+Joan_Baez, 1941-01-09, 3,241,3361, 131972.4182

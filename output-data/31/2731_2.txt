@@ -1,2 +1,2 @@
-Artur_Rasizade, 1935-02-26, 7,127,2731
-Vittorio_Emanuele_Orlando, 1860-05-19, 3,293,2731
+Artur_Rasizade, 1935-02-26, 7,127,2731, 8494.096774
+Vittorio_Emanuele_Orlando, 1860-05-19, 3,293,2731, 19714.81481

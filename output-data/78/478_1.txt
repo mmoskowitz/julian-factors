@@ -1,4 +1,4 @@
-Geert_Wilders, 1963-09-06, 2,239,5101
-Howard_Webb, 1971-07-14, 2,239,5107
-Joseph_II,_Holy_Roman_Emperor, 1741-03-13, 2,239,4931
-Queen_Sonja_of_Norway, 1937-07-04, 2,239,5081
+Geert_Wilders, 1963-09-06, 2,239,5101, 85215.95556
+Howard_Webb, 1971-07-14, 2,239,5107, 68383.11905
+Joseph_II,_Holy_Roman_Emperor, 1741-03-13, 2,239,4931, 32234.57447
+Queen_Sonja_of_Norway, 1937-07-04, 2,239,5081, 27633.37931

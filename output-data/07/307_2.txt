@@ -1,4 +1,4 @@
-Hermann_Hoth, 1885-04-12, 47,167,307
-Rajon_Rondo, 1986-02-22, 13,307,613
-Robert_Delaunay, 1885-04-12, 47,167,307
-William_I_of_the_Netherlands, 1772-08-24, 5,307,1543
+Hermann_Hoth, 1885-04-12, 47,167,307, 30819.25806
+Rajon_Rondo, 1986-02-22, 13,307,613, 216829.1034
+Robert_Delaunay, 1885-04-12, 47,167,307, 49398.64516
+William_I_of_the_Netherlands, 1772-08-24, 5,307,1543, 48457.09375

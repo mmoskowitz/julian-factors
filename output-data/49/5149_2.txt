@@ -1,2 +1,2 @@
-Eugen_Bleuler, 1857-04-30, 2,19,233,271
-Frank-Walter_Steinmeier, 1956-01-05, 11,19,43,271
+Eugen_Bleuler, 1857-04-30, 2,19,233,271, 26694.51852
+Frank-Walter_Steinmeier, 1956-01-05, 11,19,43,271, 32510.325

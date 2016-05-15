@@ -1,4 +1,4 @@
-Dinara_Safina, 1986-04-27, 439,5573
-Luis_Barragán, 1902-03-09, 439,5503
-Roman_Shirokov, 1981-07-06, 439,5569
-Roy_Lichtenstein, 1923-10-27, 439,5521
+Dinara_Safina, 1986-04-27, 439,5573, 58573
+Luis_Barragán, 1902-03-09, 439,5503, 45945.9375
+Roman_Shirokov, 1981-07-06, 439,5569, 11149.85714
+Roy_Lichtenstein, 1923-10-27, 439,5521, 199549.0833

@@ -1,2 +1,2 @@
-Richard_E._Taylor, 1929-11-02, 3,13,17,3659
-Rustam_Kasimdzhanov, 1979-12-05, 2,2,167,3659
+Richard_E._Taylor, 1929-11-02, 3,13,17,3659, 8946
+Rustam_Kasimdzhanov, 1979-12-05, 2,2,167,3659, 6776.483871

@@ -1,2 +1,2 @@
-John_Millington_Synge, 1871-04-16, 3,97,8263
-Minnie_Driver, 1970-01-31, 3,97,8387
+John_Millington_Synge, 1871-04-16, 3,97,8263, 16639.14286
+Minnie_Driver, 1970-01-31, 3,97,8387, 206852.6296

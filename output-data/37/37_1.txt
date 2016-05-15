@@ -1,19 +1,19 @@
-Alfred_Hitchcock, 1899-08-13, 37,65267
-Andrus_Ansip, 1956-10-01, 37,65831
-Aron_Nimzowitsch, 1886-11-07, 37,65141
-Christian_VII_of_Denmark, 1749-01-29, 37,63781
-Claude_Cohen-Tannoudji, 1933-04-01, 37,65599
-David_Archuleta, 1990-12-28, 37,66169
-Edgar_Allan_Poe, 1809-01-19, 37,64373
-Francis_Peyton_Rous, 1879-10-05, 37,65071
-Gennaro_Gattuso, 1978-01-09, 37,66041
-Katie_Melua, 1984-09-16, 37,66107
-Katlego_Mphela, 1984-11-29, 37,66109
-Michael_Vartan, 1968-11-27, 37,65951
-Pierre_de_Marivaux, 1688-02-04, 37,63179
-Roman_Jakobson, 1896-10-11, 37,65239
-Simon_Pegg, 1970-02-14, 37,65963
-Tenzing_Norgay, 1914-05-29, 37,65413
-Tori_Amos, 1963-08-22, 37,65899
-Umberto_Boccioni, 1882-10-19, 37,65101
-Viktor_Korchnoi, 1931-03-23, 37,65579
+Alfred_Hitchcock, 1899-08-13, 37,65267, 232167.01
+Andrus_Ansip, 1956-10-01, 37,65831, 10090.82609
+Aron_Nimzowitsch, 1886-11-07, 37,65141, 12119.58621
+Christian_VII_of_Denmark, 1749-01-29, 37,63781, 47613.34483
+Claude_Cohen-Tannoudji, 1933-04-01, 37,65599, 12585.10256
+David_Archuleta, 1990-12-28, 37,66169, 236504.9143
+Edgar_Allan_Poe, 1809-01-19, 37,64373, 340889
+Francis_Peyton_Rous, 1879-10-05, 37,65071, 7366.689655
+Gennaro_Gattuso, 1978-01-09, 37,66041, 116553.5
+Katie_Melua, 1984-09-16, 37,66107, 127300.8333
+Katlego_Mphela, 1984-11-29, 37,66109, 12216
+Michael_Vartan, 1968-11-27, 37,65951, 110079.6
+Pierre_de_Marivaux, 1688-02-04, 37,63179, 43767.92593
+Roman_Jakobson, 1896-10-11, 37,65239, 44671.18421
+Simon_Pegg, 1970-02-14, 37,65963, 359027.2581
+Tenzing_Norgay, 1914-05-29, 37,65413, 40414.06349
+Tori_Amos, 1963-08-22, 37,65899, 153876.3421
+Umberto_Boccioni, 1882-10-19, 37,65101, 63206.4375
+Viktor_Korchnoi, 1931-03-23, 37,65579, 16561.53333

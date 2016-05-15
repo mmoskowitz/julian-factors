@@ -1,1 +1,1 @@
-Prince_William,_Duke_of_Cambridge, 1982-06-21, 3,815047
+Prince_William,_Duke_of_Cambridge, 1982-06-21, 3,815047, 28453.54054

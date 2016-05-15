@@ -1,13 +1,13 @@
-Elena_Vesnina, 1986-08-01, 29,239,353
-Geert_Wilders, 1963-09-06, 2,239,5101
-Günter_Netzer, 1944-09-14, 3,239,3391
-Helle_Thorning-Schmidt, 1966-12-14, 59,173,239
-Henry_Taube, 1915-11-30, 7,239,1447
-Howard_Webb, 1971-07-14, 2,239,5107
-James_Mason, 1909-05-15, 3,239,3373
-Joseph_II,_Holy_Roman_Emperor, 1741-03-13, 2,239,4931
-LeAnn_Rimes, 1982-08-28, 13,239,787
-Luigi_Pirandello, 1867-06-28, 5,239,2011
-Marouane_Fellaini, 1987-11-22, 3,239,3413
-Queen_Sonja_of_Norway, 1937-07-04, 2,239,5081
-Thiago_Motta, 1982-08-28, 13,239,787
+Elena_Vesnina, 1986-08-01, 29,239,353, 18942.39286
+Geert_Wilders, 1963-09-06, 2,239,5101, 85215.95556
+Günter_Netzer, 1944-09-14, 3,239,3391, 46582.93333
+Helle_Thorning-Schmidt, 1966-12-14, 59,173,239, 37901.69388
+Henry_Taube, 1915-11-30, 7,239,1447, 7692.909091
+Howard_Webb, 1971-07-14, 2,239,5107, 68383.11905
+James_Mason, 1909-05-15, 3,239,3373, 86869.69697
+Joseph_II,_Holy_Roman_Emperor, 1741-03-13, 2,239,4931, 32234.57447
+LeAnn_Rimes, 1982-08-28, 13,239,787, 226345.3704
+Luigi_Pirandello, 1867-06-28, 5,239,2011, 71267.64706
+Marouane_Fellaini, 1987-11-22, 3,239,3413, 132962.9667
+Queen_Sonja_of_Norway, 1937-07-04, 2,239,5081, 27633.37931
+Thiago_Motta, 1982-08-28, 13,239,787, 111053.4474

@@ -1,3 +1,3 @@
-Francis_I,_Holy_Roman_Emperor, 1708-12-08, 3,5,17,17,541
-Itamar_Franco, 1930-06-28, 5,17,17,23,73
-Léon_Foucault, 1819-09-18, 5,13,17,17,127
+Francis_I,_Holy_Roman_Emperor, 1708-12-08, 3,5,17,17,541, 13806.29787
+Itamar_Franco, 1930-06-28, 5,17,17,23,73, 28690
+Léon_Foucault, 1819-09-18, 5,13,17,17,127, 111946.6098

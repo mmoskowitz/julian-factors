@@ -1,4 +1,4 @@
-David_Tennant, 1971-04-18, 23,211,503
-Sotirios_Kyrgiakos, 1979-07-23, 43,113,503
-Wilhelm_von_Humboldt, 1767-06-22, 5,503,941
-William_Makepeace_Thackeray, 1811-07-18, 3,503,1579
+David_Tennant, 1971-04-18, 23,211,503, 379719.5294
+Sotirios_Kyrgiakos, 1979-07-23, 43,113,503, 34073.96774
+Wilhelm_von_Humboldt, 1767-06-22, 5,503,941, 33660.13462
+William_Makepeace_Thackeray, 1811-07-18, 3,503,1579, 30948.58824

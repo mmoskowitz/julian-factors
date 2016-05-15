@@ -1,2 +1,2 @@
-Ambroise_Thomas, 1811-08-05, 3,173,4591
-Wilt_Chamberlain, 1936-08-21, 3,173,4679
+Ambroise_Thomas, 1811-08-05, 3,173,4591, 11344.2963
+Wilt_Chamberlain, 1936-08-21, 3,173,4679, 241572.2727

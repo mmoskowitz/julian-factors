@@ -1,6 +1,6 @@
-Anni-Frid_Lyngstad, 1945-11-15, 2,281,4327
-John_F._Kennedy, 1917-05-29, 7,281,1231
-Leopold_I,_Holy_Roman_Emperor, 1640-06-09, 23,281,359
-Mick_Jagger, 1943-07-26, 41,211,281
-Rex_Harrison, 1908-03-05, 5,281,1721
-Roberto_Saviano, 1979-09-22, 2,281,4349
+Anni-Frid_Lyngstad, 1945-11-15, 2,281,4327, 100235.5135
+John_F._Kennedy, 1917-05-29, 7,281,1231, 496524.431
+Leopold_I,_Holy_Roman_Emperor, 1640-06-09, 23,281,359, 16281.6087
+Mick_Jagger, 1943-07-26, 41,211,281, 386252.1552
+Rex_Harrison, 1908-03-05, 5,281,1721, 60346.02703
+Roberto_Saviano, 1979-09-22, 2,281,4349, 77771.60714

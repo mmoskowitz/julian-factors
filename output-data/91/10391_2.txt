@@ -1,2 +1,2 @@
-Peter_III_of_Portugal, 1717-07-05, 2,113,10391
-Rufus_Wainwright, 1973-07-22, 5,47,10391
+Peter_III_of_Portugal, 1717-07-05, 2,113,10391, 9663.178571
+Rufus_Wainwright, 1973-07-22, 5,47,10391, 110838.9211

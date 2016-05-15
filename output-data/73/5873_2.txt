@@ -1,2 +1,2 @@
-A._C._Bhaktivedanta_Swami_Prabhupada, 1896-09-01, 3,7,137,839
-Daniel_Nathans, 1928-10-30, 7,7,59,839
+A._C._Bhaktivedanta_Swami_Prabhupada, 1896-09-01, 3,7,137,839, 29513.0303
+Daniel_Nathans, 1928-10-30, 7,7,59,839, 6806.419355

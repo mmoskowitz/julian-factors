@@ -1,115 +1,21 @@
-Adnan_Oktar, 1956-02-02, 3,5,17,9551
-Aldous_Huxley, 1894-07-26, 3,3,5,53623
-Andrei_Sakharov, 1921-05-21, 2,3,5,80761
-Antonio_Negri, 1933-08-01, 3,5,7,23117
-Arthur_Ashe, 1943-07-10, 3,5,17,9533
-Barack_Obama, 1961-08-04, 3,3,5,54167
-Ben_Roy_Mottelson, 1926-07-09, 3,5,109,1483
-Benito_Pérez_Galdós, 1843-05-10, 2,3,5,79811
-Benny_Hill, 1924-01-21, 3,5,349,463
-Billy_Joel, 1949-05-09, 3,5,19,8537
-Boudewijn_Zenden, 1976-08-15, 3,3,5,54289
-Bruno_Ganz, 1941-03-22, 3,5,5,32401
-Buster_Keaton, 1895-10-04, 2,3,5,80449
-Carl_Sandburg, 1878-01-06, 2,3,5,80233
-Channing_Tatum, 1980-04-26, 3,3,5,54319
-Charles_Dickens, 1812-02-07, 3,5,23,6907
-Charles_Perrault, 1628-01-12, 3,5,317,487
-Charles_Trenet, 1913-05-18, 3,5,29,5563
-Chiang_Kai-shek, 1887-10-31, 3,5,5,32141
-Clifford_D._Simak, 1904-08-03, 3,5,367,439
-D._H._Lawrence, 1885-09-11, 3,3,5,53551
-Damian_Marley, 1978-07-21, 2,3,5,81457
-Dashiell_Hammett, 1894-05-27, 3,5,5,32173
-Dennis_Hopper, 1936-05-17, 3,5,11,14717
-Diego_Benaglio, 1983-09-08, 3,5,19,8581
-Douglas_Haig,_1st_Earl_Haig, 1861-06-19, 3,5,67,2389
-Drew_Barrymore, 1975-02-22, 3,3,5,54277
-Duff_McKagan, 1964-02-05, 2,3,5,81281
-Edward_Teller, 1908-01-15, 3,5,331,487
-Endre_Ady, 1877-11-22, 3,5,17,9439
-Fabien_Barthez, 1971-06-28, 2,3,5,81371
-Federico_García_Lorca, 1898-06-05, 3,5,11,14633
-Fernando_da_Piedade_Dias_dos_Santos, 1950-03-05, 3,5,31,5233
-Frederick_VI_of_Denmark, 1768-01-28, 3,5,29,5441
-Gabriel_García_Márquez, 1927-03-06, 3,5,41,3943
-Georg_Michaelis, 1857-09-08, 3,5,7,22853
-Geri_Halliwell, 1972-08-06, 3,5,139,1171
-Gisela_Dulko, 1985-01-30, 3,5,313,521
-Giuseppe_Bergomi, 1963-12-22, 3,5,149,1091
-Gordon_Cooper, 1927-03-06, 3,5,41,3943
-Grafite, 1979-04-02, 3,5,61,2671
-Isadora_Duncan, 1877-05-26, 3,5,281,571
-Isoroku_Yamamoto, 1884-04-04, 2,3,5,80309
-James_Blake_(tennis), 1979-12-28, 3,5,47,3467
-James_Brown, 1933-05-03, 3,5,103,1571
-Jean_Baptiste_Perrin, 1870-09-30, 3,5,89,1801
-Jerry_Brown, 1938-04-07, 3,5,83,1951
-Jet_Li, 1963-04-26, 3,3,5,54181
-Jim_Courier, 1970-08-17, 3,5,13,12517
-Jimi_Hendrix, 1942-11-27, 2,3,5,81023
-Jiří_Paroubek, 1952-08-21, 3,5,11,14753
-Joan_Gamper, 1877-11-22, 3,5,17,9439
-Joe_Cocker, 1944-05-20, 2,3,5,81041
-Joe_Louis, 1914-05-13, 3,5,47,3433
-Joe_Strummer, 1952-08-21, 3,5,11,14753
-John_Franklin_Enders, 1897-02-10, 3,5,23,6997
-Jon_Bon_Jovi, 1962-03-02, 3,5,5,32503
-Jordana_Brewster, 1980-04-26, 3,3,5,54319
-Josh_Hartnett, 1978-07-21, 2,3,5,81457
-José_Rizal, 1861-06-19, 3,5,67,2389
-Juan_Pablo_Montoya, 1975-09-20, 3,5,5,32569
-Justin_Bartha, 1978-07-21, 2,3,5,81457
-Karl_Renner, 1870-12-14, 2,3,5,80147
-Karl_von_Frisch, 1886-11-20, 2,3,5,80341
-Keith_Moon, 1946-08-23, 3,5,281,577
-Kiri_Te_Kanawa, 1944-03-06, 3,5,61,2657
-Laura_Linney, 1964-02-05, 2,3,5,81281
-Leelee_Sobieski, 1983-06-10, 3,5,13,12541
-Louis-Ferdinand_Céline, 1894-05-27, 3,5,5,32173
-Louis_Kahn, 1901-02-20, 3,5,11,14639
-Luc_Besson, 1959-03-18, 3,5,61,2663
-Luciano_Floridi, 1964-11-16, 3,5,367,443
-Lucien_Bonaparte, 1775-05-21, 3,5,47,3361
-Malam_Bacai_Sanhá, 1947-05-05, 2,3,5,81077
-Manny_Mori, 1948-12-25, 2,3,5,81097
-Mathieu_Kassovitz, 1967-08-03, 3,5,41,3967
-Matti_Vanhanen, 1955-11-04, 3,5,229,709
-Max_Müller, 1823-12-06, 3,5,61,2609
-Michael_Biehn, 1956-07-31, 3,5,7,23197
-Mike_Shinoda, 1977-02-11, 3,3,5,54293
-Miloš_Krasić, 1984-11-01, 3,5,29,5623
-Muhammad_Naguib, 1901-02-20, 3,5,11,14639
-Nathuram_Godse, 1910-05-19, 2,3,5,80627
-Nestor_Carbonell, 1967-12-01, 3,5,5,32531
-Noomi_Rapace, 1979-12-28, 3,5,47,3467
-Osamu_Shimomura, 1928-08-27, 3,5,97,1667
-Owen_Chamberlain, 1920-07-10, 3,5,29,5569
-Paulette_Goddard, 1910-06-03, 3,5,5,32251
-Peggy_Lee, 1920-05-26, 2,3,5,80749
-Percy_Bysshe_Shelley, 1792-08-04, 2,3,5,79193
-Phil_Hill, 1927-04-20, 2,3,5,80833
-Plácido_Domingo, 1941-01-21, 3,5,7,23143
-Pope_Pius_XII, 1876-03-02, 3,5,59,2719
-Porfirio_Díaz, 1830-09-15, 2,3,5,79657
-Ralph_Waldo_Emerson, 1803-05-25, 3,3,5,52883
-Ricardo_Zamora, 1901-01-21, 3,5,283,569
-Richard_Sorge, 1895-10-04, 2,3,5,80449
-Robert_Wise, 1914-09-10, 3,5,11,14669
-Roger_Garaudy, 1913-07-17, 3,3,5,53777
-Roh_Tae-woo, 1932-12-04, 3,5,239,677
-Sally_Field, 1946-11-06, 2,3,5,81071
-Salman_Rushdie, 1947-06-19, 3,5,167,971
-Samuel_Richardson, 1689-08-19, 3,5,97,1607
-Semyon_Budyonny, 1883-04-25, 3,5,5,32119
-Steven_Weinberg, 1933-05-03, 3,5,103,1571
-Stjepan_Mesić, 1934-12-24, 3,3,5,53951
-Süleyman_Demirel, 1924-11-01, 2,3,5,80803
-Ted_Hughes, 1930-08-17, 3,5,19,8513
-Thomas_Klestil, 1932-11-04, 3,5,37,4373
-Thomas_Muster, 1967-10-02, 3,3,5,54217
-Tony_Hibbert, 1981-02-20, 3,5,79,2063
-Vincent_Kompany, 1986-04-10, 2,3,5,81551
-Wally_Schirra, 1923-03-12, 2,3,5,80783
-William_A._Wheeler, 1819-06-30, 3,5,157,1013
-Évariste_Galois, 1811-10-25, 2,3,5,79427
+Barack_Obama, 1961-08-04, 3,3,5,54167, 562682.885
+Billy_Joel, 1949-05-09, 3,5,19,8537, 301556.5135
+Channing_Tatum, 1980-04-26, 3,3,5,54319, 932963
+Charles_Dickens, 1812-02-07, 3,5,23,6907, 246553.3043
+Damian_Marley, 1978-07-21, 2,3,5,81457, 312379.6923
+Dennis_Hopper, 1936-05-17, 3,5,11,14717, 233161.0833
+Drew_Barrymore, 1975-02-22, 3,3,5,54277, 429028.9423
+Gabriel_García_Márquez, 1927-03-06, 3,5,41,3943, 191059.2524
+Geri_Halliwell, 1972-08-06, 3,5,139,1171, 198251.4706
+James_Brown, 1933-05-03, 3,5,103,1571, 200526.6207
+Jet_Li, 1963-04-26, 3,3,5,54181, 420854.8333
+Jimi_Hendrix, 1942-11-27, 2,3,5,81023, 475428.2892
+Joe_Strummer, 1952-08-21, 3,5,11,14753, 228105.8077
+Jon_Bon_Jovi, 1962-03-02, 3,5,5,32503, 297354.7333
+Jordana_Brewster, 1980-04-26, 3,3,5,54319, 394103.2759
+Josh_Hartnett, 1978-07-21, 2,3,5,81457, 302689.641
+Justin_Bartha, 1978-07-21, 2,3,5,81457, 260244.7037
+Keith_Moon, 1946-08-23, 3,5,281,577, 253604.069
+Leelee_Sobieski, 1983-06-10, 3,5,13,12541, 201184.6667
+Noomi_Rapace, 1979-12-28, 3,5,47,3467, 315876.9
+Sally_Field, 1946-11-06, 2,3,5,81071, 190634.25

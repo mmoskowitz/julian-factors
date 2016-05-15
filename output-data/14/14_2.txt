@@ -1,121 +1,21 @@
-Abdelaziz_Bouteflika, 1937-03-02, 2,7,41,4231
-Adewale_Akinnuoye-Agbaje, 1967-08-22, 2,2,7,87133
-Alberto_Granado, 1922-08-08, 2,3,7,57697
-Alberto_Sordi, 1920-06-15, 2,5,7,34607
-Alexander_I_of_Russia, 1777-12-23, 2,2,7,84659
-Alvin_E._Roth, 1951-12-18, 2,7,23,7559
-Ashton_Kutcher, 1978-02-07, 2,7,17,10267
-Asif_Ali_Zardari, 1955-07-26, 2,7,197,883
-Atom_Egoyan, 1960-07-19, 2,3,7,58027
-Attila_József, 1905-04-11, 2,7,31,5569
-B._R._Ambedkar, 1891-04-14, 2,2,7,86137
-Blanka_Vlašić, 1983-11-08, 2,7,73,2393
-Bruno_Mars, 1985-10-08, 2,7,197,887
-Carmen_Miranda, 1909-02-09, 2,7,7,24677
-Charlie_Chaplin, 1889-04-16, 2,2,7,86111
-Chris_Tucker, 1971-08-31, 2,7,127,1373
-Cicinho, 1980-06-24, 2,7,7,24943
-Corbin_Bleu, 1989-02-21, 2,7,79,2213
-Cyrus_Vance, 1917-03-27, 2,7,97,1783
-Daniel_Van_Buyten, 1978-02-07, 2,7,17,10267
-David_Carradine, 1936-12-08, 2,5,7,34693
-Derrick_Rose, 1988-10-04, 2,7,59,2963
-Don_McLean, 1945-10-02, 2,5,7,34739
-Dwight_D._Eisenhower, 1890-10-14, 2,7,17,10133
-Edward_Burnett_Tylor, 1832-10-02, 2,7,73,2339
-Edward_Drinker_Cope, 1840-07-28, 2,7,11,15541
-Edward_Lawrie_Tatum, 1909-12-14, 2,3,7,57587
-Eleftherios_Venizelos, 1864-08-23, 2,3,7,57193
-Erich_von_Stroheim, 1885-09-22, 2,7,43,4003
-Eva_Braun, 1912-02-06, 2,7,43,4019
-Ferdinand_Marcos, 1917-09-11, 2,7,7,24709
-Friedrich_Nietzsche, 1844-10-15, 2,7,11,15551
-George_F._Kennan, 1904-02-16, 2,7,101,1709
-George_Pólya, 1887-12-13, 2,7,233,739
-Giuseppe_Meazza, 1910-08-23, 2,3,7,57593
-Goh_Chok_Tong, 1941-05-20, 2,7,23,7547
-Hakan_Yakin, 1977-02-22, 2,2,7,87257
-Hal_Holbrook, 1925-02-17, 2,3,7,57719
-Harry_Houdini, 1874-03-24, 2,7,7,24547
-Helmuth_von_Moltke_the_Younger, 1848-05-23, 2,5,7,34231
-Henrique_Hilário, 1975-10-21, 2,7,149,1171
-Iris_Murdoch, 1919-07-15, 2,7,31,5581
-J._Edgar_Hoover, 1895-01-01, 2,3,7,57457
-James_Caan, 1940-03-26, 2,7,7,24793
-Jane_Goodall, 1934-04-03, 2,5,7,34679
-Janica_Kostelić, 1982-01-05, 2,7,17,10273
-Jaroslav_Plašil, 1982-01-05, 2,7,17,10273
-Javier_Solana, 1942-07-14, 2,7,139,1249
-Jay-Jay_Okocha, 1973-08-14, 2,2,7,87211
-Jean-Pierre_Raffarin, 1948-08-03, 2,3,7,57923
-Jenna_Jameson, 1974-04-09, 2,7,19,9181
-Jeremy_Lin, 1988-08-23, 2,2,7,87407
-Jeremy_Wariner, 1984-01-31, 2,5,7,34939
-Jo_Nesbø, 1960-03-29, 2,7,109,1597
-Joe_Pesci, 1943-02-09, 2,2,7,86813
-John_Grisham, 1955-02-08, 2,7,281,619
-John_Stuart_Mill, 1806-05-20, 2,7,173,983
-Jonathan_Demme, 1944-02-22, 2,7,211,823
-Jorge_Batlle_Ibáñez, 1927-10-25, 2,7,311,557
-Karolos_Papoulias, 1929-06-04, 2,7,163,1063
-Karolína_Kurková, 1984-02-28, 2,7,97,1801
-Kenan_Evren, 1917-07-17, 2,3,7,57653
-Kenneth_Arrow, 1921-08-23, 2,2,7,86533
-Kim_Young-sam, 1927-12-20, 2,7,211,821
-Kristin_Davis, 1965-02-23, 2,3,7,58067
-Kārlis_Ulmanis, 1877-09-04, 2,7,11,15629
-Lauren_Bacall, 1924-09-16, 2,2,7,86573
-Layne_Staley, 1967-08-22, 2,2,7,87133
-Lee_Marvin, 1924-02-19, 2,7,7,24733
-Lev_Yashin, 1929-10-22, 2,7,241,719
-Lou_Andreas-Salomé, 1861-02-12, 2,7,223,769
-Ludwig_III_of_Bavaria, 1845-01-07, 2,7,13,13159
-Luigi_Einaudi, 1874-03-24, 2,7,7,24547
-Lázaro_Cárdenas, 1895-05-21, 2,7,11,15671
-Léon_Blum, 1872-04-09, 2,2,7,85889
-Margaret_Thatcher, 1925-10-13, 2,2,7,86587
-Mario_Yepes, 1976-01-13, 2,5,7,34897
-Mark_Cavendish, 1985-05-21, 2,3,7,58243
-Marlee_Matlin, 1965-08-24, 2,2,7,87107
-Maurice_Druon, 1918-04-23, 2,7,41,4219
-Max_Beckmann, 1884-02-12, 2,7,37,4651
-Method_Man, 1971-03-02, 2,2,7,87179
-Michael_Clarke_Duncan, 1957-12-10, 2,7,7,24859
-Michel_Butor, 1926-09-14, 2,2,7,86599
-Michelle_Pfeiffer, 1958-04-29, 2,7,101,1723
-Nancy_Pelosi, 1940-03-26, 2,7,7,24793
-Natalie_Portman, 1981-06-09, 2,2,7,87313
-Octavio_Paz, 1914-03-31, 2,7,17,10169
-Otto_Lilienthal, 1848-05-23, 2,5,7,34231
-P._V._Narasimha_Rao, 1921-06-28, 2,2,7,86531
-Paula_Abdul, 1962-06-19, 2,7,17,10243
-Pavel_Pogrebnyak, 1983-11-08, 2,7,73,2393
-Peter_Behrens, 1868-04-14, 2,2,7,85837
-Philippe_Mexès, 1982-03-30, 2,7,11,15877
-Phyllis_Diller, 1917-07-17, 2,3,7,57653
-Rabindranath_Tagore, 1861-05-07, 2,7,7,24499
-Randy_Orton, 1980-04-01, 2,5,7,34919
-Ray_Charles, 1930-09-23, 2,7,13,13331
-Raymond_Aron, 1905-03-14, 2,7,29,5953
-Reggie_Miller, 1965-08-24, 2,2,7,87107
-Robert_Schuman, 1886-06-29, 2,3,7,57383
-Roger_Guerreiro, 1982-05-25, 2,3,7,58217
-Roy_J._Glauber, 1925-09-01, 2,7,157,1103
-Ruslan_Ponomariov, 1983-10-11, 2,3,7,58229
-Saoirse_Ronan, 1994-04-12, 2,7,23,7607
-Sathya_Sai_Baba, 1926-11-23, 2,7,379,457
-Shane_Smeltz, 1981-09-29, 2,2,7,87317
-Shinzō_Abe, 1954-09-21, 2,7,7,24847
-Ségolène_Royal, 1953-09-22, 2,7,23,7561
-Tariq_Aziz, 1936-04-28, 2,7,29,5981
-Thomas_Hardy, 1840-06-02, 2,7,7,24421
-Thomas_Paine, 1737-01-29, 2,7,311,541
-Tim_Howard, 1979-03-06, 2,3,7,58189
-Vladimir_Putin, 1952-10-07, 2,2,7,86939
-Wacław_Sierpiński, 1882-03-14, 2,7,89,1933
-Wendell_Meredith_Stanley, 1904-08-16, 2,2,7,86311
-Werner_Mölders, 1913-03-18, 2,2,7,86423
-Wilhelmina_of_the_Netherlands, 1880-08-31, 2,7,7,24571
-William_Fichtner, 1956-11-27, 2,2,7,86993
-William_Stanley_Jevons, 1835-09-01, 2,3,7,56941
-William_Tecumseh_Sherman, 1820-02-08, 2,7,13,13109
+Ashton_Kutcher, 1978-02-07, 2,7,17,10267, 705775.8269
+Bruno_Mars, 1985-10-08, 2,7,197,887, 722974.2453
+Charlie_Chaplin, 1889-04-16, 2,2,7,86111, 266311.0828
+Chris_Tucker, 1971-08-31, 2,7,127,1373, 263359.5758
+David_Carradine, 1936-12-08, 2,5,7,34693, 320729.3902
+Derrick_Rose, 1988-10-04, 2,7,59,2963, 278586.3429
+Friedrich_Nietzsche, 1844-10-15, 2,7,11,15551, 336278.3761
+Harry_Houdini, 1874-03-24, 2,7,7,24547, 320546.1818
+J._Edgar_Hoover, 1895-01-01, 2,3,7,57457, 482368.7353
+Jenna_Jameson, 1974-04-09, 2,7,19,9181, 629642.0417
+Jeremy_Lin, 1988-08-23, 2,2,7,87407, 412149.7857
+Layne_Staley, 1967-08-22, 2,2,7,87133, 275573
+Margaret_Thatcher, 1925-10-13, 2,2,7,86587, 390109.7604
+Method_Man, 1971-03-02, 2,2,7,87179, 269969.8929
+Michael_Clarke_Duncan, 1957-12-10, 2,7,7,24859, 361969.6111
+Michelle_Pfeiffer, 1958-04-29, 2,7,101,1723, 282408.9074
+Natalie_Portman, 1981-06-09, 2,2,7,87313, 583969.4487
+Paula_Abdul, 1962-06-19, 2,7,17,10243, 242286.2619
+Randy_Orton, 1980-04-01, 2,5,7,34919, 614329.4474
+Ray_Charles, 1930-09-23, 2,7,13,13331, 252833.7727
+Saoirse_Ronan, 1994-04-12, 2,7,23,7607, 322028.5161

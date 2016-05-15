@@ -1,3 +1,3 @@
-David_Ricardo, 1772-04-18, 3,3,11,47,509
-Humberto_de_Alencar_Castelo_Branco, 1897-09-20, 3,3,17,31,509
-Vanessa_Paradis, 1972-12-22, 3,3,13,41,509
+David_Ricardo, 1772-04-18, 3,3,11,47,509, 102154.6923
+Humberto_de_Alencar_Castelo_Branco, 1897-09-20, 3,3,17,31,509, 30509.75862
+Vanessa_Paradis, 1972-12-22, 3,3,13,41,509, 306168.0238

@@ -1,11 +1,11 @@
-Aleksandr_Solzhenitsyn, 1918-12-11, 2,293,4133
-Anna_Bergendahl, 1991-12-11, 61,137,293
-David_Bowie, 1947-01-08, 3,293,2767
-Kirstie_Alley, 1951-01-12, 2,293,4153
-Michael_C._Hall, 1971-02-01, 3,293,2777
-Pierre-Joseph_Proudhon, 1809-01-15, 11,293,739
-Rush_Limbaugh, 1951-01-12, 2,293,4153
-Vittorio_Emanuele_Orlando, 1860-05-19, 3,293,2731
-Yuri_Gagarin, 1934-03-09, 5,293,1657
-Zhang_Ziyi, 1979-02-09, 19,293,439
-Zlatko_Zahovič, 1971-02-01, 3,293,2777
+Aleksandr_Solzhenitsyn, 1918-12-11, 2,293,4133, 49846.02198
+Anna_Bergendahl, 1991-12-11, 61,137,293, 9161.942857
+David_Bowie, 1947-01-08, 3,293,2767, 498752.7761
+Kirstie_Alley, 1951-01-12, 2,293,4153, 267111.4828
+Michael_C._Hall, 1971-02-01, 3,293,2777, 383879.4571
+Pierre-Joseph_Proudhon, 1809-01-15, 11,293,739, 42479.41176
+Rush_Limbaugh, 1951-01-12, 2,293,4153, 231943.8889
+Vittorio_Emanuele_Orlando, 1860-05-19, 3,293,2731, 19714.81481
+Yuri_Gagarin, 1934-03-09, 5,293,1657, 127505.9916
+Zhang_Ziyi, 1979-02-09, 19,293,439, 175378.907
+Zlatko_Zahovič, 1971-02-01, 3,293,2777, 19408.30769

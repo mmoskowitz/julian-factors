@@ -1,2 +1,2 @@
-Christopher_Tolkien, 1924-11-21, 2,5,13,29,643
-Per_Mertesacker, 1984-09-29, 2,2,3,317,643
+Christopher_Tolkien, 1924-11-21, 2,5,13,29,643, 54680.19231
+Per_Mertesacker, 1984-09-29, 2,2,3,317,643, 67668.61364

@@ -1,6 +1,6 @@
-Andreas_Papandreou, 1919-02-05, 2,53,73,313
-Danny_Boyle, 1956-10-20, 2,3,313,1297
-Hanna_Reitsch, 1912-03-29, 2,5,313,773
-Madame_de_Pompadour, 1721-12-29, 2,2,313,1877
-Margaret_Mead, 1901-12-16, 2,17,227,313
-Nikolai_Fyodorovich_Vatutin, 1901-12-16, 2,17,227,313
+Andreas_Papandreou, 1919-02-05, 2,53,73,313, 33738.75758
+Danny_Boyle, 1956-10-20, 2,3,313,1297, 148778.2222
+Hanna_Reitsch, 1912-03-29, 2,5,313,773, 54957.67857
+Madame_de_Pompadour, 1721-12-29, 2,2,313,1877, 127294.9762
+Margaret_Mead, 1901-12-16, 2,17,227,313, 64016.8
+Nikolai_Fyodorovich_Vatutin, 1901-12-16, 2,17,227,313, 10568.92308

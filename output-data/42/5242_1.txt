@@ -1,2 +1,2 @@
-Little_Richard, 1932-12-05, 2,463,2621
-Sheldon_Lee_Glashow, 1932-12-05, 2,463,2621
+Little_Richard, 1932-12-05, 2,463,2621, 224243.2414
+Sheldon_Lee_Glashow, 1932-12-05, 2,463,2621, 10748.85366

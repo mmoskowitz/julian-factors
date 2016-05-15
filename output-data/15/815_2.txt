@@ -1,4 +1,4 @@
-Hafez_al-Assad, 1930-10-06, 5,13,163,229
-Jacobus_Henricus_van_'t_Hoff, 1852-08-30, 2,5,163,1471
-Stanislav_Petrov, 1939-09-09, 5,11,163,271
-Thorbjørn_Jagland, 1950-11-05, 2,5,163,1493
+Hafez_al-Assad, 1930-10-06, 5,13,163,229, 75907.44444
+Jacobus_Henricus_van_'t_Hoff, 1852-08-30, 2,5,163,1471, 11831.32727
+Stanislav_Petrov, 1939-09-09, 5,11,163,271, 83845.06667
+Thorbjørn_Jagland, 1950-11-05, 2,5,163,1493, 12401.78125

@@ -1,9 +1,9 @@
-Augustus_II_the_Strong, 1670-05-12, 2,347,3359
-Christian_Slater, 1969-08-18, 13,347,541
-Edward_Norton, 1969-08-18, 13,347,541
-Emmy_Noether, 1882-03-23, 11,347,631
-John_James_Audubon, 1785-04-26, 7,347,977
-Kim_Jong-il, 1941-02-16, 47,149,347
-Luciano_Spalletti, 1959-03-07, 2,347,3511
-Thomas_Gainsborough, 1727-05-14, 2,347,3389
-Victoria_Azarenka, 1989-07-31, 2,347,3527
+Augustus_II_the_Strong, 1670-05-12, 2,347,3359, 40949.64865
+Christian_Slater, 1969-08-18, 13,347,541, 228277.9394
+Edward_Norton, 1969-08-18, 13,347,541, 359733.8596
+Emmy_Noether, 1882-03-23, 11,347,631, 38405.54054
+John_James_Audubon, 1785-04-26, 7,347,977, 105657.8667
+Kim_Jong-il, 1941-02-16, 47,149,347, 253617.9011
+Luciano_Spalletti, 1959-03-07, 2,347,3511, 39900.11111
+Thomas_Gainsborough, 1727-05-14, 2,347,3389, 34684.83333
+Victoria_Azarenka, 1989-07-31, 2,347,3527, 106898

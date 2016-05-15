@@ -1,2 +1,2 @@
-August_Krogh, 1874-11-15, 2,431,2791
-Erich_Maria_Remarque, 1898-06-22, 2,431,2801
+August_Krogh, 1874-11-15, 2,431,2791, 6681.702703
+Erich_Maria_Remarque, 1898-06-22, 2,431,2801, 53740.57353

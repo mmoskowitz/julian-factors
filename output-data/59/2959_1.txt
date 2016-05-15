@@ -1,3 +1,3 @@
-Brian_Kobilka, 1955-05-30, 11,269,823
-Darron_Gibson, 1987-10-25, 11,269,827
-Giovanni_Trapattoni, 1939-03-17, 11,269,821
+Brian_Kobilka, 1955-05-30, 11,269,823, 6740.473684
+Darron_Gibson, 1987-10-25, 11,269,827, 48398.51613
+Giovanni_Trapattoni, 1939-03-17, 11,269,821, 84015.85294

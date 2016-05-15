@@ -1,22 +1,21 @@
-Beau_Bridges, 1941-12-09, 7,13,17,1571
-Birgit_Prinz, 1977-10-25, 7,11,13,2441
-Claude_Chabrol, 1930-06-24, 3,7,13,8887
-Ed_Harris, 1950-11-28, 7,13,47,569
-Francisco_Javier_Rodríguez, 1981-10-20, 7,13,67,401
-George_Stigler, 1911-01-17, 3,7,13,8861
-Henri_Moissan, 1852-09-28, 3,7,13,8783
-Ivars_Godmanis, 1951-11-27, 7,7,13,3821
-John_Logie_Baird, 1888-08-14, 3,7,13,8831
-Kathryn_Bigelow, 1951-11-27, 7,7,13,3821
-Ludwig_III_of_Bavaria, 1845-01-07, 2,7,13,13159
-Matthew_McConaughey, 1969-11-04, 7,13,13,2063
-Ofra_Haza, 1957-11-19, 7,13,19,1409
-Pope_Pius_VII, 1742-08-14, 7,7,13,3701
-Pyotr_Nikolayevich_Wrangel, 1878-08-27, 7,7,13,3779
-Ray_Charles, 1930-09-23, 2,7,13,13331
-Russell_Alan_Hulse, 1950-11-28, 7,13,47,569
-Santiago_Bernabéu_Yeste, 1895-08-06, 7,11,13,2411
-Sean_Combs, 1969-11-04, 7,13,13,2063
-Vernon_Chatman, 1972-10-31, 7,7,13,3833
-Walter_Scheel, 1919-07-08, 7,13,43,619
-William_Tecumseh_Sherman, 1820-02-08, 2,7,13,13109
+Beau_Bridges, 1941-12-09, 7,13,17,1571, 131047.3077
+Birgit_Prinz, 1977-10-25, 7,11,13,2441, 44847.07407
+Claude_Chabrol, 1930-06-24, 3,7,13,8887, 54301
+Ed_Harris, 1950-11-28, 7,13,47,569, 166717.119
+Francisco_Javier_Rodríguez, 1981-10-20, 7,13,67,401, 28622.96296
+George_Stigler, 1911-01-17, 3,7,13,8861, 16775.25806
+Henri_Moissan, 1852-09-28, 3,7,13,8783, 8804.137255
+Ivars_Godmanis, 1951-11-27, 7,7,13,3821, 7800.137931
+John_Logie_Baird, 1888-08-14, 3,7,13,8831, 48682.83019
+Kathryn_Bigelow, 1951-11-27, 7,7,13,3821, 122523.5
+Ludwig_III_of_Bavaria, 1845-01-07, 2,7,13,13159, 22652.92857
+Matthew_McConaughey, 1969-11-04, 7,13,13,2063, 413178.9167
+Ofra_Haza, 1957-11-19, 7,13,19,1409, 91383.25
+Pope_Pius_VII, 1742-08-14, 7,7,13,3701, 25238.51613
+Pyotr_Nikolayevich_Wrangel, 1878-08-27, 7,7,13,3779, 15690.42424
+Ray_Charles, 1930-09-23, 2,7,13,13331, 252833.7727
+Santiago_Bernabéu_Yeste, 1895-08-06, 7,11,13,2411, 43065.96774
+Sean_Combs, 1969-11-04, 7,13,13,2063, 492898.4412
+Vernon_Chatman, 1972-10-31, 7,7,13,3833, 11696.29032
+Walter_Scheel, 1919-07-08, 7,13,43,619, 39056.94872
+William_Tecumseh_Sherman, 1820-02-08, 2,7,13,13109, 96707.375

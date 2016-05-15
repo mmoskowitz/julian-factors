@@ -1,4 +1,4 @@
-Anna_Netrebko, 1971-09-18, 2,2,67,9109
-Antonio_López_de_Santa_Anna, 1794-02-21, 2,2,67,8867
-Jada_Pinkett_Smith, 1971-09-18, 2,2,67,9109
-Lance_Armstrong, 1971-09-18, 2,2,67,9109
+Anna_Netrebko, 1971-09-18, 2,2,67,9109, 64230.06897
+Antonio_López_de_Santa_Anna, 1794-02-21, 2,2,67,8867, 152827.3243
+Jada_Pinkett_Smith, 1971-09-18, 2,2,67,9109, 498196.2593
+Lance_Armstrong, 1971-09-18, 2,2,67,9109, 241006.1081

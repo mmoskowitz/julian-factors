@@ -1,2 +1,2 @@
-George_Herbert,_5th_Earl_of_Carnarvon, 1866-06-26, 2,3,7,19,3011
-Lindsay_Anderson, 1923-04-17, 2,3,7,19,3037
+George_Herbert,_5th_Earl_of_Carnarvon, 1866-06-26, 2,3,7,19,3011, 3725.962963
+Lindsay_Anderson, 1923-04-17, 2,3,7,19,3037, 18488.42308

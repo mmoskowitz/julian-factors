@@ -1,2 +1,2 @@
-John_Archibald_Wheeler, 1911-07-09, 2,881,1373
-Mark_Spitz, 1950-02-10, 2,881,1381
+John_Archibald_Wheeler, 1911-07-09, 2,881,1373, 29181.88889
+Mark_Spitz, 1950-02-10, 2,881,1381, 81839.44444

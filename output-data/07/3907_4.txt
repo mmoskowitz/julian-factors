@@ -1,2 +1,2 @@
-Christian_Vieri, 1973-07-12, 5,5,5,5,3907
-Immanuel_Wallerstein, 1930-09-28, 3,3,3,23,3907
+Christian_Vieri, 1973-07-12, 5,5,5,5,3907, 112394.1429
+Immanuel_Wallerstein, 1930-09-28, 3,3,3,23,3907, 51488.03571

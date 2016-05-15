@@ -1,2 +1,2 @@
-Gianluca_Zambrotta, 1977-02-19, 619,3947
-Glenn_T._Seaborg, 1912-04-19, 613,3947
+Gianluca_Zambrotta, 1977-02-19, 619,3947, 70723.48837
+Glenn_T._Seaborg, 1912-04-19, 613,3947, 20086.36585

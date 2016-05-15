@@ -1,2 +1,2 @@
-Hayley_Williams, 1988-12-27, 2,7,11,23,691
-Nevill_Francis_Mott, 1905-09-30, 2,3,11,53,691
+Hayley_Williams, 1988-12-27, 2,7,11,23,691, 459394.0833
+Nevill_Francis_Mott, 1905-09-30, 2,3,11,53,691, 6819.625

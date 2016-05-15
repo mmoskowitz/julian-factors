@@ -1,3 +1,3 @@
-Benjamin_Netanyahu, 1949-10-21, 2,3,5,13,17,367
-Domenico_Modugno, 1928-01-09, 2,3,13,17,31,59
-Victoria,_Princess_Royal, 1840-11-21, 2,3,5,13,17,361
+Benjamin_Netanyahu, 1949-10-21, 2,3,5,13,17,367, 95817.34286
+Domenico_Modugno, 1928-01-09, 2,3,13,17,31,59, 57215.81081
+Victoria,_Princess_Royal, 1840-11-21, 2,3,5,13,17,361, 8031.59375

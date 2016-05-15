@@ -1,26 +1,21 @@
-Aleksander_Kwaśniewski, 1954-11-15, 3,73,11119
-Arnold_Sommerfeld, 1868-12-05, 19,73,1733
-Ben_Foster_(footballer), 1983-04-03, 73,139,241
-Bertil_Ohlin, 1899-04-23, 19,73,1741
-Buddy_Holly, 1936-09-07, 2,73,16633
-Claudio_Marchisio, 1986-01-19, 3,73,11171
-Cobie_Smulders, 1982-04-03, 2,73,16747
-Danny_DeVito, 1944-11-17, 19,73,1753
-Ellen_DeGeneres, 1958-01-26, 23,73,1451
-Emma_Stone, 1988-11-06, 13,73,2579
-Ernest_Renan, 1823-02-28, 2,73,16349
-Geraldine_Page, 1924-11-22, 3,73,11069
-Halldór_Laxness, 1902-04-23, 2,73,16547
-Henrietta_Maria_of_France, 1609-11-25, 47,73,673
-Jean-Pierre_Jeunet, 1953-09-03, 3,73,11117
-Jeff_Beck, 1944-06-24, 5,73,6661
-Joe_DiMaggio, 1914-11-25, 71,73,467
-John_Russell_Hind, 1823-05-12, 19,73,1721
-Lionel_Barrymore, 1878-04-28, 2,73,16487
-Melvil_Dewey, 1851-12-10, 2,73,16421
-Mikalojus_Konstantinas_Čiurlionis, 1875-09-22, 3,73,10987
-Rainer_Maria_Rilke, 1875-12-04, 2,73,16481
-Rem_Koolhaas, 1944-11-17, 19,73,1753
-Stéphane_Lambiel, 1985-04-02, 7,73,4787
-Ted_Turner, 1938-11-19, 73,107,311
-Umberto_II_of_Italy, 1904-09-15, 2,73,16553
+Aleksander_Kwaśniewski, 1954-11-15, 3,73,11119, 32998.12
+Arnold_Sommerfeld, 1868-12-05, 19,73,1733, 35491.27778
+Buddy_Holly, 1936-09-07, 2,73,16633, 212139.76
+Claudio_Marchisio, 1986-01-19, 3,73,11171, 74269.47619
+Cobie_Smulders, 1982-04-03, 2,73,16747, 510936.5405
+Danny_DeVito, 1944-11-17, 19,73,1753, 221287.9787
+Ellen_DeGeneres, 1958-01-26, 23,73,1451, 310859.9245
+Emma_Stone, 1988-11-06, 13,73,2579, 934637.4474
+Ernest_Renan, 1823-02-28, 2,73,16349, 36429.73529
+Geraldine_Page, 1924-11-22, 3,73,11069, 32633.21875
+Henrietta_Maria_of_France, 1609-11-25, 47,73,673, 35181.4375
+Jean-Pierre_Jeunet, 1953-09-03, 3,73,11117, 78296.39394
+Jeff_Beck, 1944-06-24, 5,73,6661, 215911.7895
+Joe_DiMaggio, 1914-11-25, 71,73,467, 231822.5556
+Lionel_Barrymore, 1878-04-28, 2,73,16487, 60053.58621
+Mikalojus_Konstantinas_Čiurlionis, 1875-09-22, 3,73,10987, 23662.03704
+Rainer_Maria_Rilke, 1875-12-04, 2,73,16481, 91680.10345
+Rem_Koolhaas, 1944-11-17, 19,73,1753, 74309.68421
+Stéphane_Lambiel, 1985-04-02, 7,73,4787, 35341.23077
+Ted_Turner, 1938-11-19, 73,107,311, 160532.9394
+Umberto_II_of_Italy, 1904-09-15, 2,73,16553, 43976.78049

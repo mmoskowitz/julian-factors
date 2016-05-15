@@ -1,2 +1,2 @@
-Caetano_Veloso, 1942-08-07, 2,937,1297
-Maurice_Greene_(athlete), 1974-07-23, 7,269,1297
+Caetano_Veloso, 1942-08-07, 2,937,1297, 97239.75
+Maurice_Greene_(athlete), 1974-07-23, 7,269,1297, 9878.62069

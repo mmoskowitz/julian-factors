@@ -1,2 +1,2 @@
-Hjalmar_Branting, 1860-11-23, 659,3643
-Rob_Rensenbrink, 1947-07-03, 659,3691
+Hjalmar_Branting, 1860-11-23, 659,3643, 9291.642857
+Rob_Rensenbrink, 1947-07-03, 659,3691, 19774

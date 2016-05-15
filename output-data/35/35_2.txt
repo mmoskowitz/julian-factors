@@ -1,48 +1,21 @@
-Alberto_Sordi, 1920-06-15, 2,5,7,34607
-Antonio_Canova, 1757-11-01, 5,7,107,631
-Antonio_Negri, 1933-08-01, 3,5,7,23117
-Antônio_Carlos_Jobim, 1927-01-25, 5,7,79,877
-Ashley_Young, 1985-07-09, 5,7,37,1889
-Brendan_Gleeson, 1955-03-29, 5,7,41,1697
-Christian_Wolff_(philosopher), 1679-01-24, 5,5,7,13339
-Dana_Delany, 1956-03-13, 5,7,7,9941
-Daniel_Auteuil, 1950-01-24, 5,7,37,1879
-Dave_Grohl, 1969-01-14, 5,7,113,617
-David_Carradine, 1936-12-08, 2,5,7,34693
-Don_McLean, 1945-10-02, 2,5,7,34739
-Dzhokhar_Dudayev, 1944-02-15, 5,7,7,9923
-Georg_Michaelis, 1857-09-08, 3,5,7,22853
-George_Curzon,_1st_Marquess_Curzon_of_Kedleston, 1859-01-11, 5,7,47,1459
-George_M._Dallas, 1792-07-10, 5,7,7,9697
-George_Tupou_V, 1948-05-04, 5,5,7,13901
-Helmuth_von_Moltke_the_Younger, 1848-05-23, 2,5,7,34231
-Jane_Goodall, 1934-04-03, 2,5,7,34679
-Jason_Bateman, 1969-01-14, 5,7,113,617
-Jeremy_Wariner, 1984-01-31, 2,5,7,34939
-José_Bosingwa, 1982-08-24, 5,7,19,3677
-Kim_Källström, 1982-08-24, 5,7,19,3677
-Leighton_Baines, 1984-12-11, 5,7,17,4111
-Ludwig_Beck, 1880-06-29, 5,7,89,773
-Margrethe_II_of_Denmark, 1940-04-16, 5,7,11,6311
-Mario_Yepes, 1976-01-13, 2,5,7,34897
-Marion_Cotillard, 1975-09-30, 5,7,101,691
-Mark_Rutte, 1967-02-14, 5,7,47,1483
-Martin_Rodbell, 1925-12-01, 5,7,53,1307
-Michael_Biehn, 1956-07-31, 3,5,7,23197
-Michael_Caine, 1933-03-14, 5,7,31,2237
-Nikola_Kalinić, 1988-01-05, 5,7,29,2411
-Otto_Lilienthal, 1848-05-23, 2,5,7,34231
-Percival_Lowell, 1855-03-13, 5,7,19,3607
-Plácido_Domingo, 1941-01-21, 3,5,7,23143
-Quincy_Jones, 1933-03-14, 5,7,31,2237
-Randy_Orton, 1980-04-01, 2,5,7,34919
-Robert_Peary, 1856-05-06, 5,5,7,13709
-Roy_Emerson, 1936-11-03, 5,5,7,13877
-Sergey_Brin, 1973-08-21, 5,7,7,9967
-Sigmund_Freud, 1856-05-06, 5,5,7,13709
-Susan_B._Anthony, 1820-02-15, 5,7,11,6197
-Totò, 1898-02-15, 5,7,11,6271
-Vicente_Aleixandre, 1898-04-26, 5,7,101,683
-Vicente_Blasco_Ibáñez, 1867-01-29, 5,7,71,967
-Vinnie_Jones, 1965-01-05, 5,7,59,1181
-Yahya_Jammeh, 1965-05-25, 5,7,17,4099
+Alberto_Sordi, 1920-06-15, 2,5,7,34607, 75820.48276
+Ashley_Young, 1985-07-09, 5,7,37,1889, 79130.8
+Brendan_Gleeson, 1955-03-29, 5,7,41,1697, 142647.2857
+Dana_Delany, 1956-03-13, 5,7,7,9941, 171397.6667
+Daniel_Auteuil, 1950-01-24, 5,7,37,1879, 86147.68966
+Dave_Grohl, 1969-01-14, 5,7,113,617, 383898.7292
+David_Carradine, 1936-12-08, 2,5,7,34693, 320729.3902
+Don_McLean, 1945-10-02, 2,5,7,34739, 94988.92593
+Jane_Goodall, 1934-04-03, 2,5,7,34679, 106391.1111
+Jason_Bateman, 1969-01-14, 5,7,113,617, 224535.5319
+Marion_Cotillard, 1975-09-30, 5,7,101,691, 345001.7692
+Michael_Biehn, 1956-07-31, 3,5,7,23197, 165545.2903
+Michael_Caine, 1933-03-14, 5,7,31,2237, 241638.6441
+Plácido_Domingo, 1941-01-21, 3,5,7,23143, 71081.5283
+Quincy_Jones, 1933-03-14, 5,7,31,2237, 239618.4595
+Randy_Orton, 1980-04-01, 2,5,7,34919, 614329.4474
+Sergey_Brin, 1973-08-21, 5,7,7,9967, 138490.322
+Sigmund_Freud, 1856-05-06, 5,5,7,13709, 324447.2388
+Susan_B._Anthony, 1820-02-15, 5,7,11,6197, 147182.8
+Totò, 1898-02-15, 5,7,11,6271, 105379.7692
+Vinnie_Jones, 1965-01-05, 5,7,59,1181, 277912.7037

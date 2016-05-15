@@ -1,2 +1,2 @@
-Helmut_Kohl, 1930-04-03, 1433,1693
-Portia_Simpson-Miller, 1945-12-12, 1433,1697
+Helmut_Kohl, 1930-04-03, 1433,1693, 88218.78462
+Portia_Simpson-Miller, 1945-12-12, 1433,1697, 18607.03226

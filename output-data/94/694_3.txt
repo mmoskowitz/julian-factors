@@ -1,2 +1,2 @@
-James_Gosling, 1955-05-19, 2,11,11,29,347
-Michael_Dawson_(footballer), 1983-11-18, 2,2,2,347,881
+James_Gosling, 1955-05-19, 2,11,11,29,347, 44055.16129
+Michael_Dawson_(footballer), 1983-11-18, 2,2,2,347,881, 6526.69697

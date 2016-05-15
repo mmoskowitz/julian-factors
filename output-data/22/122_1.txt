@@ -1,4 +1,4 @@
-Boris_Karloff, 1887-11-23, 2,61,19759
-Eugène_de_Beauharnais, 1781-09-03, 2,61,19441
-Henry_Moseley, 1887-11-23, 2,61,19759
-Sebastian_Larsson, 1985-06-06, 2,61,20051
+Boris_Karloff, 1887-11-23, 2,61,19759, 96791.43243
+Eugène_de_Beauharnais, 1781-09-03, 2,61,19441, 28207.40741
+Henry_Moseley, 1887-11-23, 2,61,19759, 57046.7931
+Sebastian_Larsson, 1985-06-06, 2,61,20051, 29680.54054

@@ -1,3 +1,3 @@
-Michael_C._Hall, 1971-02-01, 3,293,2777
-Mikhail_Khodorkovsky, 1963-06-26, 2,439,2777
-Zlatko_Zahovič, 1971-02-01, 3,293,2777
+Michael_C._Hall, 1971-02-01, 3,293,2777, 383879.4571
+Mikhail_Khodorkovsky, 1963-06-26, 2,439,2777, 80653.60606
+Zlatko_Zahovič, 1971-02-01, 3,293,2777, 19408.30769

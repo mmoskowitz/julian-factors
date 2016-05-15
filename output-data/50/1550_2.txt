@@ -1,2 +1,2 @@
-Francis_II,_Holy_Roman_Emperor, 1768-02-12, 2,3,5,5,31,509
-Patrick_White, 1912-05-28, 2,5,5,7,31,223
+Francis_II,_Holy_Roman_Emperor, 1768-02-12, 2,3,5,5,31,509, 26978.92453
+Patrick_White, 1912-05-28, 2,5,5,7,31,223, 14166.67857

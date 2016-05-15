@@ -1,2 +1,2 @@
-Hans_Christian_Gram, 1853-09-13, 7,7,109,449
-Louis_Antoine_de_Saint-Just, 1767-08-25, 3,7,251,449
+Hans_Christian_Gram, 1853-09-13, 7,7,109,449, 9020.071429
+Louis_Antoine_de_Saint-Just, 1767-08-25, 3,7,251,449, 28044.97059

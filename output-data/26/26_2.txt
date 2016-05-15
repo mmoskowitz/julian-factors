@@ -1,70 +1,21 @@
-Adam_Clayton, 1960-03-13, 2,11,13,8521
-Alain_Delon, 1935-11-08, 2,13,47,1987
-Albert_II_of_Belgium, 1934-06-06, 2,3,13,31123
-Albert_Szent-Györgyi, 1893-09-16, 2,13,71,1307
-Alexander_II_of_Russia, 1818-04-29, 2,2,13,45869
-Alexander_von_Humboldt, 1769-09-14, 2,5,13,18211
-Anne_Frank, 1929-06-12, 2,13,79,1181
-Antoine_Lavoisier, 1743-08-26, 2,13,23,3943
-Aubrey_Beardsley, 1872-08-21, 2,13,233,397
-August_von_Mackensen, 1849-12-06, 2,2,13,46091
-Cheech_Marin, 1946-07-13, 2,13,89,1051
-Dante_Gabriel_Rossetti, 1828-05-12, 2,13,139,661
-Ed_Asner, 1929-11-15, 2,5,13,18661
-Edvard_Grieg, 1843-06-15, 2,3,13,30697
-Ehud_Barak, 1942-02-12, 2,3,13,31159
-Eiður_Guðjohnsen, 1978-09-15, 2,13,193,487
-Ferdinand_de_Saussure, 1857-11-26, 2,2,13,46147
-Ferdinand_von_Lindemann, 1852-04-12, 2,5,13,18443
-Frederick_Chiluba, 1943-04-30, 2,2,13,46747
-Fritz_Walter, 1920-10-31, 2,2,13,46589
-Gary_Cahill, 1985-12-19, 2,13,23,4091
-Guy_Berryman, 1978-04-12, 2,5,13,18797
-Hans_Geiger, 1882-09-30, 2,3,13,30881
-Henryk_Górecki, 1933-12-06, 2,2,13,46681
-Hugo_Pratt, 1927-06-15, 2,13,19,4909
-Ibrahim_Afellay, 1986-04-02, 2,13,73,1289
-Jacob_Burckhardt, 1818-05-25, 2,13,199,461
-Janez_Drnovšek, 1950-05-17, 2,13,173,541
-Jason_Kidd, 1973-03-23, 2,2,13,46957
-Javier_Aguirre, 1958-12-01, 2,13,31,3023
-Javier_Pérez_de_Cuéllar, 1920-01-19, 2,13,151,617
-Jean_Renoir, 1894-09-15, 2,3,13,30937
-Jeremy_Renner, 1971-01-07, 2,13,223,421
-Jerzy_Dudek, 1973-03-23, 2,2,13,46957
-Jiang_Qing, 1914-03-19, 2,5,13,18617
-John_Galliano, 1960-11-28, 2,3,13,31247
-John_Roberts, 1955-01-27, 2,13,73,1283
-Katherine_Moennig, 1977-12-29, 2,3,13,31327
-Kim_Stanley_Robinson, 1952-03-23, 2,13,17,5507
-Ludwig_III_of_Bavaria, 1845-01-07, 2,7,13,13159
-Lúcio, 1978-05-08, 2,2,13,46993
-Manuel_Roxas, 1892-01-01, 2,13,113,821
-Mark_Ruffalo, 1967-11-20, 2,13,107,877
-Marko_Pantelić, 1978-09-15, 2,13,193,487
-Martín_Torrijos, 1963-07-18, 2,2,13,46889
-Nelly_Furtado, 1978-12-02, 2,2,13,46997
-Nâzım_Hikmet, 1902-01-15, 2,2,13,46457
-Omar_Bongo, 1935-12-30, 2,13,61,1531
-Owen_Wilson, 1968-11-18, 2,13,127,739
-Patrick_Dempsey, 1966-01-13, 2,3,13,31271
-Pope_Clement_X, 1590-07-13, 2,2,13,44269
-Ray_Charles, 1930-09-23, 2,7,13,13331
-Rick_Rubin, 1963-03-10, 2,13,79,1187
-Robert_Graves, 1895-07-24, 2,3,13,30941
-Saud_of_Saudi_Arabia, 1902-01-15, 2,2,13,46457
-Shamil_Basayev, 1965-01-14, 2,13,97,967
-Steve_McClaren, 1961-05-03, 2,3,13,31249
-Sylvanus_Olympio, 1902-09-06, 2,13,43,2161
-Teresa_Teng, 1953-01-29, 2,13,109,859
-Theodore_William_Richards, 1868-01-31, 2,13,23,4019
-Vasily_Chuikov, 1900-02-12, 2,13,29,3203
-Victoria_Beckham, 1974-04-17, 2,11,13,8539
-Virginia_Ruano_Pascual, 1973-09-21, 2,3,13,31307
-Walter_Houser_Brattain, 1902-02-10, 2,5,13,18583
-Werner_Faymann, 1960-05-04, 2,13,67,1399
-William_Boeing, 1881-10-01, 2,13,211,439
-William_Tecumseh_Sherman, 1820-02-08, 2,7,13,13109
-Yao_Ming, 1980-09-12, 2,13,149,631
-Yousaf_Raza_Gillani, 1952-06-09, 2,2,13,46811
-Zhang_Yimou, 1951-11-14, 2,2,13,46807
+Alain_Delon, 1935-11-08, 2,13,47,1987, 184545.2453
+Albert_Szent-Györgyi, 1893-09-16, 2,13,71,1307, 227254.3636
+Alexander_II_of_Russia, 1818-04-29, 2,2,13,45869, 109018.2258
+Anne_Frank, 1929-06-12, 2,13,79,1181, 348138.1299
+Antoine_Lavoisier, 1743-08-26, 2,13,23,3943, 126016.0133
+Cheech_Marin, 1946-07-13, 2,13,89,1051, 140636.3448
+Ibrahim_Afellay, 1986-04-02, 2,13,73,1289, 126117.1064
+Jason_Kidd, 1973-03-23, 2,2,13,46957, 215482.4688
+Jeremy_Renner, 1971-01-07, 2,13,223,421, 128346.1504
+Jiang_Qing, 1914-03-19, 2,5,13,18617, 129517.3704
+John_Galliano, 1960-11-28, 2,3,13,31247, 140559.6154
+Katherine_Moennig, 1977-12-29, 2,3,13,31327, 167076.3793
+Mark_Ruffalo, 1967-11-20, 2,13,107,877, 323909.8235
+Nelly_Furtado, 1978-12-02, 2,2,13,46997, 217296.7097
+Owen_Wilson, 1968-11-18, 2,13,127,739, 333739.0784
+Patrick_Dempsey, 1966-01-13, 2,3,13,31271, 344919.5946
+Ray_Charles, 1930-09-23, 2,7,13,13331, 252833.7727
+Rick_Rubin, 1963-03-10, 2,13,79,1187, 207100.1724
+Teresa_Teng, 1953-01-29, 2,13,109,859, 143165.6538
+Victoria_Beckham, 1974-04-17, 2,11,13,8539, 285687.3333
+Yao_Ming, 1980-09-12, 2,13,149,631, 350230.7368

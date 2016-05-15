@@ -1,2 +1,2 @@
-Frank_Macfarlane_Burnet, 1899-09-03, 2,2,5,5,19,31,41
-Wangari_Maathai, 1940-04-01, 2,2,2,5,19,23,139
+Frank_Macfarlane_Burnet, 1899-09-03, 2,2,5,5,19,31,41, 11818.8125
+Wangari_Maathai, 1940-04-01, 2,2,2,5,19,23,139, 35928.8209

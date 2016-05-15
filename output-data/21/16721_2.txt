@@ -1,2 +1,2 @@
-Gebhard_Leberecht_von_Blücher, 1742-12-16, 3,23,47,727
-Jan_Neruda, 1834-07-09, 11,13,23,727
+Gebhard_Leberecht_von_Blücher, 1742-12-16, 3,23,47,727, 36938.36111
+Jan_Neruda, 1834-07-09, 11,13,23,727, 25582.58065

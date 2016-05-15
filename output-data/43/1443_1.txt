@@ -1,2 +1,2 @@
-Audrey_Tautou, 1976-08-09, 3,13,37,1693
-Nicolas_Boileau-Despréaux, 1636-11-01, 3,13,37,1607
+Audrey_Tautou, 1976-08-09, 3,13,37,1693, 170865.2679
+Nicolas_Boileau-Despréaux, 1636-11-01, 3,13,37,1607, 29682.925

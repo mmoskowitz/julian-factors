@@ -1,15 +1,15 @@
-Charles_Trenet, 1913-05-18, 3,5,29,5563
-Claire_Danes, 1979-04-12, 5,5,29,3371
-Dolph_Lundgren, 1957-11-03, 5,29,53,317
-Eduard_Shevardnadze, 1928-01-25, 2,5,29,8363
-Farah_Pahlavi, 1938-10-14, 5,11,29,1523
-Frederick_VI_of_Denmark, 1768-01-28, 3,5,29,5441
-Jennifer_Morrison, 1979-04-12, 5,5,29,3371
-Mateja_Kežman, 1979-04-12, 5,5,29,3371
-Miloš_Krasić, 1984-11-01, 3,5,29,5623
-Nikola_Kalinić, 1988-01-05, 5,7,29,2411
-Owen_Chamberlain, 1920-07-10, 3,5,29,5569
-Ryan_Gosling, 1980-11-12, 5,23,29,733
-Simon_Rolfes, 1982-01-21, 2,5,29,8431
-Stephan_Lichtsteiner, 1984-01-16, 5,29,101,167
-Zoya_Kosmodemyanskaya, 1923-09-13, 5,5,29,3343
+Charles_Trenet, 1913-05-18, 3,5,29,5563, 52171.03448
+Claire_Danes, 1979-04-12, 5,5,29,3371, 350954.2045
+Dolph_Lundgren, 1957-11-03, 5,29,53,317, 366478.381
+Eduard_Shevardnadze, 1928-01-25, 2,5,29,8363, 24409.44681
+Farah_Pahlavi, 1938-10-14, 5,11,29,1523, 113725.9259
+Frederick_VI_of_Denmark, 1768-01-28, 3,5,29,5441, 29825.07143
+Jennifer_Morrison, 1979-04-12, 5,5,29,3371, 365644.1892
+Mateja_Kežman, 1979-04-12, 5,5,29,3371, 69532.88889
+Miloš_Krasić, 1984-11-01, 3,5,29,5623, 101394.2895
+Nikola_Kalinić, 1988-01-05, 5,7,29,2411, 25123.42308
+Owen_Chamberlain, 1920-07-10, 3,5,29,5569, 7395.227273
+Ryan_Gosling, 1980-11-12, 5,23,29,733, 839408.8649
+Simon_Rolfes, 1982-01-21, 2,5,29,8431, 24718.39286
+Stephan_Lichtsteiner, 1984-01-16, 5,29,101,167, 45860.03226
+Zoya_Kosmodemyanskaya, 1923-09-13, 5,5,29,3343, 13463.85185

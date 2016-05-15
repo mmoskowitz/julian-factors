@@ -1,4 +1,4 @@
-Demy_de_Zeeuw, 1983-05-26, 2,2,2,3,3,5,6793
-George_IV_of_the_United_Kingdom, 1762-08-12, 2,2,2,3,3,5,6569
-Gustaf_VI_Adolf_of_Sweden, 1882-11-11, 2,2,2,3,3,5,6691
-John_Herschel, 1792-03-07, 2,2,2,3,3,5,6599
+Demy_de_Zeeuw, 1983-05-26, 2,2,2,3,3,5,6793, 27999.51724
+George_IV_of_the_United_Kingdom, 1762-08-12, 2,2,2,3,3,5,6569, 91721.66071
+Gustaf_VI_Adolf_of_Sweden, 1882-11-11, 2,2,2,3,3,5,6691, 35380.08889
+John_Herschel, 1792-03-07, 2,2,2,3,3,5,6599, 19144.02222

@@ -1,5 +1,5 @@
-Ivars_Godmanis, 1951-11-27, 7,7,13,3821
-Kathryn_Bigelow, 1951-11-27, 7,7,13,3821
-Pope_Pius_VII, 1742-08-14, 7,7,13,3701
-Pyotr_Nikolayevich_Wrangel, 1878-08-27, 7,7,13,3779
-Vernon_Chatman, 1972-10-31, 7,7,13,3833
+Ivars_Godmanis, 1951-11-27, 7,7,13,3821, 7800.137931
+Kathryn_Bigelow, 1951-11-27, 7,7,13,3821, 122523.5
+Pope_Pius_VII, 1742-08-14, 7,7,13,3701, 25238.51613
+Pyotr_Nikolayevich_Wrangel, 1878-08-27, 7,7,13,3779, 15690.42424
+Vernon_Chatman, 1972-10-31, 7,7,13,3833, 11696.29032

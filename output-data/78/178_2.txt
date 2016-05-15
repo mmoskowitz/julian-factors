@@ -1,12 +1,12 @@
-Cheech_Marin, 1946-07-13, 2,13,89,1051
-Goran_Pandev, 1983-07-27, 2,11,89,1249
-Hermann_Joseph_Muller, 1890-12-21, 2,17,89,797
-Hermann_Staudinger, 1881-03-23, 2,83,89,163
-Itumeleng_Khune, 1987-06-20, 2,59,89,233
-Jiddu_Krishnamurti, 1895-05-11, 2,2,89,6779
-John_Pemberton, 1831-07-08, 2,29,89,463
-Maximilian_Schell, 1930-12-08, 2,43,89,317
-Morgan_De_Sanctis, 1977-03-26, 2,2,89,6863
-Roger_Martin_du_Gard, 1881-03-23, 2,83,89,163
-Ted_Danson, 1947-12-29, 2,2,89,6833
-Wacław_Sierpiński, 1882-03-14, 2,7,89,1933
+Cheech_Marin, 1946-07-13, 2,13,89,1051, 140636.3448
+Goran_Pandev, 1983-07-27, 2,11,89,1249, 88844.16129
+Hermann_Joseph_Muller, 1890-12-21, 2,17,89,797, 14590.42857
+Hermann_Staudinger, 1881-03-23, 2,83,89,163, 9826.625
+Itumeleng_Khune, 1987-06-20, 2,59,89,233, 11855.25926
+Jiddu_Krishnamurti, 1895-05-11, 2,2,89,6779, 107493.5556
+John_Pemberton, 1831-07-08, 2,29,89,463, 57744.73529
+Maximilian_Schell, 1930-12-08, 2,43,89,317, 53683.9
+Morgan_De_Sanctis, 1977-03-26, 2,2,89,6863, 45988.9697
+Roger_Martin_du_Gard, 1881-03-23, 2,83,89,163, 9471.678571
+Ted_Danson, 1947-12-29, 2,2,89,6833, 223531.7407
+Wacław_Sierpiński, 1882-03-14, 2,7,89,1933, 13309.78571

@@ -1,4 +1,4 @@
-Arantxa_Sánchez_Vicario, 1971-12-18, 691,3533
-Darren_Criss, 1987-02-05, 691,3541
-Oleh_Husyev, 1983-04-25, 691,3539
-Stephen_Jay_Gould, 1941-09-10, 691,3517
+Arantxa_Sánchez_Vicario, 1971-12-18, 691,3533, 34445.26829
+Darren_Criss, 1987-02-05, 691,3541, 340967.7143
+Oleh_Husyev, 1983-04-25, 691,3539, 7777.935484
+Stephen_Jay_Gould, 1941-09-10, 691,3517, 53528.77778

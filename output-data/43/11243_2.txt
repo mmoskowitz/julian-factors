@@ -1,2 +1,2 @@
-Clyde_Tombaugh, 1906-02-04, 5,43,11243
-Dietrich_Bonhoeffer, 1906-02-04, 5,43,11243
+Clyde_Tombaugh, 1906-02-04, 5,43,11243, 23783.28205
+Dietrich_Bonhoeffer, 1906-02-04, 5,43,11243, 116559.6585

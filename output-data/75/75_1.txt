@@ -1,9 +1,9 @@
-Bruno_Ganz, 1941-03-22, 3,5,5,32401
-Chiang_Kai-shek, 1887-10-31, 3,5,5,32141
-Dashiell_Hammett, 1894-05-27, 3,5,5,32173
-Jon_Bon_Jovi, 1962-03-02, 3,5,5,32503
-Juan_Pablo_Montoya, 1975-09-20, 3,5,5,32569
-Louis-Ferdinand_Céline, 1894-05-27, 3,5,5,32173
-Nestor_Carbonell, 1967-12-01, 3,5,5,32531
-Paulette_Goddard, 1910-06-03, 3,5,5,32251
-Semyon_Budyonny, 1883-04-25, 3,5,5,32119
+Bruno_Ganz, 1941-03-22, 3,5,5,32401, 96642.2069
+Chiang_Kai-shek, 1887-10-31, 3,5,5,32141, 133409.25
+Dashiell_Hammett, 1894-05-27, 3,5,5,32173, 47524.66667
+Jon_Bon_Jovi, 1962-03-02, 3,5,5,32503, 297354.7333
+Juan_Pablo_Montoya, 1975-09-20, 3,5,5,32569, 73146.1
+Louis-Ferdinand_Céline, 1894-05-27, 3,5,5,32173, 61775.26923
+Nestor_Carbonell, 1967-12-01, 3,5,5,32531, 98030.40741
+Paulette_Goddard, 1910-06-03, 3,5,5,32251, 64772.10256
+Semyon_Budyonny, 1883-04-25, 3,5,5,32119, 22529.21875

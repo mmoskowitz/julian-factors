@@ -1,3 +1,3 @@
-Henry_Campbell-Bannerman, 1836-09-07, 2,3,3,83,1601
-Jorge_Larrionda, 1968-03-09, 2,2,3,127,1601
-Youri_Djorkaeff, 1968-03-09, 2,2,3,127,1601
+Henry_Campbell-Bannerman, 1836-09-07, 2,3,3,83,1601, 12416.82857
+Jorge_Larrionda, 1968-03-09, 2,2,3,127,1601, 8674.192308
+Youri_Djorkaeff, 1968-03-09, 2,2,3,127,1601, 58190.9375

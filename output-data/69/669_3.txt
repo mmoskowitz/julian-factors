@@ -1,2 +1,2 @@
-Frederick_William_IV_of_Prussia, 1795-10-15, 3,11,17,19,223
-Viktor_Tsoi, 1962-06-21, 2,2,3,223,911
+Frederick_William_IV_of_Prussia, 1795-10-15, 3,11,17,19,223, 31818.14634
+Viktor_Tsoi, 1962-06-21, 2,2,3,223,911, 23054.38462

@@ -1,6 +1,6 @@
-Arthur_Schnitzler, 1862-05-15, 3,5,5,101,317
-Jean_Michel_Jarre, 1948-08-24, 3,7,31,37,101
-Michael_Andreas_Barclay_de_Tolly, 1761-12-27, 2,2,3,101,1951
-Sauli_Niinistö, 1948-08-24, 3,7,31,37,101
-Vincent_van_Gogh, 1853-03-30, 2,3,3,101,1319
-Władysław_Reymont, 1867-05-07, 3,7,11,101,103
+Arthur_Schnitzler, 1862-05-15, 3,5,5,101,317, 45332.81579
+Jean_Michel_Jarre, 1948-08-24, 3,7,31,37,101, 99764.26531
+Michael_Andreas_Barclay_de_Tolly, 1761-12-27, 2,2,3,101,1951, 13578.74194
+Sauli_Niinistö, 1948-08-24, 3,7,31,37,101, 24396.6087
+Vincent_van_Gogh, 1853-03-30, 2,3,3,101,1319, 293220.1613
+Władysław_Reymont, 1867-05-07, 3,7,11,101,103, 22567.63793

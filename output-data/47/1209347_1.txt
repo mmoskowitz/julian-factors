@@ -1,1 +1,1 @@
-Django_Reinhardt, 1910-01-23, 2,1209347
+Django_Reinhardt, 1910-01-23, 2,1209347, 127176.75

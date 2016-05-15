@@ -1,2 +1,2 @@
-Giulietta_Masina, 1921-02-22, 2,7,173053
-Jean-Bédel_Bokassa, 1921-02-22, 2,7,173053
+Giulietta_Masina, 1921-02-22, 2,7,173053, 33616.58065
+Jean-Bédel_Bokassa, 1921-02-22, 2,7,173053, 35417.84615

@@ -1,2 +1,2 @@
-Jagadish_Chandra_Bose, 1858-11-30, 7,11,71,439
-Vicente_Blasco_Ibáñez, 1867-01-29, 5,7,71,967
+Jagadish_Chandra_Bose, 1858-11-30, 7,11,71,439, 43039.14815
+Vicente_Blasco_Ibáñez, 1867-01-29, 5,7,71,967, 19291.63636

@@ -1,3 +1,3 @@
-Brian_May, 1947-07-19, 3,3,5,191,283
-John_Venn, 1834-08-04, 3,3,13,107,191
-Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma, 1900-06-25, 3,3,5,191,281
+Brian_May, 1947-07-19, 3,3,5,191,283, 185089.1304
+John_Venn, 1834-08-04, 3,3,13,107,191, 24829.85714
+Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma, 1900-06-25, 3,3,5,191,281, 21007.72222

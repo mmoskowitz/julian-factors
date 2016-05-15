@@ -1,8 +1,8 @@
-Ahmed_Nazif, 1952-07-08, 7,11,101,313
-Fritz_Kreisler, 1875-02-02, 7,41,83,101
-George_F._Kennan, 1904-02-16, 2,7,101,1709
-Marion_Cotillard, 1975-09-30, 5,7,101,691
-Michelle_Pfeiffer, 1958-04-29, 2,7,101,1723
-Rosalyn_Sussman_Yalow, 1921-07-19, 7,23,101,149
-Vicente_Aleixandre, 1898-04-26, 5,7,101,683
-Wilhelm_Steinitz, 1836-05-17, 7,17,101,199
+Ahmed_Nazif, 1952-07-08, 7,11,101,313, 14761.375
+Fritz_Kreisler, 1875-02-02, 7,41,83,101, 30119.43333
+George_F._Kennan, 1904-02-16, 2,7,101,1709, 54593.9
+Marion_Cotillard, 1975-09-30, 5,7,101,691, 345001.7692
+Michelle_Pfeiffer, 1958-04-29, 2,7,101,1723, 282408.9074
+Rosalyn_Sussman_Yalow, 1921-07-19, 7,23,101,149, 7267.9
+Vicente_Aleixandre, 1898-04-26, 5,7,101,683, 18876.07547
+Wilhelm_Steinitz, 1836-05-17, 7,17,101,199, 15322.66667

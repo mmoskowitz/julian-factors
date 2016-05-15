@@ -1,3 +1,3 @@
-Akira_Yoshizawa, 1911-03-14, 7,11,89,353
-Jan_Vennegoor_of_Hesselink, 1978-11-07, 7,23,43,353
-Rio_Ferdinand, 1978-11-07, 7,23,43,353
+Akira_Yoshizawa, 1911-03-14, 7,11,89,353, 124109.3871
+Jan_Vennegoor_of_Hesselink, 1978-11-07, 7,23,43,353, 46612.54839
+Rio_Ferdinand, 1978-11-07, 7,23,43,353, 118402.4545

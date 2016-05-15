@@ -1,2 +1,2 @@
-Michael_Andreas_Barclay_de_Tolly, 1761-12-27, 2,2,3,101,1951
-Vincent_van_Gogh, 1853-03-30, 2,3,3,101,1319
+Michael_Andreas_Barclay_de_Tolly, 1761-12-27, 2,2,3,101,1951, 13578.74194
+Vincent_van_Gogh, 1853-03-30, 2,3,3,101,1319, 293220.1613

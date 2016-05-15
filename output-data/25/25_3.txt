@@ -1,78 +1,21 @@
-Adrien-Marie_Legendre, 1752-09-18, 3,5,5,19,1657
-Ahmet_Necdet_Sezer, 1941-09-13, 2,5,5,5,9721
-Albert_Kesselring, 1885-11-30, 5,5,5,13,1483
-Alfred_Rosenberg, 1893-01-12, 5,5,13,13,571
-Alfredo_Di_Stéfano, 1926-07-04, 2,2,5,5,24247
-Andreas_Baader, 1943-05-06, 2,5,5,61,797
-Archibald_Hill, 1886-09-26, 5,5,17,53,107
-Arthur_Schnitzler, 1862-05-15, 3,5,5,101,317
-Asaph_Hall, 1829-10-15, 5,5,5,5,3823
-Balthasar_Neumann, 1687-01-27, 2,5,5,5,9349
-Charles_G._Dawes, 1865-08-27, 3,5,5,103,311
-Charlotte_Brontë, 1816-04-21, 2,5,5,103,463
-Christian_Vieri, 1973-07-12, 5,5,5,5,3907
-Christoph_Waltz, 1956-10-04, 2,5,5,5,9743
-Claude_Adrien_Helvétius, 1715-01-26, 5,5,13,31,233
-Claude_Simon, 1913-10-10, 2,5,5,29,1669
-Craig_Mello, 1960-10-18, 5,5,7,19,733
-Călin_Popescu-Tăriceanu, 1952-01-14, 5,5,11,53,167
-Daniel_Brühl, 1978-06-16, 5,5,13,73,103
-Dennis_Gabor, 1900-06-05, 5,5,7,37,373
-Diane_Keaton, 1946-01-05, 5,5,11,37,239
-Dianna_Agron, 1986-04-30, 2,5,5,167,293
-Dionne_Warwick, 1940-12-12, 5,5,37,37,71
-Eduard_Buchner, 1860-05-20, 2,5,5,41,1171
-Eduardo_Galeano, 1940-09-03, 5,5,5,7,2777
-Edwin_Moses, 1955-08-31, 2,5,5,53,919
-Emmeline_Pankhurst, 1858-07-15, 5,5,5,73,263
-Flavia_Pennetta, 1982-02-25, 5,5,11,17,523
-Franka_Potente, 1974-07-22, 2,5,5,5,9769
-Franklin_D._Roosevelt, 1882-01-30, 3,5,5,17,1889
-Frederick_Banting, 1891-11-14, 2,5,5,19,2539
-Giovanni_Verga, 1840-09-02, 2,5,5,151,317
-Gustav_Meyrink, 1868-01-19, 2,5,5,71,677
-Hans_Blix, 1928-06-28, 3,5,5,73,443
-Helmut_Schmidt, 1918-12-23, 2,5,5,59,821
-Hermann_Göring, 1893-01-12, 5,5,13,13,571
-Hippolyte_Fizeau, 1819-09-23, 2,2,5,5,23857
-Ian_Somerhalder, 1978-12-08, 2,5,5,37,1321
-J._R._R._Tolkien, 1892-01-03, 2,2,5,5,24121
-Jack_Johnson_(musician), 1975-05-18, 2,5,5,11,4441
-Jack_Kerouac, 1922-03-12, 5,5,5,5,3877
-James_Blunt, 1974-02-22, 2,2,5,5,24421
-James_K._Polk, 1795-11-02, 3,5,5,41,773
-Jamie_Lynn_Spears, 1991-04-04, 2,5,5,23,2129
-Jean-Claude_Van_Damme, 1960-10-18, 5,5,7,19,733
-Jean_Monnet, 1888-11-09, 2,3,5,5,16073
-John_Higgins_(snooker_player), 1975-05-18, 2,5,5,11,4441
-José_Luis_Rodríguez_Zapatero, 1960-08-04, 2,5,5,79,617
-Le_Corbusier, 1887-10-06, 2,5,5,37,1303
-Libor_Sionko, 1977-02-01, 5,5,7,23,607
-Madhuri_Dixit, 1967-05-15, 5,5,5,29,673
-Mart_Poom, 1972-02-03, 2,5,5,157,311
-Mel_Gibson, 1956-01-03, 3,5,5,7,4639
-Michel_Eugène_Chevreul, 1786-08-31, 5,5,5,17,1117
-Mikhail_Fradkov, 1950-09-01, 3,5,5,71,457
-Norman_Mailer, 1923-01-31, 2,5,5,19,2551
-Paul_Claudel, 1868-08-06, 2,5,5,53,907
-Paul_Ludwig_Ewald_von_Kleist, 1881-08-08, 2,2,5,5,24083
-Pedro_I_of_Brazil, 1798-10-12, 2,5,5,199,239
-Pelé, 1940-10-23, 3,5,5,179,181
-Pierre-Simon_Laplace, 1749-03-23, 2,3,5,5,15733
-Prince_Philip,_Duke_of_Edinburgh, 1921-06-10, 2,5,5,47,1031
-Robert_Musil, 1880-11-06, 3,5,5,97,331
-Rosamund_Pike, 1979-01-27, 2,2,5,5,24439
-Sean_Bean, 1959-04-17, 3,5,5,53,613
-Selena_Gomez, 1992-07-22, 3,5,5,103,317
-Skrillex, 1988-01-15, 3,5,5,67,487
-Stephen_Warnock, 1981-12-12, 2,5,5,107,457
-Sándor_Kocsis, 1929-09-21, 3,5,5,5,6469
-Tadao_Ando, 1941-09-13, 2,5,5,5,9721
-Tara_Strong, 1973-02-12, 5,5,11,13,683
-Tom_Cleverley, 1989-08-12, 2,5,5,5,9791
-Tomáš_Berdych, 1985-09-17, 5,5,7,7,1997
-V._V._Giri, 1894-08-10, 2,3,5,5,16087
-Vasily_Surikov, 1848-01-24, 2,5,5,173,277
-Vera_Farmiga, 1973-08-06, 2,2,5,5,24419
-Vladimir_Propp, 1895-04-17, 2,2,5,5,24133
-Édith_Piaf, 1915-12-19, 2,3,5,5,16139
+Christoph_Waltz, 1956-10-04, 2,5,5,5,9743, 334802
+Diane_Keaton, 1946-01-05, 5,5,11,37,239, 190583.1224
+Dianna_Agron, 1986-04-30, 2,5,5,167,293, 540759.6429
+Franklin_D._Roosevelt, 1882-01-30, 3,5,5,17,1889, 302324.0442
+Hermann_Göring, 1893-01-12, 5,5,13,13,571, 206633.7231
+Ian_Somerhalder, 1978-12-08, 2,5,5,37,1321, 547220.2667
+J._R._R._Tolkien, 1892-01-03, 2,2,5,5,24121, 193000.8909
+Jack_Kerouac, 1922-03-12, 5,5,5,5,3877, 188552.8113
+James_Blunt, 1974-02-22, 2,2,5,5,24421, 174630.6
+Jamie_Lynn_Spears, 1991-04-04, 2,5,5,23,2129, 571833.25
+Jean-Claude_Van_Damme, 1960-10-18, 5,5,7,19,733, 558970.569
+Madhuri_Dixit, 1967-05-15, 5,5,5,29,673, 218824.5588
+Mel_Gibson, 1956-01-03, 3,5,5,7,4639, 368269.6
+Pelé, 1940-10-23, 3,5,5,179,181, 274468.1477
+Rosamund_Pike, 1979-01-27, 2,2,5,5,24439, 285585.3103
+Sean_Bean, 1959-04-17, 3,5,5,53,613, 371673.8462
+Selena_Gomez, 1992-07-22, 3,5,5,103,317, 913989.0208
+Skrillex, 1988-01-15, 3,5,5,67,487, 689120
+Tara_Strong, 1973-02-12, 5,5,11,13,683, 244226.75
+Vera_Farmiga, 1973-08-06, 2,2,5,5,24419, 297918.2069
+Édith_Piaf, 1915-12-19, 2,3,5,5,16139, 193148.4945

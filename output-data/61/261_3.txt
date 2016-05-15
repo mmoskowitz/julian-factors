@@ -1,6 +1,6 @@
-Camille_Flammarion, 1842-02-26, 2,2,3,3,29,2293
-Floyd_Landis, 1975-10-14, 3,3,7,7,29,191
-Juliana_of_the_Netherlands, 1909-04-30, 2,3,3,29,41,113
-Ludwig_Wittgenstein, 1889-04-26, 2,3,3,29,31,149
-Raúl_Alfonsín, 1927-03-12, 3,3,3,19,29,163
-Spencer_Perceval, 1762-11-01, 3,3,13,17,29,41
+Camille_Flammarion, 1842-02-26, 2,2,3,3,29,2293, 15876.48276
+Floyd_Landis, 1975-10-14, 3,3,7,7,29,191, 46628.83871
+Juliana_of_the_Netherlands, 1909-04-30, 2,3,3,29,41,113, 57192.04545
+Ludwig_Wittgenstein, 1889-04-26, 2,3,3,29,31,149, 99919.0241
+Raúl_Alfonsín, 1927-03-12, 3,3,3,19,29,163, 39103.26316
+Spencer_Perceval, 1762-11-01, 3,3,13,17,29,41, 23860.38235

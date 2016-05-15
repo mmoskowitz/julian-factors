@@ -1,2 +1,2 @@
-Antoine_de_Saint-Exupéry, 1900-06-29, 293,8243
-Dennis_Tito, 1940-08-08, 293,8293
+Antoine_de_Saint-Exupéry, 1900-06-29, 293,8243, 130256.8158
+Dennis_Tito, 1940-08-08, 293,8293, 28665.6

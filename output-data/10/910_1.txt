@@ -1,2 +1,2 @@
-Adam_Johnson_(footballer), 1987-07-14, 2,5,7,13,2689
-Olympe_de_Gouges, 1748-05-07, 2,5,7,13,2593
+Adam_Johnson_(footballer), 1987-07-14, 2,5,7,13,2689, 13522.84848
+Olympe_de_Gouges, 1748-05-07, 2,5,7,13,2593, 67814.97222

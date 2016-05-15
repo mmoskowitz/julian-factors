@@ -1,2 +1,2 @@
-Aretha_Franklin, 1942-03-25, 131,18553
-Christina_Aguilera, 1980-12-18, 131,18661
+Aretha_Franklin, 1942-03-25, 131,18553, 185937.431
+Christina_Aguilera, 1980-12-18, 131,18661, 490432.5139

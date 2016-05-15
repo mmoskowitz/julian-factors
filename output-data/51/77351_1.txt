@@ -1,2 +1,2 @@
-José_Martí, 1853-01-28, 31,77351
-Vladimir_Solovyov_(philosopher), 1853-01-28, 31,77351
+José_Martí, 1853-01-28, 31,77351, 98084
+Vladimir_Solovyov_(philosopher), 1853-01-28, 31,77351, 7183.666667

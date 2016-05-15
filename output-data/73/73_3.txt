@@ -1,32 +1,21 @@
-Andreas_Papandreou, 1919-02-05, 2,53,73,313
-Augusto_Pinochet, 1915-11-25, 2,3,73,5527
-Beatrix_of_the_Netherlands, 1938-01-31, 3,3,73,3697
-Betty_Friedan, 1921-02-04, 2,2,73,8297
-Blanka_Vlašić, 1983-11-08, 2,7,73,2393
-Charles_Grey,_2nd_Earl_Grey, 1764-03-13, 3,7,73,1543
-David_Letterman, 1947-04-12, 11,13,73,233
-Edward_Burnett_Tylor, 1832-10-02, 2,7,73,2339
-Ernst_Bloch, 1885-07-08, 2,5,73,3301
-Florence_Nightingale, 1820-05-12, 2,2,73,8171
-Freddie_Mercury, 1946-09-05, 2,2,73,8329
-Hans_von_Euler-Chelpin, 1873-02-15, 2,2,73,8237
-Ibrahim_Afellay, 1986-04-02, 2,13,73,1289
-Izzy_Stradlin, 1962-04-08, 2,59,73,283
-John_Hughes_(Irish_musician), 1950-06-23, 5,59,73,113
-John_Roberts, 1955-01-27, 2,13,73,1283
-John_Wallis, 1616-11-23, 2,71,73,223
-Lester_B._Pearson, 1897-04-23, 3,73,73,151
-Louise_of_Mecklenburg-Strelitz, 1776-03-10, 3,3,73,3607
-Léon_M'ba, 1902-02-09, 3,3,73,3677
-Mary_Leakey, 1913-02-06, 2,2,73,8287
-Matsukata_Masayoshi, 1835-02-25, 2,11,73,1489
-Paul_Celan, 1920-11-23, 7,11,73,431
-Paul_Rudd, 1969-04-06, 3,11,73,1013
-Pavel_Pogrebnyak, 1983-11-08, 2,7,73,2393
-Pharrell_Williams, 1973-04-05, 13,31,73,83
-Philip_Glass, 1937-01-31, 2,2,73,8317
-Svante_Arrhenius, 1859-02-19, 2,17,73,967
-Theodor_Herzl, 1860-05-02, 2,2,73,8221
-Tom_Clancy, 1947-04-12, 11,13,73,233
-Yuan_T._Lee, 1936-11-19, 3,13,73,853
-Ğabdulla_Tuqay, 1886-04-26, 2,17,73,971
+Andreas_Papandreou, 1919-02-05, 2,53,73,313, 33738.75758
+Augusto_Pinochet, 1915-11-25, 2,3,73,5527, 123154.7237
+Beatrix_of_the_Netherlands, 1938-01-31, 3,3,73,3697, 95373.7
+Betty_Friedan, 1921-02-04, 2,2,73,8297, 66786.89655
+Blanka_Vlašić, 1983-11-08, 2,7,73,2393, 53491.28125
+David_Letterman, 1947-04-12, 11,13,73,233, 211728.0909
+Florence_Nightingale, 1820-05-12, 2,2,73,8171, 150409.6049
+Freddie_Mercury, 1946-09-05, 2,2,73,8329, 755745.8933
+Ibrahim_Afellay, 1986-04-02, 2,13,73,1289, 126117.1064
+Izzy_Stradlin, 1962-04-08, 2,59,73,283, 147745.7241
+John_Roberts, 1955-01-27, 2,13,73,1283, 62766.42424
+Lester_B._Pearson, 1897-04-23, 3,73,73,151, 34352.04762
+Louise_of_Mecklenburg-Strelitz, 1776-03-10, 3,3,73,3607, 41603.88462
+Mary_Leakey, 1913-02-06, 2,2,73,8287, 188930.5806
+Paul_Celan, 1920-11-23, 7,11,73,431, 42914.13514
+Paul_Rudd, 1969-04-06, 3,11,73,1013, 428930.7586
+Pavel_Pogrebnyak, 1983-11-08, 2,7,73,2393, 37252.08571
+Pharrell_Williams, 1973-04-05, 13,31,73,83, 490308.9231
+Philip_Glass, 1937-01-31, 2,2,73,8317, 107451.45
+Theodor_Herzl, 1860-05-02, 2,2,73,8221, 67035.28571
+Tom_Clancy, 1947-04-12, 11,13,73,233, 245108.6667

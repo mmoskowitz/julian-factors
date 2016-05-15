@@ -1,7 +1,7 @@
-Ali_Abdullah_Saleh, 1942-03-21, 11,17,41,317
-Christian_V_of_Denmark, 1646-04-15, 11,11,17,1129
-Fradique_de_Menezes, 1942-03-21, 11,17,41,317
-Italo_Calvino, 1923-10-15, 11,13,17,997
-Jean_Giraudoux, 1882-10-29, 11,11,17,1171
-Lars_Bender, 1989-04-27, 3,11,17,4363
-Leonid_Kravchuk, 1934-01-10, 3,11,17,4327
+Ali_Abdullah_Saleh, 1942-03-21, 11,17,41,317, 33662.01923
+Christian_V_of_Denmark, 1646-04-15, 11,11,17,1129, 14901.96154
+Fradique_de_Menezes, 1942-03-21, 11,17,41,317, 5403.1
+Italo_Calvino, 1923-10-15, 11,13,17,997, 93962.0625
+Jean_Giraudoux, 1882-10-29, 11,11,17,1171, 30351.03846
+Lars_Bender, 1989-04-27, 3,11,17,4363, 43513.80645
+Leonid_Kravchuk, 1934-01-10, 3,11,17,4327, 11934.41667

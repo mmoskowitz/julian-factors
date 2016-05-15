@@ -1,4 +1,4 @@
-Hugo_Lloris, 1986-12-26, 2,5,307,797
-John_Dolmayan, 1973-07-15, 2,41,97,307
-Joris_Mathijsen, 1980-04-05, 2,3,307,1327
-Miloš_Obrenović_I,_Prince_of_Serbia, 1780-03-18, 2,2,307,1931
+Hugo_Lloris, 1986-12-26, 2,5,307,797, 73349.16216
+John_Dolmayan, 1973-07-15, 2,41,97,307, 83505.41935
+Joris_Mathijsen, 1980-04-05, 2,3,307,1327, 31188.05882
+Miloš_Obrenović_I,_Prince_of_Serbia, 1780-03-18, 2,2,307,1931, 10428.64286

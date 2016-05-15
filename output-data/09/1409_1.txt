@@ -1,2 +1,2 @@
-John_Boyd_Orr,_1st_Baron_Boyd-Orr, 1880-09-23, 1409,1709
-Karl_May, 1842-02-25, 1409,1699
+John_Boyd_Orr,_1st_Baron_Boyd-Orr, 1880-09-23, 1409,1709, 4745.518519
+Karl_May, 1842-02-25, 1409,1699, 72904.08333

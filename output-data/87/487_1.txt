@@ -1,4 +1,4 @@
-David_Boreanaz, 1969-05-16, 487,5011
-Dejan_Savićević, 1966-09-15, 487,5009
-Massimo_Moratti, 1945-05-16, 487,4993
-Pierce_Brosnan, 1953-05-16, 487,4999
+David_Boreanaz, 1969-05-16, 487,5011, 271899.3235
+Dejan_Savićević, 1966-09-15, 487,5009, 39533.07143
+Massimo_Moratti, 1945-05-16, 487,4993, 71733.82143
+Pierce_Brosnan, 1953-05-16, 487,4999, 294517.0968

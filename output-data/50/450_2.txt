@@ -1,3 +1,3 @@
-Andriy_Shevchenko, 1976-09-29, 2,3,3,5,5,61,89
-James_Francis_Edward_Stuart, 1688-06-10, 2,3,3,5,5,5,1039
-Reinhold_Messner, 1944-09-17, 2,3,3,3,5,5,1801
+Andriy_Shevchenko, 1976-09-29, 2,3,3,5,5,61,89, 169293.2667
+James_Francis_Edward_Stuart, 1688-06-10, 2,3,3,5,5,5,1039, 38128.36667
+Reinhold_Messner, 1944-09-17, 2,3,3,3,5,5,1801, 94154.12195

@@ -1,2 +1,2 @@
-Vincente_Minnelli, 1903-02-28, 3,19,19,23,97
-Wisława_Szymborska, 1923-07-02, 2,19,23,47,59
+Vincente_Minnelli, 1903-02-28, 3,19,19,23,97, 61020.18519
+Wisława_Szymborska, 1923-07-02, 2,19,23,47,59, 55582.25714

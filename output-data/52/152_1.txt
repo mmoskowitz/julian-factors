@@ -1,2 +1,2 @@
-Michael_Adams_(chess_player), 1971-11-17, 2,2,2,19,16061
-Miguel_Najdorf, 1910-04-15, 2,2,2,19,15913
+Michael_Adams_(chess_player), 1971-11-17, 2,2,2,19,16061, 3878.461538
+Miguel_Najdorf, 1910-04-15, 2,2,2,19,15913, 9209.269231

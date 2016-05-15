@@ -1,4 +1,4 @@
-Alessandro_Nesta, 1976-03-19, 2,2,2,13,83,283
-Chinghiz_Aitmatov, 1928-12-12, 2,2,2,13,83,281
-Gamal_Abdel_Nasser, 1918-01-15, 2,2,2,7,83,521
-Haakon_VII_of_Norway, 1872-08-03, 2,2,2,2,83,1811
+Alessandro_Nesta, 1976-03-19, 2,2,2,13,83,283, 100831.5333
+Chinghiz_Aitmatov, 1928-12-12, 2,2,2,13,83,281, 19502.76
+Gamal_Abdel_Nasser, 1918-01-15, 2,2,2,7,83,521, 90908.06579
+Haakon_VII_of_Norway, 1872-08-03, 2,2,2,2,83,1811, 33631.62791

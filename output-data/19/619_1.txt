@@ -1,4 +1,4 @@
-Bill_Clinton, 1946-08-19, 619,3929
-Denny_Hulme, 1936-06-18, 619,3923
-Gianluca_Zambrotta, 1977-02-19, 619,3947
-Ronald_Venetiaan, 1936-06-18, 619,3923
+Bill_Clinton, 1946-08-19, 619,3929, 263930.3983
+Denny_Hulme, 1936-06-18, 619,3923, 20067.18519
+Gianluca_Zambrotta, 1977-02-19, 619,3947, 70723.48837
+Ronald_Venetiaan, 1936-06-18, 619,3923, 10195.56667

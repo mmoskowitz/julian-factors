@@ -1,26 +1,21 @@
-Adolf_Butenandt, 1903-03-24, 3,7,115057
-Anita_Ekberg, 1931-09-29, 3,7,115553
-David_Pizarro, 1979-09-11, 3,7,116387
-Elisha_Cuthbert, 1982-11-30, 3,7,116443
-Etta_James, 1938-01-25, 3,7,115663
-Federico_Franco, 1962-07-24, 3,7,116089
-James_Cronin, 1931-09-29, 3,7,115553
-Karl_Weierstrass, 1815-10-31, 3,7,113537
-Kevin_Mitnick, 1963-08-06, 3,7,116107
-Lawrence_Klein, 1920-09-14, 3,7,115361
-Luigi_Riva, 1944-11-07, 3,7,115781
-Mario_Benedetti, 1920-09-14, 3,7,115361
-Mark_González, 1984-07-10, 3,7,116471
-Max_Delbrück, 1906-09-04, 3,7,115117
-Michael_Cera, 1988-06-07, 3,7,116539
-Mikhail_Baryshnikov, 1948-01-27, 3,7,115837
-Muhammad_Zia-ul-Haq, 1924-08-12, 3,7,115429
-Naruhito,_Crown_Prince_of_Japan, 1960-02-23, 3,7,116047
-Robert_Kiyosaki, 1947-04-08, 3,7,115823
-Sarah_Bernhardt, 1844-10-22, 3,7,114041
-Scott_Carson, 1985-09-03, 3,7,116491
-Seal_(musician), 1963-02-19, 3,7,116099
-Thomas_Hobbes, 1588-04-05, 3,7,109579
-Timothy_McVeigh, 1968-04-23, 3,7,116189
-Vladimir_Vysotsky, 1938-01-25, 3,7,115663
-Éric_Abidal, 1979-09-11, 3,7,116387
+Anita_Ekberg, 1931-09-29, 3,7,115553, 78099.22222
+David_Pizarro, 1979-09-11, 3,7,116387, 59190.58621
+Elisha_Cuthbert, 1982-11-30, 3,7,116443, 328043.375
+Etta_James, 1938-01-25, 3,7,115663, 206251.0465
+Karl_Weierstrass, 1815-10-31, 3,7,113537, 16691.08889
+Kevin_Mitnick, 1963-08-06, 3,7,116107, 127294.4359
+Luigi_Riva, 1944-11-07, 3,7,115781, 24567.48276
+Mario_Benedetti, 1920-09-14, 3,7,115361, 186284.0333
+Mark_González, 1984-07-10, 3,7,116471, 39204.25
+Michael_Cera, 1988-06-07, 3,7,116539, 487260.037
+Mikhail_Baryshnikov, 1948-01-27, 3,7,115837, 138740.4138
+Muhammad_Zia-ul-Haq, 1924-08-12, 3,7,115429, 34806.275
+Naruhito,_Crown_Prince_of_Japan, 1960-02-23, 3,7,116047, 86934.45455
+Robert_Kiyosaki, 1947-04-08, 3,7,115823, 146508.0385
+Sarah_Bernhardt, 1844-10-22, 3,7,114041, 30640.86607
+Scott_Carson, 1985-09-03, 3,7,116491, 41286.44444
+Seal_(musician), 1963-02-19, 3,7,116099, 132704.6061
+Thomas_Hobbes, 1588-04-05, 3,7,109579, 170293.7975
+Timothy_McVeigh, 1968-04-23, 3,7,116189, 230754.2581
+Vladimir_Vysotsky, 1938-01-25, 3,7,115663, 23034.84146
+Éric_Abidal, 1979-09-11, 3,7,116387, 106195.0625

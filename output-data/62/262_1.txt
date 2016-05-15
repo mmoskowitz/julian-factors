@@ -1,3 +1,3 @@
-Alexander_Mackenzie, 1822-01-28, 2,131,9109
-Marie_Louise,_Duchess_of_Parma, 1791-12-12, 2,131,9067
-Paul_Tillich, 1886-08-20, 2,131,9199
+Alexander_Mackenzie, 1822-01-28, 2,131,9109, 17239.76923
+Marie_Louise,_Duchess_of_Parma, 1791-12-12, 2,131,9067, 36425.18919
+Paul_Tillich, 1886-08-20, 2,131,9199, 39084.29032

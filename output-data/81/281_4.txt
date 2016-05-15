@@ -1,4 +1,4 @@
-Clara_Schumann, 1819-09-13, 2,3,5,281,283
-Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma, 1900-06-25, 3,3,5,191,281
-Lucas_Neill, 1978-03-09, 2,2,2,281,1087
-Mary_of_Teck, 1867-05-26, 2,2,2,281,1069
+Clara_Schumann, 1819-09-13, 2,3,5,281,283, 196221.6818
+Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma, 1900-06-25, 3,3,5,191,281, 21007.72222
+Lucas_Neill, 1978-03-09, 2,2,2,281,1087, 47780.35714
+Mary_of_Teck, 1867-05-26, 2,2,2,281,1069, 144723.3143

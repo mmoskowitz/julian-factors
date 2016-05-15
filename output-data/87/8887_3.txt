@@ -1,3 +1,3 @@
-Claude_Chabrol, 1930-06-24, 3,7,13,8887
-Jennifer_Love_Hewitt, 1979-02-21, 5,5,11,8887
-Pascal_Chimbonda, 1979-02-21, 5,5,11,8887
+Claude_Chabrol, 1930-06-24, 3,7,13,8887, 54301
+Jennifer_Love_Hewitt, 1979-02-21, 5,5,11,8887, 481980.617
+Pascal_Chimbonda, 1979-02-21, 5,5,11,8887, 30642.41379

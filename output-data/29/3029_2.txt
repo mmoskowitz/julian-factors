@@ -1,6 +1,6 @@
-Aubrey_Beardsley, 1872-08-21, 2,13,233,397
-David_Letterman, 1947-04-12, 11,13,73,233
-Florent_Malouda, 1980-06-13, 3,13,233,269
-Juan_Carlos_Navarro_(basketball), 1980-06-13, 3,13,233,269
-Sarah_Connor_(singer), 1980-06-13, 3,13,233,269
-Tom_Clancy, 1947-04-12, 11,13,73,233
+Aubrey_Beardsley, 1872-08-21, 2,13,233,397, 61316
+David_Letterman, 1947-04-12, 11,13,73,233, 211728.0909
+Florent_Malouda, 1980-06-13, 3,13,233,269, 79509.59574
+Juan_Carlos_Navarro_(basketball), 1980-06-13, 3,13,233,269, 30353.88462
+Sarah_Connor_(singer), 1980-06-13, 3,13,233,269, 91566.57143
+Tom_Clancy, 1947-04-12, 11,13,73,233, 245108.6667

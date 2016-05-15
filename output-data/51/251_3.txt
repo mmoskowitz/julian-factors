@@ -1,6 +1,6 @@
-Arnold_J._Toynbee, 1889-04-14, 2,3,251,1601
-Fabricio_Coloccini, 1982-01-22, 3,17,191,251
-Giovanni_Battista_Tiepolo, 1696-03-05, 5,5,251,373
-John_Searle, 1932-07-31, 3,11,251,293
-Louis_Antoine_de_Saint-Just, 1767-08-25, 3,7,251,449
-Michael_Phelps, 1985-06-30, 2,11,251,443
+Arnold_J._Toynbee, 1889-04-14, 2,3,251,1601, 31327.57143
+Fabricio_Coloccini, 1982-01-22, 3,17,191,251, 47127.38235
+Giovanni_Battista_Tiepolo, 1696-03-05, 5,5,251,373, 29500.7381
+John_Searle, 1932-07-31, 3,11,251,293, 54174.17857
+Louis_Antoine_de_Saint-Just, 1767-08-25, 3,7,251,449, 28044.97059
+Michael_Phelps, 1985-06-30, 2,11,251,443, 326464.2267

@@ -1,4 +1,4 @@
-Charles_I_of_England, 1600-11-19, 2,3,5,151,509
-David_Ricardo, 1772-04-18, 3,3,11,47,509
-Humberto_de_Alencar_Castelo_Branco, 1897-09-20, 3,3,17,31,509
-Vanessa_Paradis, 1972-12-22, 3,3,13,41,509
+Charles_I_of_England, 1600-11-19, 2,3,5,151,509, 161628.8065
+David_Ricardo, 1772-04-18, 3,3,11,47,509, 102154.6923
+Humberto_de_Alencar_Castelo_Branco, 1897-09-20, 3,3,17,31,509, 30509.75862
+Vanessa_Paradis, 1972-12-22, 3,3,13,41,509, 306168.0238

@@ -1,4 +1,4 @@
-Claire_Danes, 1979-04-12, 5,5,29,3371
-Jennifer_Morrison, 1979-04-12, 5,5,29,3371
-Mateja_Kežman, 1979-04-12, 5,5,29,3371
-Zoya_Kosmodemyanskaya, 1923-09-13, 5,5,29,3343
+Claire_Danes, 1979-04-12, 5,5,29,3371, 350954.2045
+Jennifer_Morrison, 1979-04-12, 5,5,29,3371, 365644.1892
+Mateja_Kežman, 1979-04-12, 5,5,29,3371, 69532.88889
+Zoya_Kosmodemyanskaya, 1923-09-13, 5,5,29,3343, 13463.85185

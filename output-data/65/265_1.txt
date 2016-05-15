@@ -1,4 +1,4 @@
-Alberto_Gilardino, 1982-07-05, 5,53,9227
-Andreas_Köpke, 1962-03-12, 5,53,9199
-Larry_Hagman, 1931-09-21, 5,53,9157
-Philippe_Gilbert, 1982-07-05, 5,53,9227
+Alberto_Gilardino, 1982-07-05, 5,53,9227, 71737.77778
+Andreas_Köpke, 1962-03-12, 5,53,9199, 30414.7037
+Larry_Hagman, 1931-09-21, 5,53,9157, 182938.9143
+Philippe_Gilbert, 1982-07-05, 5,53,9227, 19211

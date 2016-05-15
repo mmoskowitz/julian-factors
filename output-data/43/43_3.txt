@@ -1,58 +1,21 @@
-Alan_Arkin, 1934-03-26, 2,3,43,9409
-Andrés_Escobar, 1967-03-13, 2,19,43,1493
-Anthony_Hopkins, 1937-12-31, 2,43,61,463
-Avram_Hershko, 1937-12-31, 2,43,61,463
-Bill_Cosby, 1937-07-12, 2,31,43,911
-Boris_Trajkovski, 1956-06-25, 3,43,79,239
-Carl_Michael_Bellman, 1740-02-04, 5,43,97,113
-Carolina_Klüft, 1983-02-02, 29,37,43,53
-DMX_(rapper), 1970-12-18, 2,3,43,9461
-Daniel_D._Tompkins, 1774-06-21, 7,17,43,463
-Daniel_Dennett, 1942-03-28, 2,43,59,479
-David_Lee_(physicist), 1931-01-20, 3,7,43,2687
-Eddie_Van_Halen, 1955-01-26, 3,43,43,439
-Edgar_Wallace, 1875-04-01, 3,3,43,6217
-Edvard_Munch, 1863-12-12, 3,43,43,433
-Erich_von_Stroheim, 1885-09-22, 2,7,43,4003
-Eva_Braun, 1912-02-06, 2,7,43,4019
-Eva_Longoria, 1975-03-15, 2,3,43,9467
-Fabio_Grosso, 1977-11-28, 5,5,43,2273
-Ferdinand_von_Zeppelin, 1838-07-08, 3,17,43,1091
-Fernando_Morientes, 1976-04-05, 3,29,43,653
-Frank-Walter_Steinmeier, 1956-01-05, 11,19,43,271
-Franz_Joseph_I_of_Austria, 1830-08-18, 2,37,43,751
-George_Eastman, 1854-07-12, 17,17,43,193
-Geremi_Njitap, 1978-12-20, 2,43,157,181
-Gore_Vidal, 1925-10-03, 2,3,43,9397
-Hilary_Putnam, 1926-07-31, 17,31,43,107
-Igor_Semshov, 1978-04-06, 2,2,43,14207
-James_L._Brooks, 1940-05-09, 2,19,43,1487
-Jan_Vennegoor_of_Hesselink, 1978-11-07, 7,23,43,353
-Jessica_Lange, 1949-04-20, 2,19,43,1489
-John_Quincy_Adams, 1767-07-11, 2,3,43,9173
-Julien_Gracq, 1910-07-27, 3,17,43,1103
-Kristen_Stewart, 1990-04-09, 2,5,43,5693
-Lazzaro_Spallanzani, 1729-01-10, 3,3,43,6079
-Lionel_Jospin, 1937-07-12, 2,31,43,911
-Louis_Ignarro, 1941-05-31, 5,43,89,127
-Marian_Rejewski, 1905-08-16, 3,41,43,457
-Massimo_D'Alema, 1949-04-20, 2,19,43,1489
-Maximilian_Schell, 1930-12-08, 2,43,89,317
-Michael_D._Higgins, 1941-04-18, 2,3,43,9419
-Michio_Kaku, 1947-01-24, 13,19,43,229
-Mikhail_Vrubel, 1856-03-05, 3,3,43,6199
-Muhammad_Ali_of_Egypt, 1769-03-04, 2,2,43,13763
-Osama_bin_Laden, 1957-03-10, 3,23,43,821
-Pierre_Laval, 1883-06-28, 11,11,43,463
-Prince_Joachim_of_Denmark, 1969-06-07, 19,29,43,103
-Rio_Ferdinand, 1978-11-07, 7,23,43,353
-Rob_Van_Dam, 1970-12-18, 2,3,43,9461
-Robbie_Coltrane, 1950-03-30, 2,5,43,5659
-Robert_Wagner, 1930-02-10, 11,23,43,223
-Sonia_Sotomayor, 1954-06-25, 2,23,43,1231
-Sylvanus_Olympio, 1902-09-06, 2,13,43,2161
-Teófilo_Cubillas, 1949-03-08, 7,43,59,137
-Veselin_Topalov, 1975-03-15, 2,3,43,9467
-Walter_Scheel, 1919-07-08, 7,13,43,619
-Will.i.am, 1975-03-15, 2,3,43,9467
-Yuan_Shikai, 1859-09-16, 3,23,43,809
+Alan_Arkin, 1934-03-26, 2,3,43,9409, 123041.4706
+Andrés_Escobar, 1967-03-13, 2,19,43,1493, 91160.75758
+Anthony_Hopkins, 1937-12-31, 2,43,61,463, 247001.3231
+Bill_Cosby, 1937-07-12, 2,31,43,911, 361650.6944
+Eddie_Van_Halen, 1955-01-26, 3,43,43,439, 256304.4667
+Edvard_Munch, 1863-12-12, 3,43,43,433, 142393.1233
+Eva_Braun, 1912-02-06, 2,7,43,4019, 198532.873
+Eva_Longoria, 1975-03-15, 2,3,43,9467, 259512.8462
+Franz_Joseph_I_of_Austria, 1830-08-18, 2,37,43,751, 118625.3585
+Gore_Vidal, 1925-10-03, 2,3,43,9397, 104520.1837
+Jessica_Lange, 1949-04-20, 2,19,43,1489, 158506.9783
+Kristen_Stewart, 1990-04-09, 2,5,43,5693, 955837.0345
+Michio_Kaku, 1947-01-24, 13,19,43,229, 114869.4286
+Muhammad_Ali_of_Egypt, 1769-03-04, 2,2,43,13763, 108210.5814
+Osama_bin_Laden, 1957-03-10, 3,23,43,821, 370043.3821
+Rio_Ferdinand, 1978-11-07, 7,23,43,353, 118402.4545
+Rob_Van_Dam, 1970-12-18, 2,3,43,9461, 319134.0385
+Robbie_Coltrane, 1950-03-30, 2,5,43,5659, 201737.7241
+Robert_Wagner, 1930-02-10, 11,23,43,223, 193250.6538
+Sonia_Sotomayor, 1954-06-25, 2,23,43,1231, 189663.1538
+Will.i.am, 1975-03-15, 2,3,43,9467, 404815.9512

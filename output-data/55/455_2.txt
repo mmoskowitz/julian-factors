@@ -1,8 +1,8 @@
-Adam_Johnson_(footballer), 1987-07-14, 2,5,7,13,2689
-Alexander_Prokhorov, 1916-07-11, 5,7,13,17,313
-Francisco_Macías_Nguema, 1924-01-01, 5,7,7,13,761
-Gough_Whitlam, 1916-07-11, 5,7,13,17,313
-Jacques_Le_Goff, 1924-01-01, 5,7,7,13,761
-Jonathan_Edwards_(triple_jumper), 1966-05-10, 3,5,7,13,1787
-Olympe_de_Gouges, 1748-05-07, 2,5,7,13,2593
-Seán_MacBride, 1904-01-26, 5,7,13,47,113
+Adam_Johnson_(footballer), 1987-07-14, 2,5,7,13,2689, 13522.84848
+Alexander_Prokhorov, 1916-07-11, 5,7,13,17,313, 5875.130435
+Francisco_Macías_Nguema, 1924-01-01, 5,7,7,13,761, 15082.2069
+Gough_Whitlam, 1916-07-11, 5,7,13,17,313, 54667.77778
+Jacques_Le_Goff, 1924-01-01, 5,7,7,13,761, 25972.42857
+Jonathan_Edwards_(triple_jumper), 1966-05-10, 3,5,7,13,1787, 5549.967742
+Olympe_de_Gouges, 1748-05-07, 2,5,7,13,2593, 67814.97222
+Seán_MacBride, 1904-01-26, 5,7,13,47,113, 9708.78125

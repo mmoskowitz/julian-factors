@@ -1,114 +1,21 @@
-Aaron_Klug, 1926-08-11, 2,3,404123
-Ai_Weiwei, 1957-08-28, 2,3,406013
-Albert_Einstein, 1879-03-14, 2,3,401237
-Alfonso_XII_of_Spain, 1857-11-28, 2,3,399941
-Alfred_Döblin, 1878-08-10, 2,3,401201
-Andris_Bērziņš_(Latvian_President), 1944-12-10, 2,3,405239
-Antonio_Cassano, 1982-07-12, 2,3,407527
-Antonio_Gramsci, 1891-01-22, 2,3,401959
-Art_Clokey, 1921-10-12, 2,3,403829
-Arthur_Conan_Doyle, 1859-05-22, 2,3,400031
-Arthur_Wellesley,_1st_Duke_of_Wellington, 1769-05-01, 2,3,394549
-Ayrton_Senna, 1960-03-21, 2,3,406169
-Brett_Emerton, 1979-02-22, 2,3,407321
-Camilo_José_Cela, 1916-05-11, 2,3,403499
-Carlo_Buonaparte, 1746-03-27, 2,3,393143
-Charles_Mingus, 1922-04-22, 2,3,403861
-Charlie_Sheen, 1965-09-03, 2,3,406501
-Christian_Wulff, 1959-06-19, 2,3,406123
-Clint_Dempsey, 1983-03-09, 2,3,407567
-Didier_Drogba, 1978-03-11, 2,3,407263
-Eduardo_Frei_Ruiz-Tagle, 1942-06-24, 2,3,405089
-Emily_Browning, 1988-12-07, 2,3,407917
-Emily_Deschanel, 1976-10-11, 2,3,407177
-Emmanuel_Joseph_Sieyès, 1748-05-03, 2,3,393271
-Faure_Gnassingbé, 1966-06-06, 2,3,406547
-Fergie_(singer), 1975-03-27, 2,3,407083
-Franco_Baresi, 1960-05-08, 2,3,406177
-Fred_Zinnemann, 1907-04-29, 2,3,402949
-Frederick_VIII_of_Denmark, 1843-06-03, 2,3,399059
-Gary_Coleman, 1968-02-08, 2,3,406649
-Gene_Wilder, 1933-06-11, 2,3,404539
-George_Clinton_(vice_president), 1739-07-26, 2,3,392737
-Gerald_Ford, 1913-07-14, 2,3,403327
-Gerard_Way, 1977-04-09, 2,3,407207
-Gerd_von_Rundstedt, 1875-12-12, 2,3,401039
-Giosuè_Carducci, 1835-07-27, 2,3,398581
-Goodluck_Jonathan, 1957-11-20, 2,3,406027
-Gordon_Moore, 1929-01-03, 2,3,404269
-Greta_Garbo, 1905-09-18, 2,3,402851
-Grover_Cleveland, 1837-03-18, 2,3,398681
-Hans_Frank, 1900-05-23, 2,3,402527
-Helen_Mirren, 1945-07-26, 2,3,405277
-Ignazio_Abate, 1986-11-12, 2,3,407791
-Ivo_Josipović, 1957-08-28, 2,3,406013
-Jennifer_Beals, 1963-12-19, 2,3,406397
-Jennifer_Carpenter, 1979-12-07, 2,3,407369
-Joan_Capdevila, 1978-02-03, 2,3,407257
-Johan_Gadolin, 1760-06-05, 2,3,394007
-John_Hannah_(footballer), 1962-10-25, 2,3,406327
-John_Lee_Hooker, 1917-08-22, 2,3,403577
-John_Marshall, 1755-09-24, 2,3,393721
-Joseph_Goebbels, 1897-10-29, 2,3,402371
-Jyrki_Katainen, 1971-10-14, 2,3,406873
-Kate_Mulgrew, 1955-04-29, 2,3,405871
-Kirk_Hammett, 1962-11-18, 2,3,406331
-Konstantin_Novoselov, 1974-08-23, 2,3,407047
-Kristanna_Loken, 1979-10-08, 2,3,407359
-Lazare_Carnot, 1753-05-13, 2,3,393577
-Lena_Headey, 1973-10-03, 2,3,406993
-Lina_Medina, 1933-09-27, 2,3,404557
-Liédson, 1977-12-17, 2,3,407249
-Lynn_Margulis, 1938-03-05, 2,3,404827
-Maite_Perroni, 1983-03-09, 2,3,407567
-Marcel_Lefebvre, 1905-11-29, 2,3,402863
-Maria_Schneider_(actress), 1952-03-27, 2,3,405683
-Mark_Zuckerberg, 1984-05-14, 2,3,407639
-Mayumi_Iizuka, 1977-01-03, 2,3,407191
-Mengistu_Haile_Mariam, 1937-05-21, 2,3,404779
-Michael_Rensing, 1984-05-14, 2,3,407639
-Mikel_Arteta, 1982-03-26, 2,3,407509
-Mikuláš_Dzurinda, 1955-02-04, 2,3,405857
-Monica_Lewinsky, 1973-07-23, 2,3,406981
-Moshe_Katsav, 1945-12-05, 2,3,405299
-Mstislav_Rostropovich, 1927-03-27, 2,3,404161
-Mário_Soares, 1924-12-07, 2,3,404021
-Natasha_Bedingfield, 1981-11-26, 2,3,407489
-Nemanja_Vidić, 1981-10-21, 2,3,407483
-Neve_Campbell, 1973-10-03, 2,3,406993
-Nigel_Reo-Coker, 1984-05-14, 2,3,407639
-Paolo_Bettini, 1974-04-01, 2,3,407023
-Park_Chung-hee, 1917-11-14, 2,3,403591
-Peter_Agre, 1949-01-30, 2,3,405491
-Peter_Carl_Fabergé, 1846-05-30, 2,3,399241
-Petra_Kvitová, 1990-03-08, 2,3,407993
-Pierre-Auguste_Renoir, 1841-02-25, 2,3,398921
-R._Kelly, 1967-01-08, 2,3,406583
-Ramsay_MacDonald, 1866-10-12, 2,3,400481
-Rasmus_Lerdorf, 1968-11-22, 2,3,406697
-Robert_Lewandowski, 1988-08-21, 2,3,407899
-Robert_Menzies, 1894-12-20, 2,3,402197
-Roger_Joseph_Boscovich, 1711-05-18, 2,3,391021
-Roy_Hodgson, 1947-08-09, 2,3,405401
-Ryan_Reynolds, 1976-10-23, 2,3,407179
-Sam_Neill, 1947-09-14, 2,3,405407
-Samuel_C._C._Ting, 1936-01-27, 2,3,404699
-Sergio_Busquets, 1988-07-16, 2,3,407893
-Sergio_Leone, 1929-01-03, 2,3,404269
-Sophus_Lie, 1842-12-17, 2,3,399031
-Stephan_Andersen, 1981-11-26, 2,3,407489
-Sven_Hedin, 1865-02-19, 2,3,400381
-T-Pain, 1985-09-30, 2,3,407723
-Theodor_Fontane, 1819-12-30, 2,3,397633
-Tibor_Sekelj, 1912-02-14, 2,3,403241
-Til_Schweiger, 1963-12-19, 2,3,406397
-Traian_Băsescu, 1951-11-04, 2,3,405659
-Victor_Hugo, 1802-02-26, 2,3,396547
-Vincent_du_Vigneaud, 1901-05-18, 2,3,402587
-Walter_Baade, 1893-03-24, 2,3,402091
-Walter_Benjamin, 1892-07-15, 2,3,402049
-Willi_Stoph, 1914-07-09, 2,3,403387
-William_III_of_the_Netherlands, 1817-02-19, 2,3,397459
-Émile_Borel, 1871-01-07, 2,3,400739
-Étienne_Geoffroy_Saint-Hilaire, 1772-04-15, 2,3,394729
-Ólafur_Ragnar_Grímsson, 1943-05-14, 2,3,405143
+Albert_Einstein, 1879-03-14, 2,3,401237, 540789.6988
+Ayrton_Senna, 1960-03-21, 2,3,406169, 294298.3594
+Charlie_Sheen, 1965-09-03, 2,3,406501, 871800.1765
+Didier_Drogba, 1978-03-11, 2,3,407263, 286417.3125
+Emily_Browning, 1988-12-07, 2,3,407917, 366908.0345
+Emily_Deschanel, 1976-10-11, 2,3,407177, 394974.8889
+Gary_Coleman, 1968-02-08, 2,3,406649, 379729.3103
+Gene_Wilder, 1933-06-11, 2,3,404539, 232969.8421
+Jennifer_Beals, 1963-12-19, 2,3,406397, 248712.3214
+Jennifer_Carpenter, 1979-12-07, 2,3,407369, 380623.6923
+Joseph_Goebbels, 1897-10-29, 2,3,402371, 234758.9155
+Lena_Headey, 1973-10-03, 2,3,406993, 458188.2857
+Lina_Medina, 1933-09-27, 2,3,404557, 328371.4286
+Maite_Perroni, 1983-03-09, 2,3,407567, 281838.5769
+Mark_Zuckerberg, 1984-05-14, 2,3,407639, 736947.6353
+Monica_Lewinsky, 1973-07-23, 2,3,406981, 310701.4054
+R._Kelly, 1967-01-08, 2,3,406583, 434800.5667
+Ryan_Reynolds, 1976-10-23, 2,3,407179, 879172.4737
+T-Pain, 1985-09-30, 2,3,407723, 375563.5313
+Til_Schweiger, 1963-12-19, 2,3,406397, 261590.0645
+Victor_Hugo, 1802-02-26, 2,3,396547, 208615.8943

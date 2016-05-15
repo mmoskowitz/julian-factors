@@ -1,7 +1,7 @@
-Carla_Del_Ponte, 1947-02-09, 5,5,271,359
-Eugen_Bleuler, 1857-04-30, 2,19,233,271
-Frank-Walter_Steinmeier, 1956-01-05, 11,19,43,271
-Godfrey_Hounsfield, 1919-08-28, 2,41,109,271
-John_Gurdon, 1933-10-02, 13,13,53,271
-Julia_Stiles, 1981-03-28, 3,31,97,271
-Stanislav_Petrov, 1939-09-09, 5,11,163,271
+Carla_Del_Ponte, 1947-02-09, 5,5,271,359, 17275.40741
+Eugen_Bleuler, 1857-04-30, 2,19,233,271, 26694.51852
+Frank-Walter_Steinmeier, 1956-01-05, 11,19,43,271, 32510.325
+Godfrey_Hounsfield, 1919-08-28, 2,41,109,271, 11102.84375
+John_Gurdon, 1933-10-02, 13,13,53,271, 12947.89744
+Julia_Stiles, 1981-03-28, 3,31,97,271, 338501.5152
+Stanislav_Petrov, 1939-09-09, 5,11,163,271, 83845.06667

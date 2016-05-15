@@ -1,2 +1,2 @@
-Aleksandr_Lyapunov, 1857-06-06, 59,67,607
-Enrico_Berlinguer, 1922-05-15, 59,67,613
+Aleksandr_Lyapunov, 1857-06-06, 59,67,607, 13001.55556
+Enrico_Berlinguer, 1922-05-15, 59,67,613, 252491.1852

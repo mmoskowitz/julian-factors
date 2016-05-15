@@ -1,3 +1,3 @@
-Konstantin_Rokossovsky, 1896-12-21, 2,3,109,3691
-Michael_Essien, 1982-12-03, 2,3,109,3739
-Shaquille_O'Neal, 1972-03-06, 2,3,109,3733
+Konstantin_Rokossovsky, 1896-12-21, 2,3,109,3691, 26269.21429
+Michael_Essien, 1982-12-03, 2,3,109,3739, 101152.4082
+Shaquille_O'Neal, 1972-03-06, 2,3,109,3733, 451524.24

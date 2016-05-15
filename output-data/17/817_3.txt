@@ -1,2 +1,2 @@
-Joseph_I_of_Portugal, 1714-06-06, 13,13,17,19,43
-Silvestre_Varela, 1985-02-02, 2,3,19,43,499
+Joseph_I_of_Portugal, 1714-06-06, 13,13,17,19,43, 17795.6
+Silvestre_Varela, 1985-02-02, 2,3,19,43,499, 25331.93103

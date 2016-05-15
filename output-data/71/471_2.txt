@@ -1,5 +1,5 @@
-Bessie_Smith, 1894-04-15, 3,47,109,157
-Fritz_Albert_Lipmann, 1899-06-12, 3,3,157,1709
-Gabriela_Sabatini, 1970-05-16, 2,3,157,2591
-Nikita_Khrushchev, 1894-04-15, 3,47,109,157
-William_A._Wheeler, 1819-06-30, 3,5,157,1013
+Bessie_Smith, 1894-04-15, 3,47,109,157, 71807.12121
+Fritz_Albert_Lipmann, 1899-06-12, 3,3,157,1709, 6507.96875
+Gabriela_Sabatini, 1970-05-16, 2,3,157,2591, 73388.08571
+Nikita_Khrushchev, 1894-04-15, 3,47,109,157, 131890.407
+William_A._Wheeler, 1819-06-30, 3,5,157,1013, 9826.037037

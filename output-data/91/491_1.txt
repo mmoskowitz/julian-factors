@@ -1,2 +1,2 @@
-Eyvind_Johnson, 1900-07-29, 491,4919
-Melvin_Schwartz, 1932-11-02, 491,4943
+Eyvind_Johnson, 1900-07-29, 491,4919, 7798.142857
+Melvin_Schwartz, 1932-11-02, 491,4943, 6192.75

@@ -1,2 +1,2 @@
-John_Diefenbaker, 1895-09-18, 2,59,113,181
-John_Hughes_(Irish_musician), 1950-06-23, 5,59,73,113
+John_Diefenbaker, 1895-09-18, 2,59,113,181, 37022.27586
+John_Hughes_(Irish_musician), 1950-06-23, 5,59,73,113, 13486.51852

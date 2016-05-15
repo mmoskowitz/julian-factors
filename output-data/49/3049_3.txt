@@ -1,3 +1,3 @@
-Pierre-Gilles_de_Gennes, 1932-10-24, 2,2,199,3049
-Robert_Mundell, 1932-10-24, 2,2,199,3049
-Wilhelm_Keitel, 1882-09-22, 2,5,79,3049
+Pierre-Gilles_de_Gennes, 1932-10-24, 2,2,199,3049, 13572.54762
+Robert_Mundell, 1932-10-24, 2,2,199,3049, 19488.59375
+Wilhelm_Keitel, 1882-09-22, 2,5,79,3049, 92840.26

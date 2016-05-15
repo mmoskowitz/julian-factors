@@ -1,3 +1,3 @@
-Jeppe_Aakjær, 1866-09-10, 2,19,37,1709
-Marie_de_Rabutin-Chantal,_marquise_de_Sévigné, 1626-02-05, 19,37,37,89
-Otto_von_Habsburg, 1912-11-20, 2,19,37,1721
+Jeppe_Aakjær, 1866-09-10, 2,19,37,1709, 6861.233333
+Marie_de_Rabutin-Chantal,_marquise_de_Sévigné, 1626-02-05, 19,37,37,89, 6861.346154
+Otto_von_Habsburg, 1912-11-20, 2,19,37,1721, 74765.57447

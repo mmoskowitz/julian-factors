@@ -1,3 +1,3 @@
-Andrei_Tarkovsky, 1932-04-04, 13,17,79,139
-Anthony_Perkins, 1932-04-04, 13,17,79,139
-Dante_Gabriel_Rossetti, 1828-05-12, 2,13,139,661
+Andrei_Tarkovsky, 1932-04-04, 13,17,79,139, 78511.82353
+Anthony_Perkins, 1932-04-04, 13,17,79,139, 144160.2973
+Dante_Gabriel_Rossetti, 1828-05-12, 2,13,139,661, 64792.40476

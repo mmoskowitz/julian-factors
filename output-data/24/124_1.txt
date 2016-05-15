@@ -1,6 +1,6 @@
-Eurico_Gaspar_Dutra, 1883-05-18, 2,2,31,19427
-Jesse_Spencer, 1979-02-12, 2,2,31,19709
-Oscar_II_of_Sweden, 1829-01-21, 2,2,31,19267
-Otto_Stern, 1888-02-17, 2,2,31,19441
-Walter_Gropius, 1883-05-18, 2,2,31,19427
-William_Pitt,_1st_Earl_of_Chatham, 1708-11-15, 2,2,31,18913
+Eurico_Gaspar_Dutra, 1883-05-18, 2,2,31,19427, 24334.85185
+Jesse_Spencer, 1979-02-12, 2,2,31,19709, 211315.2667
+Oscar_II_of_Sweden, 1829-01-21, 2,2,31,19267, 33710.15789
+Otto_Stern, 1888-02-17, 2,2,31,19441, 8275.849057
+Walter_Gropius, 1883-05-18, 2,2,31,19427, 103546.8421
+William_Pitt,_1st_Earl_of_Chatham, 1708-11-15, 2,2,31,18913, 4898.903226

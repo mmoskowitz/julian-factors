@@ -1,9 +1,9 @@
-Abdullahi_Yusuf_Ahmed, 1934-12-15, 2,3,3,3,44959
-Alain-Fournier, 1886-10-03, 2,3,3,3,44633
-Anna_Paquin, 1982-07-24, 2,3,3,3,45281
-César_Azpilicueta, 1989-08-28, 2,3,3,3,45329
-Dizzy_Gillespie, 1917-10-21, 2,3,3,3,44843
-Jean_de_La_Fontaine, 1621-07-08, 2,3,3,3,42839
-Marguerite_Duras, 1914-04-04, 2,3,3,3,44819
-Sophie_Scholl, 1921-05-09, 2,3,3,3,44867
-Victoria,_Crown_Princess_of_Sweden, 1977-07-14, 2,3,3,3,45247
+Abdullahi_Yusuf_Ahmed, 1934-12-15, 2,3,3,3,44959, 14889.17647
+Alain-Fournier, 1886-10-03, 2,3,3,3,44633, 23331.14815
+Anna_Paquin, 1982-07-24, 2,3,3,3,45281, 405451.925
+César_Azpilicueta, 1989-08-28, 2,3,3,3,45329, 62264.44828
+Dizzy_Gillespie, 1917-10-21, 2,3,3,3,44843, 98354.33333
+Jean_de_La_Fontaine, 1621-07-08, 2,3,3,3,42839, 151871.7414
+Marguerite_Duras, 1914-04-04, 2,3,3,3,44819, 70941.4
+Sophie_Scholl, 1921-05-09, 2,3,3,3,44867, 110007.9444
+Victoria,_Crown_Princess_of_Sweden, 1977-07-14, 2,3,3,3,45247, 65984.13636

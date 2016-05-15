@@ -1,14 +1,14 @@
-Alessandra_Ambrosio, 1981-04-11, 5,47,101,103
-Brad_Renfro, 1982-07-25, 5,5,47,2081
-George_Curzon,_1st_Marquess_Curzon_of_Kedleston, 1859-01-11, 5,7,47,1459
-James_Blake_(tennis), 1979-12-28, 3,5,47,3467
-Jean_Jaurès, 1859-09-03, 2,5,47,5107
-Joe_Louis, 1914-05-13, 3,5,47,3433
-Lucien_Bonaparte, 1775-05-21, 3,5,47,3361
-Mark_Rutte, 1967-02-14, 5,7,47,1483
-Mary_McDonnell, 1952-04-28, 2,5,47,5179
-Noomi_Rapace, 1979-12-28, 3,5,47,3467
-Pearl_S._Buck, 1892-06-26, 5,5,47,2053
-Sarah_Wayne_Callies, 1977-06-01, 5,37,47,281
-Tobey_Maguire, 1975-06-27, 2,5,47,5197
-William_Bateson, 1861-08-08, 5,17,47,601
+Alessandra_Ambrosio, 1981-04-11, 5,47,101,103, 260149.3889
+Brad_Renfro, 1982-07-25, 5,5,47,2081, 226666.0385
+George_Curzon,_1st_Marquess_Curzon_of_Kedleston, 1859-01-11, 5,7,47,1459, 5908.677419
+James_Blake_(tennis), 1979-12-28, 3,5,47,3467, 75901.70588
+Jean_Jaurès, 1859-09-03, 2,5,47,5107, 52019.28947
+Joe_Louis, 1914-05-13, 3,5,47,3433, 164981.9
+Lucien_Bonaparte, 1775-05-21, 3,5,47,3361, 25481.5
+Mark_Rutte, 1967-02-14, 5,7,47,1483, 26230.07018
+Mary_McDonnell, 1952-04-28, 2,5,47,5179, 126443.9259
+Noomi_Rapace, 1979-12-28, 3,5,47,3467, 315876.9
+Pearl_S._Buck, 1892-06-26, 5,5,47,2053, 36099.78125
+Sarah_Wayne_Callies, 1977-06-01, 5,37,47,281, 179185.5128
+Tobey_Maguire, 1975-06-27, 2,5,47,5197, 253187.3137
+William_Bateson, 1861-08-08, 5,17,47,601, 10815.96154

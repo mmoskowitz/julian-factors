@@ -1,2 +1,2 @@
-Alexander_Grothendieck, 1928-03-28, 53,67,683
-Zbigniew_Brzezinski, 1928-03-28, 53,67,683
+Alexander_Grothendieck, 1928-03-28, 53,67,683, 34117.07143
+Zbigniew_Brzezinski, 1928-03-28, 53,67,683, 82241.7027

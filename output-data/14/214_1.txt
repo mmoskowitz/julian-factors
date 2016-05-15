@@ -1,3 +1,3 @@
-Friedrich_Dürrenmatt, 1921-01-05, 2,107,11321
-Hermann_Weyl, 1885-11-09, 2,107,11261
-Jean,_Grand_Duke_of_Luxembourg, 1921-01-05, 2,107,11321
+Friedrich_Dürrenmatt, 1921-01-05, 2,107,11321, 70086.68889
+Hermann_Weyl, 1885-11-09, 2,107,11261, 17863.78571
+Jean,_Grand_Duke_of_Luxembourg, 1921-01-05, 2,107,11321, 5575.241379

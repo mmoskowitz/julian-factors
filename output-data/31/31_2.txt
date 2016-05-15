@@ -1,51 +1,21 @@
-Adlai_Stevenson_II, 1900-02-05, 5,31,15581
-Alberto_Moravia, 1907-11-28, 3,31,25999
-Alcide_De_Gasperi, 1881-04-03, 31,131,593
-Alfred_Hershey, 1908-12-04, 3,31,26003
-Alina_Kabaeva, 1983-05-12, 2,31,39443
-Andrey_Arshavin, 1981-05-29, 17,31,4639
-Bella_Akhmadulina, 1937-04-10, 31,157,499
-Bert_van_Marwijk, 1952-05-19, 31,233,337
-Burt_Bacharach, 1928-05-12, 2,31,39119
-Christian_de_Duve, 1917-10-02, 7,31,11159
-David_Strathairn, 1949-01-26, 2,31,39241
-Dayana_Mendoza, 1986-06-01, 2,31,39461
-Edith_Stein, 1891-10-12, 29,31,2683
-Floriano_Peixoto, 1839-04-30, 7,31,11027
-Folke_Bernadotte, 1895-01-02, 5,31,15569
-Friedensreich_Hundertwasser, 1928-12-15, 5,31,15649
-George_Abela, 1948-04-22, 31,97,809
-George_Gamow, 1904-03-04, 31,137,569
-George_de_Hevesy, 1885-08-01, 2,31,38867
-Georgios_Samaras, 1985-02-21, 19,31,4153
-Gerry_Rafferty, 1947-04-16, 31,31,2531
-Gigliola_Cinquetti, 1947-12-20, 31,131,599
-Giulio_Natta, 1903-02-26, 31,41,1901
-Guillermo_del_Toro, 1964-10-09, 31,97,811
-Hatem_Ben_Arfa, 1987-03-07, 17,31,4643
-Hope_Solo, 1981-07-30, 5,31,15773
-Ignacy_Łukasiewicz, 1822-03-08, 31,167,461
-Jan_Matejko, 1838-06-24, 31,113,683
-Jari_Litmanen, 1971-02-20, 2,31,39371
-Jean-Baptiste_Say, 1767-01-05, 23,31,3319
-Jenson_Button, 1980-01-19, 31,37,2131
-Jermain_Defoe, 1982-10-07, 3,31,26293
-John_Cleese, 1939-10-27, 31,181,433
-John_Wayne, 1907-05-26, 3,31,25997
-Josh_Hutcherson, 1992-10-12, 31,197,401
-Kareem_Abdul-Jabbar, 1947-04-16, 31,31,2531
-Klaus_Ebner, 1964-08-08, 5,31,15733
-Lamberto_Dini, 1931-03-01, 29,31,2699
-Ludmilla_Radchenko, 1978-11-11, 31,31,2543
-Mao_Zedong, 1893-12-26, 7,31,11119
-Mario_Andretti, 1940-02-28, 13,31,6029
-Massimo_Busacca, 1969-02-06, 2,31,39359
-Milan_Stanković, 1987-09-09, 31,193,409
-Miloš_Zeman, 1944-09-28, 31,107,733
-Mohamed_Hussein_Tantawi, 1935-10-31, 2,31,39163
-Paul_Feyerabend, 1924-01-13, 31,41,1907
-Richard_Rorty, 1931-10-04, 2,31,39139
-Rinus_Michels, 1928-02-09, 5,31,15647
-Sergei_Eisenstein, 1898-01-22, 19,31,4099
-Timothy_Leary, 1920-10-22, 17,31,4597
-Wilhelm_Cuno, 1876-07-02, 11,31,7057
+Andrey_Arshavin, 1981-05-29, 17,31,4639, 127079.9815
+Bert_van_Marwijk, 1952-05-19, 31,233,337, 62028.13793
+Burt_Bacharach, 1928-05-12, 2,31,39119, 127331.7333
+David_Strathairn, 1949-01-26, 2,31,39241, 97754.07692
+Dayana_Mendoza, 1986-06-01, 2,31,39461, 100878.8571
+Friedensreich_Hundertwasser, 1928-12-15, 5,31,15649, 158690.1429
+Gerry_Rafferty, 1947-04-16, 31,31,2531, 102932.4643
+Guillermo_del_Toro, 1964-10-09, 31,97,811, 261679.5938
+Hatem_Ben_Arfa, 1987-03-07, 17,31,4643, 116623.7879
+Hope_Solo, 1981-07-30, 5,31,15773, 231283.8889
+Jan_Matejko, 1838-06-24, 31,113,683, 73357.92308
+Jari_Litmanen, 1971-02-20, 2,31,39371, 70101.69697
+Jenson_Button, 1980-01-19, 31,37,2131, 101084.2542
+Jermain_Defoe, 1982-10-07, 3,31,26293, 84292.15
+John_Cleese, 1939-10-27, 31,181,433, 185407.3542
+John_Wayne, 1907-05-26, 3,31,25997, 257134.48
+Josh_Hutcherson, 1992-10-12, 31,197,401, 583363.4412
+Kareem_Abdul-Jabbar, 1947-04-16, 31,31,2531, 260464.2045
+Mao_Zedong, 1893-12-26, 7,31,11119, 238131
+Mario_Andretti, 1940-02-28, 13,31,6029, 63808.81818
+Timothy_Leary, 1920-10-22, 17,31,4597, 185760.3636

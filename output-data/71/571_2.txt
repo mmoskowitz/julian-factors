@@ -1,2 +1,2 @@
-James_Michel, 1944-08-16, 2,571,2129
-Philip_Showalter_Hench, 1896-02-28, 3,571,1409
+James_Michel, 1944-08-16, 2,571,2129, 10045.03125
+Philip_Showalter_Hench, 1896-02-28, 3,571,1409, 5055.857143

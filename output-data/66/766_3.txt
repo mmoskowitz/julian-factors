@@ -1,2 +1,2 @@
-J._Michael_Bishop, 1936-02-22, 2,2,5,317,383
-William_Carlos_Williams, 1883-09-17, 2,5,17,37,383
+J._Michael_Bishop, 1936-02-22, 2,2,5,317,383, 8055.692308
+William_Carlos_Williams, 1883-09-17, 2,5,17,37,383, 57228.53846

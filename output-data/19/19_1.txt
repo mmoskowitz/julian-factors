@@ -1,39 +1,21 @@
-Akhmad_Kadyrov, 1951-08-23, 19,128099
-Alexis_Bledel, 1981-09-16, 19,128677
-Alfred_North_Whitehead, 1861-02-15, 19,126359
-Andy_Williams, 1927-12-03, 19,127643
-Bebeto, 1964-02-16, 19,128339
-Brittany_Murphy, 1977-11-10, 19,128603
-Carla_Bruni, 1967-12-23, 19,128413
-Chazz_Palminteri, 1952-05-15, 19,128113
-Colin_Firth, 1960-09-10, 19,128273
-Doris_Lessing, 1919-10-22, 19,127487
-Douglass_North, 1920-11-05, 19,127507
-François_Ozon, 1967-11-15, 19,128411
-Friedrich_Carl_von_Savigny, 1779-02-21, 19,124783
-George_A._Romero, 1940-02-04, 19,127877
-Herbert_Kroemer, 1928-08-25, 19,127657
-Ivan_Ljubičić, 1979-03-19, 19,128629
-Johannes_Rau, 1931-01-16, 19,127703
-John_Kerry, 1943-12-11, 19,127951
-Juan_Carlos_I_of_Spain, 1938-01-05, 19,127837
-Juho_Kusti_Paasikivi, 1870-11-27, 19,126547
-Kenny_Rogers, 1938-08-21, 19,127849
-Lawrence_Lessig, 1961-06-03, 19,128287
-Lee_Myung-bak, 1941-12-19, 19,127913
-Leni_Riefenstahl, 1902-08-22, 19,127157
-Les_Paul, 1915-06-09, 19,127403
-Louis_Daguerre, 1787-11-18, 19,124951
-Marion_Jones, 1975-10-12, 19,128563
-Max_von_Sydow, 1929-04-10, 19,127669
-Mike_Hawthorn, 1929-04-10, 19,127669
-Molière, 1622-01-15, 19,121763
-Ngũgĩ_wa_Thiong'o, 1938-01-05, 19,127837
-Pete_Conrad, 1930-06-02, 19,127691
-Philipp_Kohlschreiber, 1983-10-16, 19,128717
-Richard_Krajicek, 1971-12-06, 19,128489
-Sergey_Karjakin, 1990-01-12, 19,128837
-Sinéad_O'Connor, 1966-12-08, 19,128393
-Stephen_Appiah, 1980-12-24, 19,128663
-Václav_Pilař, 1988-10-13, 19,128813
-William_Gibson, 1948-03-17, 19,128033
+Alexis_Bledel, 1981-09-16, 19,128677, 342523.8108
+Andy_Williams, 1927-12-03, 19,127643, 103579.5
+Bebeto, 1964-02-16, 19,128339, 65315.72222
+Brittany_Murphy, 1977-11-10, 19,128603, 647549.6735
+Carla_Bruni, 1967-12-23, 19,128413, 275039.4902
+Chazz_Palminteri, 1952-05-15, 19,128113, 67672.37931
+Colin_Firth, 1960-09-10, 19,128273, 280620.9216
+George_A._Romero, 1940-02-04, 19,127877, 169989.8333
+John_Kerry, 1943-12-11, 19,127951, 128333.8039
+Juan_Carlos_I_of_Spain, 1938-01-05, 19,127837, 126969.8333
+Kenny_Rogers, 1938-08-21, 19,127849, 160632.4118
+Lee_Myung-bak, 1941-12-19, 19,127913, 69280.7193
+Leni_Riefenstahl, 1902-08-22, 19,127157, 75491.69492
+Les_Paul, 1915-06-09, 19,127403, 308494.4082
+Louis_Daguerre, 1787-11-18, 19,124951, 118168.8772
+Marion_Jones, 1975-10-12, 19,128563, 126699.1
+Max_von_Sydow, 1929-04-10, 19,127669, 135012.2162
+Molière, 1622-01-15, 19,121763, 162634.6792
+Sinéad_O'Connor, 1966-12-08, 19,128393, 199159.175
+Stephen_Appiah, 1980-12-24, 19,128663, 58712.93333
+William_Gibson, 1948-03-17, 19,128033, 68814.625

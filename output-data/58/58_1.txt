@@ -1,9 +1,9 @@
-Charles_Taylor_(Liberian_politician), 1948-01-28, 2,29,41941
-George_Foreman, 1949-01-10, 2,29,41947
-Gerty_Cori, 1896-08-15, 2,29,41617
-Gregory_van_der_Wiel, 1988-02-03, 2,29,42193
-Ivan_V_of_Russia, 1666-09-06, 2,29,40169
-Linda_Lovelace, 1949-01-10, 2,29,41947
-Saif_Ali_Khan, 1970-08-16, 2,29,42083
-Stephen_Hendry, 1969-01-13, 2,29,42073
-Tony_Parker, 1982-05-17, 2,29,42157
+Charles_Taylor_(Liberian_politician), 1948-01-28, 2,29,41941, 8899.666667
+George_Foreman, 1949-01-10, 2,29,41947, 224751.3143
+Gerty_Cori, 1896-08-15, 2,29,41617, 8860.540541
+Gregory_van_der_Wiel, 1988-02-03, 2,29,42193, 60532.94595
+Ivan_V_of_Russia, 1666-09-06, 2,29,40169, 23646.95349
+Linda_Lovelace, 1949-01-10, 2,29,41947, 365441.7273
+Saif_Ali_Khan, 1970-08-16, 2,29,42083, 301988.375
+Stephen_Hendry, 1969-01-13, 2,29,42073, 71803.48276
+Tony_Parker, 1982-05-17, 2,29,42157, 223032.3333

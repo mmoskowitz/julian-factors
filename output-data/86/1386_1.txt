@@ -1,2 +1,2 @@
-Georges_Lemaître, 1894-07-17, 2,3,3,7,11,1741
-William_Henry_Harrison, 1773-02-09, 2,3,3,7,11,1709
+Georges_Lemaître, 1894-07-17, 2,3,3,7,11,1741, 46321.625
+William_Henry_Harrison, 1773-02-09, 2,3,3,7,11,1709, 71674.35227

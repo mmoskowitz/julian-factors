@@ -1,2 +1,2 @@
-Fritz_Pregl, 1869-09-03, 1483,1621
-Norman_Schwarzkopf,_Jr., 1934-08-22, 1483,1637
+Fritz_Pregl, 1869-09-03, 1483,1621, 7088
+Norman_Schwarzkopf,_Jr., 1934-08-22, 1483,1637, 21450.0303

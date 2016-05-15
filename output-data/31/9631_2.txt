@@ -1,2 +1,2 @@
-Jens_Stoltenberg, 1959-03-16, 11,23,9631
-Mathieu_Debuchy, 1985-07-28, 2,127,9631
+Jens_Stoltenberg, 1959-03-16, 11,23,9631, 27796.15254
+Mathieu_Debuchy, 1985-07-28, 2,127,9631, 36108.85714

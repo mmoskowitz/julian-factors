@@ -1,11 +1,11 @@
-André_Rieu, 1949-10-01, 2,5,31,47,167
-Edmondo_De_Amicis, 1846-10-21, 2,3,5,47,1699
-Frank_Gehry, 1929-02-28, 2,5,13,47,397
-Gotthold_Ephraim_Lessing, 1729-01-22, 3,5,47,47,71
-Isambard_Kingdom_Brunel, 1806-04-09, 3,5,11,47,307
-Melina_Mercouri, 1920-10-18, 5,13,13,47,61
-Nebojša_Radmanović, 1949-10-01, 2,5,31,47,167
-Paul_Greengard, 1925-12-11, 3,5,19,47,181
-Prince_Philip,_Duke_of_Edinburgh, 1921-06-10, 2,5,5,47,1031
-Seán_MacBride, 1904-01-26, 5,7,13,47,113
-Toni_Braxton, 1967-10-07, 2,5,29,47,179
+André_Rieu, 1949-10-01, 2,5,31,47,167, 141996.8846
+Edmondo_De_Amicis, 1846-10-21, 2,3,5,47,1699, 30896.29032
+Frank_Gehry, 1929-02-28, 2,5,13,47,397, 138694.1304
+Gotthold_Ephraim_Lessing, 1729-01-22, 3,5,47,47,71, 59323.18
+Isambard_Kingdom_Brunel, 1806-04-09, 3,5,11,47,307, 82107.37143
+Melina_Mercouri, 1920-10-18, 5,13,13,47,61, 37231.6129
+Nebojša_Radmanović, 1949-10-01, 2,5,31,47,167, 9034.538462
+Paul_Greengard, 1925-12-11, 3,5,19,47,181, 8775.148148
+Prince_Philip,_Duke_of_Edinburgh, 1921-06-10, 2,5,5,47,1031, 44470.11111
+Seán_MacBride, 1904-01-26, 5,7,13,47,113, 9708.78125
+Toni_Braxton, 1967-10-07, 2,5,29,47,179, 234038.4839

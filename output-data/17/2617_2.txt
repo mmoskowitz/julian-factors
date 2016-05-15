@@ -1,2 +1,2 @@
-Angelos_Charisteas, 1980-02-09, 2,467,2617
-Brian_Molko, 1972-12-10, 3,311,2617
+Angelos_Charisteas, 1980-02-09, 2,467,2617, 34321.5
+Brian_Molko, 1972-12-10, 3,311,2617, 110186

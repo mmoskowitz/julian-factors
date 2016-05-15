@@ -1,3 +1,3 @@
-C._Wright_Mills, 1916-08-28, 233,10391
-Neil_deGrasse_Tyson, 1958-10-05, 233,10457
-Thomas_Morgenstern, 1986-10-30, 233,10501
+C._Wright_Mills, 1916-08-28, 233,10391, 47794.84615
+Neil_deGrasse_Tyson, 1958-10-05, 233,10457, 151935.8621
+Thomas_Morgenstern, 1986-10-30, 233,10501, 35439

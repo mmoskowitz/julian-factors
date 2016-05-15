@@ -1,1 +1,1 @@
-Arthur_Wellesley,_1st_Duke_of_Wellington, 1769-05-01, 2,3,394549
+Arthur_Wellesley,_1st_Duke_of_Wellington, 1769-05-01, 2,3,394549, 11661.27273

@@ -1,14 +1,14 @@
-Alfred_Molina, 1953-05-24, 3,29,27983
-Andrés_Guardado, 1986-09-28, 3,29,28123
-Arrigo_Sacchi, 1946-04-01, 3,29,27953
-Bernd_Schneider_(footballer), 1973-11-17, 3,29,28069
-Euzebiusz_Smolarek, 1981-01-09, 3,29,28099
-Jean_Makoun, 1983-05-29, 3,29,28109
-José_Sócrates, 1957-09-06, 3,29,28001
-Kurmanbek_Bakiyev, 1949-08-01, 3,29,27967
-Michael_Ballack, 1976-09-26, 3,29,28081
-Michaëlle_Jean, 1957-09-06, 3,29,28001
-Paolo_Rossi, 1956-09-23, 3,29,27997
-Pascal_Zuberbühler, 1971-01-08, 3,29,28057
-Trygve_Haavelmo, 1911-12-13, 3,29,27809
-Xavier_Malisse, 1980-07-19, 3,29,28097
+Alfred_Molina, 1953-05-24, 3,29,27983, 161336.4828
+Andrés_Guardado, 1986-09-28, 3,29,28123, 56664.82759
+Arrigo_Sacchi, 1946-04-01, 3,29,27953, 54673
+Bernd_Schneider_(footballer), 1973-11-17, 3,29,28069, 5670.3125
+Euzebiusz_Smolarek, 1981-01-09, 3,29,28099, 51715.36667
+Jean_Makoun, 1983-05-29, 3,29,28109, 34611.5
+José_Sócrates, 1957-09-06, 3,29,28001, 23685.02273
+Kurmanbek_Bakiyev, 1949-08-01, 3,29,27967, 13248.57447
+Michael_Ballack, 1976-09-26, 3,29,28081, 140899.1452
+Michaëlle_Jean, 1957-09-06, 3,29,28001, 49663.51429
+Paolo_Rossi, 1956-09-23, 3,29,27997, 30876.125
+Pascal_Zuberbühler, 1971-01-08, 3,29,28057, 14411.84615
+Trygve_Haavelmo, 1911-12-13, 3,29,27809, 6989.96875
+Xavier_Malisse, 1980-07-19, 3,29,28097, 21109.88462

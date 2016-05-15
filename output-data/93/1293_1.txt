@@ -1,2 +1,2 @@
-Bertram_Brockhouse, 1918-07-15, 3,431,1873
-Thornton_Wilder, 1897-04-17, 3,431,1867
+Bertram_Brockhouse, 1918-07-15, 3,431,1873, 7171.025641
+Thornton_Wilder, 1897-04-17, 3,431,1867, 33268.89655

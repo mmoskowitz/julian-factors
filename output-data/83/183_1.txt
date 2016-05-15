@@ -1,5 +1,5 @@
-Alfred_Radcliffe-Brown, 1881-01-17, 3,61,13159
-Bobby_McFerrin, 1950-03-11, 3,61,13297
-David_Coulthard, 1971-03-27, 3,61,13339
-Jacques_Monod, 1910-02-09, 3,61,13217
-Nathan_Fillion, 1971-03-27, 3,61,13339
+Alfred_Radcliffe-Brown, 1881-01-17, 3,61,13159, 17455.88889
+Bobby_McFerrin, 1950-03-11, 3,61,13297, 113212.7037
+David_Coulthard, 1971-03-27, 3,61,13339, 57688.53333
+Jacques_Monod, 1910-02-09, 3,61,13217, 17266
+Nathan_Fillion, 1971-03-27, 3,61,13339, 337042.4444

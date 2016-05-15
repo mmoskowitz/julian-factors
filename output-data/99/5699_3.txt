@@ -1,2 +1,2 @@
-Charles_X_Gustav_of_Sweden, 1622-11-08, 2,7,29,41,139
-Giuseppe_Ungaretti, 1888-02-10, 3,3,41,47,139
+Charles_X_Gustav_of_Sweden, 1622-11-08, 2,7,29,41,139, 27627.68571
+Giuseppe_Ungaretti, 1888-02-10, 3,3,41,47,139, 81931.6

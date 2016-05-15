@@ -1,1 +1,1 @@
-Edward_Norton_Lorenz, 1917-05-23, 23,105277
+Edward_Norton_Lorenz, 1917-05-23, 23,105277, 25067.85714

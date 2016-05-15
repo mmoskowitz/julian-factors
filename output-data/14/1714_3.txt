@@ -1,4 +1,4 @@
-Alan_Lloyd_Hodgkin, 1914-02-05, 2,2,2,353,857
-Emerson_Fittipaldi, 1946-12-12, 2,3,11,43,857
-Louis_Althusser, 1918-10-16, 2,3,3,157,857
-William_S._Burroughs, 1914-02-05, 2,2,2,353,857
+Alan_Lloyd_Hodgkin, 1914-02-05, 2,2,2,353,857, 7885.756757
+Emerson_Fittipaldi, 1946-12-12, 2,3,11,43,857, 52821.61765
+Louis_Althusser, 1918-10-16, 2,3,3,157,857, 63960.02439
+William_S._Burroughs, 1914-02-05, 2,2,2,353,857, 150601.525

@@ -1,4 +1,4 @@
-Arnold_J._Toynbee, 1889-04-14, 2,3,251,1601
-Fabricio_Coloccini, 1982-01-22, 3,17,191,251
-John_Searle, 1932-07-31, 3,11,251,293
-Louis_Antoine_de_Saint-Just, 1767-08-25, 3,7,251,449
+Arnold_J._Toynbee, 1889-04-14, 2,3,251,1601, 31327.57143
+Fabricio_Coloccini, 1982-01-22, 3,17,191,251, 47127.38235
+John_Searle, 1932-07-31, 3,11,251,293, 54174.17857
+Louis_Antoine_de_Saint-Just, 1767-08-25, 3,7,251,449, 28044.97059

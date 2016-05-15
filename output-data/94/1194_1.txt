@@ -1,3 +1,3 @@
-Adolf_von_Baeyer, 1835-10-31, 2,3,199,2003
-Alexander_Fleming, 1881-08-06, 2,3,199,2017
-Baruj_Benacerraf, 1920-10-29, 2,3,199,2029
+Adolf_von_Baeyer, 1835-10-31, 2,3,199,2003, 10261.73077
+Alexander_Fleming, 1881-08-06, 2,3,199,2017, 115845.3951
+Baruj_Benacerraf, 1920-10-29, 2,3,199,2029, 10031.66667

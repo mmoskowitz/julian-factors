@@ -1,2 +1,2 @@
-Elena_Dementieva, 1981-10-15, 2,2,3,79,2579
-Joseph_L._Mankiewicz, 1909-02-11, 2,2,3,79,2551
+Elena_Dementieva, 1981-10-15, 2,2,3,79,2579, 43985.5814
+Joseph_L._Mankiewicz, 1909-02-11, 2,2,3,79,2551, 23185.90909

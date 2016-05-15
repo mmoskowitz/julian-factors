@@ -1,2 +1,2 @@
-David_Lloyd_George, 1863-01-17, 2,17,23,37,83
-Giovanni_Alfonso_Borelli, 1608-01-28, 2,2,17,83,409
+David_Lloyd_George, 1863-01-17, 2,17,23,37,83, 54818.60377
+Giovanni_Alfonso_Borelli, 1608-01-28, 2,2,17,83,409, 6881.344828

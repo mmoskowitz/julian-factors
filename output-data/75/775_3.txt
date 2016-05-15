@@ -1,3 +1,3 @@
-Francis_II,_Holy_Roman_Emperor, 1768-02-12, 2,3,5,5,31,509
-Manuel_Zelaya, 1952-09-20, 3,3,5,5,31,349
-Patrick_White, 1912-05-28, 2,5,5,7,31,223
+Francis_II,_Holy_Roman_Emperor, 1768-02-12, 2,3,5,5,31,509, 26978.92453
+Manuel_Zelaya, 1952-09-20, 3,3,5,5,31,349, 33608.58974
+Patrick_White, 1912-05-28, 2,5,5,7,31,223, 14166.67857

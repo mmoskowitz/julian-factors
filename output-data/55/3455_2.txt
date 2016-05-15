@@ -1,2 +1,2 @@
-Hermann_Emil_Fischer, 1852-10-09, 2,5,347,691
-Marion_Cotillard, 1975-09-30, 5,7,101,691
+Hermann_Emil_Fischer, 1852-10-09, 2,5,347,691, 10665.55932
+Marion_Cotillard, 1975-09-30, 5,7,101,691, 345001.7692

@@ -1,4 +1,4 @@
-Anna_Gavalda, 1970-12-09, 3,137,5939
-Carl_David_Anderson, 1905-09-03, 3,137,5881
-Madame_du_Barry, 1743-08-19, 3,137,5737
-Vasily_Blyukher, 1889-12-01, 3,137,5867
+Anna_Gavalda, 1970-12-09, 3,137,5939, 47316.44444
+Carl_David_Anderson, 1905-09-03, 3,137,5881, 9434.979592
+Madame_du_Barry, 1743-08-19, 3,137,5737, 69476.45161
+Vasily_Blyukher, 1889-12-01, 3,137,5867, 12149.3125

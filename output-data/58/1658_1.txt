@@ -1,3 +1,3 @@
-Damien_Hirst, 1965-06-07, 2,829,1471
-Mick_Foley, 1965-06-07, 2,829,1471
-William_II_of_the_Netherlands, 1792-12-06, 2,829,1433
+Damien_Hirst, 1965-06-07, 2,829,1471, 180479.1379
+Mick_Foley, 1965-06-07, 2,829,1471, 324785.037
+William_II_of_the_Netherlands, 1792-12-06, 2,829,1433, 47495.44828

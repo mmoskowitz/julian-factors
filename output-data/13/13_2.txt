@@ -1,132 +1,21 @@
-Aaron_Ramsey, 1990-12-26, 13,83,2269
-Ada_Lovelace, 1815-12-10, 13,37,4957
-Adriana_Lima, 1981-06-12, 13,181,1039
-Ahmed_Hassan_al-Bakr, 1914-07-01, 2,13,93089
-Aleksandar_Kolarov, 1985-11-10, 13,227,829
-Alex_Jones_(radio_host), 1974-02-11, 13,19,9887
-Alexander_Radishchev, 1749-08-31, 13,71,2557
-Allen_Ginsberg, 1926-06-03, 3,13,62171
-Amadeo_I_of_Spain, 1845-05-30, 13,29,6353
-Anastasia_Myskina, 1981-07-08, 3,13,62687
-Angelo_Peruzzi, 1970-02-16, 13,197,953
-Ashley_Greene, 1987-02-21, 13,37,5087
-August_Bebel, 1840-02-22, 3,13,61363
-B.B._King, 1925-09-16, 13,251,743
-Bill_Evans, 1929-08-16, 3,13,62201
-Carl_Wilhelm_Scheele, 1742-12-09, 2,13,90679
-Carl_von_Clausewitz, 1780-06-01, 13,79,2309
-Carlo_Azeglio_Ciampi, 1920-12-09, 13,157,1187
-Cesária_Évora, 1941-08-27, 13,19,9839
-Charles_Augustin_Sainte-Beuve, 1804-12-23, 13,283,647
-Christian_Doppler, 1803-11-29, 7,13,26153
-Christian_Slater, 1969-08-18, 13,347,541
-Chun_Doo-hwan, 1931-01-18, 13,17,10979
-Claudio_López_(footballer), 1974-07-17, 5,13,37573
-Conan_O'Brien, 1963-04-18, 13,19,9871
-Count_Basie, 1904-08-21, 3,13,61967
-David_Attenborough, 1926-05-08, 13,13,14347
-David_Suazo, 1979-11-05, 2,13,94007
-Dianne_Wiest, 1948-03-28, 2,13,93563
-Don_Rickles, 1926-05-08, 13,13,14347
-Dwight_F._Davis, 1879-07-05, 5,13,37039
-Dési_Bouterse, 1945-10-13, 13,13,14389
-Edward_Higgins_White, 1930-11-14, 2,13,93319
-Edward_Norton, 1969-08-18, 13,347,541
-Ei-ichi_Negishi, 1935-07-14, 11,13,16979
-Elias_Canetti, 1905-07-25, 7,13,26561
-Elihu_Root, 1845-02-15, 13,17,10837
-Ellen_Page, 1987-02-21, 13,37,5087
-Emil_Kraepelin, 1856-02-15, 2,13,92269
-Emma_Stone, 1988-11-06, 13,73,2579
-Erich_Fromm, 1900-03-23, 13,37,5021
-Erik_Satie, 1866-05-17, 2,13,92413
-Ernst_Jünger, 1895-03-29, 3,13,61879
-Ernst_Röhm, 1887-11-28, 13,107,1733
-François_Quesnay, 1694-06-04, 5,13,35999
-Fyodor_Tolbukhin, 1894-06-16, 5,13,37123
-Gabriel_Lippmann, 1845-08-16, 13,19,9697
-Garrincha, 1933-10-28, 13,61,3061
-Gavrilo_Princip, 1894-07-25, 2,13,92809
-George_I_of_Greece, 1845-12-24, 13,23,8011
-Georges_Pompidou, 1911-07-05, 2,13,93047
-Georgi_Dimitrov, 1882-06-18, 2,13,92639
-Giambattista_Vico, 1668-06-23, 2,13,89633
-Grzegorz_Lato, 1950-04-08, 13,37,5059
-Hans_Asperger, 1906-02-18, 3,13,61981
-Hans_Luther, 1879-03-10, 2,13,92593
-Hayao_Miyazaki, 1941-01-05, 11,13,16993
-Horst_Wessel, 1907-10-09, 13,61,3049
-Hubert_Humphrey, 1911-05-27, 13,71,2621
-Hugo_Sánchez, 1958-07-11, 5,13,37483
-Ilan_Ramon, 1954-06-20, 13,157,1193
-Jacob_Bernoulli, 1654-12-27, 3,13,59629
-Jacqueline_du_Pré, 1945-01-26, 13,53,3529
-Jacques_Brel, 1929-04-08, 11,13,16963
-Jacques_Tati, 1907-10-09, 13,61,3049
-James_Buchanan, 1791-04-23, 13,89,2053
-Jason_Earles, 1977-04-26, 7,13,26849
-Jean-Honoré_Fragonard, 1732-04-05, 2,13,90529
-Jean-Pierre_Serre, 1926-09-15, 13,383,487
-Jerry_Seinfeld, 1954-04-29, 11,13,17027
-Jim_Clark, 1936-03-04, 13,151,1237
-Joachim_Löw, 1960-02-03, 13,17,11027
-Johannes_Heesters, 1903-12-05, 13,151,1231
-Joseph_Joffre, 1852-01-12, 13,311,593
-Juliusz_Słowacki, 1809-09-04, 13,97,1889
-Karl_Ferdinand_Braun, 1850-06-06, 2,13,92189
-Kate_Moss, 1974-01-16, 3,13,62617
-Kevin_Kline, 1947-10-24, 2,13,93557
-Kim_Kardashian, 1980-10-21, 7,13,26863
-Klemens_von_Metternich, 1773-05-15, 13,257,709
-Kurt_Vonnegut, 1922-11-11, 13,131,1423
-Laurent_Schwartz, 1915-03-05, 11,13,16927
-LeAnn_Rimes, 1982-08-28, 13,239,787
-Leon_Osman, 1981-05-17, 13,89,2113
-Leonardo_DiCaprio, 1974-11-11, 2,13,93937
-Louis_Pasteur, 1822-12-27, 13,89,2063
-Ludwig_Quidde, 1858-03-23, 7,13,26371
-Luol_Deng, 1985-04-16, 7,13,26881
-Mads_Mikkelsen, 1965-11-22, 2,13,93811
-Marek_Hamšík, 1987-07-27, 13,41,4591
-Mari_Kiviniemi, 1968-09-27, 2,13,93851
-Mario_Andretti, 1940-02-28, 13,31,6029
-Mary_Pierce, 1975-01-15, 13,89,2111
-Michelle_Rodriguez, 1978-07-12, 3,13,62659
-Moritz_Schlick, 1882-04-14, 11,13,16843
-Ngo_Dinh_Diem, 1901-01-03, 3,13,61933
-Nicolaas_Bloembergen, 1920-03-11, 2,13,93169
-Nikola_Žigić, 1980-09-25, 13,43,4373
-Oliver_Neuville, 1973-05-01, 7,13,26833
-Pascal_Couchepin, 1942-04-05, 2,13,93479
-Peter_Greenaway, 1942-04-05, 2,13,93479
-Phillip_Allen_Sharp, 1944-06-06, 7,13,26717
-Pope_Innocent_XII, 1615-03-13, 13,17,10457
-Queen_Victoria, 1819-05-24, 2,13,91753
-Rajon_Rondo, 1986-02-22, 13,307,613
-Ramon_Magsaysay, 1907-08-31, 2,13,92993
-Ringo_Starr, 1940-07-07, 3,13,62303
-Rivaldo, 1972-04-19, 2,13,93901
-Robert_Bunsen, 1811-03-30, 13,17,10781
-Ross_Brawn, 1954-11-23, 7,13,26759
-Selim_III, 1761-12-24, 3,13,60631
-Sergei_Diaghilev, 1872-03-31, 13,29,6379
-Shohei_Imamura, 1926-09-15, 13,383,487
-Sigourney_Weaver, 1949-10-08, 13,19,9851
-T.I., 1980-09-25, 13,43,4373
-Thiago_Motta, 1982-08-28, 13,239,787
-Théodore_Géricault, 1791-09-26, 13,29,6301
-Till_Lindemann, 1963-01-04, 13,167,1123
-Tom_Berenger, 1949-05-31, 7,13,26737
-Tom_Welling, 1977-04-26, 7,13,26849
-Topher_Grace, 1978-07-12, 3,13,62659
-Traci_Lords, 1968-05-07, 7,13,26813
-Tsutomu_Yamaguchi, 1916-03-16, 2,13,93113
-Umberto_Giordano, 1867-08-28, 2,13,92431
-Vincent_Price, 1911-05-27, 13,71,2621
-Vladimir_Komarov, 1927-03-16, 5,13,37307
-Walter_Brennan, 1894-07-25, 2,13,92809
-Willard_Van_Orman_Quine, 1908-06-25, 3,13,62003
-Władysław_Gomułka, 1905-02-06, 2,13,92957
-Yeardley_Smith, 1964-07-03, 11,13,17053
-Zinedine_Zidane, 1972-06-23, 13,109,1723
-Éver_Banega, 1988-06-29, 13,79,2383
+Adriana_Lima, 1981-06-12, 13,181,1039, 400258.5106
+Ashley_Greene, 1987-02-21, 13,37,5087, 445138.6857
+Christian_Slater, 1969-08-18, 13,347,541, 228277.9394
+Conan_O'Brien, 1963-04-18, 13,19,9871, 252868.4474
+Edward_Norton, 1969-08-18, 13,347,541, 359733.8596
+Ellen_Page, 1987-02-21, 13,37,5087, 452879.2553
+Emma_Stone, 1988-11-06, 13,73,2579, 934637.4474
+Hayao_Miyazaki, 1941-01-05, 11,13,16993, 414062.75
+Jason_Earles, 1977-04-26, 7,13,26849, 356005
+Kate_Moss, 1974-01-16, 3,13,62617, 376345.2703
+Kim_Kardashian, 1980-10-21, 7,13,26863, 1515231.932
+LeAnn_Rimes, 1982-08-28, 13,239,787, 226345.3704
+Leonardo_DiCaprio, 1974-11-11, 2,13,93937, 691050.3462
+Michelle_Rodriguez, 1978-07-12, 3,13,62659, 410499.6
+Ringo_Starr, 1940-07-07, 3,13,62303, 277474.75
+Sigourney_Weaver, 1949-10-08, 13,19,9851, 230360.037
+T.I., 1980-09-25, 13,43,4373, 627045.1111
+Tom_Welling, 1977-04-26, 7,13,26849, 233908.9744
+Topher_Grace, 1978-07-12, 3,13,62659, 315113
+Traci_Lords, 1968-05-07, 7,13,26813, 426726.8889
+Zinedine_Zidane, 1972-06-23, 13,109,1723, 249160.0952

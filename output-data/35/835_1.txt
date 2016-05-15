@@ -1,2 +1,2 @@
-Gustave_Courbet, 1819-06-10, 5,167,2857
-Kostas_Katsouranis, 1979-06-21, 5,167,2927
+Gustave_Courbet, 1819-06-10, 5,167,2857, 117114.18
+Kostas_Katsouranis, 1979-06-21, 5,167,2927, 17665.16129

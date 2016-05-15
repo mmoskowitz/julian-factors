@@ -1,22 +1,21 @@
-Alexandros_Tzorvas, 1982-08-12, 29,84317
-Alfred_Russel_Wallace, 1823-01-08, 29,82307
-Alpha_Oumar_Konaré, 1946-02-02, 29,83857
-Annie_Lennox, 1954-12-25, 29,83969
-Aribert_Heim, 1914-06-28, 29,83459
-Blake_Clark, 1946-02-02, 29,83857
-Bruno_Bauer, 1809-09-06, 29,82139
-Christiaan_Huygens, 1629-04-14, 29,79867
-Elif_Şafak, 1971-10-25, 29,84181
-Georg_von_Hertling, 1843-08-31, 29,82567
-Jan_Koller, 1973-03-30, 29,84199
-Jason_Lee_(field_hockey), 1970-05-21, 29,84163
-John_Petrucci, 1967-07-12, 29,84127
-Kenny_Dalglish, 1951-03-04, 29,83921
-Lewis_Carroll, 1832-01-27, 29,82421
-Maria_Gaetana_Agnesi, 1718-05-16, 29,80989
-Michael_Stich, 1968-10-18, 29,84143
-Miles_Davis, 1926-05-26, 29,83609
-Peter_Drucker, 1909-11-19, 29,83401
-Phil_Jones_(footballer,_born_1992), 1992-02-21, 29,84437
-Sydney_Brenner, 1927-01-13, 29,83617
-Tomislav_Nikolić, 1952-02-15, 29,83933
+Alexandros_Tzorvas, 1982-08-12, 29,84317, 17833.96154
+Alfred_Russel_Wallace, 1823-01-08, 29,82307, 60085
+Annie_Lennox, 1954-12-25, 29,83969, 183038.5556
+Aribert_Heim, 1914-06-28, 29,83459, 71607.73333
+Blake_Clark, 1946-02-02, 29,83857, 37560
+Bruno_Bauer, 1809-09-06, 29,82139, 11194.51613
+Christiaan_Huygens, 1629-04-14, 29,79867, 38139.94737
+Elif_Şafak, 1971-10-25, 29,84181, 41302.69231
+Georg_von_Hertling, 1843-08-31, 29,82567, 10789.76923
+Jan_Koller, 1973-03-30, 29,84199, 59175.68571
+Jason_Lee_(field_hockey), 1970-05-21, 29,84163, 54869.06061
+John_Petrucci, 1967-07-12, 29,84127, 128044.9688
+Kenny_Dalglish, 1951-03-04, 29,83921, 105716.0488
+Lewis_Carroll, 1832-01-27, 29,82421, 152821.3165
+Maria_Gaetana_Agnesi, 1718-05-16, 29,80989, 17111.81579
+Michael_Stich, 1968-10-18, 29,84143, 34607.5
+Miles_Davis, 1926-05-26, 29,83609, 186514.35
+Peter_Drucker, 1909-11-19, 29,83401, 152293.1053
+Phil_Jones_(footballer,_born_1992), 1992-02-21, 29,84437, 11831.68571
+Sydney_Brenner, 1927-01-13, 29,83617, 16243.57576
+Tomislav_Nikolić, 1952-02-15, 29,83933, 17335.2381

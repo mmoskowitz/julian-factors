@@ -1,2 +1,2 @@
-Jacques_Anquetil, 1934-01-08, 5,29,16741
-Nicholas_I_of_Russia, 1796-07-06, 2,71,16741
+Jacques_Anquetil, 1934-01-08, 5,29,16741, 33692.9375
+Nicholas_I_of_Russia, 1796-07-06, 2,71,16741, 88229.07273

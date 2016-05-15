@@ -1,2 +1,2 @@
-Benito_Juárez, 1806-03-21, 2,467,2549
-Michelle_Williams_(actress), 1980-09-09, 7,137,2549
+Benito_Juárez, 1806-03-21, 2,467,2549, 233084.3636
+Michelle_Williams_(actress), 1980-09-09, 7,137,2549, 31305.71053

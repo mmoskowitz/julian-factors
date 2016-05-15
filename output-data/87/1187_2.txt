@@ -1,2 +1,2 @@
-Carlo_Azeglio_Ciampi, 1920-12-09, 13,157,1187
-Sonia_Gandhi, 1946-12-09, 3,683,1187
+Carlo_Azeglio_Ciampi, 1920-12-09, 13,157,1187, 31502.75
+Sonia_Gandhi, 1946-12-09, 3,683,1187, 105754.098

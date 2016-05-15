@@ -1,2 +1,2 @@
-Christian_X_of_Denmark, 1870-09-26, 421,5711
-Jean_Vigo, 1905-04-26, 421,5741
+Christian_X_of_Denmark, 1870-09-26, 421,5711, 30199.13514
+Jean_Vigo, 1905-04-26, 421,5741, 16455.5

@@ -1,2 +1,2 @@
-Fernando_Muslera, 1986-06-16, 499,4903
-Urby_Emanuelson, 1986-06-16, 499,4903
+Fernando_Muslera, 1986-06-16, 499,4903, 122150.5143
+Urby_Emanuelson, 1986-06-16, 499,4903, 68356.88889

@@ -1,2 +1,2 @@
-George_Curzon,_1st_Marquess_Curzon_of_Kedleston, 1859-01-11, 5,7,47,1459
-Henry_Way_Kendall, 1926-12-09, 2,3,277,1459
+George_Curzon,_1st_Marquess_Curzon_of_Kedleston, 1859-01-11, 5,7,47,1459, 5908.677419
+Henry_Way_Kendall, 1926-12-09, 2,3,277,1459, 6403.897436

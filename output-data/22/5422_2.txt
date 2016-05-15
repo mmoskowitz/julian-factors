@@ -1,2 +1,2 @@
-Pope_Shenouda_III_of_Alexandria, 1923-08-03, 2,3,149,2711
-Tero_Pitkämäki, 1982-12-19, 2,11,41,2711
+Pope_Shenouda_III_of_Alexandria, 1923-08-03, 2,3,149,2711, 22048.71429
+Tero_Pitkämäki, 1982-12-19, 2,11,41,2711, 13546.44444

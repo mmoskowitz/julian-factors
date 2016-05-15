@@ -1,2 +1,2 @@
-Honoré_Gabriel_Riqueti,_comte_de_Mirabeau, 1749-03-09, 2,2,2,2,2,2,2,103,179
-Stanisław_Lem, 1921-09-12, 2,2,2,2,2,3,3,47,179
+Honoré_Gabriel_Riqueti,_comte_de_Mirabeau, 1749-03-09, 2,2,2,2,2,2,2,103,179, 12198.0303
+Stanisław_Lem, 1921-09-12, 2,2,2,2,2,3,3,47,179, 85297.65517

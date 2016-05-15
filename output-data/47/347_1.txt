@@ -1,5 +1,5 @@
-Cara_Black, 1979-02-17, 347,7043
-Duke_Ellington, 1899-04-29, 347,6959
-Heike_Kamerlingh_Onnes, 1853-09-21, 347,6911
-Lars_von_Trier, 1956-04-30, 347,7019
-Marc-Vivien_Foé, 1975-05-01, 347,7039
+Cara_Black, 1979-02-17, 347,7043, 19326.37037
+Duke_Ellington, 1899-04-29, 347,6959, 105045.1636
+Heike_Kamerlingh_Onnes, 1853-09-21, 347,6911, 12045.58929
+Lars_von_Trier, 1956-04-30, 347,7019, 154099.6
+Marc-Vivien_Foé, 1975-05-01, 347,7039, 91649.12903

@@ -1,3 +1,3 @@
-Carmen_Electra, 1972-04-20, 3,23,41,863
-Philippe_II,_Duke_of_Orléans, 1674-08-02, 3,17,53,863
-Željko_Joksimović, 1972-04-20, 3,23,41,863
+Carmen_Electra, 1972-04-20, 3,23,41,863, 345729.3095
+Philippe_II,_Duke_of_Orléans, 1674-08-02, 3,17,53,863, 9183.111111
+Željko_Joksimović, 1972-04-20, 3,23,41,863, 21703.80556

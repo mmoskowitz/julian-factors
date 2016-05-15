@@ -1,2 +1,2 @@
-Frank_Macfarlane_Burnet, 1899-09-03, 2,2,5,5,19,31,41
-Rudyard_Kipling, 1865-12-30, 2,2,2,5,5,41,293
+Frank_Macfarlane_Burnet, 1899-09-03, 2,2,5,5,19,31,41, 11818.8125
+Rudyard_Kipling, 1865-12-30, 2,2,2,5,5,41,293, 108726.382

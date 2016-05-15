@@ -1,35 +1,21 @@
-Adele, 1988-05-05, 2,3,17,23993
-Adnan_Oktar, 1956-02-02, 3,5,17,9551
-Alexi_Laiho, 1979-04-08, 3,17,173,277
-Anastasio_Somoza_Debayle, 1925-12-05, 3,17,137,347
-Arthur_Ashe, 1943-07-10, 3,5,17,9533
-Arthur_Compton, 1892-09-10, 3,3,17,15767
-Charles_Manson, 1934-11-12, 3,17,181,263
-David_Bohm, 1917-12-20, 2,3,17,23741
-Endre_Ady, 1877-11-22, 3,5,17,9439
-Fabricio_Coloccini, 1982-01-22, 3,17,191,251
-Ferdinand_von_Zeppelin, 1838-07-08, 3,17,43,1091
-François_de_La_Rochefoucauld_(writer), 1613-09-15, 3,3,17,15101
-Georg_Wilhelm_Friedrich_Hegel, 1770-08-27, 3,17,17,2731
-Igor_Tudor, 1978-04-16, 2,3,17,23957
-Isaac_Bashevis_Singer, 1902-11-21, 2,3,17,23687
-Jacques_Prévert, 1900-02-04, 2,3,17,23677
-Jacques_Santer, 1937-05-18, 3,7,17,6803
-Joan_Gamper, 1877-11-22, 3,5,17,9439
-Julien_Gracq, 1910-07-27, 3,17,43,1103
-Juliette_Binoche, 1964-03-09, 3,17,137,349
-Lara_Dutta, 1978-04-16, 2,3,17,23957
-Lars_Bender, 1989-04-27, 3,11,17,4363
-Leonid_Kravchuk, 1934-01-10, 3,11,17,4327
-Luc_Montagnier, 1932-08-18, 3,17,23,2069
-Luke_Young_(footballer,_born_1979), 1979-07-19, 3,17,17,2819
-Marvin_Minsky, 1927-08-09, 3,7,17,6793
-Maurice_Sendak, 1928-06-10, 3,17,19,2503
-Petr_Nečas, 1964-11-19, 2,3,17,23909
-Philippe_II,_Duke_of_Orléans, 1674-08-02, 3,17,53,863
-Ricardo_Quaresma, 1983-09-26, 3,17,79,607
-Richard_E._Taylor, 1929-11-02, 3,13,17,3659
-Sean_St_Ledger, 1984-12-28, 2,3,17,23981
-Stevie_Wonder, 1950-05-13, 2,3,17,23857
-Val_Kilmer, 1959-12-31, 3,17,71,673
-Vavá, 1934-11-12, 3,17,181,263
+Adele, 1988-05-05, 2,3,17,23993, 285908.1212
+Adnan_Oktar, 1956-02-02, 3,5,17,9551, 79297.5
+Alexi_Laiho, 1979-04-08, 3,17,173,277, 111313.4333
+Anastasio_Somoza_Debayle, 1925-12-05, 3,17,137,347, 40264.14706
+Arthur_Ashe, 1943-07-10, 3,5,17,9533, 76255.68421
+Charles_Manson, 1934-11-12, 3,17,181,263, 888097.4186
+David_Bohm, 1917-12-20, 2,3,17,23741, 41991.57692
+Endre_Ady, 1877-11-22, 3,5,17,9439, 32810.40625
+Fabricio_Coloccini, 1982-01-22, 3,17,191,251, 47127.38235
+François_de_La_Rochefoucauld_(writer), 1613-09-15, 3,3,17,15101, 28799.26667
+Georg_Wilhelm_Friedrich_Hegel, 1770-08-27, 3,17,17,2731, 111868.4421
+Isaac_Bashevis_Singer, 1902-11-21, 2,3,17,23687, 27318.69841
+Jacques_Prévert, 1900-02-04, 2,3,17,23677, 64163.24
+Juliette_Binoche, 1964-03-09, 3,17,137,349, 135998.3696
+Lara_Dutta, 1978-04-16, 2,3,17,23957, 137744.5
+Lars_Bender, 1989-04-27, 3,11,17,4363, 43513.80645
+Marvin_Minsky, 1927-08-09, 3,7,17,6793, 31961.22857
+Maurice_Sendak, 1928-06-10, 3,17,19,2503, 245024.2333
+Ricardo_Quaresma, 1983-09-26, 3,17,79,607, 201245.4146
+Stevie_Wonder, 1950-05-13, 2,3,17,23857, 337747.3774
+Val_Kilmer, 1959-12-31, 3,17,71,673, 334540.9211

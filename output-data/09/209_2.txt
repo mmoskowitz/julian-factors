@@ -1,11 +1,11 @@
-Alessandro_Costacurta, 1966-04-24, 11,11,19,1061
-Cosimo_II_de'_Medici,_Grand_Duke_of_Tuscany, 1590-05-12, 2,11,19,5507
-Frank-Walter_Steinmeier, 1956-01-05, 11,19,43,271
-Heather_Locklear, 1961-09-25, 11,19,107,109
-Jacob_Zuma, 1942-04-12, 11,19,29,401
-Jean-Antoine_Watteau, 1684-10-10, 7,11,19,1597
-Joe_Dassin, 1938-11-05, 11,19,59,197
-Niki_Lauda, 1949-02-22, 7,11,19,1663
-Paul_Gauguin, 1848-06-07, 5,11,19,2293
-Twiggy, 1949-09-19, 2,11,19,5821
-Zooey_Deschanel, 1980-01-17, 5,11,19,2339
+Alessandro_Costacurta, 1966-04-24, 11,11,19,1061, 39101.82857
+Cosimo_II_de'_Medici,_Grand_Duke_of_Tuscany, 1590-05-12, 2,11,19,5507, 6965.730769
+Frank-Walter_Steinmeier, 1956-01-05, 11,19,43,271, 32510.325
+Heather_Locklear, 1961-09-25, 11,19,107,109, 283616.4138
+Jacob_Zuma, 1942-04-12, 11,19,29,401, 69472.19298
+Jean-Antoine_Watteau, 1684-10-10, 7,11,19,1597, 40980.72093
+Joe_Dassin, 1938-11-05, 11,19,59,197, 100757.1875
+Niki_Lauda, 1949-02-22, 7,11,19,1663, 182704.9362
+Paul_Gauguin, 1848-06-07, 5,11,19,2293, 126253.2317
+Twiggy, 1949-09-19, 2,11,19,5821, 227879.4643
+Zooey_Deschanel, 1980-01-17, 5,11,19,2339, 851459.7436

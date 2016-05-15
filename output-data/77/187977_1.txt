@@ -1,2 +1,2 @@
-Michelle_Rodriguez, 1978-07-12, 3,13,62659
-Topher_Grace, 1978-07-12, 3,13,62659
+Michelle_Rodriguez, 1978-07-12, 3,13,62659, 410499.6
+Topher_Grace, 1978-07-12, 3,13,62659, 315113

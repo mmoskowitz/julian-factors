@@ -1,2 +1,2 @@
-Harrison_Ford, 1942-07-13, 827,2939
-Madonna_(entertainer), 1958-08-16, 829,2939
+Harrison_Ford, 1942-07-13, 827,2939, 377878.9683
+Madonna_(entertainer), 1958-08-16, 829,2939, 212726.0638

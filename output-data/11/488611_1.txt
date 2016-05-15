@@ -1,2 +1,2 @@
-Alicia_Silverstone, 1976-10-04, 5,488611
-Mauro_Camoranesi, 1976-10-04, 5,488611
+Alicia_Silverstone, 1976-10-04, 5,488611, 265780.2703
+Mauro_Camoranesi, 1976-10-04, 5,488611, 73479.61538

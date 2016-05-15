@@ -1,2 +1,2 @@
-Conchita_Martínez, 1972-04-16, 29,29,2903
-Herbert_Spencer, 1820-04-27, 29,29,2837
+Conchita_Martínez, 1972-04-16, 29,29,2903, 18148.35484
+Herbert_Spencer, 1820-04-27, 29,29,2837, 90693.82353

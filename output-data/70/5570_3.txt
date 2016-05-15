@@ -1,3 +1,3 @@
-Bjørn_Dæhlie, 1967-06-19, 2,2,3,5,73,557
-Charles_Louis_Alphonse_Laveran, 1845-06-18, 2,2,5,5,43,557
-Ernst_Boris_Chain, 1906-06-19, 2,2,5,7,31,557
+Bjørn_Dæhlie, 1967-06-19, 2,2,3,5,73,557, 23477.59259
+Charles_Louis_Alphonse_Laveran, 1845-06-18, 2,2,5,5,43,557, 6309.761905
+Ernst_Boris_Chain, 1906-06-19, 2,2,5,7,31,557, 10987.44444

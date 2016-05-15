@@ -1,2 +1,2 @@
-Eva_Braun, 1912-02-06, 2,7,43,4019
-Theodore_William_Richards, 1868-01-31, 2,13,23,4019
+Eva_Braun, 1912-02-06, 2,7,43,4019, 198532.873
+Theodore_William_Richards, 1868-01-31, 2,13,23,4019, 5564.707317

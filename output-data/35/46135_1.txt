@@ -1,2 +1,2 @@
-Alberto_Gilardino, 1982-07-05, 5,53,9227
-Philippe_Gilbert, 1982-07-05, 5,53,9227
+Alberto_Gilardino, 1982-07-05, 5,53,9227, 71737.77778
+Philippe_Gilbert, 1982-07-05, 5,53,9227, 19211

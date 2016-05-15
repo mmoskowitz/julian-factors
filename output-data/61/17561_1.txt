@@ -1,2 +1,2 @@
-Lucy_Maud_Montgomery, 1874-11-30, 17,137,1033
-Winston_Churchill, 1874-11-30, 17,137,1033
+Lucy_Maud_Montgomery, 1874-11-30, 17,137,1033, 72328.36667
+Winston_Churchill, 1874-11-30, 17,137,1033, 288094.5526

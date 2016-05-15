@@ -1,6 +1,6 @@
-Franklin_Pierce, 1804-11-23, 53,97,463
-Jim_Henson, 1936-09-24, 5,463,1049
-Joseph_Rotblat, 1908-11-04, 3,463,1741
-Little_Richard, 1932-12-05, 2,463,2621
-Raymond_Chandler, 1888-07-23, 41,127,463
-Sheldon_Lee_Glashow, 1932-12-05, 2,463,2621
+Franklin_Pierce, 1804-11-23, 53,97,463, 48260.7191
+Jim_Henson, 1936-09-24, 5,463,1049, 211279.7692
+Joseph_Rotblat, 1908-11-04, 3,463,1741, 13715.06061
+Little_Richard, 1932-12-05, 2,463,2621, 224243.2414
+Raymond_Chandler, 1888-07-23, 41,127,463, 69268.86957
+Sheldon_Lee_Glashow, 1932-12-05, 2,463,2621, 10748.85366

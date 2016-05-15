@@ -1,4 +1,4 @@
-Georges_Lemaître, 1894-07-17, 2,3,3,7,11,1741
-Johann_Gottfried_Herder, 1744-08-25, 3,3,7,11,41,83
-Larry_Sanger, 1968-07-16, 3,3,7,7,11,503
-William_Henry_Harrison, 1773-02-09, 2,3,3,7,11,1709
+Georges_Lemaître, 1894-07-17, 2,3,3,7,11,1741, 46321.625
+Johann_Gottfried_Herder, 1744-08-25, 3,3,7,11,41,83, 39952.11765
+Larry_Sanger, 1968-07-16, 3,3,7,7,11,503, 33424.29167
+William_Henry_Harrison, 1773-02-09, 2,3,3,7,11,1709, 71674.35227

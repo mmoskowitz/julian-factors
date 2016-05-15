@@ -1,3 +1,3 @@
-Ludwig_III_of_Bavaria, 1845-01-07, 2,7,13,13159
-Ray_Charles, 1930-09-23, 2,7,13,13331
-William_Tecumseh_Sherman, 1820-02-08, 2,7,13,13109
+Ludwig_III_of_Bavaria, 1845-01-07, 2,7,13,13159, 22652.92857
+Ray_Charles, 1930-09-23, 2,7,13,13331, 252833.7727
+William_Tecumseh_Sherman, 1820-02-08, 2,7,13,13109, 96707.375

@@ -1,76 +1,21 @@
-Adam_Brody, 1979-12-15, 2,11,241,461
-Adam_Clayton, 1960-03-13, 2,11,13,8521
-Alain_Juppé, 1945-08-15, 2,11,107,1033
-Alejandro_Valverde, 1980-04-25, 2,11,137,811
-Aleksandr_Vasilevsky, 1895-09-30, 2,11,11,9973
-Ariel_Ortega, 1974-03-04, 2,5,11,22201
-Baudouin_of_Belgium, 1930-09-07, 2,3,11,36761
-Billie_Holiday, 1915-04-07, 2,11,47,2341
-Bo_Diddley, 1928-12-30, 2,5,11,22051
-Chaim_Soutine, 1893-01-13, 2,2,11,54829
-Charles_Simonyi, 1948-09-10, 2,2,11,55291
-Charles_Thomson_Rees_Wilson, 1869-02-14, 2,11,37,2953
-Chris_Smalling, 1989-11-22, 2,2,11,55633
-Christiaan_Barnard, 1922-11-08, 2,11,59,1867
-Cosimo_II_de'_Medici,_Grand_Duke_of_Tuscany, 1590-05-12, 2,11,19,5507
-Debbie_Reynolds, 1932-04-01, 2,11,47,2347
-Demetrio_Albertini, 1971-08-23, 2,11,37,2999
-Dino_De_Laurentiis, 1919-08-08, 2,11,11,10009
-Eddie_Irvine, 1965-11-10, 2,11,29,3823
-Edward_Drinker_Cope, 1840-07-28, 2,7,11,15541
-Edward_Thorndike, 1874-08-31, 2,3,11,36451
-Eren_Derdiyok, 1988-06-12, 2,2,11,55621
-Ernest_Bai_Koroma, 1953-10-02, 2,2,11,55333
-Federico_Macheda, 1991-08-22, 2,5,11,22259
-Felix_Wankel, 1902-08-13, 2,11,193,569
-Fernando_Arrabal, 1932-08-11, 2,5,11,22063
-Fouad_Mebazaa, 1933-06-15, 2,11,31,3559
-Friedrich_Georg_Wilhelm_von_Struve, 1793-04-15, 2,2,11,54001
-Friedrich_Nietzsche, 1844-10-15, 2,7,11,15551
-Fritz_Lang, 1890-12-05, 2,3,11,36541
-Georg_von_Küchler, 1881-05-30, 2,5,11,21893
-Goran_Pandev, 1983-07-27, 2,11,89,1249
-Gustav_III_of_Sweden, 1746-01-24, 2,2,11,53609
-H._Rider_Haggard, 1856-06-22, 2,11,167,653
-James_Harden, 1989-08-26, 2,2,11,55631
-Jean_Harlow, 1911-03-03, 2,3,11,36653
-Jeff_Hardy, 1977-08-31, 2,3,11,37021
-Jigme_Singye_Wangchuck, 1955-11-11, 2,11,31,3571
-Joaquín_Rodrigo, 1901-11-22, 2,5,11,21961
-José_Mujica, 1935-05-20, 2,3,11,36787
-Jules_Bordet, 1870-06-13, 2,11,103,1061
-Khaleda_Zia, 1945-08-15, 2,11,107,1033
-Kārlis_Ulmanis, 1877-09-04, 2,7,11,15629
-Lavrentiy_Beria, 1899-03-29, 2,3,11,36587
-Lewis_Milestone, 1895-09-30, 2,11,11,9973
-Lila_Downs, 1968-09-09, 2,2,11,55457
-László_Sólyom, 1942-01-03, 2,11,61,1811
-Lázaro_Cárdenas, 1895-05-21, 2,7,11,15671
-Maarten_Stekelenburg, 1982-09-22, 2,3,11,37049
-Mahmoud_Ahmadinejad, 1956-10-28, 2,11,53,2089
-Manuel_Azaña, 1880-01-10, 2,2,11,54721
-Manuel_Fernandes_(footballer,_born_1986), 1986-02-05, 2,11,61,1823
-Matsukata_Masayoshi, 1835-02-25, 2,11,73,1489
-Mauricio_Isla, 1988-06-12, 2,2,11,55621
-Meg_Ryan, 1961-11-19, 2,11,179,619
-Michael_Phelps, 1985-06-30, 2,11,251,443
-Norbert_Wiener, 1894-11-26, 2,3,11,36563
-Oliver_Stone, 1946-09-15, 2,11,227,487
-Orson_Scott_Card, 1951-08-24, 2,3,11,36877
-Philippe_Mexès, 1982-03-30, 2,7,11,15877
-Raila_Odinga, 1945-01-07, 2,11,79,1399
-Ray_Manzarek, 1939-02-12, 2,11,23,4801
-Sam_Peckinpah, 1925-02-21, 2,11,101,1091
-Samuel_Doe, 1951-05-06, 2,2,11,55313
-Scarlett_Johansson, 1984-11-22, 2,3,11,37061
-Sergei_Ignashevich, 1979-07-14, 2,2,11,55547
-Sonny_Rollins, 1930-09-07, 2,3,11,36761
-Tero_Pitkämäki, 1982-12-19, 2,11,41,2711
-Terry_Fox, 1958-07-28, 2,2,11,55373
-Tomas_Tranströmer, 1931-04-15, 2,11,53,2081
-Tommy_Lee_Jones, 1946-09-15, 2,11,227,487
-Twiggy, 1949-09-19, 2,11,19,5821
-Tyson_Gay, 1982-08-09, 2,5,11,22229
-Vedran_Ćorluka, 1986-02-05, 2,11,61,1823
-Victoria_Beckham, 1974-04-17, 2,11,13,8539
-Vojislav_Šešelj, 1954-10-11, 2,11,151,733
+Adam_Brody, 1979-12-15, 2,11,241,461, 322138.4483
+Billie_Holiday, 1915-04-07, 2,11,47,2341, 168189.4118
+Bo_Diddley, 1928-12-30, 2,5,11,22051, 104926.1613
+Debbie_Reynolds, 1932-04-01, 2,11,47,2347, 171905.8276
+Federico_Macheda, 1991-08-22, 2,5,11,22259, 99208.08824
+Friedrich_Nietzsche, 1844-10-15, 2,7,11,15551, 336278.3761
+James_Harden, 1989-08-26, 2,2,11,55631, 99914.81481
+Jean_Harlow, 1911-03-03, 2,3,11,36653, 121021.7027
+Jeff_Hardy, 1977-08-31, 2,3,11,37021, 541239.975
+Lázaro_Cárdenas, 1895-05-21, 2,7,11,15671, 107141.8125
+Mahmoud_Ahmadinejad, 1956-10-28, 2,11,53,2089, 119549.1319
+Meg_Ryan, 1961-11-19, 2,11,179,619, 300319.4898
+Michael_Phelps, 1985-06-30, 2,11,251,443, 326464.2267
+Oliver_Stone, 1946-09-15, 2,11,227,487, 182876.0889
+Orson_Scott_Card, 1951-08-24, 2,3,11,36877, 107228.4286
+Ray_Manzarek, 1939-02-12, 2,11,23,4801, 119962.3214
+Scarlett_Johansson, 1984-11-22, 2,3,11,37061, 516806.4066
+Terry_Fox, 1958-07-28, 2,2,11,55373, 116588.4
+Tommy_Lee_Jones, 1946-09-15, 2,11,227,487, 267926.04
+Twiggy, 1949-09-19, 2,11,19,5821, 227879.4643
+Victoria_Beckham, 1974-04-17, 2,11,13,8539, 285687.3333

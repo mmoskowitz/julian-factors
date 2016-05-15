@@ -1,5 +1,5 @@
-Carlos_Bocanegra, 1979-05-25, 2,83,14723
-Thomas_Keneally, 1935-10-07, 2,83,14627
-Ward_Cunningham, 1949-05-26, 2,83,14657
-Wolfgang_Pauli, 1900-04-25, 2,83,14549
-Zine_El_Abidine_Ben_Ali, 1936-09-03, 2,83,14629
+Carlos_Bocanegra, 1979-05-25, 2,83,14723, 60721.57143
+Thomas_Keneally, 1935-10-07, 2,83,14627, 19366.69231
+Ward_Cunningham, 1949-05-26, 2,83,14657, 26990
+Wolfgang_Pauli, 1900-04-25, 2,83,14549, 28464.57143
+Zine_El_Abidine_Ben_Ali, 1936-09-03, 2,83,14629, 76247.68421

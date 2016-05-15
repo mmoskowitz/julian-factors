@@ -1,25 +1,21 @@
-Ahmed_Shafik, 1941-11-25, 7,47,83,89
-Akira_Yoshizawa, 1911-03-14, 7,11,89,353
-Aphex_Twin, 1971-08-18, 3,41,89,223
-Cheech_Marin, 1946-07-13, 2,13,89,1051
-César_Milstein, 1927-10-08, 3,31,89,293
-Eddie_Fenech_Adami, 1934-02-07, 5,5,89,1091
-Goran_Pandev, 1983-07-27, 2,11,89,1249
-Henri_de_Toulouse-Lautrec, 1864-11-24, 3,3,89,2999
-Hermann_Joseph_Muller, 1890-12-21, 2,17,89,797
-Hermann_Staudinger, 1881-03-23, 2,83,89,163
-Itumeleng_Khune, 1987-06-20, 2,59,89,233
-Jean_Baptiste_Perrin, 1870-09-30, 3,5,89,1801
-Jiddu_Krishnamurti, 1895-05-11, 2,2,89,6779
-John_Pemberton, 1831-07-08, 2,29,89,463
-Johnny_Cash, 1932-02-26, 3,61,89,149
-Leon_Panetta, 1938-06-28, 7,7,89,557
-Louis_Ignarro, 1941-05-31, 5,43,89,127
-Ludwig_Beck, 1880-06-29, 5,7,89,773
-Marie_de_Rabutin-Chantal,_marquise_de_Sévigné, 1626-02-05, 19,37,37,89
-Maximilian_Schell, 1930-12-08, 2,43,89,317
-Morgan_De_Sanctis, 1977-03-26, 2,2,89,6863
-Rob_Halford, 1951-08-25, 23,29,41,89
-Roger_Martin_du_Gard, 1881-03-23, 2,83,89,163
-Ted_Danson, 1947-12-29, 2,2,89,6833
-Wacław_Sierpiński, 1882-03-14, 2,7,89,1933
+Ahmed_Shafik, 1941-11-25, 7,47,83,89, 40889
+Akira_Yoshizawa, 1911-03-14, 7,11,89,353, 124109.3871
+Aphex_Twin, 1971-08-18, 3,41,89,223, 174459
+Cheech_Marin, 1946-07-13, 2,13,89,1051, 140636.3448
+César_Milstein, 1927-10-08, 3,31,89,293, 23648.13333
+Goran_Pandev, 1983-07-27, 2,11,89,1249, 88844.16129
+Henri_de_Toulouse-Lautrec, 1864-11-24, 3,3,89,2999, 125973.6984
+Hermann_Joseph_Muller, 1890-12-21, 2,17,89,797, 14590.42857
+Itumeleng_Khune, 1987-06-20, 2,59,89,233, 11855.25926
+Jean_Baptiste_Perrin, 1870-09-30, 3,5,89,1801, 12098.77358
+Jiddu_Krishnamurti, 1895-05-11, 2,2,89,6779, 107493.5556
+John_Pemberton, 1831-07-08, 2,29,89,463, 57744.73529
+Johnny_Cash, 1932-02-26, 3,61,89,149, 449129.125
+Leon_Panetta, 1938-06-28, 7,7,89,557, 107243.3333
+Louis_Ignarro, 1941-05-31, 5,43,89,127, 17917.66667
+Ludwig_Beck, 1880-06-29, 5,7,89,773, 46002.36667
+Maximilian_Schell, 1930-12-08, 2,43,89,317, 53683.9
+Morgan_De_Sanctis, 1977-03-26, 2,2,89,6863, 45988.9697
+Rob_Halford, 1951-08-25, 23,29,41,89, 159061.7742
+Ted_Danson, 1947-12-29, 2,2,89,6833, 223531.7407
+Wacław_Sierpiński, 1882-03-14, 2,7,89,1933, 13309.78571

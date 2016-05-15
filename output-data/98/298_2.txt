@@ -1,10 +1,10 @@
-Alexei_Alexeyevich_Abrikosov, 1928-06-25, 2,3,149,2713
-Alphonse_Daudet, 1840-05-13, 2,3,149,2677
-Henrique_Hilário, 1975-10-21, 2,7,149,1171
-Joan_Sutherland, 1926-11-07, 2,79,103,149
-Laurent-Désiré_Kabila, 1939-11-27, 2,31,149,263
-Peter_Tosh, 1944-10-19, 2,41,149,199
-Peyo, 1928-06-25, 2,3,149,2713
-Pope_Shenouda_III_of_Alexandria, 1923-08-03, 2,3,149,2711
-Winsor_McCay, 1869-09-26, 2,3,149,2689
-Yao_Ming, 1980-09-12, 2,13,149,631
+Alexei_Alexeyevich_Abrikosov, 1928-06-25, 2,3,149,2713, 10347.60976
+Alphonse_Daudet, 1840-05-13, 2,3,149,2677, 39580.42857
+Henrique_Hilário, 1975-10-21, 2,7,149,1171, 28178.05882
+Joan_Sutherland, 1926-11-07, 2,79,103,149, 34425
+Laurent-Désiré_Kabila, 1939-11-27, 2,31,149,263, 24472.83333
+Peter_Tosh, 1944-10-19, 2,41,149,199, 145462.9667
+Peyo, 1928-06-25, 2,3,149,2713, 43534.85714
+Pope_Shenouda_III_of_Alexandria, 1923-08-03, 2,3,149,2711, 22048.71429
+Winsor_McCay, 1869-09-26, 2,3,149,2689, 240116.2286
+Yao_Ming, 1980-09-12, 2,13,149,631, 350230.7368

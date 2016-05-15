@@ -1,61 +1,21 @@
-Albert_Claude, 1899-08-24, 2,5,241489
-Alexander_Hamilton, 1755-01-11, 2,5,236207
-Antonio_Puerta, 1984-11-26, 2,5,244603
-Aslan_Maskhadov, 1951-09-21, 2,5,243391
-Avril_Lavigne, 1984-09-27, 2,5,244597
-Björn_Ulvaeus, 1945-04-25, 2,5,243157
-Calista_Flockhart, 1964-11-11, 2,5,243871
-Carl_Linnaeus, 1707-05-23, 2,5,234467
-Comte_de_Lautréamont, 1846-04-04, 2,5,239539
-Dave_Murray_(musician), 1956-12-23, 2,5,243583
-David_Hasselhoff, 1952-07-17, 2,5,243421
-Dragan_Džajić, 1946-05-30, 2,5,243197
-Edmund_Barton, 1849-01-18, 2,5,239641
-Emanuele_Giaccherini, 1985-05-05, 2,5,244619
-Enver_Hoxha, 1908-10-16, 2,5,241823
-Ferenc_Szálasi, 1897-01-06, 2,5,241393
-George_I_of_Great_Britain, 1660-05-28, 2,5,232751
-Gilad_Shalit, 1986-08-28, 2,5,244667
-Hank_Azaria, 1964-04-25, 2,5,243851
-Harry_Mulisch, 1927-07-29, 2,5,242509
-Howard_Zinn, 1922-08-24, 2,5,242329
-Hugh_Laurie, 1959-06-11, 2,5,243673
-Jaroslav_Hašek, 1883-04-30, 2,5,240893
-Jesús_Navas, 1985-11-21, 2,5,244639
-Jewel_(singer), 1974-05-23, 2,5,244219
-Jim_Lovell, 1928-03-25, 2,5,242533
-John_Michael_Talbot, 1954-05-08, 2,5,243487
-Jorge_Luis_Borges, 1899-08-24, 2,5,241489
-Joshua_Jackson, 1978-06-11, 2,5,244367
-Karl-Theodor_zu_Guttenberg, 1971-12-05, 2,5,244129
-Leopold_von_Sacher-Masoch, 1836-01-27, 2,5,239167
-Linda_Evangelista, 1965-05-10, 2,5,243889
-Lola_Pagnani, 1972-04-03, 2,5,244141
-Marc_Overmars, 1973-03-29, 2,5,244177
-Max_Mirnyi, 1977-07-06, 2,5,244333
-Michael_Gough, 1916-11-23, 2,5,242119
-Michele_Alboreto, 1956-12-23, 2,5,243583
-Miriam_Makeba, 1932-03-04, 2,5,242677
-Morrissey, 1959-05-22, 2,5,243671
-Nancy_Ajram, 1983-05-16, 2,5,244547
-Nicholas_II_of_Russia, 1868-05-18, 2,5,240347
-Nicos_Anastasiades, 1946-09-27, 2,5,243209
-Olof_Palme, 1927-01-30, 2,5,242491
-Omar_al-Bashir, 1944-01-01, 2,5,243109
-Pope_Benedict_XIV, 1675-03-31, 2,5,233293
-Pratibha_Patil, 1934-12-19, 2,5,242779
-Rainier_III,_Prince_of_Monaco, 1923-05-31, 2,5,242357
-Romain_Rolland, 1866-01-29, 2,5,240263
-Ryo_Miyaichi, 1992-12-14, 2,5,244897
-Ryszard_Kapuściński, 1932-03-04, 2,5,242677
-Soluna_Samay, 1990-08-27, 2,5,244813
-Sterling_Knight, 1989-03-05, 2,5,244759
-Subhash_Kak, 1947-03-26, 2,5,243227
-Terence_Tao, 1975-07-17, 2,5,244261
-Tiziano_Ferro, 1980-02-21, 2,5,244429
-Tokugawa_Yoshinobu, 1837-10-28, 2,5,239231
-Toni_Morrison, 1931-02-18, 2,5,242639
-Victor_Pelevin, 1962-11-22, 2,5,243799
-Walter_Scott, 1771-08-15, 2,5,236813
-Wentworth_Miller, 1972-06-02, 2,5,244147
-Wouter_Weylandt, 1984-09-27, 2,5,244597
+Alexander_Hamilton, 1755-01-11, 2,5,236207, 184062.8889
+Avril_Lavigne, 1984-09-27, 2,5,244597, 426832.0583
+Björn_Ulvaeus, 1945-04-25, 2,5,243157, 97317.94118
+Calista_Flockhart, 1964-11-11, 2,5,243871, 226916.5862
+David_Hasselhoff, 1952-07-17, 2,5,243421, 276504.75
+Hank_Azaria, 1964-04-25, 2,5,243851, 208706.0909
+Hugh_Laurie, 1959-06-11, 2,5,243673, 371158.7037
+Jim_Lovell, 1928-03-25, 2,5,242533, 156595.1538
+Jorge_Luis_Borges, 1899-08-24, 2,5,241489, 181760.6931
+Joshua_Jackson, 1978-06-11, 2,5,244367, 302592.2258
+Karl-Theodor_zu_Guttenberg, 1971-12-05, 2,5,244129, 137750.3333
+Linda_Evangelista, 1965-05-10, 2,5,243889, 130194.3571
+Miriam_Makeba, 1932-03-04, 2,5,242677, 129043.6
+Morrissey, 1959-05-22, 2,5,243671, 322212.3889
+Nancy_Ajram, 1983-05-16, 2,5,244547, 102775.75
+Nicholas_II_of_Russia, 1868-05-18, 2,5,240347, 235734.72
+Ryo_Miyaichi, 1992-12-14, 2,5,244897, 128376.8148
+Sterling_Knight, 1989-03-05, 2,5,244759, 279133.6296
+Tiziano_Ferro, 1980-02-21, 2,5,244429, 146348.3793
+Tokugawa_Yoshinobu, 1837-10-28, 2,5,239231, 158582.9231
+Wentworth_Miller, 1972-06-02, 2,5,244147, 392115.0698

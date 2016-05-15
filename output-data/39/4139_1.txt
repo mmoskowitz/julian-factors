@@ -1,2 +1,2 @@
-Abdullah_Ahmad_Badawi, 1939-11-26, 587,4139
-Tina_Turner, 1939-11-26, 587,4139
+Abdullah_Ahmad_Badawi, 1939-11-26, 587,4139, 40117.16667
+Tina_Turner, 1939-11-26, 587,4139, 326136.8364

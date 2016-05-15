@@ -1,2 +1,2 @@
-Charlene,_Princess_of_Monaco, 1978-01-25, 3,19,163,263
-Getúlio_Vargas, 1882-04-19, 2,19,241,263
+Charlene,_Princess_of_Monaco, 1978-01-25, 3,19,163,263, 30037.0303
+Getúlio_Vargas, 1882-04-19, 2,19,241,263, 141283.8718

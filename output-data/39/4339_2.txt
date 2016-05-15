@@ -1,2 +1,2 @@
-Johann_Gottlieb_Fichte, 1762-05-19, 5,109,4339
-Karl_Adolph_Gjellerup, 1857-06-02, 7,79,4339
+Johann_Gottlieb_Fichte, 1762-05-19, 5,109,4339, 41261.40385
+Karl_Adolph_Gjellerup, 1857-06-02, 7,79,4339, 5582.581818

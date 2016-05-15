@@ -1,4 +1,4 @@
-Igor_Sikorsky, 1889-05-25, 29,29,47,61
-Nicolas_Anelka, 1979-03-14, 2,29,29,1453
-Satyendra_Nath_Bose, 1894-01-01, 19,29,29,151
-Valentina_Matviyenko, 1949-04-07, 11,29,29,263
+Igor_Sikorsky, 1889-05-25, 29,29,47,61, 37336.80556
+Nicolas_Anelka, 1979-03-14, 2,29,29,1453, 193191.4906
+Satyendra_Nath_Bose, 1894-01-01, 19,29,29,151, 29794.72093
+Valentina_Matviyenko, 1949-04-07, 11,29,29,263, 7554.222222

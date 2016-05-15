@@ -1,7 +1,7 @@
-Alan_Jones_(racing_driver), 1946-11-02, 2,499,2437
-Bella_Akhmadulina, 1937-04-10, 31,157,499
-Enzo_Francescoli, 1961-11-12, 5,499,977
-Frederick_William_I_of_Prussia, 1688-08-14, 5,499,937
-Hans_Fallada, 1893-07-21, 5,499,967
-Mátyás_Rákosi, 1892-03-09, 2,499,2417
-Peter_Lorre, 1904-06-26, 29,167,499
+Alan_Jones_(racing_driver), 1946-11-02, 2,499,2437, 10458.82759
+Bella_Akhmadulina, 1937-04-10, 31,157,499, 6703.296296
+Enzo_Francescoli, 1961-11-12, 5,499,977, 61978.70588
+Frederick_William_I_of_Prussia, 1688-08-14, 5,499,937, 32930.53659
+Hans_Fallada, 1893-07-21, 5,499,967, 33409.66667
+Mátyás_Rákosi, 1892-03-09, 2,499,2417, 22824
+Peter_Lorre, 1904-06-26, 29,167,499, 91115.6

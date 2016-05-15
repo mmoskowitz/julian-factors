@@ -1,2 +1,2 @@
-Alejo_Carpentier, 1904-12-26, 2,2,2,5,23,37,71
-Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein, 1887-11-17, 2,2,2,2,2,71,1061
+Alejo_Carpentier, 1904-12-26, 2,2,2,5,23,37,71, 49106.79412
+Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein, 1887-11-17, 2,2,2,2,2,71,1061, 38547.23529

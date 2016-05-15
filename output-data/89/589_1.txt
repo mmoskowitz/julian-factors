@@ -1,2 +1,2 @@
-Georgios_Samaras, 1985-02-21, 19,31,4153
-Sergei_Eisenstein, 1898-01-22, 19,31,4099
+Georgios_Samaras, 1985-02-21, 19,31,4153, 52077.51429
+Sergei_Eisenstein, 1898-01-22, 19,31,4099, 31846.52874

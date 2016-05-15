@@ -1,2 +1,2 @@
-Mahmoud_Ahmadinejad, 1956-10-28, 2,11,53,2089
-Tomas_Tranströmer, 1931-04-15, 2,11,53,2081
+Mahmoud_Ahmadinejad, 1956-10-28, 2,11,53,2089, 119549.1319
+Tomas_Tranströmer, 1931-04-15, 2,11,53,2081, 17817.93056

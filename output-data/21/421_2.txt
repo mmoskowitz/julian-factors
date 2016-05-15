@@ -1,2 +1,2 @@
-Carol_II_of_Romania, 1893-10-15, 11,421,521
-Kajsa_Bergqvist, 1976-10-12, 7,421,829
+Carol_II_of_Romania, 1893-10-15, 11,421,521, 34971.53125
+Kajsa_Bergqvist, 1976-10-12, 7,421,829, 18995.61538

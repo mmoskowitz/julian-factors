@@ -1,2 +1,2 @@
-Abdelaziz_Bouteflika, 1937-03-02, 2,7,41,4231
-Johann_Heinrich_Lambert, 1728-08-26, 2,2,139,4231
+Abdelaziz_Bouteflika, 1937-03-02, 2,7,41,4231, 51167.94118
+Johann_Heinrich_Lambert, 1728-08-26, 2,2,139,4231, 15888.03125

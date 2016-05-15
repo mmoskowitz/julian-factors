@@ -1,2 +1,2 @@
-Lucille_Ball, 1911-08-06, 2,3,3,3,71,631
-Thomas_Andrews_(shipbuilder), 1873-02-07, 2,2,3,3,71,941
+Lucille_Ball, 1911-08-06, 2,3,3,3,71,631, 305706.5625
+Thomas_Andrews_(shipbuilder), 1873-02-07, 2,2,3,3,71,941, 28109.75862

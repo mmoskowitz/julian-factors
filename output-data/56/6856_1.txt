@@ -1,2 +1,2 @@
-Alan_Lloyd_Hodgkin, 1914-02-05, 2,2,2,353,857
-William_S._Burroughs, 1914-02-05, 2,2,2,353,857
+Alan_Lloyd_Hodgkin, 1914-02-05, 2,2,2,353,857, 7885.756757
+William_S._Burroughs, 1914-02-05, 2,2,2,353,857, 150601.525

@@ -1,5 +1,5 @@
-Aphex_Twin, 1971-08-18, 3,41,89,223
-César_Milstein, 1927-10-08, 3,31,89,293
-Henri_de_Toulouse-Lautrec, 1864-11-24, 3,3,89,2999
-Jean_Baptiste_Perrin, 1870-09-30, 3,5,89,1801
-Johnny_Cash, 1932-02-26, 3,61,89,149
+Aphex_Twin, 1971-08-18, 3,41,89,223, 174459
+César_Milstein, 1927-10-08, 3,31,89,293, 23648.13333
+Henri_de_Toulouse-Lautrec, 1864-11-24, 3,3,89,2999, 125973.6984
+Jean_Baptiste_Perrin, 1870-09-30, 3,5,89,1801, 12098.77358
+Johnny_Cash, 1932-02-26, 3,61,89,149, 449129.125

@@ -1,9 +1,9 @@
-Adolf_von_Baeyer, 1835-10-31, 2,3,199,2003
-Alexander_Fleming, 1881-08-06, 2,3,199,2017
-Baruj_Benacerraf, 1920-10-29, 2,3,199,2029
-Jacob_Burckhardt, 1818-05-25, 2,13,199,461
-Leonard_Bernstein, 1918-08-25, 2,5,199,1217
-Peter_Tosh, 1944-10-19, 2,41,149,199
-Pierre-Gilles_de_Gennes, 1932-10-24, 2,2,199,3049
-Robert_Mundell, 1932-10-24, 2,2,199,3049
-Stijn_Schaars, 1984-01-11, 2,5,199,1229
+Adolf_von_Baeyer, 1835-10-31, 2,3,199,2003, 10261.73077
+Alexander_Fleming, 1881-08-06, 2,3,199,2017, 115845.3951
+Baruj_Benacerraf, 1920-10-29, 2,3,199,2029, 10031.66667
+Jacob_Burckhardt, 1818-05-25, 2,13,199,461, 32378.35484
+Leonard_Bernstein, 1918-08-25, 2,5,199,1217, 103604.25
+Peter_Tosh, 1944-10-19, 2,41,149,199, 145462.9667
+Pierre-Gilles_de_Gennes, 1932-10-24, 2,2,199,3049, 13572.54762
+Robert_Mundell, 1932-10-24, 2,2,199,3049, 19488.59375
+Stijn_Schaars, 1984-01-11, 2,5,199,1229, 21052.23333

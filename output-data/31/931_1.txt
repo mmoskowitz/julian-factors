@@ -1,2 +1,2 @@
-George_Paget_Thomson, 1892-05-03, 7,7,19,2591
-Shaggy_(musician), 1968-10-22, 7,7,19,2621
+George_Paget_Thomson, 1892-05-03, 7,7,19,2591, 7918.90566
+Shaggy_(musician), 1968-10-22, 7,7,19,2621, 50700.73333

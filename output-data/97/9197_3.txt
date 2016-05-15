@@ -1,2 +1,2 @@
-Amanda_Seyfried, 1985-12-03, 2,7,17,19,541
-Francis_I,_Holy_Roman_Emperor, 1708-12-08, 3,5,17,17,541
+Amanda_Seyfried, 1985-12-03, 2,7,17,19,541, 607842.4146
+Francis_I,_Holy_Roman_Emperor, 1708-12-08, 3,5,17,17,541, 13806.29787

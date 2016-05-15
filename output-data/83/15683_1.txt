@@ -1,1 +1,1 @@
-Charles_VI,_Holy_Roman_Emperor, 1685-10-01, 149,15683
+Charles_VI,_Holy_Roman_Emperor, 1685-10-01, 149,15683, 20537.54167

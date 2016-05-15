@@ -1,2 +1,2 @@
-Ludmilla_Radchenko, 1978-11-11, 31,31,2543
-Teri_Hatcher, 1964-12-08, 7,137,2543
+Ludmilla_Radchenko, 1978-11-11, 31,31,2543, 3455.285714
+Teri_Hatcher, 1964-12-08, 7,137,2543, 209942.8

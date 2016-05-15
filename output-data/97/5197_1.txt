@@ -1,2 +1,2 @@
-Hiram_Bingham_III, 1875-11-19, 463,5197
-Mikhail_Kalinin, 1875-11-19, 463,5197
+Hiram_Bingham_III, 1875-11-19, 463,5197, 26487.21875
+Mikhail_Kalinin, 1875-11-19, 463,5197, 25715.81579

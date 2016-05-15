@@ -1,7 +1,7 @@
-Cesare_Maldini, 1932-02-05, 2,3,3,31,4349
-François_Mitterrand, 1916-10-26, 2,3,3,31,4339
-Humberto_de_Alencar_Castelo_Branco, 1897-09-20, 3,3,17,31,509
-Johanna_Spyri, 1827-06-12, 3,3,7,31,1223
-Robert_Brown_(botanist), 1773-12-21, 3,3,7,31,1213
-Robin_Warren, 1937-06-11, 3,3,5,31,1741
-Willy_Messerschmitt, 1898-06-26, 2,3,3,31,4327
+Cesare_Maldini, 1932-02-05, 2,3,3,31,4349, 47400
+François_Mitterrand, 1916-10-26, 2,3,3,31,4339, 94068.29577
+Humberto_de_Alencar_Castelo_Branco, 1897-09-20, 3,3,17,31,509, 30509.75862
+Johanna_Spyri, 1827-06-12, 3,3,7,31,1223, 23876.64706
+Robert_Brown_(botanist), 1773-12-21, 3,3,7,31,1213, 19341.41667
+Robin_Warren, 1937-06-11, 3,3,5,31,1741, 9968.151515
+Willy_Messerschmitt, 1898-06-26, 2,3,3,31,4327, 25914.10714

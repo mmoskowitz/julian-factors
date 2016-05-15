@@ -1,72 +1,21 @@
-Aaron_Lennon, 1987-04-16, 23,191,557
-Alberto_Giacometti, 1901-10-10, 23,127,827
-Alexander_Stepanovich_Popov, 1859-03-16, 23,241,433
-Alfred_Dreyfus, 1859-10-09, 2,23,52181
-Anna_Kournikova, 1981-06-07, 2,23,53147
-Anthony_Réveillère, 1979-11-10, 3,23,35423
-Arthur_Koestler, 1905-09-05, 7,23,15013
-Brian_Greene, 1963-02-09, 23,71,1493
-Bryan_Cranston, 1956-03-07, 17,23,6229
-Carl_Woese, 1928-07-15, 2,23,52727
-Charles_II_of_Spain, 1661-11-06, 23,127,797
-Charles_Watson-Wentworth,_2nd_Marquess_of_Rockingham, 1730-05-13, 23,263,389
-Clement_Attlee, 1883-01-03, 11,23,9521
-Cliff_Robertson, 1923-09-09, 23,167,631
-Damien_Duff, 1979-03-02, 2,23,53129
-Daniel_Carleton_Gajdusek, 1923-09-09, 23,167,631
-Daniel_Schneidermann, 1958-04-05, 2,23,52963
-Danielle_Steel, 1947-08-14, 17,23,6221
-Daryl_Sabara, 1992-06-14, 11,23,9679
-Dave_Gahan, 1962-05-09, 23,83,1277
-David_Tennant, 1971-04-18, 23,211,503
-Deco, 1977-08-27, 2,23,53117
-Dennis_Aogo, 1987-01-14, 3,23,35461
-Diane_Lane, 1965-01-22, 2,23,53017
-Dr._Seuss, 1904-03-02, 23,29,3623
-Edmund_Husserl, 1859-04-08, 2,23,52177
-Ellen_DeGeneres, 1958-01-26, 23,73,1451
-Fakhruddin_Ali_Ahmed, 1905-05-13, 2,23,52543
-François_Arago, 1786-02-26, 23,37,2789
-George_Habash, 1926-08-02, 3,23,35141
-George_I_of_Greece, 1845-12-24, 13,23,8011
-Glen_Johnson_(English_footballer), 1984-08-23, 5,23,21269
-Heinrich_Brüning, 1885-11-26, 23,29,3613
-Helen_Keller, 1880-06-27, 3,23,34897
-Hugh_Hefner, 1926-04-09, 2,23,52709
-Hugo_Almeida, 1984-05-23, 3,23,35447
-Ian_Khama, 1953-02-27, 5,23,21169
-Jafar_Panahi, 1960-07-11, 2,23,52981
-James_Monroe, 1758-04-28, 11,23,9341
-James_Naismith, 1861-11-06, 5,23,20879
-Jean-Baptiste_Say, 1767-01-05, 23,31,3319
-Jean-Bertrand_Aristide, 1953-07-15, 23,151,701
-Jens_Stoltenberg, 1959-03-16, 11,23,9631
-Jerome_Isaac_Friedman, 1930-03-28, 23,313,337
-John_C._Breckinridge, 1821-01-16, 7,23,14821
-John_Fenn_(chemist), 1917-06-15, 2,23,52639
-John_Howard_Northrop, 1891-07-05, 2,23,52433
-John_McCain, 1936-08-29, 19,23,5557
-Jérôme_Boateng, 1988-09-03, 23,97,1097
-Kesha, 1987-03-01, 5,23,21277
-Kiran_Desai, 1971-09-03, 11,23,9649
-Klaus_Tschütscher, 1967-07-08, 11,23,9643
-Käthe_Kollwitz, 1867-07-08, 5,23,20897
-Laurent_Gbagbo, 1945-05-31, 2,23,52861
-Leopold_I,_Holy_Roman_Emperor, 1640-06-09, 23,281,359
-Lolo_Ferrari, 1963-02-09, 23,71,1493
-Lothar_Matthäus, 1961-03-21, 7,23,15139
-Luciano_Pavarotti, 1935-10-12, 23,229,461
-Miguel_de_Unamuno, 1864-09-29, 23,71,1471
-Nicholas_Hoult, 1989-12-07, 23,71,1499
-Niels_Kaj_Jerne, 1911-12-23, 23,37,2843
-Oscar_I_of_Sweden, 1799-07-04, 5,23,20681
-Pope_Clement_IX, 1600-01-28, 2,23,50119
-Rainer_Werner_Fassbinder, 1945-05-31, 2,23,52861
-Richard_Adolf_Zsigmondy, 1865-04-01, 23,149,701
-Rodney_Robert_Porter, 1917-10-08, 23,127,829
-Rodrigo_Santoro, 1975-08-22, 2,23,53101
-Samuel_Taylor_Coleridge, 1772-10-21, 3,23,34327
-Stanford_Moore, 1913-09-04, 2,23,52609
-Trent_Reznor, 1965-05-17, 19,23,5581
-Turgut_Özal, 1927-10-13, 2,23,52721
-Yukio_Hatoyama, 1947-02-11, 7,23,15107
+Anna_Kournikova, 1981-06-07, 2,23,53147, 157460.0179
+Bryan_Cranston, 1956-03-07, 17,23,6229, 586023.4615
+Daryl_Sabara, 1992-06-14, 11,23,9679, 117050.2
+Dave_Gahan, 1962-05-09, 23,83,1277, 128330.871
+David_Tennant, 1971-04-18, 23,211,503, 379719.5294
+Deco, 1977-08-27, 2,23,53117, 119133.5
+Diane_Lane, 1965-01-22, 2,23,53017, 355342.0938
+Dr._Seuss, 1904-03-02, 23,29,3623, 398078.8667
+Ellen_DeGeneres, 1958-01-26, 23,73,1451, 310859.9245
+Helen_Keller, 1880-06-27, 3,23,34897, 237778.7143
+Hugh_Hefner, 1926-04-09, 2,23,52709, 546871.9474
+John_McCain, 1936-08-29, 19,23,5557, 229144.573
+Jérôme_Boateng, 1988-09-03, 23,97,1097, 111636.525
+Kesha, 1987-03-01, 5,23,21277, 471781.2
+Lolo_Ferrari, 1963-02-09, 23,71,1493, 208142.1154
+Lothar_Matthäus, 1961-03-21, 7,23,15139, 106941.5882
+Luciano_Pavarotti, 1935-10-12, 23,229,461, 123884.7949
+Nicholas_Hoult, 1989-12-07, 23,71,1499, 434163.8571
+Rodrigo_Santoro, 1975-08-22, 2,23,53101, 190710.1071
+Trent_Reznor, 1965-05-17, 19,23,5581, 224082.3871
+Yukio_Hatoyama, 1947-02-11, 7,23,15107, 103543.2909

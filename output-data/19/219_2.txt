@@ -1,8 +1,8 @@
-Augusto_Pinochet, 1915-11-25, 2,3,73,5527
-Beatrix_of_the_Netherlands, 1938-01-31, 3,3,73,3697
-Charles_Grey,_2nd_Earl_Grey, 1764-03-13, 3,7,73,1543
-Lester_B._Pearson, 1897-04-23, 3,73,73,151
-Louise_of_Mecklenburg-Strelitz, 1776-03-10, 3,3,73,3607
-Léon_M'ba, 1902-02-09, 3,3,73,3677
-Paul_Rudd, 1969-04-06, 3,11,73,1013
-Yuan_T._Lee, 1936-11-19, 3,13,73,853
+Augusto_Pinochet, 1915-11-25, 2,3,73,5527, 123154.7237
+Beatrix_of_the_Netherlands, 1938-01-31, 3,3,73,3697, 95373.7
+Charles_Grey,_2nd_Earl_Grey, 1764-03-13, 3,7,73,1543, 5302.724138
+Lester_B._Pearson, 1897-04-23, 3,73,73,151, 34352.04762
+Louise_of_Mecklenburg-Strelitz, 1776-03-10, 3,3,73,3607, 41603.88462
+Léon_M'ba, 1902-02-09, 3,3,73,3677, 6630.153846
+Paul_Rudd, 1969-04-06, 3,11,73,1013, 428930.7586
+Yuan_T._Lee, 1936-11-19, 3,13,73,853, 14803.3125

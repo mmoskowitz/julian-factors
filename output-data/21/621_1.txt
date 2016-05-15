@@ -1,2 +1,2 @@
-Immanuel_Wallerstein, 1930-09-28, 3,3,3,23,3907
-Vitali_Klitschko, 1971-07-19, 3,3,3,23,3931
+Immanuel_Wallerstein, 1930-09-28, 3,3,3,23,3907, 51488.03571
+Vitali_Klitschko, 1971-07-19, 3,3,3,23,3931, 446598.2759

@@ -1,4 +1,4 @@
-Arno_Allan_Penzias, 1933-04-26, 2,2,53,11449
-Elizabeth_Taylor, 1932-02-27, 2,2,53,11447
-Feodor_Felix_Konrad_Lynen, 1911-04-06, 2,2,53,11411
-Gustav_Kirchhoff, 1824-03-12, 2,2,53,11261
+Arno_Allan_Penzias, 1933-04-26, 2,2,53,11449, 11302.06383
+Elizabeth_Taylor, 1932-02-27, 2,2,53,11447, 338903.0556
+Feodor_Felix_Konrad_Lynen, 1911-04-06, 2,2,53,11411, 5746.15625
+Gustav_Kirchhoff, 1824-03-12, 2,2,53,11261, 27442.96429

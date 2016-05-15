@@ -1,143 +1,21 @@
-Abel_Pacheco, 1933-12-22, 2,2,606857
-Akon, 1973-04-16, 2,2,610447
-Alexander_Calder, 1898-07-22, 2,2,603623
-Algirdas_Brazauskas, 1932-09-22, 2,2,606743
-André_Derain, 1880-06-10, 2,2,601969
-Antonio_Banderas, 1960-08-10, 2,2,609289
-Arnold_Schwarzenegger, 1947-07-30, 2,2,608099
-Arvid_Carlsson, 1923-01-25, 2,2,605861
-Aurangzeb, 1618-10-14, 2,2,578077
-Barry_Manilow, 1943-06-17, 2,2,607723
-Bernadette_Soubirous, 1844-01-07, 2,2,598643
-Bill_Bryson, 1951-12-08, 2,2,608497
-Bill_Maher, 1956-01-20, 2,2,608873
-Billy_Mays, 1958-07-20, 2,2,609101
-Bonnie_Hunt, 1961-09-22, 2,2,609391
-Brian_Cox_(actor), 1946-06-01, 2,2,607993
-Bryan_Ferry, 1945-09-26, 2,2,607931
-Carl_Spitzweg, 1808-02-05, 2,2,595363
-Carl_Theodor_Dreyer, 1889-02-03, 2,2,602759
-Caroline_Herschel, 1750-03-16, 2,2,590077
-Chiang_Ching-kuo, 1910-04-27, 2,2,604697
-Chris_Cooper, 1951-07-09, 2,2,608459
-Chris_Martin, 1977-03-02, 2,2,610801
-Christian_B._Anfinsen, 1916-03-26, 2,2,605237
-Christian_Goldbach, 1690-03-18, 2,2,584599
-Christoph_Metzelder, 1980-11-05, 2,2,611137
-Clint_Mansell, 1963-01-07, 2,2,609509
-Colin_Powell, 1937-04-05, 2,2,607157
-Daniel_Nestor, 1972-09-04, 2,2,610391
-Daniel_Ricciardo, 1989-07-01, 2,2,611927
-Daphne_du_Maurier, 1907-05-13, 2,2,604427
-David_Thewlis, 1963-03-20, 2,2,609527
-Diego_Ribas_da_Cunha, 1985-02-28, 2,2,611531
-Djibril_Cissé, 1981-08-12, 2,2,611207
-E._O._Wilson, 1929-06-10, 2,2,606443
-Edward_Burne-Jones, 1833-08-28, 2,2,597697
-Edward_Witten, 1951-08-26, 2,2,608471
-Emma_Watson, 1990-04-15, 2,2,611999
-Enya, 1961-05-17, 2,2,609359
-Eric_Hobsbawm, 1917-06-09, 2,2,605347
-Eric_Idle, 1943-03-29, 2,2,607703
-Eugene_Merle_Shoemaker, 1928-04-28, 2,2,606341
-Eveline_Widmer-Schlumpf, 1956-03-16, 2,2,608887
-Evliya_Çelebi, 1611-03-25, 2,2,577387
-Frank_Darabont, 1959-01-28, 2,2,609149
-Françoise_Barré-Sinoussi, 1947-07-30, 2,2,608099
-Frédéric_Kanouté, 1977-09-02, 2,2,610847
-Gabriel_Cramer, 1704-07-31, 2,2,585911
-Garry_Kasparov, 1963-04-13, 2,2,609533
-George_Berkeley, 1685-03-12, 2,2,584141
-George_H._W._Bush, 1924-06-12, 2,2,605987
-Gerard_Piqué, 1987-02-02, 2,2,611707
-Giuseppe_Favalli, 1972-01-08, 2,2,610331
-Grigory_Zinoviev, 1883-09-23, 2,2,602269
-Guus_Hiddink, 1946-11-08, 2,2,608033
-Harvey_Keitel, 1939-05-13, 2,2,607349
-Heinz-Harald_Frentzen, 1967-05-18, 2,2,609907
-Hendrik_Lorentz, 1853-07-18, 2,2,599513
-Henry_Miller, 1891-12-26, 2,2,603023
-Ian_Holm, 1931-09-12, 2,2,606649
-Iván_Zamorano, 1967-01-18, 2,2,609877
-J._K._Rowling, 1965-07-31, 2,2,609743
-Jaap_de_Hoop_Scheffer, 1948-04-03, 2,2,608161
-Jalal_Talabani, 1933-11-12, 2,2,606847
-Jane_Seymour_(actress), 1951-02-15, 2,2,608423
-Jean_Dubuffet, 1901-07-31, 2,2,603899
-Jeff_Dunham, 1962-04-18, 2,2,609443
-Jelena_Janković, 1985-02-28, 2,2,611531
-Jerry_Goldsmith, 1929-02-10, 2,2,606413
-Jo-Wilfried_Tsonga, 1985-04-17, 2,2,611543
-Johann_Wolfgang_von_Goethe, 1749-08-28, 2,2,590027
-John_Entwistle, 1944-10-09, 2,2,607843
-John_Hancock, 1737-01-23, 2,2,588877
-John_Major, 1943-03-29, 2,2,607703
-John_Russell,_1st_Earl_Russell, 1792-08-18, 2,2,593951
-Johnny_Galecki, 1975-04-30, 2,2,610633
-Jonas_Savimbi, 1934-08-03, 2,2,606913
-Jonathan_Ive, 1967-02-27, 2,2,609887
-Jonathan_Swift, 1667-11-30, 2,2,582563
-Jorge_Rafael_Videla, 1925-08-02, 2,2,606091
-José_Antonio_Primo_de_Rivera, 1903-04-24, 2,2,604057
-Keith_Richards, 1943-12-18, 2,2,607769
-Kofi_Annan, 1938-04-08, 2,2,607249
-Konrad_Zuse, 1910-06-22, 2,2,604711
-Ledley_King, 1980-10-12, 2,2,611131
-Leonardo_Bonucci, 1987-05-01, 2,2,611729
-Lion_Feuchtwanger, 1884-07-07, 2,2,602341
-Lloyd_Shapley, 1923-06-02, 2,2,605893
-Lu_Xun, 1881-09-25, 2,2,602087
-Luchino_Visconti, 1906-11-02, 2,2,604379
-Lucian_Freud, 1922-12-08, 2,2,605849
-Lucky_Luciano, 1897-11-24, 2,2,603563
-Manuel_Pellegrini, 1953-09-16, 2,2,608659
-Marcia_Cross, 1962-03-25, 2,2,609437
-Martina_Navratilova, 1956-10-18, 2,2,608941
-Massimo_Ambrosini, 1977-05-29, 2,2,610823
-Matt_Busby, 1909-05-26, 2,2,604613
-Max_Euwe, 1901-05-20, 2,2,603881
-Maximilian_II_of_Bavaria, 1811-11-28, 2,2,595711
-Maximilian_Kolbe, 1894-01-08, 2,2,603209
-Maximilian_von_Weichs, 1881-11-12, 2,2,602099
-Nancy_Reagan, 1921-07-06, 2,2,605719
-Newt_Gingrich, 1943-06-17, 2,2,607723
-Nuno_Gomes, 1976-07-05, 2,2,610741
-Oliver_Cromwell, 1599-04-25, 2,2,576299
-Oscar_Niemeyer, 1907-12-15, 2,2,604481
-Paul_Krugman, 1953-02-28, 2,2,608609
-Pixie_Lott, 1991-01-12, 2,2,612067
-Pyotr_Stolypin, 1862-04-14, 2,2,600311
-Queen_Sofía_of_Spain, 1938-11-02, 2,2,607301
-Rachel_Weisz, 1970-03-07, 2,2,610163
-Ralf_Dahrendorf, 1929-05-01, 2,2,606433
-Ramakrishna, 1836-02-18, 2,2,597923
-René_Descartes, 1596-03-31, 2,2,576019
-Risto_Ryti, 1889-02-03, 2,2,602759
-Robert_Bresson, 1901-09-25, 2,2,603913
-Rooney_Mara, 1985-04-17, 2,2,611543
-Rudolf_Clausius, 1822-01-02, 2,2,596633
-Rudolf_Diesel, 1858-03-18, 2,2,599939
-Samuel_P._Huntington, 1927-04-18, 2,2,606247
-Scottie_Pippen, 1965-09-25, 2,2,609757
-Sergei_Witte, 1849-06-29, 2,2,599143
-Shahar_Pe'er, 1987-05-01, 2,2,611729
-Surayud_Chulanont, 1943-08-28, 2,2,607741
-Sławomir_Mrożek, 1930-06-29, 2,2,606539
-Tadeusz_Mazowiecki, 1927-04-18, 2,2,606247
-Tansu_Çiller, 1946-05-24, 2,2,607991
-Tara_Reid, 1975-11-08, 2,2,610681
-Tarja_Turunen, 1977-08-17, 2,2,610843
-Thierry_Henry, 1977-08-17, 2,2,610843
-Tony_Hawk, 1968-05-12, 2,2,609997
-Vangelis, 1943-03-29, 2,2,607703
-Walter_Rudolf_Hess, 1881-03-17, 2,2,602039
-Will_Sasso, 1975-05-24, 2,2,610639
-Will_Smith, 1968-09-25, 2,2,610031
-William_Gallas, 1977-08-17, 2,2,610843
-William_H._Seward, 1801-05-16, 2,2,594749
-Wladimir_Köppen, 1846-09-25, 2,2,598891
-Yelena_Slesarenko, 1982-02-28, 2,2,611257
-Yoweri_Museveni, 1944-09-15, 2,2,607837
-Yukio_Mishima, 1925-01-14, 2,2,606041
-Yul_Brynner, 1920-07-11, 2,2,605629
-Yves_Klein, 1928-04-28, 2,2,606341
+Akon, 1973-04-16, 2,2,610447, 487832.8421
+Antonio_Banderas, 1960-08-10, 2,2,609289, 275236.9836
+Arnold_Schwarzenegger, 1947-07-30, 2,2,608099, 626488.4023
+Bill_Maher, 1956-01-20, 2,2,608873, 201271.2903
+Billy_Mays, 1958-07-20, 2,2,609101, 217374.9375
+Chris_Martin, 1977-03-02, 2,2,610801, 279257.7959
+Emma_Watson, 1990-04-15, 2,2,611999, 616320.5132
+George_H._W._Bush, 1924-06-12, 2,2,605987, 195980.7339
+Gerard_Piqué, 1987-02-02, 2,2,611707, 262678.4035
+J._K._Rowling, 1965-07-31, 2,2,609743, 244277.2527
+Jeff_Dunham, 1962-04-18, 2,2,609443, 228887.3333
+Johnny_Galecki, 1975-04-30, 2,2,610633, 688205.1852
+Keith_Richards, 1943-12-18, 2,2,607769, 337027.55
+Lucky_Luciano, 1897-11-24, 2,2,603563, 264739.3235
+Rachel_Weisz, 1970-03-07, 2,2,610163, 371672.3585
+René_Descartes, 1596-03-31, 2,2,576019, 219752.5083
+Rooney_Mara, 1985-04-17, 2,2,611543, 373925.9355
+Tara_Reid, 1975-11-08, 2,2,610681, 330956.3636
+Thierry_Henry, 1977-08-17, 2,2,610843, 313923.6324
+Tony_Hawk, 1968-05-12, 2,2,609997, 278434.3929
+Will_Smith, 1968-09-25, 2,2,610031, 752834.4595

@@ -1,2 +1,2 @@
-Gamal_Abdel_Nasser, 1918-01-15, 2,2,2,7,83,521
-Johann_Gottfried_Herder, 1744-08-25, 3,3,7,11,41,83
+Gamal_Abdel_Nasser, 1918-01-15, 2,2,2,7,83,521, 90908.06579
+Johann_Gottfried_Herder, 1744-08-25, 3,3,7,11,41,83, 39952.11765

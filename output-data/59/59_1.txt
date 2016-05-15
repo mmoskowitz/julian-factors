@@ -1,10 +1,10 @@
-Andre_Iguodala, 1984-01-28, 59,41453
-Chris_Diamantopoulos, 1975-05-09, 59,41399
-Edward_Calvin_Kendall, 1886-03-08, 59,40847
-Fredrik_Ljungberg, 1977-04-16, 59,41411
-George_Akerlof, 1940-06-17, 59,41183
-Haley_Joel_Osment, 1988-04-10, 59,41479
-Jesper_Grønkjær, 1977-08-12, 59,41413
-John_C._Mather, 1946-08-07, 59,41221
-Néstor_Kirchner, 1950-02-25, 59,41243
-Robert_Guérin, 1876-06-28, 59,40787
+Andre_Iguodala, 1984-01-28, 59,41453, 76413.57143
+Chris_Diamantopoulos, 1975-05-09, 59,41399, 59321.76923
+Edward_Calvin_Kendall, 1886-03-08, 59,40847, 5111.685714
+Fredrik_Ljungberg, 1977-04-16, 59,41411, 99408.27778
+George_Akerlof, 1940-06-17, 59,41183, 24406.35484
+Haley_Joel_Osment, 1988-04-10, 59,41479, 334665
+Jesper_Grønkjær, 1977-08-12, 59,41413, 31257
+John_C._Mather, 1946-08-07, 59,41221, 9672.25
+Néstor_Kirchner, 1950-02-25, 59,41243, 79496.91837
+Robert_Guérin, 1876-06-28, 59,40787, 5269.1

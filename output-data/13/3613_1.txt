@@ -1,3 +1,3 @@
-Daniel_Cohn-Bendit, 1945-04-04, 673,3613
-Obafemi_Martins, 1984-10-28, 677,3613
-Ulrika_Eleonora,_Queen_of_Sweden, 1688-01-23, 647,3613
+Daniel_Cohn-Bendit, 1945-04-04, 673,3613, 78135.25806
+Obafemi_Martins, 1984-10-28, 677,3613, 109433.2813
+Ulrika_Eleonora,_Queen_of_Sweden, 1688-01-23, 647,3613, 13236.65517

@@ -1,3 +1,3 @@
-Juan_Gris, 1887-03-23, 3,3,11,97,251
-Ricardo_Costa_(Portuguese_footballer), 1981-05-16, 2,2,5,251,487
-Vincent_Candela, 1973-10-24, 3,3,23,47,251
+Juan_Gris, 1887-03-23, 3,3,11,97,251, 108732.0909
+Ricardo_Costa_(Portuguese_footballer), 1981-05-16, 2,2,5,251,487, 10973.65517
+Vincent_Candela, 1973-10-24, 3,3,23,47,251, 20513.35714

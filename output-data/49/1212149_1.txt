@@ -1,2 +1,2 @@
-Bülent_Ecevit, 1925-05-28, 2,1212149
-Dietrich_Fischer-Dieskau, 1925-05-28, 2,1212149
+Bülent_Ecevit, 1925-05-28, 2,1212149, 34604.57895
+Dietrich_Fischer-Dieskau, 1925-05-28, 2,1212149, 29729.82759

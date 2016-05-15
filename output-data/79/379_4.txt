@@ -1,3 +1,3 @@
-Frederik,_Crown_Prince_of_Denmark, 1968-05-26, 2,3,29,37,379
-James_Earl_Jones, 1931-01-17, 2,3,11,97,379
-Ralph_Nader, 1934-02-27, 3,5,7,61,379
+Frederik,_Crown_Prince_of_Denmark, 1968-05-26, 2,3,29,37,379, 29205.85294
+James_Earl_Jones, 1931-01-17, 2,3,11,97,379, 214952.8889
+Ralph_Nader, 1934-02-27, 3,5,7,61,379, 133519.2188

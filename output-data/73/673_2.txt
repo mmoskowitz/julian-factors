@@ -1,2 +1,2 @@
-Giuseppe_Peano, 1858-08-27, 2,673,1783
-Henrietta_Maria_of_France, 1609-11-25, 47,73,673
+Giuseppe_Peano, 1858-08-27, 2,673,1783, 16932.7
+Henrietta_Maria_of_France, 1609-11-25, 47,73,673, 35181.4375

@@ -1,36 +1,21 @@
-Albert_I_of_Belgium, 1875-04-08, 2,11,109363
-Andrey_Vyshinsky, 1883-12-10, 2,11,109507
-Anton_Ferdinand, 1985-02-18, 2,11,111187
-Bridgit_Mendler, 1992-12-18, 2,11,111317
-Carlos_Santana, 1947-07-20, 2,11,110563
-Chaim_Weizmann, 1874-11-27, 2,11,109357
-Dean_Martin, 1917-06-07, 2,11,110063
-Fridtjof_Nansen, 1861-10-10, 2,11,109139
-Gaston_Doumergue, 1863-08-01, 2,11,109169
-Gene_Hackman, 1930-01-30, 2,11,110273
-George_Meade, 1815-12-31, 2,11,108379
-Gerd_Binnig, 1947-07-20, 2,11,110563
-Gloria_Estefan, 1957-09-01, 2,11,110731
-Gustav_Ludwig_Hertz, 1887-07-22, 2,11,109567
-Helmuth_von_Moltke_the_Elder, 1800-10-26, 2,11,108127
-Jack_Wilshere, 1992-01-01, 2,11,111301
-Jim_Morrison, 1943-12-08, 2,11,110503
-Josh_Groban, 1981-02-27, 2,11,111121
-Jules_Ferry, 1832-04-05, 2,11,108649
-Kim_Campbell, 1947-03-10, 2,11,110557
-Louis_Braille, 1809-01-04, 2,11,108263
-Mario_J._Molina, 1943-03-19, 2,11,110491
-Mario_Monti, 1943-03-19, 2,11,110491
-Mikhail_Gorbachev, 1931-03-02, 2,11,110291
-Naser_al-Din_Shah_Qajar, 1831-07-16, 2,11,108637
-Nick_Carter_(musician), 1980-01-28, 2,11,111103
-Olli_Rehn, 1962-03-31, 2,11,110807
-Pete_Townshend, 1945-05-19, 2,11,110527
-Reinhard_Heydrich, 1904-03-07, 2,11,109843
-Robert_Nozick, 1938-11-16, 2,11,110419
-Rosario_Dawson, 1979-05-09, 2,11,111091
-Suzanne_Collins, 1962-08-10, 2,11,110813
-Theodor_Svedberg, 1884-08-30, 2,11,109519
-Theodore_Dreiser, 1871-08-27, 2,11,109303
-Tigran_Sargsyan, 1960-01-29, 2,11,110771
-Tom_Wolfe, 1931-03-02, 2,11,110291
+Anton_Ferdinand, 1985-02-18, 2,11,111187, 60269.80769
+Bridgit_Mendler, 1992-12-18, 2,11,111317, 405059.0345
+Carlos_Santana, 1947-07-20, 2,11,110563, 248571.9412
+Dean_Martin, 1917-06-07, 2,11,110063, 314836.7143
+Gene_Hackman, 1930-01-30, 2,11,110273, 160222.5882
+Gloria_Estefan, 1957-09-01, 2,11,110731, 135408.1522
+Helmuth_von_Moltke_the_Elder, 1800-10-26, 2,11,108127, 44680.25714
+Jack_Wilshere, 1992-01-01, 2,11,111301, 138981.3611
+Jim_Morrison, 1943-12-08, 2,11,110503, 428394.9688
+Josh_Groban, 1981-02-27, 2,11,111121, 243928.2941
+Jules_Ferry, 1832-04-05, 2,11,108649, 69571.53571
+Kim_Campbell, 1947-03-10, 2,11,110557, 42198.16667
+Louis_Braille, 1809-01-04, 2,11,108263, 53272.13559
+Mario_Monti, 1943-03-19, 2,11,110491, 70336.29851
+Mikhail_Gorbachev, 1931-03-02, 2,11,110291, 167760.35
+Nick_Carter_(musician), 1980-01-28, 2,11,111103, 66513.42857
+Pete_Townshend, 1945-05-19, 2,11,110527, 232924.8
+Reinhard_Heydrich, 1904-03-07, 2,11,109843, 166388.551
+Rosario_Dawson, 1979-05-09, 2,11,111091, 392681.1071
+Suzanne_Collins, 1962-08-10, 2,11,110813, 143743.4412
+Tom_Wolfe, 1931-03-02, 2,11,110291, 85087

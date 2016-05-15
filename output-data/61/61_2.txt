@@ -1,30 +1,21 @@
-Alfred_Radcliffe-Brown, 1881-01-17, 3,61,13159
-Anna_Bergendahl, 1991-12-11, 61,137,293
-Bobby_McFerrin, 1950-03-11, 3,61,13297
-Boris_Karloff, 1887-11-23, 2,61,19759
-David_Coulthard, 1971-03-27, 3,61,13339
-David_Villa, 1981-12-03, 61,149,269
-Ernest_Walton, 1903-10-06, 7,61,5659
-Eugène_de_Beauharnais, 1781-09-03, 2,61,19441
-Felix_Klein, 1849-04-25, 17,61,2311
-Garrincha, 1933-10-28, 13,61,3061
-Hassan_Gouled_Aptidon, 1916-10-15, 19,61,2089
-Henry_Moseley, 1887-11-23, 2,61,19759
-Horst_Wessel, 1907-10-09, 13,61,3049
-Jacques_Monod, 1910-02-09, 3,61,13217
-Jacques_Tati, 1907-10-09, 13,61,3049
-Jerzy_Buzek, 1940-07-03, 61,61,653
-Jodie_Foster, 1962-11-19, 17,61,2351
-Luca_Antonini, 1982-08-04, 5,61,8017
-Martin_Lewis_Perl, 1927-06-24, 5,61,7951
-Nathan_Fillion, 1971-03-27, 3,61,13339
-Princess_Beatrice_of_York, 1988-08-08, 53,61,757
-René-Robert_Cavelier,_Sieur_de_La_Salle, 1643-11-21, 19,61,2003
-Robert_Rauschenberg, 1925-10-22, 5,61,7949
-Sam_Shepard, 1943-11-05, 11,61,3623
-Sebastian_Larsson, 1985-06-06, 2,61,20051
-Sylvia_Plath, 1932-10-27, 11,61,3617
-Thomas_Huckle_Weller, 1915-06-15, 7,61,5669
-Valter_Birsa, 1986-08-07, 19,61,2111
-William_Booth, 1829-04-10, 53,61,739
-Wong_Kar-wai, 1958-07-17, 11,61,3631
+Bobby_McFerrin, 1950-03-11, 3,61,13297, 113212.7037
+Boris_Karloff, 1887-11-23, 2,61,19759, 96791.43243
+David_Coulthard, 1971-03-27, 3,61,13339, 57688.53333
+David_Villa, 1981-12-03, 61,149,269, 283552.4833
+Eugène_de_Beauharnais, 1781-09-03, 2,61,19441, 28207.40741
+Garrincha, 1933-10-28, 13,61,3061, 84058.93617
+Henry_Moseley, 1887-11-23, 2,61,19759, 57046.7931
+Horst_Wessel, 1907-10-09, 13,61,3049, 47670.51852
+Jacques_Tati, 1907-10-09, 13,61,3049, 60490.70588
+Jerzy_Buzek, 1940-07-03, 61,61,653, 35160.925
+Jodie_Foster, 1962-11-19, 17,61,2351, 315427
+Luca_Antonini, 1982-08-04, 5,61,8017, 49723
+Nathan_Fillion, 1971-03-27, 3,61,13339, 337042.4444
+Princess_Beatrice_of_York, 1988-08-08, 53,61,757, 205509.4815
+Robert_Rauschenberg, 1925-10-22, 5,61,7949, 103818.3448
+Sam_Shepard, 1943-11-05, 11,61,3623, 136055.8966
+Sebastian_Larsson, 1985-06-06, 2,61,20051, 29680.54054
+Sylvia_Plath, 1932-10-27, 11,61,3617, 156827.0909
+Valter_Birsa, 1986-08-07, 19,61,2111, 30803.2069
+William_Booth, 1829-04-10, 53,61,739, 31736.42308
+Wong_Kar-wai, 1958-07-17, 11,61,3631, 98634.5

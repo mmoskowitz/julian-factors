@@ -1,2 +1,2 @@
-John_McCarthy_(computer_scientist), 1927-09-04, 191,12697
-Louise_Michel, 1830-05-29, 191,12511
+John_McCarthy_(computer_scientist), 1927-09-04, 191,12697, 11950.45
+Louise_Michel, 1830-05-29, 191,12511, 43617.65385

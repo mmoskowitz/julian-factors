@@ -1,6 +1,6 @@
-Ayub_Khan_(President_of_Pakistan), 1907-05-14, 3,7,7,16447
-Ernests_Gulbis, 1988-08-30, 3,7,7,16649
-Javier_Pastore, 1989-06-20, 3,7,7,16651
-Nikolay_Davydenko, 1981-06-02, 3,7,7,16631
-Rock_Hudson, 1925-11-17, 3,7,7,16493
-Yoichiro_Nambu, 1921-01-18, 3,7,7,16481
+Ayub_Khan_(President_of_Pakistan), 1907-05-14, 3,7,7,16447, 3965.75
+Ernests_Gulbis, 1988-08-30, 3,7,7,16649, 38321.33333
+Javier_Pastore, 1989-06-20, 3,7,7,16651, 159857.6207
+Nikolay_Davydenko, 1981-06-02, 3,7,7,16631, 38337.78947
+Rock_Hudson, 1925-11-17, 3,7,7,16493, 178601.0465
+Yoichiro_Nambu, 1921-01-18, 3,7,7,16481, 32845.41463
