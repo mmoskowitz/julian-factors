@@ -11,6 +11,40 @@ our @EXPORT = qw(convert_date factor get_filename);
 sub convert_date{
     my ($year, $month, $day);
     $year = shift;
+    if ($year < 0){
+	$year++;
+    }
+    $month = shift;
+    $day = shift;
+    if ($year > 1582 || ($year == 1582 && $month >= 10)){
+	return &convert_gregorian($year, $month, $day);
+    } elsif ($year > -46) {
+	return &convert_julian($year, $month, $day);
+    } else {
+	return 1;
+    }
+}
+
+sub convert_julian{
+    my ($year, $month, $day);
+    $year = shift;
+    $month = shift;
+    $day = shift;
+    #from xslt cookbook:
+    my $a = int((14 - $month)/12);
+    my $y = $year + 4800 - $a;
+    my $m = $month + 12 * $a - 3;
+    my $jd = $day 
+	+ int((153 * $m + 2)/5) 
+	+ $y * 365 
+	+ int($y/4) 
+	- 32084; #subtracted one more day to match naval obs 
+    return $jd;
+}
+
+sub convert_gregorian{
+    my ($year, $month, $day);
+    $year = shift;
     $month = shift;
     $day = shift;
     #from xslt cookbook:

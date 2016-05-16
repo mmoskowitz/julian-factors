@@ -7,14 +7,14 @@ my $input = shift;
 
 my $searchfile = "source_data/factors_trimmed_sorted_unique.tsv"
 
-if (my ($year, $month, $day) = $input =~ /(\d\d\d\d)-(\d\d)-(\d\d)/){
-    my $julian = Julian::convert_date($year, $month, $day);
-    my @factors = Julian::factor($julian);
-    my $infoline = join "\t", ("~You", join("-", ($year,$month,$day)),$julian, (join ",", @factors));
-    &search_factors($infoline, (join ",", @factors));
-} else {
+#if (my ($year, $month, $day) = $input =~ /(\d\d\d\d)-(\d\d)-(\d\d)/){
+#    my $julian = Julian::convert_date($year, $month, $day);
+#    my @factors = Julian::factor($julian);
+#    my $infoline = join "\t", ("~You", join("-", ($year,$month,$day)),$julian, (join ",", @factors));
+#    &search_factors($infoline, (join ",", @factors));
+#} else {
     &parse_file($input);
-}
+#}
 
 sub parse_file{
     my $file = shift;
@@ -28,7 +28,7 @@ sub parse_file{
 	    ($line =~ 
 	     m%resource/(.*)> <http:.*birthDate>\s"(-?\d\d\d\d)-(\d\d)-(\d\d)"%); 
 	next unless ($name);
-	next if ($year < 1583); 
+	next if ($year <= -46); 
 	my $julian = Julian::convert_date($year, $month, $day);
 	my @factors = Julian::factor($julian);
 	print join "\t", ($name, join("-", ($year,$month,$day)),$julian, (join ",", @factors)), "\n";
@@ -36,31 +36,31 @@ sub parse_file{
     }
 }
 
-sub search_factors{
-    my $infoline = shift;
-    my $factorization = shift;
-    my @factors = split ",", $factorization;
-    my %searches_done;
-    #use binary numbers to get all combinations
-    for (my $n = 2**@factors -1; $n > 0; $n--){ #all combinations except 0;
-	#print $n . "\n";
-	my $tempfactor = 1;
-	my $factorsleft = @factors;
-	for (my $i = 0; $i < @factors; $i++){
-	    if (2**$i & $n){
-		$tempfactor *= $factors[$i];
-		$factorsleft--;
-	    }
-	}
-	print join "\t", ($tempfactor, $factorsleft, $infoline, "\n");
-	my $search = "grep '^$tempfactor\\s$factorsleft\\s' $searchfile";
-	if (!$searches_done{$search}){
-	    my @results = qx"$search";
-	    print @results;
-	    $searches_done{$search} = 1;
-	}
-	if (1 == @factors){
-	    print "PRIME\t$infoline\n";
-	}
-    }
-}
+#sub search_factors{
+#    my $infoline = shift;
+#    my $factorization = shift;
+#    my @factors = split ",", $factorization;
+#    my %searches_done;
+#    #use binary numbers to get all combinations
+#    for (my $n = 2**@factors -1; $n > 0; $n--){ #all combinations except 0;
+#	#print $n . "\n";
+#	my $tempfactor = 1;
+#	my $factorsleft = @factors;
+#	for (my $i = 0; $i < @factors; $i++){
+#	    if (2**$i & $n){
+#		$tempfactor *= $factors[$i];
+#		$factorsleft--;
+#	    }
+#	}
+#	print join "\t", ($tempfactor, $factorsleft, $infoline, "\n");
+#	my $search = "grep '^$tempfactor\\s$factorsleft\\s' $searchfile";
+#	if (!$searches_done{$search}){
+#	    my @results = qx"$search";
+#	    print @results;
+#	    $searches_done{$search} = 1;
+#	}
+#	if (1 == @factors){
+#	    print "PRIME\t$infoline\n";
+#	}
+#    }
+#}
