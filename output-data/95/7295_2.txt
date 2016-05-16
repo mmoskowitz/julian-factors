@@ -1,1 +1,2 @@
-George_Curzon,_1st_Marquess_Curzon_of_Kedleston, 1859-01-11, 5,7,47,1459, 5908.677419
+Alexandra_Maria_Lara, 1978-11-12, 5,5,67,1459, 107671.7308
+Jamie_Lee_Curtis, 1958-11-22, 2,5,167,1459, 311782.7381

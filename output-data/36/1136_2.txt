@@ -1,1 +1,2 @@
-Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein, 1887-11-17, 2,2,2,2,2,71,1061, 38547.23529
+Charles_Francis_Richter, 1900-04-26, 2,2,2,2,2,71,1063, 14092.7907
+Osman_II, 1604-11-03, 2,2,2,2,3,71,677, 26679.58333

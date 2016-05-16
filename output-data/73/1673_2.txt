@@ -1,0 +1,4 @@
+Alfred_Adler, 1870-02-07, 3,7,239,479, 72155.71154
+Arthur_Wellesley,_1st_Duke_of_Wellington, 1769-05-01, 5,7,239,283, 11661.27273
+Bernard_Werber, 1961-09-18, 7,31,47,239, 42490.46154
+James_Gandolfini, 1961-09-18, 7,31,47,239, 284564.9655

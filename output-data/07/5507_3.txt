@@ -1,3 +1,0 @@
-Cosimo_II_de'_Medici,_Grand_Duke_of_Tuscany, 1590-05-12, 2,11,19,5507, 6965.730769
-Kim_Stanley_Robinson, 1952-03-23, 2,13,17,5507, 21751.21429
-Robert_I_of_France, 0866-08-15, 2,5,37,5507, 14238.23529

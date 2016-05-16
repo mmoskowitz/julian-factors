@@ -1,1 +1,2 @@
-Wilhelm_Steinitz, 1836-05-17, 7,17,101,199, 15322.66667
+Frederick_William,_Elector_of_Brandenburg, 1620-02-16, 3,17,101,449, 4959.911765
+Lee_Harvey_Oswald, 1939-10-18, 5,17,101,283, 273467.78

@@ -1,3 +1,2 @@
-Alphonse_de_Lamartine, 1790-10-21, 647,3671, 58169.31707
-Stanley_Tucci, 1960-11-11, 647,3767, 255573.129
-Ulrika_Eleonora,_Queen_of_Sweden, 1688-01-23, 647,3613, 13236.65517
+Feodor_Felix_Konrad_Lynen, 1911-04-06, 647,3739, 5746.15625
+Neil_Gaiman, 1960-11-10, 647,3767, 196639.2353

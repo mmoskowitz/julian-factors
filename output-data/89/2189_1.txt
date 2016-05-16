@@ -1,0 +1,3 @@
+Baldassare_Castiglione, 1478-12-06, 11,199,1033, 38411.37931
+Niels_Henrik_Abel, 1802-08-05, 11,199,1087, 20676.36207
+Willy_Messerschmitt, 1898-06-26, 11,199,1103, 25914.10714

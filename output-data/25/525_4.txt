@@ -1,1 +1,1 @@
-George_Westinghouse, 1846-10-06, 3,3,3,3,5,5,7,169, 42707.56667
+Frederick_V,_Elector_Palatine, 1596-08-26, 3,3,5,5,7,7,11,19, 8792.25

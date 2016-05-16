@@ -1,2 +1,3 @@
-Joseph_Estrada, 1937-04-19, 2,409,2969, 56341.45946
-Walter_Raleigh, 1552-01-22, 2,409,2797, 117082.4146
+Grand_Duchess_Anastasia_Nikolaevna_of_Russia, 1901-06-18, 2,409,2953, 244372.9487
+Ken_Saro-Wiwa, 1941-10-10, 2,409,2971, 38131
+Paulette_Goddard, 1910-06-03, 2,409,2957, 64772.10256

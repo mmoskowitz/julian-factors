@@ -38,7 +38,7 @@ sub convert_julian{
 	+ int((153 * $m + 2)/5) 
 	+ $y * 365 
 	+ int($y/4) 
-	- 32084; #subtracted one more day to match naval obs 
+	- 32083;
     return $jd;
 }
 
@@ -57,7 +57,7 @@ sub convert_gregorian{
 	+ int($y/4) 
 	- int($y/100) 
 	+ int($y/400)
-	- 32046; #subtracted one more day to match naval obs 
+	- 32045;
     return $jd;
 }
 

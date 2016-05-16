@@ -1,1 +1,2 @@
-Kevin_Smith_(cornerback), 1970-04-07, 3,3,7,19,2039, 285685.4
+Ferdinand_von_Lindemann, 1852-04-12, 3,3,7,19,2003, 9393.903226
+Maximilian_Schell, 1930-12-08, 3,3,7,19,2027, 53683.9

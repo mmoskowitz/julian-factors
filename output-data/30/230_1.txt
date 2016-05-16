@@ -1,2 +1,2 @@
-Lionel_Messi, 1987-06-24, 2,5,23,10639, 867939.1053
-Princess_Madeleine,_Duchess_of_Hälsingland_and_Gästrikland, 1982-06-10, 2,5,23,10631, 58743.80645
+Eyvind_Johnson, 1900-07-29, 2,5,23,10501, 7798.142857
+Liu_Xiaobo, 1955-12-28, 2,5,23,10589, 66545.35211

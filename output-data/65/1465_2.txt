@@ -1,1 +1,2 @@
-William_Shockley, 1910-02-13, 5,13,127,293, 25492
+Charles_Lindbergh, 1902-02-04, 5,17,97,293, 153255
+Svetlana_Alliluyeva, 1926-02-28, 5,5,293,331, 60273.28125

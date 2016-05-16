@@ -1,1 +1,4 @@
-Ludwig_I_of_Bavaria, 1786-08-25, 907,2617, 21601.61765
+Carlos_Gardel, 1890-12-11, 907,2659, 96639.05
+Jack_Johnson_(musician), 1975-05-18, 907,2693, 52755.75862
+John_Higgins_(snooker_player), 1975-05-18, 907,2693, 19359.39286
+Peter_D._Mitchell, 1920-09-29, 907,2671, 8605.685714

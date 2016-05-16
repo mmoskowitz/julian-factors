@@ -1,2 +1,1 @@
-Sarah_Jessica_Parker, 1965-03-25, 2,2,3,41,4957, 368720.3333
-Stefka_Kostadinova, 1965-03-25, 2,2,3,41,4957, 21641.42308
+Beatrix_of_the_Netherlands, 1938-01-31, 2,5,7,7,4957, 95373.7

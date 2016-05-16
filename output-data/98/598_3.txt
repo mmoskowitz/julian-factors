@@ -1,3 +1,1 @@
-Giuseppe_Garibaldi, 1807-07-04, 2,2,11,13,23,181, 105997.1667
-Margaret_of_Austria,_Duchess_of_Savoy, 1480-01-10, 2,2,13,23,31,61, 4137.266667
-Max_Schmeling, 1905-09-28, 2,2,13,23,43,47, 85974.5
+Ferdinand_II_of_Aragon, 1452-03-10, 2,3,5,13,23,251, 66013.89091

@@ -7,4 +7,4 @@ push @INC, ".";
 BEGIN { plan tests => 1 }
 use Julian;
 
-ok(Julian::convert_date(-44,3,15),1705425);
+ok(Julian::convert_date(-44,3,15),1705426);

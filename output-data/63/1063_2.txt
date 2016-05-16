@@ -1,1 +1,2 @@
-Erich_Wolfgang_Korngold, 1897-05-29, 3,757,1063, 24287.92308
+Gustav_III_of_Sweden, 1746-01-24, 7,317,1063, 42356.82353
+Ludwig_III_of_Bavaria, 1845-01-07, 3,751,1063, 22652.92857

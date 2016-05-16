@@ -1,2 +1,3 @@
-Clara_Schumann, 1819-09-13, 2,3,5,281,283, 196221.6818
-Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma, 1900-06-25, 3,3,5,191,281, 21007.72222
+Connie_Francis, 1938-12-12, 5,7,13,19,281, 105616.1481
+Kate_Beckinsale, 1973-07-26, 2,5,11,79,281, 498613.9565
+Vanessa_Hudgens, 1988-12-14, 2,5,13,67,281, 576795.339

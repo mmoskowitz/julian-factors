@@ -1,1 +1,3 @@
-Ricardo_Zamora, 1901-01-21, 3,5,283,569, 25525.75862
+Alan_Sillitoe, 1928-03-04, 2,5,283,857, 17199.5
+Arthur_Wellesley,_1st_Duke_of_Wellington, 1769-05-01, 5,7,239,283, 11661.27273
+Lee_Harvey_Oswald, 1939-10-18, 5,17,101,283, 273467.78

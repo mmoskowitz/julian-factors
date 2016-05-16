@@ -1,3 +1,4 @@
-Hans_Christian_Gram, 1853-09-13, 7,7,109,449, 9020.071429
-Louis_Antoine_de_Saint-Just, 1767-08-25, 3,7,251,449, 28044.97059
-Maniche, 1977-11-11, 2,3,449,907, 52990.48276
+Brittany_Murphy, 1977-11-10, 2,3,449,907, 647549.6735
+Channing_Tatum, 1980-04-26, 2,2,449,1361, 932963
+Frederick_William,_Elector_of_Brandenburg, 1620-02-16, 3,17,101,449, 4959.911765
+Jordana_Brewster, 1980-04-26, 2,2,449,1361, 394103.2759

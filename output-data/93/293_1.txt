@@ -1,2 +1,3 @@
-Antoine_de_Saint-Exupéry, 1900-06-29, 293,8243, 130256.8158
-Dennis_Tito, 1940-08-08, 293,8293, 28665.6
+Francesco_Redi, 1626-02-18, 293,7901, 75350.92593
+Henri_de_la_Tour_d'Auvergne,_Vicomte_de_Turenne, 1611-09-11, 293,7883, 6128
+Jean-Luc_Dehaene, 1940-08-07, 293,8293, 11478.57143

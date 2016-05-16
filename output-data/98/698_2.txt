@@ -1,0 +1,3 @@
+Horatio_Nelson,_1st_Viscount_Nelson, 1758-09-29, 2,2,349,1693, 41672.74194
+John_Wayne_Gacy, 1942-03-17, 2,2,349,1741, 569592.3077
+Joseph_L._Goldstein, 1940-04-18, 2,59,59,349, 7495.870968
