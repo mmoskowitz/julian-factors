@@ -48,9 +48,10 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 
 #print join "\n", @searches;
 
-    $results_text .= "<h2>Your Julian day: $julian</h2>\n";
-    $results_text .= "<h2>Your Julian factors: ".(join ", ", @factors). "</h2>\n";
-    $results_text .= "<p>The following notable people have similar Julian factors to you. Similarity is highest with the first categories.</p>\n";
+    $results_text .= "<h2>Date: $year-$month-$day</h2>\n";
+    $results_text .= "<h2>Julian day: $julian</h2>\n";
+    $results_text .= "<h2>Julian factors: ".(join ", ", @factors). "</h2>\n";
+    $results_text .= "<p>The following notable people have similar Julian factors. Similarity is highest with the first categories.</p>\n";
     $results_text .= "<ul>";
     my %matches;
     foreach my $search (sort {$b <=> $a} @searches) {
@@ -72,6 +73,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	    foreach my $result (@results){
 		chomp $result;
 		my ($name, $date, $factors) = split ", ", $result;
+		my ($ryear, $rmonth, $rday) = $date =~ /(-?\d\d\d\d)-(\d\d)-(\d\d)/;
 		if ($matches{$name}) {
 		    next;
 		} else {
@@ -83,7 +85,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 		if ($factors eq join ",", @factors){
 		    $this_result_text .= "<b>Exact match:</b> ";
 		} 
-		$this_result_text .= "<a href=\"http://en.wikipedia.org/wiki/$name\">$text_name</a>, born on $date, has the factors $factors.</li>\n";
+		$this_result_text .= "<a href=\"http://en.wikipedia.org/wiki/$name\">$text_name</a>, born on <a href=\"julianfactorpage.cgi?year=$ryear&month=$rmonth&day=$rday\">$date</a>, has the factors $factors.</li>\n";
 	    }
 	    $this_result_text .= "  </ul>\n </li>\n";
 	    if ($this_result_text =~ /has the factor/){
