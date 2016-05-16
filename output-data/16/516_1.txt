@@ -1,2 +1,3 @@
 Archibald_Primrose,_5th_Earl_of_Rosebery, 1847-05-07, 2,2,3,43,4643, 2943.032258
+Claude_of_France, 1499-10-13, 2,2,3,43,4397, 23858.39286
 Peter_Medawar, 1915-02-28, 2,2,3,43,4691, 11205.77143

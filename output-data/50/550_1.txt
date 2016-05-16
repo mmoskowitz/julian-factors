@@ -1,2 +1,3 @@
 Jack_Johnson_(musician), 1975-05-18, 2,5,5,11,4441, 52755.75862
 John_Higgins_(snooker_player), 1975-05-18, 2,5,5,11,4441, 19359.39286
+Sigismund_II_Augustus, 1520-08-01, 2,5,5,11,4139, 40497.66667

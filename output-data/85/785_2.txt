@@ -1,2 +1,3 @@
 Alexander_Pope, 1688-05-21, 2,5,157,1489, 61828.64706
+Fernando_Álvarez_de_Toledo,_3rd_Duke_of_Alba, 1507-10-29, 2,5,157,1447, 17163.55172
 William_A._Wheeler, 1819-06-30, 3,5,157,1013, 9826.037037

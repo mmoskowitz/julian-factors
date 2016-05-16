@@ -1,3 +1,4 @@
+Afonso_II_of_Portugal, 1185-04-23, 3,7,7,14653, 12430.96429
 Ayub_Khan_(President_of_Pakistan), 1907-05-14, 3,7,7,16447, 3965.75
 Ernests_Gulbis, 1988-08-30, 3,7,7,16649, 38321.33333
 Javier_Pastore, 1989-06-20, 3,7,7,16651, 159857.6207

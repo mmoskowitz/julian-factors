@@ -1,2 +1,3 @@
 Catherine,_Duchess_of_Cambridge, 1982-01-09, 2,971,1259, 42018.18919
+Edward_IV_of_England, 1442-04-28, 5,463,971, 96922.13462
 Mickaël_Landreau, 1979-05-14, 3,839,971, 33406.03846

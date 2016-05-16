@@ -1,6 +1,7 @@
 Andrew_Wiles, 1953-04-11, 2,449,2711, 54858.42857
 Dileita_Mohamed_Dileita, 1958-03-12, 2,449,2713, 5061.038462
 Guy_Verhofstadt, 1953-04-11, 2,449,2711, 14912.40909
+James_II_of_Scotland, 1430-10-16, 19,263,449, 18430.26667
 Jon_Favreau, 1966-10-19, 3,449,1811, 210651.1786
 Karl_Landsteiner, 1868-06-14, 53,101,449, 18168.68627
 William_John_Macquorn_Rankine, 1820-07-05, 2,449,2657, 9460.222222

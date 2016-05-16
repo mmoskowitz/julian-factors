@@ -9,4 +9,3 @@ Joséphine_de_Beauharnais, 1763-06-23, 3,3,5,13,13,311, 83874.71429
 Kevin-Prince_Boateng, 1987-03-06, 2,2,3,5,13,3137, 236796.4878
 Mohammed_Waheed_Hassan, 1953-01-03, 2,2,3,5,13,3121, 10749.73077
 Olivia_Newton-John, 1948-09-26, 2,2,3,5,13,3119, 242900.0952
-Victoria,_Princess_Royal, 1840-11-21, 2,3,5,13,17,361, 8031.59375

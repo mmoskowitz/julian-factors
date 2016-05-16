@@ -1,4 +1,5 @@
 Alexei_Alexeyevich_Abrikosov, 1928-06-25, 2,3,149,2713, 10347.60976
+Alfonso_X_of_Castile, 1221-11-23, 2,7,149,1039, 45348.5
 Alphonse_Daudet, 1840-05-13, 2,3,149,2677, 39580.42857
 Henrique_Hilário, 1975-10-21, 2,7,149,1171, 28178.05882
 Joan_Sutherland, 1926-11-07, 2,79,103,149, 34425
