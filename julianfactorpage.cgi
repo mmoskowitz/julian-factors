@@ -25,9 +25,10 @@ my $results_text = "";
 #print "hey $year $month $day\n";
 
 #check inputs
-if ($year < 1583 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
+if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     #handle bad dates
-    $preform = "<p class=\"error\">Please provide a valid post-1582 date.</p>";
+    $preform = "<p class=\"error\">Please provide a valid date after 46 BCE.</p>";
+    
 } else {
 
 #convert to julian
