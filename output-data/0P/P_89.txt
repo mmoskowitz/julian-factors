@@ -1,0 +1,5 @@
+Edward_Smith-Stanley,_14th_Earl_of_Derby, 1799-03-29, 2378219, 2242.0625
+Frans_Eemil_Sillanpää, 1888-09-16, 2410897, 7487.781818
+Jerry_West, 1938-05-28, 2429047, 98886.38462
+Leslie_Cheung, 1956-09-12, 2435729, 151830.5
+Stephen_Warnock, 1981-12-12, 2444951, 23678.83871

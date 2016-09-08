@@ -4,6 +4,8 @@ push @INC, ".";
 use Julian;
 use strict;
 use CGI;
+use DateTime;
+
 
 #live
 #my $data_dir = "/home/marc/public_html/math/julian/output-data";
@@ -39,8 +41,23 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     my @factors = Julian::factor($julian);
 #    print (join ",", @factors) . "\n";
 
+    my $ordinal = 0;
+    my @ordinal_factors = ();
+    if (@factors == 1){
+	#get prime ordinal factors
+	$ordinal = Julian::prime_index($julian);
+	@ordinal_factors = Julian::factor($ordinal);
+    }
+
 #convert to searches
     my @searches = Julian::get_searches(join ",", @factors);
+
+#get current/compare date
+    my $compare_date;
+    if (0){
+	$compare_date = DateTime->today();
+    }
+#get info for range
 
 #create response
 
@@ -51,6 +68,9 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     $results_text .= "<h2>Date: $year-$month-$day</h2>\n";
     $results_text .= "<h2>Julian day: $julian</h2>\n";
     $results_text .= "<h2>Julian factors: ".(join ", ", @factors). "</h2>\n";
+    if ($ordinal > 0){
+	$results_text .= "<h2>Julian prime ordinal factors: ".(join ", ", @ordinal_factors). "</h2>\n";
+    }
     $results_text .= "<p>The following notable people have similar Julian factors. Similarity is highest with the first categories.</p>\n";
     $results_text .= "<ul>";
     my %matches;
@@ -63,9 +83,11 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	    my @search_factors = Julian::factor($search_factor);
 	    
 	    if ($search_factor eq 'PRIME'){
-	    $this_result_text .= " <li>Prime:\n  <ul>\n";
+		$this_result_text .= " <li>Prime:\n  <ul>\n";
+	    } elsif ($search_factor =~ /^P/){
+		$this_result_text .= " <li>Prime ordinal factor of $search_remainder:\n  <ul>\n";
 	    } else {
-	    $this_result_text .= " <li>$search_factor (". (join ", ", @search_factors) .") and $search_remainder other factors:\n  <ul>\n";
+		$this_result_text .= " <li>$search_factor (". (join ", ", @search_factors) .") and $search_remainder other factors:\n  <ul>\n";
 	    }
 	    open IN, $filename;
 	    @results = <IN>;

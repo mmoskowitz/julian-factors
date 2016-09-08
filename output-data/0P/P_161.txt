@@ -1,0 +1,6 @@
+Diosdado_Macapagal, 1910-09-28, 2418943, 51696.27586
+Francis_II,_Holy_Roman_Emperor, 1768-02-12, 2366851, 26978.92453
+Julie_Delpy, 1969-12-21, 2440577, 123955.9286
+Kim_Cattrall, 1956-08-21, 2435707, 253377.6286
+Peter_II_of_Yugoslavia, 1923-09-06, 2423669, 28452.125
+Witold_Gombrowicz, 1904-08-04, 2416697, 41105.54839

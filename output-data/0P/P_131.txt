@@ -1,0 +1,6 @@
+Alexander_R._Todd,_Baron_Todd, 1907-10-02, 2417851, 5105.96875
+Bettino_Craxi, 1934-02-24, 2427493, 45254.38462
+Bingu_wa_Mutharika, 1934-02-24, 2427493, 15358.47727
+Martin_Luther_King,_Jr., 1929-01-15, 2425627, 248747.0086
+Paavo_Nurmi, 1897-06-13, 2414089, 27156.22917
+Yelena_Slesarenko, 1982-02-28, 2445029, 6267.807692

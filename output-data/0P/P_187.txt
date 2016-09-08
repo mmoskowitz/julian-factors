@@ -1,0 +1,2 @@
+George_Meade, 1815-12-31, 2384339, 33249.62963
+Johannes_Diderik_van_der_Waals, 1837-11-23, 2392337, 13856.96364

@@ -6,7 +6,22 @@ use strict;
 
 our $VERSION = '1.00';
 
-our @EXPORT = qw(convert_date factor get_filename);
+our @EXPORT = qw(convert_date factor get_filename get_searches);
+
+our @primes;
+
+sub get_primes{
+    if (@primes == 0){
+	open IN, "primes.txt";
+	while (my $prime = <IN>){
+	    #print "P:$prime\n";
+	    chomp $prime;
+	    #print "A:$prime\n";
+	    push @primes, int($prime);
+	}
+    }
+    return @primes;
+}
 
 sub convert_date{
     my ($year, $month, $day);
@@ -107,17 +122,56 @@ sub get_searches{
 		$factorsleft--;
 	    }
 	}
-	if ($tempfactor < 100000){
+	if ($tempfactor < 100000){ #an arbitrary cutoff
 	    my $search = "$tempfactor:$factorsleft";
 	    if (!$searches{$search}){
 		$searches{$search} = 1;
 	    }
 	}
-	if (1 == @factors){
-	    $searches{"PRIME"} = 1;
+    }
+    if (1 == @factors){ #handle primes
+	my $prime_index = &prime_index($factors[0]);
+	my @index_factors = &factor($prime_index);
+	if (1 == @index_factors){
+	    $searches{"P:PRIME"} = 1;
+	    #print "$prime_index P:PRIME\n";
+	} else {
+	    #print "P:COMPOSITE\n";
+	    for (my $n = 2**@index_factors -1; $n > 0; $n--){ #all combinations except 0;
+		my $tempfactor = 1;
+		my $factorsleft = @index_factors;
+		for (my $i = 0; $i < @index_factors; $i++){
+		    if (2**$i & $n){
+			$tempfactor *= $index_factors[$i];
+			$factorsleft--;
+		    }
+		}
+		my $search = "P:$tempfactor";
+		if (!$searches{$search}){
+		    $searches{$search} = 1;
+		}
+	    }
 	}
     }
     return sort keys %searches;
+}
+
+sub prime_index {
+    my $prime = shift;
+    #print "$prime\n";
+    my @primes = &get_primes();
+    my $low = 0;
+    my $high = @primes - 1;
+
+    while ( $low <= $high ) {
+        my $try = int( ($low+$high) / 2 );
+	my $trying = $primes[$try];
+	#print "$low $try $high $trying $prime\n";
+        $low  = $try+1, next if $trying < $prime;
+        $high = $try-1, next if $trying > $prime;
+        return $try + 1; #one-based
+    }
+    return; 
 }
 
 1;

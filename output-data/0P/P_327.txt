@@ -1,0 +1,6 @@
+Anders_Svensson_(footballer,_born_1976), 1976-07-17, 2442977, 7872.037037
+Ava_Gardner, 1922-12-24, 2423413, 150496.5385
+Coenraad_Jacob_Temminck, 1778-03-31, 2370551, 5928.551724
+George_Clinton_(vice_president), 1739-07-26, 2356423, 6238.864865
+Jean-Marc_Ayrault, 1950-01-25, 2433307, 39428.39535
+Marcos_Senna, 1976-07-17, 2442977, 50807.02778

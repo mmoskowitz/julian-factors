@@ -1,0 +1,6 @@
+Claude_Joseph_Rouget_de_Lisle, 1760-05-10, 2364017, 17864.05714
+Frank_Abagnale, 1948-04-27, 2432669, 255323.5938
+George_Clinton_(vice_president), 1739-07-26, 2356423, 6238.864865
+Joan_Sutherland, 1926-11-07, 2424827, 34425
+Karl_Renner, 1870-12-14, 2404411, 14666.64865
+Robert_Byrd, 1917-11-20, 2421553, 110810.931

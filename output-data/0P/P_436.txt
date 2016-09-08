@@ -1,0 +1,5 @@
+Anders_Svensson_(footballer,_born_1976), 1976-07-17, 2442977, 7872.037037
+Ava_Gardner, 1922-12-24, 2423413, 150496.5385
+Gerrit_Rietveld, 1888-06-24, 2410813, 48608
+Marcos_Senna, 1976-07-17, 2442977, 50807.02778
+Nevill_Francis_Mott, 1905-09-30, 2417119, 6819.625
