@@ -7,12 +7,6 @@ use CGI;
 use DateTime;
 
 
-#live
-#my $data_dir = "/home/marc/public_html/math/julian/output-data";
-#my $html_file = "/home/marc/public_html/math/julian/index.html";
-#dev
-my $data_dir = "output-data";
-my $html_file = "index.html";
 
 my $q = CGI->new;
 print $q->header(-type=>'text/html', -charset=>'utf-8');
@@ -20,6 +14,20 @@ print $q->header(-type=>'text/html', -charset=>'utf-8');
 my $year = int($q->param('year'));
 my $month = int($q->param('month'));
 my $day = int($q->param('day'));
+
+my $dev = $q->param('dev'); #do something better
+
+my $data_dir;
+my $html_file;
+if ($dev){
+    #dev
+    $data_dir = "output-data";
+    $html_file = "index.html";
+} else {
+    #live
+    $data_dir = "/home/marc/public_html/math/julian/output-data";
+    $html_file = "/home/marc/public_html/math/julian/index.html";
+}
 
 my $preform = "";
 my $results_text = "";
@@ -52,6 +60,13 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 #convert to searches
     my @searches = Julian::get_searches(join ",", @factors);
 
+    my @sorted_searches;
+    if (@factors == 1){
+	@sorted_searches = sort {int(substr($b, 2)) <=> int(substr($a,2))} @searches;
+    } else {
+	@sorted_searches = sort {$b <=> $a} @searches;
+    }
+
 #get current/compare date
     my $compare_date;
     if (0){
@@ -74,7 +89,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     $results_text .= "<p>The following notable people have similar Julian factors. Similarity is highest with the first categories.</p>\n";
     $results_text .= "<ul>";
     my %matches;
-    foreach my $search (sort {$b <=> $a} @searches) {
+    foreach my $search (@sorted_searches) {
 	my @results;
 	my $filename = Julian::get_filename($search, $data_dir);
 	if (-r $filename){
