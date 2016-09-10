@@ -87,7 +87,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	$results_text .= "<h2>Julian prime ordinal factors: ".(join ", ", @ordinal_factors). "</h2>\n";
     }
     $results_text .= "<p>The following notable people have similar Julian factors. Similarity is highest with the first categories.</p>\n";
-    $results_text .= "<ul>";
+    $results_text .= "<ul>\n";
     my %matches;
     foreach my $search (@sorted_searches) {
 	my @results;
@@ -100,7 +100,11 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	    if ($search_factor eq 'PRIME'){
 		$this_result_text .= " <li>Prime:\n  <ul>\n";
 	    } elsif ($search_factor =~ /^P/){
-		$this_result_text .= " <li>Prime ordinal factor of $search_remainder:\n  <ul>\n";
+		if ($search_remainder eq 'PRIME'){
+		    $this_result_text .= "<li>Prime ordinal that is prime:\n  <ul>\n";
+		} else {
+		    $this_result_text .= " <li>Prime ordinal factor of $search_remainder:\n  <ul>\n";
+		}
 	    } else {
 		$this_result_text .= " <li>$search_factor (". (join ", ", @search_factors) .") and $search_remainder other factors:\n  <ul>\n";
 	    }
@@ -122,10 +126,23 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 		if ($factors eq join ",", @factors){
 		    $this_result_text .= "<b>Exact match:</b> ";
 		} 
-		$this_result_text .= "<a href=\"http://en.wikipedia.org/wiki/$name\">$text_name</a>, born on <a href=\"julianfactorpage.cgi?year=$ryear&month=$rmonth&day=$rday\">$date</a>, has the factors $factors.</li>\n";
+		$this_result_text .= "<a href=\"http://en.wikipedia.org/wiki/$name\">$text_name</a>, born on <a href=\"julianfactorpage.cgi?year=$ryear&month=$rmonth&day=$rday\">$date</a>, ";
+		if ($factors =~ /,/){
+		    $this_result_text .= "has the factors $factors.</li>\n";
+		} else {
+		    my $this_ordinal = Julian::prime_index($factors);
+		    my @this_ordinal_factors = Julian::factor($this_ordinal);
+		    $this_result_text .= "has the prime ordinal $this_ordinal ";
+		    if (@this_ordinal_factors == 1){
+			$this_result_text .= "which is itself prime.</li>\n";
+		    } else {
+			my $ordinal_factors = join ",", @this_ordinal_factors;
+			$this_result_text .= "with factors $ordinal_factors.</li>\n";
+		    }
+		}
 	    }
 	    $this_result_text .= "  </ul>\n </li>\n";
-	    if ($this_result_text =~ /has the factor/){
+	    if ($this_result_text =~ /born on/){
 		$results_text .= $this_result_text;
 	    }
 	}
