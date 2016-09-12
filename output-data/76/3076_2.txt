@@ -1,2 +1,2 @@
-Aravind_Adiga, 1974-10-23, 2,2,2,397,769, 22478.53571
-Charles_Cornwallis,_1st_Marquess_Cornwallis, 1738-12-31, 2,2,2,383,769, 10395.38462
+Aravind_Adiga, 1974-10-23, 2442344, 2,2,2,397,769, 0, 0, 22478.53571
+Charles_Cornwallis,_1st_Marquess_Cornwallis, 1738-12-31, 2356216, 2,2,2,383,769, 0, 0, 10395.38462

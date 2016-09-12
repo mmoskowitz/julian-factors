@@ -1,4 +1,4 @@
-Claude_Adrien_Helvétius, 1715-01-26, 2,2,3,53,3691, 12317.36111
-Edward_Victor_Appleton, 1892-09-06, 2,2,3,53,3793, 6339
-Francisco_Varallo, 1910-02-05, 2,2,3,53,3803, 12299.41379
-William_Gilbert_(astronomer), 1544-05-24, 2,2,3,53,3593, 22573.79487
+Claude_Adrien_Helvétius, 1715-01-26, 2347476, 2,2,3,53,3691, 0, 0, 12317.36111
+Edward_Victor_Appleton, 1892-09-06, 2412348, 2,2,3,53,3793, 0, 0, 6339
+Francisco_Varallo, 1910-02-05, 2418708, 2,2,3,53,3803, 0, 0, 12299.41379
+William_Gilbert_(astronomer), 1544-05-24, 2285148, 2,2,3,53,3593, 0, 0, 22573.79487

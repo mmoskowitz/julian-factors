@@ -1,1 +1,1 @@
-Prince_Daniel,_Duke_of_Västergötland, 1973-09-15, 2441941, 21933.90625
+Prince_Daniel,_Duke_of_Västergötland, 1973-09-15, 2441941, 2441941, 179130, 2,3,5,7,853, 21933.90625

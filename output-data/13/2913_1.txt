@@ -1,1 +1,1 @@
-Prince_Carl_Philip,_Duke_of_Värmland, 1979-05-13, 3,839,971, 43582.75
+Prince_Carl_Philip,_Duke_of_Värmland, 1979-05-13, 2444007, 3,839,971, 0, 0, 43582.75

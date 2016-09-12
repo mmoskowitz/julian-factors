@@ -1,2 +1,2 @@
-François_de_La_Rochefoucauld_(writer), 1613-09-15, 2,659,1753, 28799.26667
-Theodore_William_Richards, 1868-01-31, 3,457,1753, 5564.707317
+François_de_La_Rochefoucauld_(writer), 1613-09-15, 2310454, 2,659,1753, 0, 0, 28799.26667
+Theodore_William_Richards, 1868-01-31, 2403363, 3,457,1753, 0, 0, 5564.707317

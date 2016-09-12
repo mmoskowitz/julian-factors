@@ -1,1 +1,1 @@
-Pierre_Teilhard_de_Chardin, 1881-05-01, 2,3,3,337,397, 51461.4
+Pierre_Teilhard_de_Chardin, 1881-05-01, 2408202, 2,3,3,337,397, 0, 0, 51461.4

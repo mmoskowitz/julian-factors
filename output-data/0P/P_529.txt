@@ -1,1 +1,1 @@
-Francis_II,_Holy_Roman_Emperor, 1768-02-12, 2366851, 26978.92453
+Francis_II,_Holy_Roman_Emperor, 1768-02-12, 2366851, 2366851, 174041, 7,23,23,47, 26978.92453

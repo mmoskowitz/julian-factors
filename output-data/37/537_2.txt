@@ -1,3 +1,3 @@
-Alan_Hutton, 1984-11-30, 3,5,179,911, 31213.03704
-Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein, 1887-11-17, 3,67,67,179, 38547.23529
-Nigel_de_Jong, 1984-11-30, 3,5,179,911, 74471.40476
+Alan_Hutton, 1984-11-30, 2446035, 3,5,179,911, 0, 0, 31213.03704
+Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein, 1887-11-17, 2410593, 3,67,67,179, 0, 0, 38547.23529
+Nigel_de_Jong, 1984-11-30, 2446035, 3,5,179,911, 0, 0, 74471.40476

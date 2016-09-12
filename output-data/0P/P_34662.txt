@@ -1,1 +1,1 @@
-George_Clinton_(vice_president), 1739-07-26, 2356423, 6238.864865
+George_Clinton_(vice_president), 1739-07-26, 2356423, 2356423, 173310, 2,3,5,53,109, 6238.864865

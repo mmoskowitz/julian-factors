@@ -1,1 +1,1 @@
-Constantine_II_of_Greece, 1940-06-02, 41,59263, 62299.91667
+Constantine_II_of_Greece, 1940-06-02, 2429783, 41,59263, 0, 0, 62299.91667

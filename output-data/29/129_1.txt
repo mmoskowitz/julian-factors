@@ -1,4 +1,4 @@
-Ferdinando_I_de'_Medici,_Grand_Duke_of_Tuscany, 1549-07-30, 3,43,17729, 8001.259259
-Javier_Sotomayor, 1967-10-13, 3,43,18913, 35411.84375
-Stijn_Schaars, 1984-01-11, 3,43,18959, 21052.23333
-Teófilo_Stevenson, 1952-03-29, 3,43,18869, 20335.39394
+Ferdinando_I_de'_Medici,_Grand_Duke_of_Tuscany, 1549-07-30, 2287041, 3,43,17729, 0, 0, 8001.259259
+Javier_Sotomayor, 1967-10-13, 2439777, 3,43,18913, 0, 0, 35411.84375
+Stijn_Schaars, 1984-01-11, 2445711, 3,43,18959, 0, 0, 21052.23333
+Teófilo_Stevenson, 1952-03-29, 2434101, 3,43,18869, 0, 0, 20335.39394

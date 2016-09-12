@@ -1,1 +1,1 @@
-Leopold_II,_Holy_Roman_Emperor, 1747-05-05, 3,41,19181, 17974.35714
+Leopold_II,_Holy_Roman_Emperor, 1747-05-05, 2359263, 3,41,19181, 0, 0, 17974.35714

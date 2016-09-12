@@ -1,2 +1,2 @@
-Michael_Moore_(saxophonist_and_clarinetist), 1954-12-04, 11,31,37,193, 193738.0652
-Pál_Schmitt, 1942-05-13, 13,31,37,163, 20231.42857
+Michael_Moore_(saxophonist_and_clarinetist), 1954-12-04, 2435081, 11,31,37,193, 0, 0, 193738.0652
+Pál_Schmitt, 1942-05-13, 2430493, 13,31,37,163, 0, 0, 20231.42857

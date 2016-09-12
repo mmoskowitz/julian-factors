@@ -1,2 +1,2 @@
-Scottie_Pippen, 1965-09-25, 431,5659, 191769.2105
-Victoria,_Crown_Princess_of_Sweden, 1977-07-14, 431,5669, 65984.13636
+Scottie_Pippen, 1965-09-25, 2439029, 431,5659, 0, 0, 191769.2105
+Victoria,_Crown_Princess_of_Sweden, 1977-07-14, 2443339, 431,5669, 0, 0, 65984.13636

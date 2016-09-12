@@ -1,2 +1,2 @@
-Christian_Klien, 1983-02-07, 7,31,59,191, 18576
-Georges-Louis_Leclerc,_Comte_de_Buffon, 1707-09-07, 2,31,59,641, 20752
+Christian_Klien, 1983-02-07, 2445373, 7,31,59,191, 0, 0, 18576
+Georges-Louis_Leclerc,_Comte_de_Buffon, 1707-09-07, 2344778, 2,31,59,641, 0, 0, 20752

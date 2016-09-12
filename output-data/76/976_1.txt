@@ -1,2 +1,2 @@
-Frederick_IV_of_Denmark, 1671-10-11, 2,2,2,2,61,2389, 14230.25
-John_Churchill,_1st_Duke_of_Marlborough, 1650-05-26, 2,2,2,2,61,2381, 4655.944444
+Frederick_IV_of_Denmark, 1671-10-11, 2331664, 2,2,2,2,61,2389, 0, 0, 14230.25
+John_Churchill,_1st_Duke_of_Marlborough, 1650-05-26, 2323856, 2,2,2,2,61,2381, 0, 0, 4655.944444

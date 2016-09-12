@@ -12,10 +12,10 @@ my $count;
 my %factors;
 while (my $line = <IN>){
     #last if ($count > 2000);
-    my ($name, $date, $julian, $factorization, $viewcount) = split /\t/, $line;
-    my $infoline = join(", ", ($name, $date, $factorization, $viewcount));
+    my ($name, $date, $julian, $factorization, $ordinal, $ordinal_factorization, $viewcount) = split /\t/, $line;
+    my $infoline = join(", ", ($name, $date, $julian, $factorization, $ordinal, $ordinal_factorization, $viewcount));
     #print $infoline;
-    add_factors($infoline, $factorization);
+    add_factors($infoline, $factorization, $ordinal_factorization);
     $count++;
 }
 
@@ -26,7 +26,7 @@ foreach my $factoring (sort keys %factors){
     open OUT, ">", "$filename" || die "can't write $filename\n";
     print "writing $filename\n";
     #get top 20 by pageviews
-    my @results_by_view = sort {(split ", ", $b)[3] <=> (split ", ", $a)[3]} uniq(@{$factors{$factoring}});
+    my @results_by_view = sort {(split ", ", $b)[6] <=> (split ", ", $a)[6]} uniq(@{$factors{$factoring}});
     my @results_filtered = @results_by_view[0..20];
     my @results = sort @results_filtered;
     for (my $i = 0; $i < @results; $i++){
@@ -45,7 +45,8 @@ foreach my $factoring (sort keys %factors){
 sub add_factors{
     my $infoline = shift;
     my $factorization = shift;
-    my @searches = Julian::get_searches($factorization);
+    my $ordinal_factorization = shift;
+    my @searches = Julian::get_searches($factorization, $ordinal_factorization);
     foreach my $search (@searches){
 	&add_factor($search, $infoline);
     }

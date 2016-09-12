@@ -1,2 +1,2 @@
-Charles_X_Gustav_of_Sweden, 1622-11-08, 3,5,11,37,379, 27627.68571
-Giuseppe_Tomasi_di_Lampedusa, 1896-12-23, 3,3,11,37,659, 22699.42105
+Charles_X_Gustav_of_Sweden, 1622-11-08, 2313795, 3,5,11,37,379, 0, 0, 27627.68571
+Giuseppe_Tomasi_di_Lampedusa, 1896-12-23, 2413917, 3,3,11,37,659, 0, 0, 22699.42105

@@ -1,2 +1,2 @@
-Alejandro_González_Iñárritu, 1963-08-15, 601,4057, 76377.2
-Marguerite_Duras, 1914-04-04, 601,4027, 70941.4
+Alejandro_González_Iñárritu, 1963-08-15, 2438257, 601,4057, 0, 0, 76377.2
+Marguerite_Duras, 1914-04-04, 2420227, 601,4027, 0, 0, 70941.4

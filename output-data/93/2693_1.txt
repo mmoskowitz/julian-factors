@@ -1,2 +1,2 @@
-Jack_Johnson_(musician), 1975-05-18, 907,2693, 52755.75862
-John_Higgins_(snooker_player), 1975-05-18, 907,2693, 19359.39286
+Jack_Johnson_(musician), 1975-05-18, 2442551, 907,2693, 0, 0, 52755.75862
+John_Higgins_(snooker_player), 1975-05-18, 2442551, 907,2693, 0, 0, 19359.39286

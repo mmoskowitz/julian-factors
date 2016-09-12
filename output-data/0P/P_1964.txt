@@ -1,2 +1,2 @@
-Edward_Smith-Stanley,_14th_Earl_of_Derby, 1799-03-29, 2378219, 2242.0625
-Jacobus_Arminius, 1560-10-10, 2291131, 15572.46154
+Edward_Smith-Stanley,_14th_Earl_of_Derby, 1799-03-29, 2378219, 2378219, 174796, 2,2,89,491, 2242.0625
+Jacobus_Arminius, 1560-10-10, 2291131, 2291131, 168904, 2,2,2,43,491, 15572.46154

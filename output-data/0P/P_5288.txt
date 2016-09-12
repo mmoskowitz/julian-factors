@@ -1,1 +1,1 @@
-Maximilian_I,_Elector_of_Bavaria, 1573-04-17, 2295703, 3441.785714
+Maximilian_I,_Elector_of_Bavaria, 1573-04-17, 2295703, 2295703, 169216, 2,2,2,2,2,2,2,2,661, 3441.785714

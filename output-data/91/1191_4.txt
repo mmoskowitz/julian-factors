@@ -1,2 +1,2 @@
-Anders_Fogh_Rasmussen, 1953-01-26, 2,2,3,7,73,397, 30848.08475
-Friedrich_Georg_Wilhelm_von_Struve, 1793-04-15, 3,3,5,7,19,397, 5553.75
+Anders_Fogh_Rasmussen, 1953-01-26, 2434404, 2,2,3,7,73,397, 0, 0, 30848.08475
+Friedrich_Georg_Wilhelm_von_Struve, 1793-04-15, 2376045, 3,3,5,7,19,397, 0, 0, 5553.75

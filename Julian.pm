@@ -79,13 +79,16 @@ sub convert_gregorian{
 sub factor{
     my $number = shift;
     my @factors;
-    my $current = 2;
+    my $current_index = 0;
+    my @primes = &get_primes();
+    my $current = $primes[$current_index];
     while ($number >= $current**2){
 	if ($number % $current == 0){
 	    push @factors, $current;
 	    $number /= $current;
 	} else {
-	    $current++; #inefficient, whatever
+	    $current_index++; 
+	    $current = $primes[$current_index];
 	}
     } 
     push @factors, $number;
@@ -130,8 +133,14 @@ sub get_searches{
 	}
     }
     if (1 == @factors){ #handle primes
-	my $prime_index = &prime_index($factors[0]);
-	my @index_factors = &factor($prime_index);
+	my $index_factorization = shift;
+	my @index_factors;
+	if ($index_factorization && $index_factorization > 0){
+	    @index_factors  = split(',', $index_factorization);
+	} else {
+	    my $prime_index = &prime_index($factors[0]);
+	    @index_factors = &factor($prime_index);
+	}
 	if (1 == @index_factors){
 	    $searches{"P:PRIME"} = 1;
 	    #print "$prime_index P:PRIME\n";

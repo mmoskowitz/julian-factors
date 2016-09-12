@@ -1,2 +1,2 @@
-Charles_Lindbergh, 1902-02-04, 5,17,97,293, 153255
-Charles_VII,_Holy_Roman_Emperor, 1697-08-06, 3,5,97,1609, 7147.825
+Charles_Lindbergh, 1902-02-04, 2415785, 5,17,97,293, 0, 0, 153255
+Charles_VII,_Holy_Roman_Emperor, 1697-08-06, 2341095, 3,5,97,1609, 0, 0, 7147.825

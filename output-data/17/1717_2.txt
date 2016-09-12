@@ -1,2 +1,2 @@
-Frederick_William,_Elector_of_Brandenburg, 1620-02-16, 3,17,101,449, 4959.911765
-Lee_Harvey_Oswald, 1939-10-18, 5,17,101,283, 273467.78
+Frederick_William,_Elector_of_Brandenburg, 1620-02-16, 2312799, 3,17,101,449, 0, 0, 4959.911765
+Lee_Harvey_Oswald, 1939-10-18, 2429555, 5,17,101,283, 0, 0, 273467.78

@@ -1,1 +1,1 @@
-Johann_Heinrich_Lambert, 1728-08-26, 67,35111, 15888.03125
+Johann_Heinrich_Lambert, 1728-08-26, 2352437, 67,35111, 0, 0, 15888.03125

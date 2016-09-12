@@ -1,2 +1,2 @@
-Adolf_Otto_Reinhold_Windaus, 1876-12-25, 2,7,397,433, 6408.583333
-Muhammad_Ali_Jinnah, 1876-12-25, 2,7,397,433, 77781.35185
+Adolf_Otto_Reinhold_Windaus, 1876-12-25, 2406614, 2,7,397,433, 0, 0, 6408.583333
+Muhammad_Ali_Jinnah, 1876-12-25, 2406614, 2,7,397,433, 0, 0, 77781.35185

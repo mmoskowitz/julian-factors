@@ -84,6 +84,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     $results_text .= "<h2>Julian day: $julian</h2>\n";
     $results_text .= "<h2>Julian factors: ".(join ", ", @factors). "</h2>\n";
     if ($ordinal > 0){
+	$results_text .= "<h2>Julian prime ordinal: $ordinal</h2>\n";
 	$results_text .= "<h2>Julian prime ordinal factors: ".(join ", ", @ordinal_factors). "</h2>\n";
     }
     $results_text .= "<p>The following notable people have similar Julian factors. Similarity is highest with the first categories.</p>\n";
@@ -112,8 +113,9 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	    @results = <IN>;
 	    close IN;
 	    foreach my $result (@results){
+		print $result;
 		chomp $result;
-		my ($name, $date, $factors) = split ", ", $result;
+		my ($name, $date, $rjulian, $factors, $rordinal, $rofactors, $rviews) = split ", ", $result;
 		my ($ryear, $rmonth, $rday) = $date =~ /(-?\d\d\d\d)-(\d\d)-(\d\d)/;
 		if ($matches{$name}) {
 		    next;
@@ -130,14 +132,11 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 		if ($factors =~ /,/){
 		    $this_result_text .= "has the factors $factors.</li>\n";
 		} else {
-		    my $this_ordinal = Julian::prime_index($factors);
-		    my @this_ordinal_factors = Julian::factor($this_ordinal);
-		    $this_result_text .= "has the prime ordinal $this_ordinal ";
-		    if (@this_ordinal_factors == 1){
+		    $this_result_text .= "has the prime ordinal $rordinal ";
+		    if ($rofactors !~ /,/){
 			$this_result_text .= "which is itself prime.</li>\n";
 		    } else {
-			my $ordinal_factors = join ",", @this_ordinal_factors;
-			$this_result_text .= "with factors $ordinal_factors.</li>\n";
+			$this_result_text .= "with factors $rofactors.</li>\n";
 		    }
 		}
 	    }

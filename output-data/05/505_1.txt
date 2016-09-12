@@ -1,3 +1,3 @@
-Carlos_Filipe_Ximenes_Belo, 1948-02-03, 5,101,4817, 9715.472222
-Cosimo_I_de'_Medici,_Grand_Duke_of_Tuscany, 1519-06-12, 5,101,4507, 14392.45455
-Henning_Mankell, 1948-02-03, 5,101,4817, 91384.29412
+Carlos_Filipe_Ximenes_Belo, 1948-02-03, 2432585, 5,101,4817, 0, 0, 9715.472222
+Cosimo_I_de'_Medici,_Grand_Duke_of_Tuscany, 1519-06-12, 2276035, 5,101,4507, 0, 0, 14392.45455
+Henning_Mankell, 1948-02-03, 2432585, 5,101,4817, 0, 0, 91384.29412

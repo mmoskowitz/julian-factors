@@ -1,2 +1,2 @@
-Georges_Pompidou, 1911-07-05, 43,127,443, 37954.53659
-Michael_Andreas_Barclay_de_Tolly, 1761-12-27, 43,127,433, 13578.74194
+Georges_Pompidou, 1911-07-05, 2419223, 43,127,443, 0, 0, 37954.53659
+Michael_Andreas_Barclay_de_Tolly, 1761-12-27, 2364613, 43,127,433, 0, 0, 13578.74194

@@ -1,2 +1,2 @@
-Claude_Joseph_Rouget_de_Lisle, 1760-05-10, 2364017, 17864.05714
-George_Clinton_(vice_president), 1739-07-26, 2356423, 6238.864865
+Claude_Joseph_Rouget_de_Lisle, 1760-05-10, 2364017, 2364017, 173840, 2,2,2,2,5,41,53, 17864.05714
+George_Clinton_(vice_president), 1739-07-26, 2356423, 2356423, 173310, 2,3,5,53,109, 6238.864865

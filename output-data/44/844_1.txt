@@ -1,2 +1,2 @@
-Eduardo_Galeano, 1940-09-03, 2,2,211,2879, 97665.58065
-Philip_Noel-Baker,_Baron_Noel-Baker, 1889-11-01, 2,2,211,2857, 6437.029412
+Eduardo_Galeano, 1940-09-03, 2429876, 2,2,211,2879, 0, 0, 97665.58065
+Philip_Noel-Baker,_Baron_Noel-Baker, 1889-11-01, 2411308, 2,2,211,2857, 0, 0, 6437.029412

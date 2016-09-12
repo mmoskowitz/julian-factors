@@ -1,1 +1,1 @@
-Frederick_II,_Holy_Roman_Emperor, 1194-12-26, 2,7,19,8111, 34379.42857
+Frederick_II,_Holy_Roman_Emperor, 1194-12-26, 2157526, 2,7,19,8111, 0, 0, 34379.42857

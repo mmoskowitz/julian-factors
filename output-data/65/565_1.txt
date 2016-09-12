@@ -1,2 +1,2 @@
-Alain_Robbe-Grillet, 1922-08-18, 5,113,4289, 29943.22857
-William_IX,_Duke_of_Aquitaine, 1071-10-22, 5,113,3739, 9483.230769
+Alain_Robbe-Grillet, 1922-08-18, 2423285, 5,113,4289, 0, 0, 29943.22857
+William_IX,_Duke_of_Aquitaine, 1071-10-22, 2112535, 5,113,3739, 0, 0, 9483.230769

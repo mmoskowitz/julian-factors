@@ -1,2 +1,2 @@
-Engelbert_Dollfuss, 1892-10-04, 2,2,2,151,1997, 26095
-Humberto_de_Alencar_Castelo_Branco, 1897-09-20, 2,2,7,151,571, 30509.75862
+Engelbert_Dollfuss, 1892-10-04, 2412376, 2,2,2,151,1997, 0, 0, 26095
+Humberto_de_Alencar_Castelo_Branco, 1897-09-20, 2414188, 2,2,7,151,571, 0, 0, 30509.75862
