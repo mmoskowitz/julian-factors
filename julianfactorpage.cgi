@@ -113,7 +113,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	    @results = <IN>;
 	    close IN;
 	    foreach my $result (@results){
-		print $result;
+		#print $result;
 		chomp $result;
 		my ($name, $date, $rjulian, $factors, $rordinal, $rofactors, $rviews) = split ", ", $result;
 		my ($ryear, $rmonth, $rday) = $date =~ /(-?\d\d\d\d)-(\d\d)-(\d\d)/;
