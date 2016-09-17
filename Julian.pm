@@ -165,6 +165,58 @@ sub get_searches{
     return sort keys %searches;
 }
 
+sub compare_dates {
+    my ($y1,$m1,$d1) = (shift, shift, shift);
+    my ($y2,$m2,$d2) = (shift, shift, shift);
+    #print "$y1,$m1,$d1 $y2,$m2,$d2\n";
+    #get julians
+    my $j1 = &convert_date($y1,$m1,$d1);
+    my $j2 = &convert_date($y2,$m2,$d2);
+    #print "$j1, $j2\n";
+    #get gcd
+    my $gcd = &get_gcd($j1, $j2);
+    if ($gcd > 1){
+	my $x1 = $j1/$gcd;
+	my $x2 = $j2/$gcd;
+	if (scalar(&factor($x1)) == scalar(&factor($x2))){
+	    return "$gcd:M"
+	} else {
+	    return $gcd;
+	}
+    }
+    #check for primes
+    if (&is_prime($j1) && &is_prime($j2)){
+	#if both prime return ordinal gcd
+	$gcd = &get_gcd(&prime_index($j1), &prime_index($j2));
+	return "P:$gcd";
+    } else {
+	return 1;
+    }
+}
+
+sub get_gcd {
+    my $a = shift;
+    my $b = shift;
+    while ($a != $b && $a * $b != 0){
+	if ($a > $b){
+	    $a -= $b;
+	} else {
+	    $b -= $a;
+	}
+    }
+    return $a;
+}
+
+sub is_prime {
+    my $number = shift;
+    for (my $current = 0; $primes[$current] * $primes[$current] <= $number; $current++){
+	if ($number % $primes[$current] == 0){
+	    return 0;
+	}
+    }
+    return 1;
+}
+
 sub prime_index {
     my $prime = shift;
     #print "$prime\n";

@@ -69,10 +69,66 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 
 #get current/compare date
     my $compare_date;
-    if (0){
+#    my $compare_date_string = $q->param('compare');
+#    if ($compare_date_string){
+#	$compare_date = DateTime->new(
+#	    );
+#    } else {
 	$compare_date = DateTime->today();
-    }
+#    }
 #get info for range
+#35 days from compare_date
+    my $show_o;
+    if (@factors == 1){
+	$show_o = "ordinal";
+    }
+    my $ctable = "<table class='compares'>\n <caption>Greatest common $show_o factors:</caption>\n <tbody>\n  <tr>\n";
+    for (my $i = 0; $i < $compare_date->day_of_week % 7; $i++){
+	$ctable .= "   <td>&nbsp;</td>\n";
+    }
+
+    my ($cy,$cm,$cd,$cdow,$ccode);
+    my ($show_p, $show_m);
+    for (my $i = 0; $i < 35; $i++){
+	my $cy = $compare_date->ce_year();
+	my $cm = $compare_date->month();
+	my $cd = $compare_date->day();
+	my $cdow = $compare_date->day_of_week();
+	my $code = Julian::compare_dates(
+	    $year, $month, $day, 
+	    $cy, $cm, $cd);
+	
+	my $class = "";
+	if ($code =~ /P/) {
+	    $class .= "p ";
+	    $show_p = 1;
+	}
+	if ($code =~ /M/) {
+	    $class .= "m ";
+	    $show_m = 1;
+	} elsif ($code !~ /^(P:)?1(:M)?$/) {
+	    $class .= "s "; #significant
+	}
+	$ctable .= "   <td class='$class'>$cy-$cm-$cd<br/>$code</td>\n";
+	if ($cdow == 6){
+	    $ctable .= "  </tr>\n  <tr>\n";
+	}
+
+	$compare_date->add( days => 1);
+    }
+
+    $ctable .= "  </tr>\n </tbody>\n";
+    if ($show_m || $show_p){
+	$ctable .=" <tfoot>\n  <tr>\n   <td colspan='7'>";
+	if ($show_p){
+	    $ctable .= "P indicates that the date is also prime.  ";
+	}
+	if ($show_m){
+	    $ctable .= "M indicates that the date has the same number of factors.  ";
+	}
+	$ctable .="</td>\n  </tr>\n </tfoot>\n";
+    }
+    $ctable .= "</table>\n";
 
 #create response
 
@@ -87,6 +143,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	$results_text .= "<h2>Julian prime ordinal: $ordinal</h2>\n";
 	$results_text .= "<h2>Julian prime ordinal factors: ".(join ", ", @ordinal_factors). "</h2>\n";
     }
+    $results_text .= $ctable;
     $results_text .= "<p>The following notable people have similar Julian factors. Similarity is highest with the first categories.</p>\n";
     $results_text .= "<ul>\n";
     my %matches;
