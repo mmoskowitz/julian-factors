@@ -117,7 +117,6 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	my $nd = $nav_date->day();
 	$text .= "<a href=\"julianfactorpage.cgi?year=$year&month=$month&day=$day&compare_date=$ny-$nm-$nd\" title=\"go forward one $nl\">&#x2192;</a>";
 	$text .= "</td>\n";
-	print $text;
 	push @nav_tds, $text;
     }
 
