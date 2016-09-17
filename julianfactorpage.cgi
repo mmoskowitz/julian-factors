@@ -69,32 +69,72 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 
 #get current/compare date
     my $compare_date;
-#    my $compare_date_string = $q->param('compare');
-#    if ($compare_date_string){
-#	$compare_date = DateTime->new(
-#	    );
-#    } else {
+    my $compare_date_string = $q->param('compare_date');
+    my ($dy, $dm, $dd);
+    if (($dy, $dm, $dd) = ($compare_date_string =~ /(-?\d+)-(\d+)-(\d+)/)){
+	if ($dy < -46 || $dm > 12 || $dd > 31 || $dm < 1 || $dd < 1) {
+	    #handle bad dates
+	    $preform = "<p class=\"error\">Please compare a valid date after 46 BCE.</p>";
+	    $compare_date_string = "";
+	} else {
+	    $compare_date = DateTime->new(
+		year => $dy,
+		month => $dm,
+		day => $dd
+		);
+	}
+    }
+    if (!$compare_date){
 	$compare_date = DateTime->today();
-#    }
+    }
+
 #get info for range
 #35 days from compare_date
     my $show_o;
     if (@factors == 1){
 	$show_o = "ordinal";
     }
+    
+    #create calendar nav
+    my @nav_labels = qw(week month year decade century millenium);
+    my @nav_units = qw(days months years years years years);
+    my @nav_counts = qw(7 1 1 10 100 100);
+    my @nav_tds = ();
+    for (my $i; $i < @nav_labels; $i++){
+	my $text = "   <td class='nav'>";
+	my $nl = $nav_labels[$i];
+	my $nav_date = DateTime->from_object(object => $compare_date);
+	$nav_date->subtract($nav_units[$i] => $nav_counts[$i]);
+	my $ny = $nav_date->ce_year();
+	my $nm = $nav_date->month();
+	my $nd = $nav_date->day();
+	$text .= "<a href=\"julianfactorpage.cgi?year=$year&month=$month&day=$day&compare_date=$ny-$nm-$nd\" title=\"go back one $nl\">&#x2190;</a>";
+	$text .= " $nl ";
+	my $nav_date = DateTime->from_object(object => $compare_date);
+	$nav_date->add($nav_units[$i] => $nav_counts[$i]);
+	my $ny = $nav_date->ce_year();
+	my $nm = $nav_date->month();
+	my $nd = $nav_date->day();
+	$text .= "<a href=\"julianfactorpage.cgi?year=$year&month=$month&day=$day&compare_date=$ny-$nm-$nd\" title=\"go forward one $nl\">&#x2192;</a>";
+	$text .= "</td>\n";
+	print $text;
+	push @nav_tds, $text;
+    }
+
     my $ctable = "<table class='compares'>\n <caption>Greatest common $show_o factors:</caption>\n <tbody>\n  <tr>\n";
-    for (my $i = 0; $i < $compare_date->day_of_week % 7; $i++){
+    my $nav_index = 0;
+     for (my $i = 0; $i < $compare_date->day_of_week % 7; $i++){
 	$ctable .= "   <td>&nbsp;</td>\n";
     }
 
-    my ($cy,$cm,$cd,$cdow,$ccode);
+    my ($cy,$cm,$cd,$cdow,$code);
     my ($show_p, $show_m);
     for (my $i = 0; $i < 35; $i++){
-	my $cy = $compare_date->ce_year();
-	my $cm = $compare_date->month();
-	my $cd = $compare_date->day();
-	my $cdow = $compare_date->day_of_week();
-	my $code = Julian::compare_dates(
+	$cy = $compare_date->ce_year();
+	$cm = $compare_date->month();
+	$cd = $compare_date->day();
+	$cdow = $compare_date->day_of_week();
+	$code = Julian::compare_dates(
 	    $year, $month, $day, 
 	    $cy, $cm, $cd);
 	
@@ -111,22 +151,40 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	}
 	$ctable .= "   <td class='$class'>$cy-$cm-$cd<br/>$code</td>\n";
 	if ($cdow == 6){
-	    $ctable .= "  </tr>\n  <tr>\n";
+	    if ($nav_index < @nav_tds){
+		$ctable .= $nav_tds[$nav_index];
+		$nav_index++;
+	    }
+	    $ctable .= "  </tr>\n";
+	    $ctable .= "  <tr>\n";
 	}
 
 	$compare_date->add( days => 1);
     }
+    for (my $i = ($compare_date->day_of_week() - 1) % 7; $i < 6; $i++){
+	$ctable .= "   <td>&nbsp;</td>\n";
+    }
 
+
+    if ($compare_date->day_of_week != 7 && $nav_index < @nav_tds){
+	$ctable .= $nav_tds[$nav_index];
+	$nav_index++;
+    }
     $ctable .= "  </tr>\n </tbody>\n";
-    if ($show_m || $show_p){
+    if ($show_m || $show_p || $compare_date->day_of_week() == 7){
 	$ctable .=" <tfoot>\n  <tr>\n   <td colspan='7'>";
 	if ($show_p){
 	    $ctable .= "P indicates that the date is also prime.  ";
 	}
 	if ($show_m){
-	    $ctable .= "M indicates that the date has the same number of factors.  ";
+	    $ctable .= "M indicates that the date has the same number of $show_o factors.  ";
 	}
-	$ctable .="</td>\n  </tr>\n </tfoot>\n";
+	$ctable .="</td>\n";
+	if ($nav_index < @nav_tds){
+	    $ctable .= $nav_tds[$nav_index];
+	    $nav_index++;
+	}
+	$ctable .="</tr>\n </tfoot>\n";
     }
     $ctable .= "</table>\n";
 
