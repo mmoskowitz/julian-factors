@@ -86,6 +86,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     }
     if (!$compare_date){
 	$compare_date = DateTime->today();
+	$compare_date->subtract(days => 1); #account for time zones
     }
 
 #get info for range
@@ -96,7 +97,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     }
     
     #create calendar nav
-    my @nav_labels = qw(week month year decade century millenium);
+    my @nav_labels = qw(week month year decade century millennium);
     my @nav_units = qw(days months years years years years);
     my @nav_counts = qw(7 1 1 10 100 100);
     my @nav_tds = ();
@@ -109,13 +110,14 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	my $nm = $nav_date->month();
 	my $nd = $nav_date->day();
 	$text .= "<a href=\"julianfactorpage.cgi?year=$year&month=$month&day=$day&compare_date=$ny-$nm-$nd\" title=\"go back one $nl\">&#x2190;</a>";
-	$text .= " $nl ";
-	my $nav_date = DateTime->from_object(object => $compare_date);
+	$text .= " ";
+	$nav_date = DateTime->from_object(object => $compare_date);
 	$nav_date->add($nav_units[$i] => $nav_counts[$i]);
-	my $ny = $nav_date->ce_year();
-	my $nm = $nav_date->month();
-	my $nd = $nav_date->day();
+	$ny = $nav_date->ce_year();
+	$nm = $nav_date->month();
+	$nd = $nav_date->day();
 	$text .= "<a href=\"julianfactorpage.cgi?year=$year&month=$month&day=$day&compare_date=$ny-$nm-$nd\" title=\"go forward one $nl\">&#x2192;</a>";
+	$text .= "<br/>$nl ";
 	$text .= "</td>\n";
 	push @nav_tds, $text;
     }
@@ -123,7 +125,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     my $ctable = "<table class='compares'>\n <caption>Greatest common $show_o factors:</caption>\n <tbody>\n  <tr>\n";
     my $nav_index = 0;
      for (my $i = 0; $i < $compare_date->day_of_week % 7; $i++){
-	$ctable .= "   <td>&nbsp;</td>\n";
+	$ctable .= "   <td class='z'>&nbsp;</td>\n";
     }
 
     my ($cy,$cm,$cd,$cdow,$code);
@@ -161,7 +163,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	$compare_date->add( days => 1);
     }
     for (my $i = ($compare_date->day_of_week() - 1) % 7; $i < 6; $i++){
-	$ctable .= "   <td>&nbsp;</td>\n";
+	$ctable .= "   <td class='z'>&nbsp;</td>\n";
     }
 
 

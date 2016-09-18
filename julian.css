@@ -1,0 +1,36 @@
+body {
+    background-color: #ccffff;
+    font-family: Futura, Helvetica, sans-serif;
+}
+
+table {
+    border: 1px solid black;
+    padding: 0px;
+    spacing: 0px;
+    background-color: #ffffff;
+    float: right;
+}
+td {
+    border: 1px solid black;
+    padding: 0px;
+    spacing: 0px;
+    text-align: center;
+}
+
+td.nav{
+    border-width: 0px;
+    background-color: #ffffff;
+}
+
+td.s {
+    background-color: #cccccc;
+}
+td.p {
+    background-color: #cccccc;
+}
+td.m {
+    background-color: #cccccc;
+}
+td.z{
+    border-width: 0px;
+}
