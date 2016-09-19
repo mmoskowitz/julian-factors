@@ -99,7 +99,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     #create calendar nav
     my @nav_labels = qw(week month year decade century millennium);
     my @nav_units = qw(days months years years years years);
-    my @nav_counts = qw(7 1 1 10 100 100);
+    my @nav_counts = qw(7 1 1 10 100 1000);
     my @nav_tds = ();
     for (my $i; $i < @nav_labels; $i++){
 	my $text = "   <td class='nav'>";
