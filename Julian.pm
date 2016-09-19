@@ -3,6 +3,7 @@
 package Julian;
 
 use strict;
+use POSIX;
 
 our $VERSION = '1.00';
 
@@ -130,6 +131,10 @@ sub get_searches{
 	    if (!$searches{$search}){
 		$searches{$search} = 1;
 	    }
+	    my $search = "$tempfactor:all";
+	    if (!$searches{$search}){
+		$searches{$search} = 1;
+	    }
 	}
     }
     if (1 == @factors){ #handle primes
@@ -163,6 +168,24 @@ sub get_searches{
 	}
     }
     return sort keys %searches;
+}
+
+sub significance {
+    my $search = shift;
+    my $as_int = shift;
+    my ($factor, $left) = split ':', $search;
+    if ($factor == "P"){
+	($factor, $left) = ($left, $factor);
+    }
+    my $significance = log(int($factor)) / log(10);
+    if ($left =~ /P|\d|M/){
+	$significance++;
+    }
+    if ($as_int){
+	$significance = POSIX::ceil($significance);
+    }
+    
+    return $significance;
 }
 
 sub compare_dates {

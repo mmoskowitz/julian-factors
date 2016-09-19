@@ -1,0 +1,2 @@
+Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein, 1887-11-17, 2410593, 3,67,67,179, 0, 0, 38547.23529
+Jimmy_Carter, 1924-10-01, 2424060, 2,2,3,3,3,5,67,67, 0, 0, 201643.7596

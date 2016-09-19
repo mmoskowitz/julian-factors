@@ -61,12 +61,8 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     my @searches = Julian::get_searches(join ",", @factors);
 
     my @sorted_searches;
-    if (@factors == 1){
-	@sorted_searches = sort {int(substr($b, 2)) <=> int(substr($a,2))} @searches;
-    } else {
-	@sorted_searches = sort {$b <=> $a} @searches;
-    }
-
+    @sorted_searches = sort {Julian::significance($b) <=> Julian::significance($a)} @searches;
+    
 #get current/compare date
     my $compare_date;
     my $compare_date_string = $q->param('compare_date');

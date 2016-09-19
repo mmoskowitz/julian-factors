@@ -1,0 +1,2 @@
+Afonso_II_of_Portugal, 1185-04-23, 2153992, 2,2,2,19,37,383, 0, 0, 12430.96429
+Charles_Cornwallis,_1st_Marquess_Cornwallis, 1738-12-31, 2356216, 2,2,2,383,769, 0, 0, 10395.38462
