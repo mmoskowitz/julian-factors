@@ -118,15 +118,29 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	push @nav_tds, $text;
     }
 
-    my $ctable = "<table class='compares'>\n <caption>Greatest common $show_o factors:</caption>\n <tbody>\n  <tr>\n";
     my $nav_index = 0;
-     for (my $i = 0; $i < $compare_date->day_of_week % 7; $i++){
+    my $ctable = "<table class='compares'>\n <caption>Greatest common $show_o factors:</caption>\n";
+    $ctable .= " <thead>\n  <tr>\n";
+    $ctable .= "  <td class='nav'>Sun</td>\n";
+    $ctable .= "  <td class='nav'>Mon</td>\n";
+    $ctable .= "  <td class='nav'>Tue</td>\n";
+    $ctable .= "  <td class='nav'>Wed</td>\n";
+    $ctable .= "  <td class='nav'>Thu</td>\n";
+    $ctable .= "  <td class='nav'>Fri</td>\n";
+    $ctable .= "  <td class='nav'>Sat</td>\n";
+#    if ($nav_index < @nav_tds){
+#	$ctable .= $nav_tds[$nav_index];
+#	$nav_index++;
+#    }
+    $ctable .= "  </tr>\n </thead>\n";
+    $ctable .= " <tbody>\n  <tr>\n";
+    for (my $i = 0; $i < $compare_date->day_of_week % 7; $i++){
 	$ctable .= "   <td class='z'>&nbsp;</td>\n";
     }
 
     my ($cy,$cm,$cd,$cdow,$code);
     my ($show_p, $show_m);
-    for (my $i = 0; $i < 35; $i++){
+    for (my $i = 0; $i < 36; $i++){
 	$cy = $compare_date->ce_year();
 	$cm = $compare_date->month();
 	$cd = $compare_date->day();
@@ -136,15 +150,12 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	    $cy, $cm, $cd);
 	
 	my $class = "";
-	if ($code =~ /P/) {
-	    $class .= "p ";
+	$class .= " s" . Julian::significance($code, 1);
+	if ($code =~ /P/){
 	    $show_p = 1;
 	}
-	if ($code =~ /M/) {
-	    $class .= "m ";
+	if ($code =~ /M/){
 	    $show_m = 1;
-	} elsif ($code !~ /^(P:)?1(:M)?$/) {
-	    $class .= "s "; #significant
 	}
 	$ctable .= "   <td class='$class'>$cy-$cm-$cd<br/>$code</td>\n";
 	if ($cdow == 6){
@@ -203,6 +214,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     $results_text .= "<ul>\n";
     my %matches;
     foreach my $search (@sorted_searches) {
+	next if (keys %matches > 100);
 	my @results;
 	my $filename = Julian::get_filename($search, $data_dir);
 	if (-r $filename){
