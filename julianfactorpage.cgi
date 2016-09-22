@@ -15,6 +15,8 @@ my $year = int($q->param('year'));
 my $month = int($q->param('month'));
 my $day = int($q->param('day'));
 
+my $compare_date_string;
+
 my $dev = $q->param('dev'); #do something better
 
 my $data_dir;
@@ -65,7 +67,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     
 #get current/compare date
     my $compare_date;
-    my $compare_date_string = $q->param('compare_date');
+    $compare_date_string = $q->param('compare_date');
     my ($dy, $dm, $dd);
     if (($dy, $dm, $dd) = ($compare_date_string =~ /(-?\d+)-(\d+)-(\d+)/)){
 	if ($dy < -46 || $dm > 12 || $dd > 31 || $dm < 1 || $dd < 1) {
@@ -74,7 +76,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	    $compare_date_string = "";
 	} else {
 	    $compare_date = DateTime->new(
-		year => $dy,
+		year => $dy <= 0 ? $dy+1 :$dy,
 		month => $dm,
 		day => $dd
 		);
@@ -83,6 +85,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     if (!$compare_date){
 	$compare_date = DateTime->today();
 	$compare_date->subtract(days => 1); #account for time zones
+	$compare_date_string = join "-", ($compare_date->ce_year(), $compare_date->month(), $compare_date->day());
     }
 
 #get info for range
@@ -119,7 +122,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     }
 
     my $nav_index = 0;
-    my $ctable = "<table class='compares'>\n <caption>Greatest common $show_o factors:</caption>\n";
+    my $ctable = "<table class='compares'>\n <caption>Greatest common $show_o factors with $year-$month-$day:</caption>\n";
     $ctable .= " <thead>\n  <tr>\n";
     $ctable .= "  <td class='nav'>Sun</td>\n";
     $ctable .= "  <td class='nav'>Mon</td>\n";
@@ -252,7 +255,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 		if ($factors eq join ",", @factors){
 		    $this_result_text .= "<b>Exact match:</b> ";
 		} 
-		$this_result_text .= "<a href=\"http://en.wikipedia.org/wiki/$name\">$text_name</a>, born on <a href=\"julianfactorpage.cgi?year=$ryear&month=$rmonth&day=$rday\">$date</a>, ";
+		$this_result_text .= "<a href=\"http://en.wikipedia.org/wiki/$name\">$text_name</a>, born on <a href=\"julianfactorpage.cgi?year=$ryear&month=$rmonth&day=$rday&compare_date=$compare_date_string\">$date</a>, ";
 		if ($factors =~ /,/){
 		    $this_result_text .= "has the factors $factors.</li>\n";
 		} else {
@@ -286,6 +289,7 @@ $html =~ s/<!-- §PREFORM§ -->/$preform/;
 $html =~ s/id="year" value=""/id="year" value="$year"/;
 $html =~ s/id="day" value=""/id="day" value="$day"/;
 $html =~ s/option value="$month"/option value="$month" selected="selected"/;
+$html =~ s/id="compare_date" value=""/id="compare_date" value="$compare_date_string"/;
 
 #results
 $html =~ s/<!-- §RESULTS§ -->/$results_text/;
