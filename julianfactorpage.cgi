@@ -5,10 +5,13 @@ use Julian;
 use strict;
 use CGI;
 use DateTime;
-
+use Time::HiRes qw (time);
 
 
 my $q = CGI->new;
+my $dev = $q->param('dev'); #do something better
+my $last_time = 0;
+$dev && (print $last_time - time . " TIME BEGIN \n") && ($last_time = time);
 print $q->header(-type=>'text/html', -charset=>'utf-8');
 
 my $year = int($q->param('year'));
@@ -17,7 +20,6 @@ my $day = int($q->param('day'));
 
 my $compare_date_string;
 
-my $dev = $q->param('dev'); #do something better
 
 my $data_dir;
 my $html_file;
@@ -120,6 +122,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	$text .= "</td>\n";
 	push @nav_tds, $text;
     }
+    $dev && (print $last_time - time . " TIME after nav \n") && ($last_time = time);
 
     my $nav_index = 0;
     my $ctable = "<table class='compares'>\n <caption>Greatest common $show_o factors with $year-$month-$day:</caption>\n";
@@ -200,6 +203,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     $ctable .= "</table>\n";
 
 #create response
+$dev && (print $last_time - time . " TIME after table \n") && ($last_time = time);
 
 #get html file and replace
 
@@ -216,6 +220,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     $results_text .= "<p>The following notable people have similar Julian factors. Similarity is highest with the first categories.</p>\n";
     $results_text .= "<ul>\n";
     my %matches;
+    $dev && (print $last_time - time . " TIME before searches \n") && ($last_time = time);
     foreach my $search (@sorted_searches) {
 	next if (keys %matches > 100);
 	my @results;
@@ -275,6 +280,7 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
     }
     $results_text .= "</ul>";
 }
+$dev && (print $last_time - time . " TIME after results \n") && ($last_time = time);
 my $html;
 open IN, $html_file;
 my @html = <IN>;
@@ -294,6 +300,9 @@ $html =~ s/id="compare_date" value=""/id="compare_date" value="$compare_date_str
 #results
 $html =~ s/<!-- §RESULTS§ -->/$results_text/;
 
+$html =~ s/Your Julian Factors/Julian Factors for $year-$month-$day/g;
+
 print $html;
 
 print "\n";
+$dev && print $last_time - time . " TIME at end \n" && ($last_time = time);

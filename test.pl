@@ -28,3 +28,5 @@ ok(int(Julian::significance("1187:all")), 3);
 ok((Julian::significance("1187:all", "true")), 4);
 ok(int(Julian::significance("1187:2")), 4);
 ok((Julian::significance("1187:2", "true")), 5);
+ok((Julian::significance("62769:2", "true")), 6);
+
