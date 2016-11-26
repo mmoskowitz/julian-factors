@@ -192,6 +192,9 @@ sub compare_dates {
     my ($y1,$m1,$d1) = (shift, shift, shift);
     my ($y2,$m2,$d2) = (shift, shift, shift);
     #print "$y1,$m1,$d1 $y2,$m2,$d2\n";
+    if ("$y1-$m1-$d1" eq "$y2-$m2-$d2"){
+	return "100000000:X";
+    }
     #get julians
     my $j1 = &convert_date($y1,$m1,$d1);
     my $j2 = &convert_date($y2,$m2,$d2);
