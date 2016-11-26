@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html>
+  <head>
+    <title>Julian Factors FAQ</title>
+    <link rel="stylesheet" href="julian.css">
+    <link rel="stylesheet" href="/~marc/math/julian/julian.css">
+  </head>
+  <body>
+    <h1>Julian Factors FAQ</h1>
+    <p>
+      Questions about the Julian Factors project.
+    </p>
+    <dl>
+      <dt>What is this?</dt>
+      <dd>
+	It's an experiment in using math to produce an astrology-like framework for dates, particularly people's birthdays.
+      </dd>
+      <dt>How does it work?</dt>
+      <dd>
+	It determines the Julian day of your birthday, then compares the factors of that number with the factors for other people. There's a fuller explanation at the bottom of this page.
+      </dd>
+      <dt>What mystical truths have you discovered with this?</dt>
+      <dd>
+	More people have the exact same birthday than you would think. Like <a href="http://www.suberic.net/~marc/cgi-bin/julianfactorpage.cgi?year=1981&month=2&day=17">these two</a>. My wife and I are both 187s with two other factors. There are a lot of actors (including adult ones) and athletes (especially footballers) among the most viewed people on Wikipedia. Also a number of mass murderers.
+      </dd>
+      <dt>What's the deal with prime factors?</dt>
+      <dd>
+	For primes, we don't have any shared factors. So I find out where a prime is in the set of primes and factor that number. There's a fuller explanation below.
+      </dd>
+      <dt>Why do the people get more famous farther down the page?</dt>
+      <dd>
+	The smaller factors match larger sets of people, so the database only contains the 20 most-viewed people in each set. This means that the low-significance sets are composed almost entirely of household names.
+      </dd>
+      <dt>Have you found any particularly neat factors?</dt>
+      <dd>
+	If you find the same things neat that I do:
+	<ul>
+	  <li><a href="http://www.suberic.net/~marc/cgi-bin/julianfactorpage.cgi?year=1899&month=8&day=24">Jorge Luis Borges</a> has the product of two prime numbers that differ by 10.</li>
+	  <li><a href="http://www.suberic.net/~marc/cgi-bin/julianfactorpage.cgi?year=1982&month=12&day=08">Nicki Minaj</a> is one of three people in the data set with a multiple of 2<sup>12</sup>.</li>
+	  <li><a href="http://www.suberic.net/~marc/cgi-bin/julianfactorpage.cgi?year=1922&month=12&day=28">The set of primeth primes</a> is a fun one.</li>
+	</ul>
+      </dd>
+<!--
+      <dt></dt>
+      <dd>
+      </dd>
+-->
+      <dt>What's the full math explanation?</dt>
+      <dd>
+	<p>
+	  Your Julian factors are simply, the factors of the Julian Day of your birth. A Julian Day is the number of days since January 1, 4713 BCE on the Julian calendar. This year was chosen by Joseph Scaliger in 1583 based on the convergence of three calendrical cycles, and astronomers have been using Julian Days since around 1884. We do not use fractional days, because we are interested in the number as an integer.
+	</p>
+	<p>
+Once the Julian Day is calculated, we find its factors. We do this by finding the prime factorization of the number. We then compute all possible products of those factors, and sort those products numerically from highest to lowest. We note how many other factors the number has in order to distinguish days further, so that, for example, days that are 2 times a large prime number are not lumped in with the rest of the even numbers. The ranking algorithm treats a match that has the same number of factors as ten times a match that doesn't.
+	</p>
+	<p>
+However, that still leaves a lot of Julian Days that are themselves prime numbers. In order to subdivide those, we determine the number's location in the prime numbers. For example, three is the second prime number, and nineteen is the eighth. We factor this number to determine the prime ordinal factors. 2,456,743 is the 180,142nd prime number, so its prime ordinal factors are 2 and 90,071. On the other hand, 2,456,749 is the 180,144th prime number, so its prime ordinal factors are 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 27, 36, 48, 54, 72, 81, 108, 139, 144, 162, 216, 278, 324, 417, 432, 556, 648, 834, 1112, 1251, 1296, 1668, 2224, 2502, 3336, 3753, 5004, 6672, 7506, 10008, 11259, 15012, 20016, 22518, 30024, 45036, 60048, and 90072.  We do not currently separate these out by number of remaining factors. In addition, there are of course some primes whose ordinals are themselves prime. These "primeth primes" are treated as their own category.
+	</p>
+	<p>
+Once we have factors, we find notable people who share factors with you. Each factor match has at most 20 people in it, and we stop listing categories when there are at least 100 people on the screen. We also look at a range of dates (by default, the upcoming month) to determine which days have largest common factor with you. 
+	</p>
+      </dd>
+      <dt>I have other questions or comments.</dt>
+      <dd>
+	I'd love to hear them. Please write to me at marc@suberic.net.
+      </dd>      
+    </dl>
+    <p>Entry page: <a href="http://www.suberic.net/~marc/math/julian/">http://www.suberic.net/~marc/math/julian/</a></p>
+    <hr/>
+    <p>This project is licensed CC-BY-SA and is available at <a href="https://github.com/mmoskowitz/julian-factors">https://github.com/mmoskowitz/julian-factors</a>. It makes use of data from <a href="http://wiki.dbpedia.org">DBpedia</a> and <a href="http://pantheon.media.mit.edu/">Pantheon</a>.</p>
+
+  </body>
+</html>

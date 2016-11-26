@@ -68,3 +68,7 @@ td.s8{
     background-color: #660066;
     color: #ccffff;
 }
+
+dt{
+    padding-top: 1em;
+}
