@@ -177,6 +177,9 @@ sub significance {
     if ($factor == "P"){
 	($factor, $left) = ($left, $factor);
     }
+    if ($factor == 0){
+	return -600;
+    }
     my $significance = log(int($factor)) / log(10);
     if ($left =~ /P|\d|M/){
 	$significance++;

@@ -324,12 +324,13 @@ $dev && (print $last_time - time . " TIME after table \n") && ($last_time = time
     $results_text .= "<h3>Message for sharing:</h3>\n";
     $results_text .= "<form>\n  <input type='hidden' name='share_base' value='$share_message'/>\n";
     $results_text .= "  <select onChange=\"this.form.share.value = this.form.share_base.value + ' ' + this.value + ' Find yours: http://www.suberic.net/~marc/math/julian/' \">\n";
-    foreach my $name (sort {Julian::significance($matches{$b}) <=> Julian::significance($matches{$a})} keys %matches){
+    $results_text .= "    <option value=''>(Choose match)</option>\n";
+    foreach my $name (sort {Julian::significance($matches{$b}) <=> Julian::significance($matches{$a}) || ($a cmp $b)} keys %matches){
 	my $pname = $name;
 	$pname =~ s/_/ /g;
 	$results_text .= "    <option value='I match $pname as $matches{$name}.'>$pname</option>\n";
     }
-    $results_text .= "  </select>\n";
+    $results_text .= "  </select><br/>\n";
     $results_text .= "  <textarea name='share'>$share_message Find yours: http://www.suberic.net/~marc/math/julian/</textarea>\n</form>\n";
     #print $results_text;
 }
