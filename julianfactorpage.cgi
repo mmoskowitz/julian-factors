@@ -35,6 +35,7 @@ if ($dev){
 
 my $preform = "";
 my $results_text = "";
+my $share_message = "";
 
 #print "hey $year $month $day\n";
 
@@ -61,6 +62,39 @@ if ($year < -46 || $month > 12 || $day > 31 || $month < 1 || $day < 1) {
 	@ordinal_factors = Julian::factor($ordinal);
     }
 
+#create base share messaage
+    if (@ordinal_factors == 1){
+	$share_message = "My Julian prime ordinal is prime.";
+    } else {
+	my @sup = qw (2070 B9 B2 B3 2074 2075 2076 2077 2078 2079);
+	my @fac;
+	if (@factors == 1) {
+	    $share_message = "My Julian prime ordinal factors are ";
+	    @fac = (@ordinal_factors);
+	} else {
+	    $share_message = "My Julian factors are ";
+	    @fac = (@factors);
+	}
+	#work through factors
+	while (@fac > 0){
+	    my $cfac = shift @fac;
+	    my $pow = 1;
+	    while ($cfac == $fac[0]) {
+		shift @fac;
+		$pow++;
+	    }
+	    $share_message .= $cfac;
+	    if ($pow > 1){
+		foreach my $d (split (//, $pow) ){
+		    $share_message .= "&#x$sup[$d];";
+		}
+	    }
+	    if (@fac > 0){
+		$share_message .= ", ";
+	    }
+	}
+	$share_message .= ".";
+    }
 #convert to searches
     my @searches = Julian::get_searches(join ",", @factors);
 
@@ -212,6 +246,7 @@ $dev && (print $last_time - time . " TIME after table \n") && ($last_time = time
 
 #print join "\n", @searches;
 
+    #basic info
     $results_text .= "<h2>Date: $year-$month-$day</h2>\n";
     $results_text .= "<h2>Julian day: $julian</h2>\n";
     $results_text .= "<h2>Julian factors: ".(join ", ", @factors). "</h2>\n";
@@ -219,7 +254,10 @@ $dev && (print $last_time - time . " TIME after table \n") && ($last_time = time
 	$results_text .= "<h2>Julian prime ordinal: $ordinal</h2>\n";
 	$results_text .= "<h2>Julian prime ordinal factors: ".(join ", ", @ordinal_factors). "</h2>\n";
     }
+    
     $results_text .= $ctable;
+    
+    #searches
     $results_text .= "<p>The following notable people have similar Julian factors. Similarity is highest with the first categories.</p>\n";
     $results_text .= "<ul>\n";
     my %matches;
@@ -255,7 +293,7 @@ $dev && (print $last_time - time . " TIME after table \n") && ($last_time = time
 		if ($matches{$name}) {
 		    next;
 		} else {
-		    $matches{$name} = 1;
+		    $matches{$name} = $search;
 		}
 		my $text_name = $name;
 		$text_name =~ s/_/ /g;
@@ -281,7 +319,18 @@ $dev && (print $last_time - time . " TIME after table \n") && ($last_time = time
 	    }
 	}
     }
-    $results_text .= "</ul>";
+    $results_text .= "</ul>\n";
+
+    $results_text .= "<h3>Message for sharing:</h3>\n";
+    $results_text .= "<form>\n  <input type='hidden' name='share_base' value='$share_message'/>\n";
+    $results_text .= "  <select onChange=\"this.form.share.value = this.form.share_base.value + ' ' + this.value + ' Find yours: http://www.suberic.net/~marc/math/julian/' \">\n";
+    foreach my $name (sort {Julian::significance($matches{$b}) <=> Julian::significance($matches{$a})} keys %matches){
+	my $pname = $name;
+	$pname =~ s/_/ /g;
+	$results_text .= "    <option value='I match $pname as $matches{$name}.'>$pname</option>\n";
+    }
+    $results_text .= "  </select>\n";
+    $results_text .= "  <textarea name='share'>$share_message Find yours: http://www.suberic.net/~marc/math/julian/</textarea>\n</form>\n";
     #print $results_text;
 }
 $dev && (print $last_time - time . " TIME after results \n") && ($last_time = time);
