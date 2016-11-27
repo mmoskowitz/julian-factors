@@ -282,6 +282,7 @@ $dev && (print $last_time - time . " TIME after table \n") && ($last_time = time
 	}
     }
     $results_text .= "</ul>";
+    #print $results_text;
 }
 $dev && (print $last_time - time . " TIME after results \n") && ($last_time = time);
 my $html;
@@ -292,7 +293,7 @@ $html = join "\n", @html;
 
 #replacements:
 #preform
-$html =~ s/<!-- §PREFORM§ -->/$preform/;
+$html =~ s/<!-- PREFORM -->/$preform/;
 
 #form
 $html =~ s/id="year" value=""/id="year" value="$year"/;
@@ -301,7 +302,10 @@ $html =~ s/option value="$month"/option value="$month" selected="selected"/;
 $html =~ s/id="compare_date" value=""/id="compare_date" value="$compare_date_string"/;
 
 #results
-$html =~ s/<!-- §RESULTS§ -->/$results_text/;
+if ($html !~ /<!-- RESULTS -->/){
+    print "results not found";
+}
+$html =~ s/<!-- RESULTS -->/$results_text/;
 
 $html =~ s/Your Julian Factors/Julian Factors for $year-$month-$day/g;
 
