@@ -331,7 +331,7 @@ $dev && (print $last_time - time . " TIME after table \n") && ($last_time = time
 	$results_text .= "    <option value='I match $pname as $matches{$name}.'>$pname</option>\n";
     }
     $results_text .= "  </select><br/>\n";
-    $results_text .= "  <textarea name='share'>$share_message Find yours: http://www.suberic.net/~marc/math/julian/</textarea>\n</form>\n";
+    $results_text .= "  <textarea name='share' cols='30' rows='6'>$share_message Find yours: http://www.suberic.net/~marc/math/julian/</textarea>\n</form>\n";
     #print $results_text;
 }
 $dev && (print $last_time - time . " TIME after results \n") && ($last_time = time);
