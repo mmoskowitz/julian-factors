@@ -322,6 +322,7 @@ $dev && (print $last_time - time . " TIME after table \n") && ($last_time = time
     $results_text .= "</ul>\n";
 
     $results_text .= "<h3>Message for sharing:</h3>\n";
+    $results_text .= "<p><i>Be aware that posting your Julian factors makes it possible to determine your exact birth date.</i></p>\n";
     $results_text .= "<form>\n  <input type='hidden' name='share_base' value='$share_message'/>\n";
     $results_text .= "  <select onChange=\"this.form.share.value = this.form.share_base.value + ' ' + this.value + ' Find yours: http://www.suberic.net/~marc/math/julian/' \">\n";
     $results_text .= "    <option value=''>(Choose match)</option>\n";
